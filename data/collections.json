@@ -54,5 +54,21 @@
     "description": "世界各地のロック/ギター音楽語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
     "prompt_count": 200,
     "bundle_path": "data/bundles/world-rock-v04.json"
+  },
+  {
+    "id": "world-hiphop-rnb-v04",
+    "version": "V04",
+    "label": "World Hip-Hop/R&B",
+    "description": "世界各地のHip-Hop/R&B/Soul/Beat Music語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/world-hiphop-rnb-v04.json"
+  },
+  {
+    "id": "world-folk-acoustic-v04",
+    "version": "V04",
+    "label": "World Folk/Acoustic",
+    "description": "世界各地のFolk/Acoustic/Roots/Singer-Songwriter語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/world-folk-acoustic-v04.json"
   }
 ]

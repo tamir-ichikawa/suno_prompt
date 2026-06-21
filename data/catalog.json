@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-06-22",
-  "prompt_count": 1444,
-  "total_source_count": 1444,
-  "public_safe_count": 1444,
+  "prompt_count": 1844,
+  "total_source_count": 1844,
+  "public_safe_count": 1844,
   "collections": [
     {
       "id": "starter-v01",
@@ -59,6 +59,22 @@
       "description": "世界各地のロック/ギター音楽語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
       "prompt_count": 200,
       "bundle_path": "data/bundles/world-rock-v04.json"
+    },
+    {
+      "id": "world-hiphop-rnb-v04",
+      "version": "V04",
+      "label": "World Hip-Hop/R&B",
+      "description": "世界各地のHip-Hop/R&B/Soul/Beat Music語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+      "prompt_count": 200,
+      "bundle_path": "data/bundles/world-hiphop-rnb-v04.json"
+    },
+    {
+      "id": "world-folk-acoustic-v04",
+      "version": "V04",
+      "label": "World Folk/Acoustic",
+      "description": "世界各地のFolk/Acoustic/Roots/Singer-Songwriter語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+      "prompt_count": 200,
+      "bundle_path": "data/bundles/world-folk-acoustic-v04.json"
     }
   ],
   "creators": [
@@ -374,11 +390,35 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:abstract-hiphop",
+      "slug": "abstract-hiphop",
+      "name": "Abstract Hiphop",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:acid-house",
       "slug": "acid-house",
       "name": "Acid House",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:african-soul-rap",
+      "slug": "african-soul-rap",
+      "name": "African Soul Rap",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:afro-acoustic-pop",
+      "slug": "afro-acoustic-pop",
+      "name": "Afro Acoustic Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
       "count": 5
     },
     {
@@ -398,11 +438,27 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:afro-swing",
+      "slug": "afro-swing",
+      "name": "Afro Swing",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:alternative-metal",
       "slug": "alternative-metal",
       "name": "Alternative Metal",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:alternative-rnb",
+      "slug": "alternative-rnb",
+      "name": "Alternative Rnb",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -414,6 +470,38 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:amapiano-rnb",
+      "slug": "amapiano-rnb",
+      "name": "Amapiano Rnb",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:american-folk",
+      "slug": "american-folk",
+      "name": "American Folk",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:andean-folk-pop",
+      "slug": "andean-folk-pop",
+      "name": "Andean Folk Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:appalachian-folk",
+      "slug": "appalachian-folk",
+      "name": "Appalachian Folk",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:arabic-club-pop",
       "slug": "arabic-club-pop",
       "name": "Arabic Club Pop",
@@ -422,11 +510,35 @@
       "count": 5
     },
     {
+      "id": "world-folk-acoustic-v04:arabic-oud-pop",
+      "slug": "arabic-oud-pop",
+      "name": "Arabic Oud Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:arabic-rnb",
+      "slug": "arabic-rnb",
+      "name": "Arabic Rnb",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:arena-rock",
       "slug": "arena-rock",
       "name": "Arena Rock",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:argentine-acoustic-folk",
+      "slug": "argentine-acoustic-folk",
+      "name": "Argentine Acoustic Folk",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
       "count": 5
     },
     {
@@ -454,6 +566,14 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:baile-funk-rap",
+      "slug": "baile-funk-rap",
+      "name": "Baile Funk Rap",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:balearic-house",
       "slug": "balearic-house",
       "name": "Balearic House",
@@ -462,11 +582,35 @@
       "count": 5
     },
     {
+      "id": "world-folk-acoustic-v04:balkan-acoustic",
+      "slug": "balkan-acoustic",
+      "name": "Balkan Acoustic",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:balkan-brass-pop",
       "slug": "balkan-brass-pop",
       "name": "Balkan Brass Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:baltic-folk-pop",
+      "slug": "baltic-folk-pop",
+      "name": "Baltic Folk Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:bedroom-rnb",
+      "slug": "bedroom-rnb",
+      "name": "Bedroom Rnb",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -494,6 +638,14 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:boom-bap",
+      "slug": "boom-bap",
+      "name": "Boom Bap",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:brazilian-baile-electro",
       "slug": "brazilian-baile-electro",
       "name": "Brazilian Baile Electro",
@@ -507,6 +659,14 @@
       "name": "Brazilian Funk Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:brazilian-mpb-acoustic",
+      "slug": "brazilian-mpb-acoustic",
+      "name": "Brazilian Mpb Acoustic",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
       "count": 5
     },
     {
@@ -526,11 +686,35 @@
       "count": 5
     },
     {
+      "id": "world-folk-acoustic-v04:campfire-pop",
+      "slug": "campfire-pop",
+      "name": "Campfire Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:caribbean-dance-pop",
       "slug": "caribbean-dance-pop",
       "name": "Caribbean Dance Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:celtic-inspired-folk",
+      "slug": "celtic-inspired-folk",
+      "name": "Celtic Inspired Folk",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:chamber-folk",
+      "slug": "chamber-folk",
+      "name": "Chamber Folk",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
       "count": 5
     },
     {
@@ -550,11 +734,35 @@
       "count": 5
     },
     {
+      "id": "world-folk-acoustic-v04:chinese-acoustic-pop",
+      "slug": "chinese-acoustic-pop",
+      "name": "Chinese Acoustic Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:chinese-future-pop",
       "slug": "chinese-future-pop",
       "name": "Chinese Future Pop",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:cinematic-acoustic-ballad",
+      "slug": "cinematic-acoustic-ballad",
+      "name": "Cinematic Acoustic Ballad",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:city-pop-rnb",
+      "slug": "city-pop-rnb",
+      "name": "City Pop Rnb",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -598,6 +806,14 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:dancehall-rnb",
+      "slug": "dancehall-rnb",
+      "name": "Dancehall Rnb",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:darksynth",
       "slug": "darksynth",
       "name": "Darksynth",
@@ -611,6 +827,22 @@
       "name": "Deep House",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:dembow-pop-rap",
+      "slug": "dembow-pop-rap",
+      "name": "Dembow Pop Rap",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:desert-folk",
+      "slug": "desert-folk",
+      "name": "Desert Folk",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
       "count": 5
     },
     {
@@ -630,6 +862,14 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:disco-soul-rnb",
+      "slug": "disco-soul-rnb",
+      "name": "Disco Soul Rnb",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:downtempo-electronica",
       "slug": "downtempo-electronica",
       "name": "Downtempo Electronica",
@@ -646,11 +886,35 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:drill-rnb",
+      "slug": "drill-rnb",
+      "name": "Drill Rnb",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:dub-techno",
       "slug": "dub-techno",
       "name": "Dub Techno",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:east-african-acoustic-pop",
+      "slug": "east-african-acoustic-pop",
+      "name": "East African Acoustic Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:east-coast-night-rap",
+      "slug": "east-coast-night-rap",
+      "name": "East Coast Night Rap",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -694,11 +958,27 @@
       "count": 5
     },
     {
+      "id": "world-folk-acoustic-v04:fado-inspired-pop",
+      "slug": "fado-inspired-pop",
+      "name": "Fado Inspired Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
       "id": "kota-v04:female-vocal-alternative",
       "slug": "female-vocal-alternative",
       "name": "Female Vocal Alternative",
       "collection": "kota-v04",
       "collection_label": "KOTAプロンプト",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:filipino-acoustic-pop",
+      "slug": "filipino-acoustic-pop",
+      "name": "Filipino Acoustic Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
       "count": 5
     },
     {
@@ -718,11 +998,35 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:filipino-rnb",
+      "slug": "filipino-rnb",
+      "name": "Filipino Rnb",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:filter-house",
       "slug": "filter-house",
       "name": "Filter House",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:flamenco-pop-acoustic",
+      "slug": "flamenco-pop-acoustic",
+      "name": "Flamenco Pop Acoustic",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:french-chanson-acoustic",
+      "slug": "french-chanson-acoustic",
+      "name": "French Chanson Acoustic",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
       "count": 5
     },
     {
@@ -734,6 +1038,14 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:french-rap-soul",
+      "slug": "french-rap-soul",
+      "name": "French Rap Soul",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:french-touch",
       "slug": "french-touch",
       "name": "French Touch",
@@ -742,11 +1054,35 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:funk-soul",
+      "slug": "funk-soul",
+      "name": "Funk Soul",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:future-soul",
+      "slug": "future-soul",
+      "name": "Future Soul",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:garage-rock",
       "slug": "garage-rock",
       "name": "Garage Rock",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:german-cloud-rap",
+      "slug": "german-cloud-rap",
+      "name": "German Cloud Rap",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -766,11 +1102,43 @@
       "count": 5
     },
     {
+      "id": "world-folk-acoustic-v04:gospel-folk-pop",
+      "slug": "gospel-folk-pop",
+      "name": "Gospel Folk Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:gospel-soul-pop",
+      "slug": "gospel-soul-pop",
+      "name": "Gospel Soul Pop",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:gothic-rock",
       "slug": "gothic-rock",
       "name": "Gothic Rock",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:greek-island-acoustic",
+      "slug": "greek-island-acoustic",
+      "name": "Greek Island Acoustic",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:grime-pop",
+      "slug": "grime-pop",
+      "name": "Grime Pop",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -790,11 +1158,27 @@
       "count": 5
     },
     {
+      "id": "world-folk-acoustic-v04:hawaiian-acoustic-pop",
+      "slug": "hawaiian-acoustic-pop",
+      "name": "Hawaiian Acoustic Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
       "id": "starter-v01:hip-hop-rap",
       "slug": "hip-hop-rap",
       "name": "Hip Hop Rap",
       "collection": "starter-v01",
       "collection_label": "全ジャンルスターター",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:indian-acoustic-fusion",
+      "slug": "indian-acoustic-fusion",
+      "name": "Indian Acoustic Fusion",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
       "count": 5
     },
     {
@@ -811,6 +1195,22 @@
       "name": "Indian Indie Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:indie-folk",
+      "slug": "indie-folk",
+      "name": "Indie Folk",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:indonesian-acoustic-pop",
+      "slug": "indonesian-acoustic-pop",
+      "name": "Indonesian Acoustic Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
       "count": 5
     },
     {
@@ -838,11 +1238,35 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:indonesian-rnb",
+      "slug": "indonesian-rnb",
+      "name": "Indonesian Rnb",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:industrial-dance",
       "slug": "industrial-dance",
       "name": "Industrial Dance",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:island-reggae-acoustic",
+      "slug": "island-reggae-acoustic",
+      "name": "Island Reggae Acoustic",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:italian-cantautore-pop",
+      "slug": "italian-cantautore-pop",
+      "name": "Italian Cantautore Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
       "count": 5
     },
     {
@@ -859,6 +1283,14 @@
       "name": "Italo Disco",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:japanese-acoustic-folk",
+      "slug": "japanese-acoustic-folk",
+      "name": "Japanese Acoustic Folk",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
       "count": 5
     },
     {
@@ -886,11 +1318,27 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:japanese-rnb",
+      "slug": "japanese-rnb",
+      "name": "Japanese Rnb",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "starter-v01:jazz-blues",
       "slug": "jazz-blues",
       "name": "Jazz Blues",
       "collection": "starter-v01",
       "collection_label": "全ジャンルスターター",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:jazz-rap",
+      "slug": "jazz-rap",
+      "name": "Jazz Rap",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -907,6 +1355,14 @@
       "name": "Kenyan Guitar Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:korean-acoustic-ballad",
+      "slug": "korean-acoustic-ballad",
+      "name": "Korean Acoustic Ballad",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
       "count": 5
     },
     {
@@ -934,11 +1390,27 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:korean-rnb",
+      "slug": "korean-rnb",
+      "name": "Korean Rnb",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:krautrock-motorik-rock",
       "slug": "krautrock-motorik-rock",
       "name": "Krautrock Motorik Rock",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:latin-trap-soul",
+      "slug": "latin-trap-soul",
+      "name": "Latin Trap Soul",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -950,11 +1422,35 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:lo-fi-hiphop",
+      "slug": "lo-fi-hiphop",
+      "name": "Lo Fi Hiphop",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:math-rock",
       "slug": "math-rock",
       "name": "Math Rock",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:mediterranean-folk-pop",
+      "slug": "mediterranean-folk-pop",
+      "name": "Mediterranean Folk Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:memphis-inspired-rap",
+      "slug": "memphis-inspired-rap",
+      "name": "Memphis Inspired Rap",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -974,6 +1470,14 @@
       "count": 5
     },
     {
+      "id": "world-folk-acoustic-v04:mexican-ranchera-inspired-pop",
+      "slug": "mexican-ranchera-inspired-pop",
+      "name": "Mexican Ranchera Inspired Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:minimal-wave",
       "slug": "minimal-wave",
       "name": "Minimal Wave",
@@ -990,11 +1494,27 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:neo-soul",
+      "slug": "neo-soul",
+      "name": "Neo Soul",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:new-beat",
       "slug": "new-beat",
       "name": "New Beat",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:new-jack-swing-modern",
+      "slug": "new-jack-swing-modern",
+      "name": "New Jack Swing Modern",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -1038,6 +1558,14 @@
       "count": 5
     },
     {
+      "id": "world-folk-acoustic-v04:nordic-folk-pop",
+      "slug": "nordic-folk-pop",
+      "name": "Nordic Folk Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:nordic-melancholic-rock",
       "slug": "nordic-melancholic-rock",
       "name": "Nordic Melancholic Rock",
@@ -1067,6 +1595,22 @@
       "name": "Outrun",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:pakistani-sufi-inspired-pop",
+      "slug": "pakistani-sufi-inspired-pop",
+      "name": "Pakistani Sufi Inspired Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:persian-acoustic-pop",
+      "slug": "persian-acoustic-pop",
+      "name": "Persian Acoustic Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
       "count": 5
     },
     {
@@ -1118,6 +1662,22 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:quiet-storm-modern",
+      "slug": "quiet-storm-modern",
+      "name": "Quiet Storm Modern",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:reggaeton-rnb",
+      "slug": "reggaeton-rnb",
+      "name": "Reggaeton Rnb",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:riff-rock",
       "slug": "riff-rock",
       "name": "Riff Rock",
@@ -1126,11 +1686,27 @@
       "count": 5
     },
     {
+      "id": "world-folk-acoustic-v04:roots-blues-acoustic",
+      "slug": "roots-blues-acoustic",
+      "name": "Roots Blues Acoustic",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:shoegaze-rock",
       "slug": "shoegaze-rock",
       "name": "Shoegaze Rock",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:south-african-acoustic-soul",
+      "slug": "south-african-acoustic-soul",
+      "name": "South African Acoustic Soul",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
       "count": 5
     },
     {
@@ -1147,6 +1723,14 @@
       "name": "South African House Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:southern-rap-groove",
+      "slug": "southern-rap-groove",
+      "name": "Southern Rap Groove",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -1190,6 +1774,14 @@
       "count": 5
     },
     {
+      "id": "world-folk-acoustic-v04:thai-acoustic-pop",
+      "slug": "thai-acoustic-pop",
+      "name": "Thai Acoustic Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:thai-electronic-pop",
       "slug": "thai-electronic-pop",
       "name": "Thai Electronic Pop",
@@ -1214,6 +1806,30 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:thai-rnb",
+      "slug": "thai-rnb",
+      "name": "Thai Rnb",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:trap-soul",
+      "slug": "trap-soul",
+      "name": "Trap Soul",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:turkish-acoustic-pop",
+      "slug": "turkish-acoustic-pop",
+      "name": "Turkish Acoustic Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:turkish-psychedelic-pop",
       "slug": "turkish-psychedelic-pop",
       "name": "Turkish Psychedelic Pop",
@@ -1230,11 +1846,51 @@
       "count": 5
     },
     {
+      "id": "world-hiphop-rnb-v04:turkish-rap-pop",
+      "slug": "turkish-rap-pop",
+      "name": "Turkish Rap Pop",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:uk-garage",
       "slug": "uk-garage",
       "name": "Uk Garage",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:uk-garage-rnb",
+      "slug": "uk-garage-rnb",
+      "name": "Uk Garage Rnb",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:uk-rap",
+      "slug": "uk-rap",
+      "name": "Uk Rap",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-folk-acoustic-v04:west-african-kora-pop",
+      "slug": "west-african-kora-pop",
+      "name": "West African Kora Pop",
+      "collection": "world-folk-acoustic-v04",
+      "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-hiphop-rnb-v04:west-coast-funk-rap",
+      "slug": "west-coast-funk-rap",
+      "name": "West Coast Funk Rap",
+      "collection": "world-hiphop-rnb-v04",
+      "collection_label": "World Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -1352,12 +2008,40 @@
   ],
   "top_tags": [
     {
+      "tag": "organic-mix",
+      "count": 202
+    },
+    {
+      "tag": "public-safe",
+      "count": 200
+    },
+    {
+      "tag": "folk-pop",
+      "count": 135
+    },
+    {
       "tag": "groove",
       "count": 123
     },
     {
+      "tag": "warm-vocals",
+      "count": 120
+    },
+    {
       "tag": "indie-dance",
       "count": 97
+    },
+    {
+      "tag": "acoustic",
+      "count": 91
+    },
+    {
+      "tag": "natural-groove",
+      "count": 80
+    },
+    {
+      "tag": "clean-guitar",
+      "count": 68
     },
     {
       "tag": "night-drive",
@@ -1392,6 +2076,14 @@
       "count": 58
     },
     {
+      "tag": "electric-piano",
+      "count": 52
+    },
+    {
+      "tag": "chorus-guitar",
+      "count": 50
+    },
+    {
       "tag": "industrial",
       "count": 47
     },
@@ -1405,10 +2097,6 @@
     },
     {
       "tag": "b-minor",
-      "count": 45
-    },
-    {
-      "tag": "chorus-guitar",
       "count": 45
     },
     {
@@ -1434,10 +2122,6 @@
     {
       "tag": "f-minor",
       "count": 39
-    },
-    {
-      "tag": "clean-guitar",
-      "count": 38
     },
     {
       "tag": "drum-machine",
@@ -1529,6 +2213,10 @@
     },
     {
       "tag": "distorted-bass",
+      "count": 33
+    },
+    {
+      "tag": "felt-piano",
       "count": 33
     },
     {
@@ -1637,38 +2325,6 @@
     },
     {
       "tag": "bassline",
-      "count": 30
-    },
-    {
-      "tag": "dreamwave",
-      "count": 30
-    },
-    {
-      "tag": "dreamy-synth",
-      "count": 30
-    },
-    {
-      "tag": "electro-pop",
-      "count": 30
-    },
-    {
-      "tag": "electronic-post-punk",
-      "count": 30
-    },
-    {
-      "tag": "eurodisco",
-      "count": 30
-    },
-    {
-      "tag": "horror-synth",
-      "count": 30
-    },
-    {
-      "tag": "neon-rock",
-      "count": 30
-    },
-    {
-      "tag": "new-wave",
       "count": 30
     }
   ],
