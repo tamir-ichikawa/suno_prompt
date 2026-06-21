@@ -1,0 +1,50 @@
+Firestore import draft — SUNO ROCK PROMPTS V02
+Date: 2026-06-21
+
+Recommended collection:
+  sunoPrompts
+
+Document ID:
+  id, e.g. ROCK-V02-001-1
+
+Fields:
+  id: string
+  collection: string
+  language_focus: string
+  category: string
+  subgenre: string
+  variation: string
+  variation_label: string
+  groove_level: number
+  bpm: number
+  key: string
+  energy: number
+  style_prompt: string
+  exclude: string
+  lyrics_direction: string
+  tags: string OR array<string>
+  source_basis: string
+  created_at: timestamp
+  updated_at: timestamp
+  active: boolean
+  favorite: boolean
+  memo: string
+
+Suggested indexes:
+  active ASC, category ASC, groove_level DESC
+  active ASC, subgenre ASC
+  active ASC, tags ARRAY_CONTAINS, groove_level DESC
+
+UI filters:
+  - Category
+  - Subgenre
+  - Groove level 8+
+  - BPM range
+  - Vocal type keyword search
+  - Guitar texture keyword search
+  - Exclude available / not available
+
+Read-count note for Firebase:
+  - For a public prompt list, store one lightweight list document per prompt or use paginated queries.
+  - First screen should load category summaries only, then prompt documents by selected category.
+  - Avoid reading all prompts every page load. For example, categories/rockV02Summary can store counts, then load sunoPrompts where category == selectedCategory limit 30.

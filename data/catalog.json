@@ -1,0 +1,678 @@
+{
+  "generated_at": "2026-06-22",
+  "prompt_count": 840,
+  "total_source_count": 840,
+  "public_safe_count": 840,
+  "collections": [
+    {
+      "id": "starter-v01",
+      "version": "V01",
+      "label": "全ジャンルスターター",
+      "description": "幅広いジャンルを対象にしたSunoプロンプトの初期スターター版。",
+      "prompt_count": 117,
+      "bundle_path": "data/bundles/v01.json"
+    },
+    {
+      "id": "overseas-rock-v02",
+      "version": "V02",
+      "label": "海外ロック",
+      "description": "グルーヴ感のある海外ロック、ファンクロック、ポストパンク、ガレージなど。",
+      "prompt_count": 328,
+      "bundle_path": "data/bundles/rock-v02.json"
+    },
+    {
+      "id": "electro-groove-v03",
+      "version": "V03",
+      "label": "海外エレクトロ・グルーヴ",
+      "description": "French touch、filter house、synthwave、neon noirなどの電子音楽グルーヴ集。",
+      "prompt_count": 395,
+      "bundle_path": "data/bundles/electro-groove-v03.json"
+    }
+  ],
+  "categories": [
+    {
+      "id": "overseas-rock-v02:blues-boogie-southern-swamp",
+      "slug": "blues-boogie-southern-swamp",
+      "name": "Blues / Boogie / Southern / Swamp",
+      "collection": "overseas-rock-v02",
+      "collection_label": "海外ロック",
+      "count": 36
+    },
+    {
+      "id": "overseas-rock-v02:funk-rock-funk-metal-dance-punk",
+      "slug": "funk-rock-funk-metal-dance-punk",
+      "name": "Funk Rock / Funk Metal / Dance Punk",
+      "collection": "overseas-rock-v02",
+      "collection_label": "海外ロック",
+      "count": 36
+    },
+    {
+      "id": "overseas-rock-v02:alternative-grunge-noise-shoegaze",
+      "slug": "alternative-grunge-noise-shoegaze",
+      "name": "Alternative / Grunge / Noise / Shoegaze",
+      "collection": "overseas-rock-v02",
+      "collection_label": "海外ロック",
+      "count": 32
+    },
+    {
+      "id": "overseas-rock-v02:classic-arena-hard-glam",
+      "slug": "classic-arena-hard-glam",
+      "name": "Classic / Arena / Hard / Glam",
+      "collection": "overseas-rock-v02",
+      "collection_label": "海外ロック",
+      "count": 32
+    },
+    {
+      "id": "overseas-rock-v02:desert-stoner-doom-sludge",
+      "slug": "desert-stoner-doom-sludge",
+      "name": "Desert / Stoner / Doom / Sludge",
+      "collection": "overseas-rock-v02",
+      "collection_label": "海外ロック",
+      "count": 32
+    },
+    {
+      "id": "overseas-rock-v02:groove-and-riff-rock",
+      "slug": "groove-and-riff-rock",
+      "name": "Groove & Riff Rock",
+      "collection": "overseas-rock-v02",
+      "collection_label": "海外ロック",
+      "count": 32
+    },
+    {
+      "id": "overseas-rock-v02:indie-art-math-post-rock",
+      "slug": "indie-art-math-post-rock",
+      "name": "Indie / Art / Math / Post-rock",
+      "collection": "overseas-rock-v02",
+      "collection_label": "海外ロック",
+      "count": 32
+    },
+    {
+      "id": "overseas-rock-v02:modern-and-hybrid-rock",
+      "slug": "modern-and-hybrid-rock",
+      "name": "Modern & Hybrid Rock",
+      "collection": "overseas-rock-v02",
+      "collection_label": "海外ロック",
+      "count": 32
+    },
+    {
+      "id": "overseas-rock-v02:progressive-psychedelic-space",
+      "slug": "progressive-psychedelic-space",
+      "name": "Progressive / Psychedelic / Space",
+      "collection": "overseas-rock-v02",
+      "collection_label": "海外ロック",
+      "count": 32
+    },
+    {
+      "id": "overseas-rock-v02:punk-garage-post-hardcore",
+      "slug": "punk-garage-post-hardcore",
+      "name": "Punk / Garage / Post-hardcore",
+      "collection": "overseas-rock-v02",
+      "collection_label": "海外ロック",
+      "count": 32
+    },
+    {
+      "id": "electro-groove-v03:electro-rock-bloghouse-french-electro",
+      "slug": "electro-rock-bloghouse-french-electro",
+      "name": "Electro-Rock / Bloghouse / French Electro",
+      "collection": "electro-groove-v03",
+      "collection_label": "海外エレクトロ・グルーヴ",
+      "count": 31
+    },
+    {
+      "id": "electro-groove-v03:french-touch-filter-house",
+      "slug": "french-touch-filter-house",
+      "name": "French Touch / Filter House",
+      "collection": "electro-groove-v03",
+      "collection_label": "海外エレクトロ・グルーヴ",
+      "count": 31
+    },
+    {
+      "id": "electro-groove-v03:neon-noir-night-drive",
+      "slug": "neon-noir-night-drive",
+      "name": "Neon Noir Night Drive",
+      "collection": "electro-groove-v03",
+      "collection_label": "海外エレクトロ・グルーヴ",
+      "count": 31
+    },
+    {
+      "id": "electro-groove-v03:nu-disco-indie-dance",
+      "slug": "nu-disco-indie-dance",
+      "name": "Nu-Disco / Indie Dance",
+      "collection": "electro-groove-v03",
+      "collection_label": "海外エレクトロ・グルーヴ",
+      "count": 31
+    },
+    {
+      "id": "electro-groove-v03:synthwave-outrun-retrowave",
+      "slug": "synthwave-outrun-retrowave",
+      "name": "Synthwave / Outrun / Retrowave",
+      "collection": "electro-groove-v03",
+      "collection_label": "海外エレクトロ・グルーヴ",
+      "count": 31
+    },
+    {
+      "id": "electro-groove-v03:balearic-electro-cosmic-groove",
+      "slug": "balearic-electro-cosmic-groove",
+      "name": "Balearic Electro / Cosmic Groove",
+      "collection": "electro-groove-v03",
+      "collection_label": "海外エレクトロ・グルーヴ",
+      "count": 30
+    },
+    {
+      "id": "electro-groove-v03:darksynth-cyberpunk-synth",
+      "slug": "darksynth-cyberpunk-synth",
+      "name": "Darksynth / Cyberpunk Synth",
+      "collection": "electro-groove-v03",
+      "collection_label": "海外エレクトロ・グルーヴ",
+      "count": 30
+    },
+    {
+      "id": "electro-groove-v03:ebm-industrial-dance-groove",
+      "slug": "ebm-industrial-dance-groove",
+      "name": "EBM / Industrial Dance Groove",
+      "collection": "electro-groove-v03",
+      "collection_label": "海外エレクトロ・グルーヴ",
+      "count": 30
+    },
+    {
+      "id": "electro-groove-v03:electro-funk-robot-disco",
+      "slug": "electro-funk-robot-disco",
+      "name": "Electro-Funk / Robot Disco",
+      "collection": "electro-groove-v03",
+      "collection_label": "海外エレクトロ・グルーヴ",
+      "count": 30
+    },
+    {
+      "id": "electro-groove-v03:electronic-post-punk-dance-punk",
+      "slug": "electronic-post-punk-dance-punk",
+      "name": "Electronic Post-Punk / Dance-Punk",
+      "collection": "electro-groove-v03",
+      "collection_label": "海外エレクトロ・グルーヴ",
+      "count": 30
+    },
+    {
+      "id": "electro-groove-v03:italo-disco-space-disco-eurodisco",
+      "slug": "italo-disco-space-disco-eurodisco",
+      "name": "Italo Disco / Space Disco / Eurodisco",
+      "collection": "electro-groove-v03",
+      "collection_label": "海外エレクトロ・グルーヴ",
+      "count": 30
+    },
+    {
+      "id": "electro-groove-v03:new-wave-minimal-wave-coldwave",
+      "slug": "new-wave-minimal-wave-coldwave",
+      "name": "New Wave / Minimal Wave / Coldwave",
+      "collection": "electro-groove-v03",
+      "collection_label": "海外エレクトロ・グルーヴ",
+      "count": 30
+    },
+    {
+      "id": "electro-groove-v03:synth-rock-dreamwave-rock",
+      "slug": "synth-rock-dreamwave-rock",
+      "name": "Synth-Rock / Dreamwave Rock",
+      "collection": "electro-groove-v03",
+      "collection_label": "海外エレクトロ・グルーヴ",
+      "count": 30
+    },
+    {
+      "id": "starter-v01:electronic-edm",
+      "slug": "electronic-edm",
+      "name": "Electronic Edm",
+      "collection": "starter-v01",
+      "collection_label": "全ジャンルスターター",
+      "count": 22
+    },
+    {
+      "id": "starter-v01:rock-and-punk",
+      "slug": "rock-and-punk",
+      "name": "Rock And Punk",
+      "collection": "starter-v01",
+      "collection_label": "全ジャンルスターター",
+      "count": 20
+    },
+    {
+      "id": "starter-v01:pop-and-modern",
+      "slug": "pop-and-modern",
+      "name": "Pop And Modern",
+      "collection": "starter-v01",
+      "collection_label": "全ジャンルスターター",
+      "count": 12
+    },
+    {
+      "id": "starter-v01:japanese-asian",
+      "slug": "japanese-asian",
+      "name": "Japanese Asian",
+      "collection": "starter-v01",
+      "collection_label": "全ジャンルスターター",
+      "count": 7
+    },
+    {
+      "id": "starter-v01:ambient-chill",
+      "slug": "ambient-chill",
+      "name": "Ambient Chill",
+      "collection": "starter-v01",
+      "collection_label": "全ジャンルスターター",
+      "count": 6
+    },
+    {
+      "id": "starter-v01:cinematic-orchestral",
+      "slug": "cinematic-orchestral",
+      "name": "Cinematic Orchestral",
+      "collection": "starter-v01",
+      "collection_label": "全ジャンルスターター",
+      "count": 6
+    },
+    {
+      "id": "starter-v01:latin",
+      "slug": "latin",
+      "name": "Latin",
+      "collection": "starter-v01",
+      "collection_label": "全ジャンルスターター",
+      "count": 6
+    },
+    {
+      "id": "starter-v01:afro-caribbean",
+      "slug": "afro-caribbean",
+      "name": "Afro Caribbean",
+      "collection": "starter-v01",
+      "collection_label": "全ジャンルスターター",
+      "count": 5
+    },
+    {
+      "id": "starter-v01:hip-hop-rap",
+      "slug": "hip-hop-rap",
+      "name": "Hip Hop Rap",
+      "collection": "starter-v01",
+      "collection_label": "全ジャンルスターター",
+      "count": 5
+    },
+    {
+      "id": "starter-v01:jazz-blues",
+      "slug": "jazz-blues",
+      "name": "Jazz Blues",
+      "collection": "starter-v01",
+      "collection_label": "全ジャンルスターター",
+      "count": 5
+    },
+    {
+      "id": "starter-v01:country-americana",
+      "slug": "country-americana",
+      "name": "Country Americana",
+      "collection": "starter-v01",
+      "collection_label": "全ジャンルスターター",
+      "count": 4
+    },
+    {
+      "id": "starter-v01:game-chiptune",
+      "slug": "game-chiptune",
+      "name": "Game Chiptune",
+      "collection": "starter-v01",
+      "collection_label": "全ジャンルスターター",
+      "count": 4
+    },
+    {
+      "id": "starter-v01:rnb-soul-gospel",
+      "slug": "rnb-soul-gospel",
+      "name": "Rnb Soul Gospel",
+      "collection": "starter-v01",
+      "collection_label": "全ジャンルスターター",
+      "count": 4
+    },
+    {
+      "id": "starter-v01:experimental",
+      "slug": "experimental",
+      "name": "Experimental",
+      "collection": "starter-v01",
+      "collection_label": "全ジャンルスターター",
+      "count": 3
+    },
+    {
+      "id": "starter-v01:funk-disco",
+      "slug": "funk-disco",
+      "name": "Funk Disco",
+      "collection": "starter-v01",
+      "collection_label": "全ジャンルスターター",
+      "count": 3
+    },
+    {
+      "id": "starter-v01:metal",
+      "slug": "metal",
+      "name": "Metal",
+      "collection": "starter-v01",
+      "collection_label": "全ジャンルスターター",
+      "count": 3
+    },
+    {
+      "id": "starter-v01:folk-acoustic",
+      "slug": "folk-acoustic",
+      "name": "Folk Acoustic",
+      "collection": "starter-v01",
+      "collection_label": "全ジャンルスターター",
+      "count": 2
+    }
+  ],
+  "top_tags": [
+    {
+      "tag": "groove",
+      "count": 123
+    },
+    {
+      "tag": "indie-dance",
+      "count": 92
+    },
+    {
+      "tag": "night-drive",
+      "count": 62
+    },
+    {
+      "tag": "ebm",
+      "count": 61
+    },
+    {
+      "tag": "electro-funk",
+      "count": 61
+    },
+    {
+      "tag": "vocoder",
+      "count": 61
+    },
+    {
+      "tag": "cosmic-disco",
+      "count": 60
+    },
+    {
+      "tag": "retro-synth",
+      "count": 60
+    },
+    {
+      "tag": "e-minor",
+      "count": 58
+    },
+    {
+      "tag": "d-minor",
+      "count": 46
+    },
+    {
+      "tag": "b-minor",
+      "count": 45
+    },
+    {
+      "tag": "a-minor",
+      "count": 44
+    },
+    {
+      "tag": "post-punk",
+      "count": 42
+    },
+    {
+      "tag": "124bpm",
+      "count": 41
+    },
+    {
+      "tag": "c-minor",
+      "count": 41
+    },
+    {
+      "tag": "112bpm",
+      "count": 40
+    },
+    {
+      "tag": "f-minor",
+      "count": 39
+    },
+    {
+      "tag": "g-minor",
+      "count": 38
+    },
+    {
+      "tag": "108bpm",
+      "count": 35
+    },
+    {
+      "tag": "dance-rock",
+      "count": 35
+    },
+    {
+      "tag": "cinematic-rock",
+      "count": 34
+    },
+    {
+      "tag": "dance-punk",
+      "count": 34
+    },
+    {
+      "tag": "electronic-rock",
+      "count": 34
+    },
+    {
+      "tag": "synth-rock",
+      "count": 34
+    },
+    {
+      "tag": "120bpm",
+      "count": 33
+    },
+    {
+      "tag": "industrial",
+      "count": 32
+    },
+    {
+      "tag": "overseas",
+      "count": 32
+    },
+    {
+      "tag": "80s-synth",
+      "count": 31
+    },
+    {
+      "tag": "analog-synth",
+      "count": 31
+    },
+    {
+      "tag": "bloghouse",
+      "count": 31
+    },
+    {
+      "tag": "cinematic-synth",
+      "count": 31
+    },
+    {
+      "tag": "clean-guitar",
+      "count": 31
+    },
+    {
+      "tag": "cyberpunk",
+      "count": 31
+    },
+    {
+      "tag": "dark-pop",
+      "count": 31
+    },
+    {
+      "tag": "dirty-electro",
+      "count": 31
+    },
+    {
+      "tag": "disco-house",
+      "count": 31
+    },
+    {
+      "tag": "disco-pop",
+      "count": 31
+    },
+    {
+      "tag": "distorted-synth",
+      "count": 31
+    },
+    {
+      "tag": "electro-rock",
+      "count": 31
+    },
+    {
+      "tag": "filter-house",
+      "count": 31
+    },
+    {
+      "tag": "french-electro",
+      "count": 31
+    },
+    {
+      "tag": "french-touch",
+      "count": 31
+    },
+    {
+      "tag": "funky-bass",
+      "count": 31
+    },
+    {
+      "tag": "moody-electronic",
+      "count": 31
+    },
+    {
+      "tag": "neon-noir",
+      "count": 31
+    },
+    {
+      "tag": "nu-disco",
+      "count": 31
+    },
+    {
+      "tag": "outrun",
+      "count": 31
+    },
+    {
+      "tag": "retro-future",
+      "count": 31
+    },
+    {
+      "tag": "retrowave",
+      "count": 31
+    },
+    {
+      "tag": "synthwave",
+      "count": 31
+    },
+    {
+      "tag": "angular-guitar",
+      "count": 30
+    },
+    {
+      "tag": "arpeggio",
+      "count": 30
+    },
+    {
+      "tag": "balearic",
+      "count": 30
+    },
+    {
+      "tag": "bass-led",
+      "count": 30
+    },
+    {
+      "tag": "bassline",
+      "count": 30
+    },
+    {
+      "tag": "body-music",
+      "count": 30
+    },
+    {
+      "tag": "chorus-guitar",
+      "count": 30
+    },
+    {
+      "tag": "coldwave",
+      "count": 30
+    },
+    {
+      "tag": "dark-club",
+      "count": 30
+    },
+    {
+      "tag": "darksynth",
+      "count": 30
+    },
+    {
+      "tag": "distorted-bass",
+      "count": 30
+    },
+    {
+      "tag": "dreamwave",
+      "count": 30
+    },
+    {
+      "tag": "dreamy-synth",
+      "count": 30
+    },
+    {
+      "tag": "drum-machine",
+      "count": 30
+    },
+    {
+      "tag": "electro-pop",
+      "count": 30
+    },
+    {
+      "tag": "electronic-post-punk",
+      "count": 30
+    },
+    {
+      "tag": "eurodisco",
+      "count": 30
+    },
+    {
+      "tag": "horror-synth",
+      "count": 30
+    },
+    {
+      "tag": "industrial-dance",
+      "count": 30
+    },
+    {
+      "tag": "italo-disco",
+      "count": 30
+    },
+    {
+      "tag": "machine-groove",
+      "count": 30
+    },
+    {
+      "tag": "minimal-wave",
+      "count": 30
+    },
+    {
+      "tag": "neon-rock",
+      "count": 30
+    },
+    {
+      "tag": "new-wave",
+      "count": 30
+    },
+    {
+      "tag": "punk-funk",
+      "count": 30
+    },
+    {
+      "tag": "relaxed-dance",
+      "count": 30
+    },
+    {
+      "tag": "robot-disco",
+      "count": 30
+    },
+    {
+      "tag": "sequencer",
+      "count": 30
+    },
+    {
+      "tag": "space-disco",
+      "count": 30
+    },
+    {
+      "tag": "sunset-groove",
+      "count": 30
+    }
+  ],
+  "top_pick_count": 17,
+  "strategy": "Static JSON first. Firestore is reserved for future admin editing and publish workflows."
+}

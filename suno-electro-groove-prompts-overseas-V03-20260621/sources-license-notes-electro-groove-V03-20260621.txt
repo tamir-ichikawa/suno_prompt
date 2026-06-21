@@ -1,0 +1,42 @@
+SOURCES / LICENSE / SAFETY NOTES
+Version: V03-20260621
+
+This package is a synthesized prompt library. It does not republish scraped prompt text from blogs, Reddit, YouTube, or non-permissive prompt sites.
+The prompt text is original and normalized for Suno use. The sources below were used for genre vocabulary, structure, and safety-oriented prompt formatting.
+
+- Suno Help - Create in V4.5: Detailed Style Instructions
+  URL: https://help.suno.com/en/articles/5782849
+  Used for: Prompt-format guidance: use detailed conversational style instructions instead of only short genre tags.
+  Note: Reference only; do not copy full article text.
+
+- Suno Help - Music Glossary for Suno
+  URL: https://help.suno.com/en/articles/9010177
+  Used for: Vocabulary guidance: tempo, groove, syncopation, song structure, instrumentation, vocal techniques, production/effects.
+  Note: Reference only; do not copy full article text.
+
+- French house / French touch
+  URL: https://en.wikipedia.org/wiki/French_house
+  Used for: Genre research: filter/phaser effects, disco/funk roots, four-on-the-floor, 110-130 BPM, sample-inspired hooks.
+  Note: CC BY-SA source; prompts below are original normalized prompts, not article text.
+
+- Nu-disco
+  URL: https://en.wikipedia.org/wiki/Nu-disco
+  Used for: Genre research: modern disco revival, late 1970s disco, 1980s European synth dance, pop/disco song structure.
+  Note: CC BY-SA source; prompts below are original normalized prompts, not article text.
+
+- Synthwave / Retrowave / Outrun
+  URL: https://en.wikipedia.org/wiki/Synthwave
+  Used for: Genre research: 1970s/1980s film and game soundtrack influence, analog synths, drum machines, darksynth/dreamwave/outrun, common BPM ranges.
+  Note: CC BY-SA source; prompts below are original normalized prompts, not article text.
+
+- Bloghouse / Bloghaus
+  URL: https://en.wikipedia.org/wiki/Bloghouse
+  Used for: Genre research: early-2000s internet dance scene blending French touch, electroclash, new wave, nu-disco, indie rock revival.
+  Note: CC BY-SA source; prompts below are original normalized prompts, not article text.
+
+- Minimal wave
+  URL: https://en.wikipedia.org/wiki/Minimal_wave
+  Used for: Genre research: stripped-down synth-pop/post-punk/coldwave, analog synthesizers, drum machines, mechanical beats, repetitive patterns.
+  Note: CC BY-SA source; prompts below are original normalized prompts, not article text.
+
+Public prompt rule: avoid direct living artist/style imitation in prompt bodies; prefer genre and production vocabulary such as French touch, filter house, vocoder-style hook, neon noir synthwave, night-drive pulse, etc.

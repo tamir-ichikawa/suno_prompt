@@ -1,0 +1,42 @@
+CATEGORY SUMMARY — SUNO ROCK PROMPTS V02
+
+Groove & Riff Rock
+  prompts: 32
+  subgenres: bassline-led alternative rock, heavy dance-rock, minimal riff rock, pocket groove rock, riff-heavy modern rock, rolling road rock, swagger blues-groove rock, syncopated riff rock
+
+Funk Rock / Funk Metal / Dance Punk
+  prompts: 36
+  subgenres: avant-funk rock, dance-punk, disco-rock crossover, funk metal, funk rock, post-punk funk, psychedelic funk rock, slap-bass alt-rock, wah-wah groove rock
+
+Blues / Boogie / Southern / Swamp
+  prompts: 36
+  subgenres: blues rock, boogie rock, electric blues-rock jam, heartland rock, roadhouse rock, roots rock, slide guitar rock, southern rock, swamp rock
+
+Desert / Stoner / Doom / Sludge
+  prompts: 32
+  subgenres: acid rock jam, desert rock, doom blues, fuzz rock, heavy psychedelic rock, sludge rock, stoner doom, stoner rock
+
+Alternative / Grunge / Noise / Shoegaze
+  prompts: 32
+  subgenres: alternative rock edge, grunge, grungegaze, industrial alt-rock, noise pop rock, noise rock, post-grunge groove, shoegaze rock
+
+Punk / Garage / Post-hardcore
+  prompts: 32
+  subgenres: classic punk rock, emo rock, garage punk, garage rock revival, pop-punk, post-hardcore, proto-punk, skate punk
+
+Indie / Art / Math / Post-rock
+  prompts: 32
+  subgenres: angular indie rock, art rock groove, indie rock jangle, krautrock motorik, math rock, minimalist rock, motorik indie rock, post-rock crescendo
+
+Classic / Arena / Hard / Glam
+  prompts: 32
+  subgenres: 80s hard rock, arena rock, classic rock, glam rock stomp, hard rock groove, melodic hard rock, power ballad rock, pub rock
+
+Progressive / Psychedelic / Space
+  prompts: 32
+  subgenres: cosmic blues rock, long-form jam rock, neo-psychedelic rock, prog groove rock, progressive rock groove, psych-garage rock, psychedelic rock, space rock
+
+Modern & Hybrid Rock
+  prompts: 32
+  subgenres: brit rock swagger, classic-rock revival, darkwave rock, electronic rock texture, modern alternative rock, modern blues-rock, new wave rock, synth-rock
+

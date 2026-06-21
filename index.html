@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Suno Prompt Library</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div>
+        <p class="eyebrow">Suno Prompt Library</p>
+        <h1>プロンプト管理</h1>
+      </div>
+      <dl class="summary-strip" aria-label="データ概要">
+        <div>
+          <dt>Prompts</dt>
+          <dd id="statPrompts">--</dd>
+        </div>
+        <div>
+          <dt>Collections</dt>
+          <dd id="statCollections">--</dd>
+        </div>
+        <div>
+          <dt>Firestore Reads</dt>
+          <dd>0</dd>
+        </div>
+      </dl>
+    </header>
+
+    <main class="app-shell">
+      <aside class="filter-panel" aria-label="検索フィルタ">
+        <div class="filter-section">
+          <label class="field">
+            <span>検索</span>
+            <input id="searchInput" type="search" autocomplete="off" placeholder="genre, bass, BPM, mood..." />
+          </label>
+        </div>
+
+        <div class="filter-section">
+          <label class="field">
+            <span>コレクション</span>
+            <select id="collectionFilter"></select>
+          </label>
+          <label class="field">
+            <span>カテゴリ</span>
+            <select id="categoryFilter"></select>
+          </label>
+          <label class="field">
+            <span>タグ</span>
+            <select id="tagFilter"></select>
+          </label>
+        </div>
+
+        <div class="filter-grid">
+          <label class="field">
+            <span>BPM min</span>
+            <input id="bpmMin" type="number" min="40" max="220" inputmode="numeric" placeholder="80" />
+          </label>
+          <label class="field">
+            <span>BPM max</span>
+            <input id="bpmMax" type="number" min="40" max="220" inputmode="numeric" placeholder="140" />
+          </label>
+        </div>
+
+        <div class="filter-section">
+          <label class="range-field">
+            <span>Groove</span>
+            <output id="grooveOutput">0+</output>
+            <input id="grooveMin" type="range" min="0" max="10" step="1" value="0" />
+          </label>
+          <label class="range-field">
+            <span>Energy</span>
+            <output id="energyOutput">0+</output>
+            <input id="energyMin" type="range" min="0" max="10" step="1" value="0" />
+          </label>
+        </div>
+
+        <div class="filter-section toggles">
+          <label>
+            <input id="publicOnly" type="checkbox" checked />
+            <span>Public Safeのみ</span>
+          </label>
+          <label>
+            <input id="topOnly" type="checkbox" />
+            <span>おすすめのみ</span>
+          </label>
+        </div>
+
+        <div class="filter-section">
+          <label class="field">
+            <span>並び順</span>
+            <select id="sortSelect">
+              <option value="recommended">おすすめ順</option>
+              <option value="collection">コレクション順</option>
+              <option value="title">タイトル順</option>
+              <option value="bpm">BPM順</option>
+              <option value="groove">Groove順</option>
+              <option value="energy">Energy順</option>
+            </select>
+          </label>
+          <button id="clearFilters" class="button secondary" type="button">リセット</button>
+        </div>
+      </aside>
+
+      <section class="library-panel" aria-label="プロンプト一覧">
+        <div class="toolbar">
+          <div>
+            <p class="eyebrow">Library</p>
+            <h2 id="resultTitle">読み込み中</h2>
+          </div>
+          <div id="activeChips" class="chip-row" aria-label="有効な条件"></div>
+        </div>
+
+        <div id="collectionTabs" class="collection-tabs" aria-label="コレクション切替"></div>
+        <div id="promptGrid" class="prompt-grid" aria-live="polite"></div>
+        <div id="emptyState" class="empty-state" hidden>該当するプロンプトがありません。</div>
+        <button id="loadMore" class="button load-more" type="button" hidden>さらに表示</button>
+      </section>
+    </main>
+
+    <dialog id="promptDialog" class="prompt-dialog">
+      <form method="dialog">
+        <button class="icon-button dialog-close" value="cancel" aria-label="閉じる" type="submit">×</button>
+      </form>
+      <div id="dialogContent"></div>
+    </dialog>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>

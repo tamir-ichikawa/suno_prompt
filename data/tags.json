@@ -1,0 +1,2070 @@
+[
+  {
+    "tag": "groove",
+    "count": 123
+  },
+  {
+    "tag": "indie-dance",
+    "count": 92
+  },
+  {
+    "tag": "night-drive",
+    "count": 62
+  },
+  {
+    "tag": "ebm",
+    "count": 61
+  },
+  {
+    "tag": "electro-funk",
+    "count": 61
+  },
+  {
+    "tag": "vocoder",
+    "count": 61
+  },
+  {
+    "tag": "cosmic-disco",
+    "count": 60
+  },
+  {
+    "tag": "retro-synth",
+    "count": 60
+  },
+  {
+    "tag": "e-minor",
+    "count": 58
+  },
+  {
+    "tag": "d-minor",
+    "count": 46
+  },
+  {
+    "tag": "b-minor",
+    "count": 45
+  },
+  {
+    "tag": "a-minor",
+    "count": 44
+  },
+  {
+    "tag": "post-punk",
+    "count": 42
+  },
+  {
+    "tag": "124bpm",
+    "count": 41
+  },
+  {
+    "tag": "c-minor",
+    "count": 41
+  },
+  {
+    "tag": "112bpm",
+    "count": 40
+  },
+  {
+    "tag": "f-minor",
+    "count": 39
+  },
+  {
+    "tag": "g-minor",
+    "count": 38
+  },
+  {
+    "tag": "108bpm",
+    "count": 35
+  },
+  {
+    "tag": "dance-rock",
+    "count": 35
+  },
+  {
+    "tag": "cinematic-rock",
+    "count": 34
+  },
+  {
+    "tag": "dance-punk",
+    "count": 34
+  },
+  {
+    "tag": "electronic-rock",
+    "count": 34
+  },
+  {
+    "tag": "synth-rock",
+    "count": 34
+  },
+  {
+    "tag": "120bpm",
+    "count": 33
+  },
+  {
+    "tag": "industrial",
+    "count": 32
+  },
+  {
+    "tag": "overseas",
+    "count": 32
+  },
+  {
+    "tag": "80s-synth",
+    "count": 31
+  },
+  {
+    "tag": "analog-synth",
+    "count": 31
+  },
+  {
+    "tag": "bloghouse",
+    "count": 31
+  },
+  {
+    "tag": "cinematic-synth",
+    "count": 31
+  },
+  {
+    "tag": "clean-guitar",
+    "count": 31
+  },
+  {
+    "tag": "cyberpunk",
+    "count": 31
+  },
+  {
+    "tag": "dark-pop",
+    "count": 31
+  },
+  {
+    "tag": "dirty-electro",
+    "count": 31
+  },
+  {
+    "tag": "disco-house",
+    "count": 31
+  },
+  {
+    "tag": "disco-pop",
+    "count": 31
+  },
+  {
+    "tag": "distorted-synth",
+    "count": 31
+  },
+  {
+    "tag": "electro-rock",
+    "count": 31
+  },
+  {
+    "tag": "filter-house",
+    "count": 31
+  },
+  {
+    "tag": "french-electro",
+    "count": 31
+  },
+  {
+    "tag": "french-touch",
+    "count": 31
+  },
+  {
+    "tag": "funky-bass",
+    "count": 31
+  },
+  {
+    "tag": "moody-electronic",
+    "count": 31
+  },
+  {
+    "tag": "neon-noir",
+    "count": 31
+  },
+  {
+    "tag": "nu-disco",
+    "count": 31
+  },
+  {
+    "tag": "outrun",
+    "count": 31
+  },
+  {
+    "tag": "retro-future",
+    "count": 31
+  },
+  {
+    "tag": "retrowave",
+    "count": 31
+  },
+  {
+    "tag": "synthwave",
+    "count": 31
+  },
+  {
+    "tag": "angular-guitar",
+    "count": 30
+  },
+  {
+    "tag": "arpeggio",
+    "count": 30
+  },
+  {
+    "tag": "balearic",
+    "count": 30
+  },
+  {
+    "tag": "bass-led",
+    "count": 30
+  },
+  {
+    "tag": "bassline",
+    "count": 30
+  },
+  {
+    "tag": "body-music",
+    "count": 30
+  },
+  {
+    "tag": "chorus-guitar",
+    "count": 30
+  },
+  {
+    "tag": "coldwave",
+    "count": 30
+  },
+  {
+    "tag": "dark-club",
+    "count": 30
+  },
+  {
+    "tag": "darksynth",
+    "count": 30
+  },
+  {
+    "tag": "distorted-bass",
+    "count": 30
+  },
+  {
+    "tag": "dreamwave",
+    "count": 30
+  },
+  {
+    "tag": "dreamy-synth",
+    "count": 30
+  },
+  {
+    "tag": "drum-machine",
+    "count": 30
+  },
+  {
+    "tag": "electro-pop",
+    "count": 30
+  },
+  {
+    "tag": "electronic-post-punk",
+    "count": 30
+  },
+  {
+    "tag": "eurodisco",
+    "count": 30
+  },
+  {
+    "tag": "horror-synth",
+    "count": 30
+  },
+  {
+    "tag": "industrial-dance",
+    "count": 30
+  },
+  {
+    "tag": "italo-disco",
+    "count": 30
+  },
+  {
+    "tag": "machine-groove",
+    "count": 30
+  },
+  {
+    "tag": "minimal-wave",
+    "count": 30
+  },
+  {
+    "tag": "neon-rock",
+    "count": 30
+  },
+  {
+    "tag": "new-wave",
+    "count": 30
+  },
+  {
+    "tag": "punk-funk",
+    "count": 30
+  },
+  {
+    "tag": "relaxed-dance",
+    "count": 30
+  },
+  {
+    "tag": "robot-disco",
+    "count": 30
+  },
+  {
+    "tag": "sequencer",
+    "count": 30
+  },
+  {
+    "tag": "space-disco",
+    "count": 30
+  },
+  {
+    "tag": "sunset-groove",
+    "count": 30
+  },
+  {
+    "tag": "syncopation",
+    "count": 30
+  },
+  {
+    "tag": "talkbox",
+    "count": 30
+  },
+  {
+    "tag": "104bpm",
+    "count": 29
+  },
+  {
+    "tag": "raw",
+    "count": 28
+  },
+  {
+    "tag": "melodic",
+    "count": 27
+  },
+  {
+    "tag": "118bpm",
+    "count": 26
+  },
+  {
+    "tag": "128bpm",
+    "count": 26
+  },
+  {
+    "tag": "angular",
+    "count": 24
+  },
+  {
+    "tag": "pop",
+    "count": 24
+  },
+  {
+    "tag": "126bpm",
+    "count": 23
+  },
+  {
+    "tag": "116bpm",
+    "count": 20
+  },
+  {
+    "tag": "fuzz",
+    "count": 20
+  },
+  {
+    "tag": "rock",
+    "count": 20
+  },
+  {
+    "tag": "100bpm",
+    "count": 19
+  },
+  {
+    "tag": "96bpm",
+    "count": 19
+  },
+  {
+    "tag": "heavy",
+    "count": 18
+  },
+  {
+    "tag": "dark",
+    "count": 17
+  },
+  {
+    "tag": "retro",
+    "count": 17
+  },
+  {
+    "tag": "bass-driven",
+    "count": 16
+  },
+  {
+    "tag": "blues-rock",
+    "count": 16
+  },
+  {
+    "tag": "guitar-driven",
+    "count": 16
+  },
+  {
+    "tag": "heavy-groove",
+    "count": 16
+  },
+  {
+    "tag": "88bpm",
+    "count": 14
+  },
+  {
+    "tag": "92bpm",
+    "count": 14
+  },
+  {
+    "tag": "c-major",
+    "count": 14
+  },
+  {
+    "tag": "132bpm",
+    "count": 13
+  },
+  {
+    "tag": "alternative",
+    "count": 13
+  },
+  {
+    "tag": "d-major",
+    "count": 13
+  },
+  {
+    "tag": "dreamy",
+    "count": 13
+  },
+  {
+    "tag": "experimental",
+    "count": 13
+  },
+  {
+    "tag": "alternative-rock",
+    "count": 12
+  },
+  {
+    "tag": "driving",
+    "count": 12
+  },
+  {
+    "tag": "dynamic",
+    "count": 12
+  },
+  {
+    "tag": "energetic",
+    "count": 12
+  },
+  {
+    "tag": "guitar",
+    "count": 12
+  },
+  {
+    "tag": "guitar-solo",
+    "count": 12
+  },
+  {
+    "tag": "riff",
+    "count": 12
+  },
+  {
+    "tag": "riff-rock",
+    "count": 12
+  },
+  {
+    "tag": "slap-bass",
+    "count": 12
+  },
+  {
+    "tag": "vintage",
+    "count": 12
+  },
+  {
+    "tag": "anthem",
+    "count": 10
+  },
+  {
+    "tag": "emotional",
+    "count": 10
+  },
+  {
+    "tag": "minimal",
+    "count": 10
+  },
+  {
+    "tag": "a-major",
+    "count": 9
+  },
+  {
+    "tag": "g-major",
+    "count": 9
+  },
+  {
+    "tag": "roots",
+    "count": 9
+  },
+  {
+    "tag": "shoegaze",
+    "count": 9
+  },
+  {
+    "tag": "114bpm",
+    "count": 8
+  },
+  {
+    "tag": "a-dorian",
+    "count": 8
+  },
+  {
+    "tag": "abrasive",
+    "count": 8
+  },
+  {
+    "tag": "acid-rock",
+    "count": 8
+  },
+  {
+    "tag": "aggressive",
+    "count": 8
+  },
+  {
+    "tag": "art-rock",
+    "count": 8
+  },
+  {
+    "tag": "d-dorian",
+    "count": 8
+  },
+  {
+    "tag": "fast",
+    "count": 8
+  },
+  {
+    "tag": "groove-rock",
+    "count": 8
+  },
+  {
+    "tag": "hooky",
+    "count": 8
+  },
+  {
+    "tag": "hypnotic",
+    "count": 8
+  },
+  {
+    "tag": "modern-rock",
+    "count": 8
+  },
+  {
+    "tag": "muscular",
+    "count": 8
+  },
+  {
+    "tag": "psychedelic",
+    "count": 8
+  },
+  {
+    "tag": "wah-guitar",
+    "count": 8
+  },
+  {
+    "tag": "110bpm",
+    "count": 7
+  },
+  {
+    "tag": "122bpm",
+    "count": 7
+  },
+  {
+    "tag": "130bpm",
+    "count": 7
+  },
+  {
+    "tag": "modern",
+    "count": 7
+  },
+  {
+    "tag": "ballad",
+    "count": 6
+  },
+  {
+    "tag": "blues",
+    "count": 6
+  },
+  {
+    "tag": "f-major",
+    "count": 6
+  },
+  {
+    "tag": "grunge",
+    "count": 6
+  },
+  {
+    "tag": "punk",
+    "count": 6
+  },
+  {
+    "tag": "70s",
+    "count": 5
+  },
+  {
+    "tag": "76bpm",
+    "count": 5
+  },
+  {
+    "tag": "attitude",
+    "count": 5
+  },
+  {
+    "tag": "curated",
+    "count": 5
+  },
+  {
+    "tag": "garage",
+    "count": 5
+  },
+  {
+    "tag": "jam",
+    "count": 5
+  },
+  {
+    "tag": "top-pick",
+    "count": 5
+  },
+  {
+    "tag": "80s-modern",
+    "count": 4
+  },
+  {
+    "tag": "80s-rock",
+    "count": 4
+  },
+  {
+    "tag": "84bpm",
+    "count": 4
+  },
+  {
+    "tag": "acid-groove",
+    "count": 4
+  },
+  {
+    "tag": "americana-rock",
+    "count": 4
+  },
+  {
+    "tag": "angular-indie",
+    "count": 4
+  },
+  {
+    "tag": "anthemic",
+    "count": 4
+  },
+  {
+    "tag": "arena-rock",
+    "count": 4
+  },
+  {
+    "tag": "art-groove",
+    "count": 4
+  },
+  {
+    "tag": "avant-funk",
+    "count": 4
+  },
+  {
+    "tag": "bar-band",
+    "count": 4
+  },
+  {
+    "tag": "bass",
+    "count": 4
+  },
+  {
+    "tag": "bass-forward",
+    "count": 4
+  },
+  {
+    "tag": "bass-heavy",
+    "count": 4
+  },
+  {
+    "tag": "bb-major",
+    "count": 4
+  },
+  {
+    "tag": "bb-minor",
+    "count": 4
+  },
+  {
+    "tag": "big-chorus",
+    "count": 4
+  },
+  {
+    "tag": "big-drums",
+    "count": 4
+  },
+  {
+    "tag": "bluesy",
+    "count": 4
+  },
+  {
+    "tag": "boogie-rock",
+    "count": 4
+  },
+  {
+    "tag": "brit-rock",
+    "count": 4
+  },
+  {
+    "tag": "catchy",
+    "count": 4
+  },
+  {
+    "tag": "classic-rock",
+    "count": 4
+  },
+  {
+    "tag": "classic-rock-revival",
+    "count": 4
+  },
+  {
+    "tag": "club-groove",
+    "count": 4
+  },
+  {
+    "tag": "cosmic",
+    "count": 4
+  },
+  {
+    "tag": "cosmic-blues",
+    "count": 4
+  },
+  {
+    "tag": "crescendo",
+    "count": 4
+  },
+  {
+    "tag": "danceable",
+    "count": 4
+  },
+  {
+    "tag": "dark-groove",
+    "count": 4
+  },
+  {
+    "tag": "darkwave-rock",
+    "count": 4
+  },
+  {
+    "tag": "desert-rock",
+    "count": 4
+  },
+  {
+    "tag": "dirty-rock",
+    "count": 4
+  },
+  {
+    "tag": "disco-rock",
+    "count": 4
+  },
+  {
+    "tag": "distorted",
+    "count": 4
+  },
+  {
+    "tag": "doom-blues",
+    "count": 4
+  },
+  {
+    "tag": "dry",
+    "count": 4
+  },
+  {
+    "tag": "dual-guitars",
+    "count": 4
+  },
+  {
+    "tag": "electric-blues-rock",
+    "count": 4
+  },
+  {
+    "tag": "electric-guitar",
+    "count": 4
+  },
+  {
+    "tag": "emo-melody",
+    "count": 4
+  },
+  {
+    "tag": "emo-rock",
+    "count": 4
+  },
+  {
+    "tag": "energy",
+    "count": 4
+  },
+  {
+    "tag": "extended-groove",
+    "count": 4
+  },
+  {
+    "tag": "extended-jam",
+    "count": 4
+  },
+  {
+    "tag": "feedback",
+    "count": 4
+  },
+  {
+    "tag": "four-on-floor",
+    "count": 4
+  },
+  {
+    "tag": "funk-blues",
+    "count": 4
+  },
+  {
+    "tag": "funk-metal",
+    "count": 4
+  },
+  {
+    "tag": "funk-rock",
+    "count": 4
+  },
+  {
+    "tag": "fuzz-chorus",
+    "count": 4
+  },
+  {
+    "tag": "fuzz-jam",
+    "count": 4
+  },
+  {
+    "tag": "fuzz-rock",
+    "count": 4
+  },
+  {
+    "tag": "fuzzy",
+    "count": 4
+  },
+  {
+    "tag": "gang-vocals",
+    "count": 4
+  },
+  {
+    "tag": "garage-punk",
+    "count": 4
+  },
+  {
+    "tag": "garage-rock",
+    "count": 4
+  },
+  {
+    "tag": "glam-rock",
+    "count": 4
+  },
+  {
+    "tag": "glitter",
+    "count": 4
+  },
+  {
+    "tag": "gritty",
+    "count": 4
+  },
+  {
+    "tag": "groove-laden",
+    "count": 4
+  },
+  {
+    "tag": "grungegaze",
+    "count": 4
+  },
+  {
+    "tag": "guitar-anthem",
+    "count": 4
+  },
+  {
+    "tag": "guitar-effects",
+    "count": 4
+  },
+  {
+    "tag": "guitar-groove",
+    "count": 4
+  },
+  {
+    "tag": "guitar-improv",
+    "count": 4
+  },
+  {
+    "tag": "guitar-lines",
+    "count": 4
+  },
+  {
+    "tag": "guitar-stabs",
+    "count": 4
+  },
+  {
+    "tag": "hard-rock",
+    "count": 4
+  },
+  {
+    "tag": "heartland-edge",
+    "count": 4
+  },
+  {
+    "tag": "heartland-rock",
+    "count": 4
+  },
+  {
+    "tag": "heavy-psych",
+    "count": 4
+  },
+  {
+    "tag": "heavy-psych-rock",
+    "count": 4
+  },
+  {
+    "tag": "heavy-riff",
+    "count": 4
+  },
+  {
+    "tag": "house",
+    "count": 4
+  },
+  {
+    "tag": "hypnotic-groove",
+    "count": 4
+  },
+  {
+    "tag": "hypnotic-rock",
+    "count": 4
+  },
+  {
+    "tag": "improvisation",
+    "count": 4
+  },
+  {
+    "tag": "indie-rock",
+    "count": 4
+  },
+  {
+    "tag": "industrial-rock",
+    "count": 4
+  },
+  {
+    "tag": "instrumental",
+    "count": 4
+  },
+  {
+    "tag": "intricate",
+    "count": 4
+  },
+  {
+    "tag": "jam-rock",
+    "count": 4
+  },
+  {
+    "tag": "jangly",
+    "count": 4
+  },
+  {
+    "tag": "krautrock",
+    "count": 4
+  },
+  {
+    "tag": "live",
+    "count": 4
+  },
+  {
+    "tag": "live-band",
+    "count": 4
+  },
+  {
+    "tag": "live-drums",
+    "count": 4
+  },
+  {
+    "tag": "long-form",
+    "count": 4
+  },
+  {
+    "tag": "math-rock",
+    "count": 4
+  },
+  {
+    "tag": "mechanical",
+    "count": 4
+  },
+  {
+    "tag": "melodic-hard-rock",
+    "count": 4
+  },
+  {
+    "tag": "minimal-rock",
+    "count": 4
+  },
+  {
+    "tag": "minimalist-rock",
+    "count": 4
+  },
+  {
+    "tag": "modern-alt-rock",
+    "count": 4
+  },
+  {
+    "tag": "modern-blues-rock",
+    "count": 4
+  },
+  {
+    "tag": "modern-psych",
+    "count": 4
+  },
+  {
+    "tag": "moody",
+    "count": 4
+  },
+  {
+    "tag": "motorik",
+    "count": 4
+  },
+  {
+    "tag": "motorik-indie",
+    "count": 4
+  },
+  {
+    "tag": "murky-groove",
+    "count": 4
+  },
+  {
+    "tag": "neo-psychedelic",
+    "count": 4
+  },
+  {
+    "tag": "new-wave-rock",
+    "count": 4
+  },
+  {
+    "tag": "noise-pop",
+    "count": 4
+  },
+  {
+    "tag": "noise-rock",
+    "count": 4
+  },
+  {
+    "tag": "odd-groove",
+    "count": 4
+  },
+  {
+    "tag": "odd-meter",
+    "count": 4
+  },
+  {
+    "tag": "odd-meters",
+    "count": 4
+  },
+  {
+    "tag": "odd-sections",
+    "count": 4
+  },
+  {
+    "tag": "organic",
+    "count": 4
+  },
+  {
+    "tag": "overseas-rock",
+    "count": 4
+  },
+  {
+    "tag": "pop-punk",
+    "count": 4
+  },
+  {
+    "tag": "post-grunge",
+    "count": 4
+  },
+  {
+    "tag": "post-hardcore",
+    "count": 4
+  },
+  {
+    "tag": "post-punk-funk",
+    "count": 4
+  },
+  {
+    "tag": "post-rock",
+    "count": 4
+  },
+  {
+    "tag": "power-ballad",
+    "count": 4
+  },
+  {
+    "tag": "prog-groove",
+    "count": 4
+  },
+  {
+    "tag": "progressive",
+    "count": 4
+  },
+  {
+    "tag": "progressive-rock",
+    "count": 4
+  },
+  {
+    "tag": "proto-punk",
+    "count": 4
+  },
+  {
+    "tag": "psych-garage",
+    "count": 4
+  },
+  {
+    "tag": "psychedelic-funk-rock",
+    "count": 4
+  },
+  {
+    "tag": "psychedelic-rock",
+    "count": 4
+  },
+  {
+    "tag": "pub-rock",
+    "count": 4
+  },
+  {
+    "tag": "punk-rock",
+    "count": 4
+  },
+  {
+    "tag": "quiet-loud",
+    "count": 4
+  },
+  {
+    "tag": "raw-groove",
+    "count": 4
+  },
+  {
+    "tag": "rebellious",
+    "count": 4
+  },
+  {
+    "tag": "repetition",
+    "count": 4
+  },
+  {
+    "tag": "retro-modern",
+    "count": 4
+  },
+  {
+    "tag": "riff-based",
+    "count": 4
+  },
+  {
+    "tag": "riff-heavy",
+    "count": 4
+  },
+  {
+    "tag": "road-groove",
+    "count": 4
+  },
+  {
+    "tag": "road-house",
+    "count": 4
+  },
+  {
+    "tag": "road-rock",
+    "count": 4
+  },
+  {
+    "tag": "roadhouse-rock",
+    "count": 4
+  },
+  {
+    "tag": "rock-groove",
+    "count": 4
+  },
+  {
+    "tag": "roots-groove",
+    "count": 4
+  },
+  {
+    "tag": "roots-rock",
+    "count": 4
+  },
+  {
+    "tag": "rootsy",
+    "count": 4
+  },
+  {
+    "tag": "shuffle",
+    "count": 4
+  },
+  {
+    "tag": "skate-punk",
+    "count": 4
+  },
+  {
+    "tag": "slide-guitar",
+    "count": 4
+  },
+  {
+    "tag": "slow-blues",
+    "count": 4
+  },
+  {
+    "tag": "slow-groove",
+    "count": 4
+  },
+  {
+    "tag": "slow-riff",
+    "count": 4
+  },
+  {
+    "tag": "sludge-rock",
+    "count": 4
+  },
+  {
+    "tag": "soulful",
+    "count": 4
+  },
+  {
+    "tag": "southern-rock",
+    "count": 4
+  },
+  {
+    "tag": "space-rock",
+    "count": 4
+  },
+  {
+    "tag": "sparse",
+    "count": 4
+  },
+  {
+    "tag": "stomp",
+    "count": 4
+  },
+  {
+    "tag": "stoner-doom",
+    "count": 4
+  },
+  {
+    "tag": "stoner-rock",
+    "count": 4
+  },
+  {
+    "tag": "swagger",
+    "count": 4
+  },
+  {
+    "tag": "swagger-rock",
+    "count": 4
+  },
+  {
+    "tag": "swamp-rock",
+    "count": 4
+  },
+  {
+    "tag": "syncopated",
+    "count": 4
+  },
+  {
+    "tag": "tapping-guitar",
+    "count": 4
+  },
+  {
+    "tag": "tense",
+    "count": 4
+  },
+  {
+    "tag": "textured",
+    "count": 4
+  },
+  {
+    "tag": "tight",
+    "count": 4
+  },
+  {
+    "tag": "trance",
+    "count": 4
+  },
+  {
+    "tag": "wall-of-guitars",
+    "count": 4
+  },
+  {
+    "tag": "106bpm",
+    "count": 3
+  },
+  {
+    "tag": "e-dorian",
+    "count": 3
+  },
+  {
+    "tag": "e-phrygian",
+    "count": 3
+  },
+  {
+    "tag": "eb-minor",
+    "count": 3
+  },
+  {
+    "tag": "festival",
+    "count": 3
+  },
+  {
+    "tag": "future",
+    "count": 3
+  },
+  {
+    "tag": "gospel",
+    "count": 3
+  },
+  {
+    "tag": "indie",
+    "count": 3
+  },
+  {
+    "tag": "jazz",
+    "count": 3
+  },
+  {
+    "tag": "metal",
+    "count": 3
+  },
+  {
+    "tag": "piano",
+    "count": 3
+  },
+  {
+    "tag": "power",
+    "count": 3
+  },
+  {
+    "tag": "score",
+    "count": 3
+  },
+  {
+    "tag": "synth",
+    "count": 3
+  },
+  {
+    "tag": "techno",
+    "count": 3
+  },
+  {
+    "tag": "80bpm",
+    "count": 2
+  },
+  {
+    "tag": "80s",
+    "count": 2
+  },
+  {
+    "tag": "90s",
+    "count": 2
+  },
+  {
+    "tag": "adventure",
+    "count": 2
+  },
+  {
+    "tag": "ambient",
+    "count": 2
+  },
+  {
+    "tag": "anime",
+    "count": 2
+  },
+  {
+    "tag": "arena",
+    "count": 2
+  },
+  {
+    "tag": "big",
+    "count": 2
+  },
+  {
+    "tag": "classic",
+    "count": 2
+  },
+  {
+    "tag": "dance",
+    "count": 2
+  },
+  {
+    "tag": "darkness",
+    "count": 2
+  },
+  {
+    "tag": "drive",
+    "count": 2
+  },
+  {
+    "tag": "drop",
+    "count": 2
+  },
+  {
+    "tag": "dubstep",
+    "count": 2
+  },
+  {
+    "tag": "epic",
+    "count": 2
+  },
+  {
+    "tag": "fusion",
+    "count": 2
+  },
+  {
+    "tag": "hybrid",
+    "count": 2
+  },
+  {
+    "tag": "hyperpop",
+    "count": 2
+  },
+  {
+    "tag": "journey",
+    "count": 2
+  },
+  {
+    "tag": "lounge",
+    "count": 2
+  },
+  {
+    "tag": "night",
+    "count": 2
+  },
+  {
+    "tag": "noir",
+    "count": 2
+  },
+  {
+    "tag": "post",
+    "count": 2
+  },
+  {
+    "tag": "rap",
+    "count": 2
+  },
+  {
+    "tag": "slow",
+    "count": 2
+  },
+  {
+    "tag": "solo",
+    "count": 2
+  },
+  {
+    "tag": "soul",
+    "count": 2
+  },
+  {
+    "tag": "uplifting",
+    "count": 2
+  },
+  {
+    "tag": "ac",
+    "count": 1
+  },
+  {
+    "tag": "acoustic",
+    "count": 1
+  },
+  {
+    "tag": "afrobeats",
+    "count": 1
+  },
+  {
+    "tag": "amapiano",
+    "count": 1
+  },
+  {
+    "tag": "americana",
+    "count": 1
+  },
+  {
+    "tag": "and",
+    "count": 1
+  },
+  {
+    "tag": "anjuna",
+    "count": 1
+  },
+  {
+    "tag": "art",
+    "count": 1
+  },
+  {
+    "tag": "avant",
+    "count": 1
+  },
+  {
+    "tag": "b",
+    "count": 1
+  },
+  {
+    "tag": "bachata",
+    "count": 1
+  },
+  {
+    "tag": "band",
+    "count": 1
+  },
+  {
+    "tag": "banger",
+    "count": 1
+  },
+  {
+    "tag": "baroque",
+    "count": 1
+  },
+  {
+    "tag": "barroom",
+    "count": 1
+  },
+  {
+    "tag": "battle",
+    "count": 1
+  },
+  {
+    "tag": "beat",
+    "count": 1
+  },
+  {
+    "tag": "bebop",
+    "count": 1
+  },
+  {
+    "tag": "bedroom",
+    "count": 1
+  },
+  {
+    "tag": "bgm",
+    "count": 1
+  },
+  {
+    "tag": "blast",
+    "count": 1
+  },
+  {
+    "tag": "bluegrass",
+    "count": 1
+  },
+  {
+    "tag": "bossa",
+    "count": 1
+  },
+  {
+    "tag": "bowls",
+    "count": 1
+  },
+  {
+    "tag": "brass",
+    "count": 1
+  },
+  {
+    "tag": "bright",
+    "count": 1
+  },
+  {
+    "tag": "bubblegum",
+    "count": 1
+  },
+  {
+    "tag": "build",
+    "count": 1
+  },
+  {
+    "tag": "cafe",
+    "count": 1
+  },
+  {
+    "tag": "calypso",
+    "count": 1
+  },
+  {
+    "tag": "celebration",
+    "count": 1
+  },
+  {
+    "tag": "celtic",
+    "count": 1
+  },
+  {
+    "tag": "chamber",
+    "count": 1
+  },
+  {
+    "tag": "chaotic",
+    "count": 1
+  },
+  {
+    "tag": "chase",
+    "count": 1
+  },
+  {
+    "tag": "chicago",
+    "count": 1
+  },
+  {
+    "tag": "chill",
+    "count": 1
+  },
+  {
+    "tag": "chillwave",
+    "count": 1
+  },
+  {
+    "tag": "chiptune",
+    "count": 1
+  },
+  {
+    "tag": "choir",
+    "count": 1
+  },
+  {
+    "tag": "cinematic",
+    "count": 1
+  },
+  {
+    "tag": "city",
+    "count": 1
+  },
+  {
+    "tag": "cloud",
+    "count": 1
+  },
+  {
+    "tag": "coffee",
+    "count": 1
+  },
+  {
+    "tag": "collage",
+    "count": 1
+  },
+  {
+    "tag": "collapse",
+    "count": 1
+  },
+  {
+    "tag": "complexity",
+    "count": 1
+  },
+  {
+    "tag": "conscious",
+    "count": 1
+  },
+  {
+    "tag": "country",
+    "count": 1
+  },
+  {
+    "tag": "cozy",
+    "count": 1
+  },
+  {
+    "tag": "dancehall",
+    "count": 1
+  },
+  {
+    "tag": "deep",
+    "count": 1
+  },
+  {
+    "tag": "delta",
+    "count": 1
+  },
+  {
+    "tag": "disco",
+    "count": 1
+  },
+  {
+    "tag": "doom",
+    "count": 1
+  },
+  {
+    "tag": "drama",
+    "count": 1
+  },
+  {
+    "tag": "drill",
+    "count": 1
+  },
+  {
+    "tag": "driven",
+    "count": 1
+  },
+  {
+    "tag": "drone",
+    "count": 1
+  },
+  {
+    "tag": "drum",
+    "count": 1
+  },
+  {
+    "tag": "edge",
+    "count": 1
+  },
+  {
+    "tag": "edm",
+    "count": 1
+  },
+  {
+    "tag": "enka",
+    "count": 1
+  },
+  {
+    "tag": "fantasy",
+    "count": 1
+  },
+  {
+    "tag": "farming",
+    "count": 1
+  },
+  {
+    "tag": "female",
+    "count": 1
+  },
+  {
+    "tag": "fi",
+    "count": 1
+  },
+  {
+    "tag": "filter",
+    "count": 1
+  },
+  {
+    "tag": "french",
+    "count": 1
+  },
+  {
+    "tag": "friendly",
+    "count": 1
+  },
+  {
+    "tag": "funk",
+    "count": 1
+  },
+  {
+    "tag": "game",
+    "count": 1
+  },
+  {
+    "tag": "garde",
+    "count": 1
+  },
+  {
+    "tag": "glitch",
+    "count": 1
+  },
+  {
+    "tag": "grit",
+    "count": 1
+  },
+  {
+    "tag": "hardstyle",
+    "count": 1
+  },
+  {
+    "tag": "haze",
+    "count": 1
+  },
+  {
+    "tag": "honky",
+    "count": 1
+  },
+  {
+    "tag": "hop",
+    "count": 1
+  },
+  {
+    "tag": "hymn",
+    "count": 1
+  },
+  {
+    "tag": "influenced",
+    "count": 1
+  },
+  {
+    "tag": "inspired",
+    "count": 1
+  },
+  {
+    "tag": "intimate",
+    "count": 1
+  },
+  {
+    "tag": "j",
+    "count": 1
+  },
+  {
+    "tag": "jangle",
+    "count": 1
+  },
+  {
+    "tag": "jrpg",
+    "count": 1
+  },
+  {
+    "tag": "k",
+    "count": 1
+  },
+  {
+    "tag": "kawaii",
+    "count": 1
+  },
+  {
+    "tag": "kei",
+    "count": 1
+  },
+  {
+    "tag": "latin",
+    "count": 1
+  },
+  {
+    "tag": "lo",
+    "count": 1
+  },
+  {
+    "tag": "mainstage",
+    "count": 1
+  },
+  {
+    "tag": "mariachi",
+    "count": 1
+  },
+  {
+    "tag": "math",
+    "count": 1
+  },
+  {
+    "tag": "meditation",
+    "count": 1
+  },
+  {
+    "tag": "melancholic",
+    "count": 1
+  },
+  {
+    "tag": "memphis",
+    "count": 1
+  },
+  {
+    "tag": "neo",
+    "count": 1
+  },
+  {
+    "tag": "noise",
+    "count": 1
+  },
+  {
+    "tag": "nova",
+    "count": 1
+  },
+  {
+    "tag": "opening",
+    "count": 1
+  },
+  {
+    "tag": "orchestral",
+    "count": 1
+  },
+  {
+    "tag": "peak",
+    "count": 1
+  },
+  {
+    "tag": "phonk",
+    "count": 1
+  },
+  {
+    "tag": "psy",
+    "count": 1
+  },
+  {
+    "tag": "quintet",
+    "count": 1
+  },
+  {
+    "tag": "r",
+    "count": 1
+  },
+  {
+    "tag": "radio",
+    "count": 1
+  },
+  {
+    "tag": "rave",
+    "count": 1
+  },
+  {
+    "tag": "reggae",
+    "count": 1
+  },
+  {
+    "tag": "revival",
+    "count": 1
+  },
+  {
+    "tag": "romance",
+    "count": 1
+  },
+  {
+    "tag": "room",
+    "count": 1
+  },
+  {
+    "tag": "salsa",
+    "count": 1
+  },
+  {
+    "tag": "shibuya",
+    "count": 1
+  },
+  {
+    "tag": "shop",
+    "count": 1
+  },
+  {
+    "tag": "ska",
+    "count": 1
+  },
+  {
+    "tag": "slap",
+    "count": 1
+  },
+  {
+    "tag": "sleep",
+    "count": 1
+  },
+  {
+    "tag": "smooth",
+    "count": 1
+  },
+  {
+    "tag": "sound",
+    "count": 1
+  },
+  {
+    "tag": "southern",
+    "count": 1
+  },
+  {
+    "tag": "spa",
+    "count": 1
+  },
+  {
+    "tag": "speed",
+    "count": 1
+  },
+  {
+    "tag": "sprint",
+    "count": 1
+  },
+  {
+    "tag": "storytelling",
+    "count": 1
+  },
+  {
+    "tag": "strings",
+    "count": 1
+  },
+  {
+    "tag": "study",
+    "count": 1
+  },
+  {
+    "tag": "style",
+    "count": 1
+  },
+  {
+    "tag": "sunset",
+    "count": 1
+  },
+  {
+    "tag": "sunshine",
+    "count": 1
+  },
+  {
+    "tag": "tango",
+    "count": 1
+  },
+  {
+    "tag": "tavern",
+    "count": 1
+  },
+  {
+    "tag": "tech",
+    "count": 1
+  },
+  {
+    "tag": "teen",
+    "count": 1
+  },
+  {
+    "tag": "theme",
+    "count": 1
+  },
+  {
+    "tag": "thrash",
+    "count": 1
+  },
+  {
+    "tag": "time",
+    "count": 1
+  },
+  {
+    "tag": "tonk",
+    "count": 1
+  },
+  {
+    "tag": "track",
+    "count": 1
+  },
+  {
+    "tag": "trailer",
+    "count": 1
+  },
+  {
+    "tag": "trap",
+    "count": 1
+  },
+  {
+    "tag": "trip",
+    "count": 1
+  },
+  {
+    "tag": "tropical",
+    "count": 1
+  },
+  {
+    "tag": "uplift",
+    "count": 1
+  },
+  {
+    "tag": "victory",
+    "count": 1
+  },
+  {
+    "tag": "vocaloid",
+    "count": 1
+  },
+  {
+    "tag": "vocals",
+    "count": 1
+  },
+  {
+    "tag": "wa",
+    "count": 1
+  },
+  {
+    "tag": "wall",
+    "count": 1
+  },
+  {
+    "tag": "water",
+    "count": 1
+  }
+]

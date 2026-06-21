@@ -1,0 +1,21 @@
+SUNO PROMPT COLLECTION NEXT PLAN V01
+
+1. CC0 / explicit-license sources first
+- GitHub repos with clear license
+- Raw markdown via git/API, not HTML scraping
+- Store exact prompt text only when license is confirmed
+
+2. License unclear sources as quarantine
+- Store source title, URL, category, short summary
+- Do not publish full prompt text on public site until license/permission is clear
+
+3. Japanese sources
+- First collect category names and tag vocabulary
+- Then manually review reusable prompt text
+- Add Japanese aliases: J-Pop, アニソン, 演歌, 和楽器, シティポップ, ボーカロイド, 渋谷系
+
+4. Firebase import flow
+- manifest.csv/jsonl -> import script -> Firestore sunoPrompts collection
+- Fields: title, prompt, genreCategory, tags, sourceUrl, licenseStatus
+- Public app reads only safe_cc0 and original_normalized_seed by default
+- Admin screen can show quarantine_unverified for review

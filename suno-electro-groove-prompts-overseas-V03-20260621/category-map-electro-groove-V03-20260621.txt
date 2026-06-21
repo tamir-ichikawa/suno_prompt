@@ -1,0 +1,103 @@
+CATEGORY MAP FOR MANAGEMENT SITE
+Version: V03-20260621
+
+Suggested UI filters:
+- category
+- energy
+- bpm range
+- vocal type
+- guitar present / no guitar
+- groove intensity
+- mood: night drive / club / noir / retro / industrial / sunset
+- exclude flags: no J-pop, no EDM drop, no trap hats, no dubstep, no anime style
+
+## French Touch / Filter House
+Slug: french-touch-filter-house
+Description: Overseas-style electronic groove: disco/funk roots, filtered chords, phaser movement, compressed four-on-the-floor pocket.
+Search tags: french touch, filter house, electro funk, disco house, vocoder, groove
+Typical BPMs: 112, 116, 118, 120, 122, 124, 126, 128
+Useful for: Daft-Punk-like electronic groove expressed safely as French touch/filter house vocabulary.
+
+## Electro-Funk / Robot Disco
+Slug: electro-funk-robot-disco
+Description: Electronic funk with robotic vocal texture, thick bass, syncopated pocket, and danceable mechanical swing.
+Search tags: electro funk, robot disco, vocoder, talkbox, syncopation, bassline
+Typical BPMs: 104, 108, 110, 112, 114, 116, 118, 120
+Useful for: Robot funk, vocoder hooks, mechanical but danceable basslines.
+
+## Nu-Disco / Indie Dance
+Slug: nu-disco-indie-dance
+Description: Modern disco with indie band feel: live-sounding bass, clean guitar, synth hooks, pop structure, and dance pocket.
+Search tags: nu disco, indie dance, disco pop, dance rock, funky bass, clean guitar
+Typical BPMs: 106, 108, 110, 112, 114, 116, 118, 120, 122
+Useful for: Groovy modern disco with live-band feel and clean guitar.
+
+## Synthwave / Outrun / Retrowave
+Slug: synthwave-outrun-retrowave
+Description: Modernized 1980s electronic soundtrack energy: analog arpeggios, drum machines, gated reverb, neon motion.
+Search tags: synthwave, outrun, retrowave, 80s synth, night drive, analog synth
+Typical BPMs: 84, 88, 92, 96, 100, 104, 108, 112, 118, 128
+Useful for: Modern 80s-inspired synth soundtrack, highway pulse, analog arpeggios.
+
+## Neon Noir Night Drive
+Slug: neon-noir-night-drive
+Description: Cinematic 1980s-inspired electronic pop: moody, glossy, restrained, modernized for night-driving scenes.
+Search tags: neon noir, night drive, cinematic synth, retro future, moody electronic, dark pop
+Typical BPMs: 76, 80, 84, 88, 92, 96, 100, 104
+Useful for: Drive-like mood expressed as neon noir/night-drive/cinematic synth terms.
+
+## Darksynth / Cyberpunk Synth
+Slug: darksynth-cyberpunk-synth
+Description: Aggressive dark electronic groove: horror-synth influence, industrial pulse, distorted bass, cyberpunk pressure.
+Search tags: darksynth, cyberpunk, industrial, EBM, horror synth, distorted bass
+Typical BPMs: 92, 96, 100, 104, 108, 112, 118, 124, 128
+Useful for: Dark electronic chase music, cyberpunk, industrial pressure.
+
+## Electro-Rock / Bloghouse / French Electro
+Slug: electro-rock-bloghouse-french-electro
+Description: Dirty electronic rock pressure: distorted synth riffs, indie-rock energy, clipped compression, club-ready drums.
+Search tags: electro rock, bloghouse, french electro, dirty electro, indie dance, distorted synth
+Typical BPMs: 118, 120, 122, 124, 126, 128, 130, 132
+Useful for: Dirty synth riffs, club-rock energy, French-electro/bloghouse style without artist names.
+
+## Italo Disco / Space Disco / Eurodisco
+Slug: italo-disco-space-disco-eurodisco
+Description: Romantic retro electronic disco: arpeggiated bass, glossy synth melodies, spacey pads, modernized low-end.
+Search tags: italo disco, space disco, eurodisco, cosmic disco, arpeggio, retro synth
+Typical BPMs: 108, 112, 116, 120, 124, 126, 128, 132
+Useful for: Retro European synth disco, arpeggiated bass, romantic hooks.
+
+## New Wave / Minimal Wave / Coldwave
+Slug: new-wave-minimal-wave-coldwave
+Description: Cool mechanical electronic post-punk: drum machines, analog synths, chorus guitar, detached vocals, minimal arrangements.
+Search tags: new wave, minimal wave, coldwave, post punk, drum machine, chorus guitar
+Typical BPMs: 88, 92, 96, 100, 104, 108, 112, 118, 124
+Useful for: Cool detached synth post-punk with drum machines and chorus guitar.
+
+## Electronic Post-Punk / Dance-Punk
+Slug: electronic-post-punk-dance-punk
+Description: Bass-led punk-funk and electronic dance-rock: live drums, cowbell/claps, angular guitars, synth stabs.
+Search tags: dance punk, electronic post punk, punk funk, indie dance, bass-led, angular guitar
+Typical BPMs: 112, 116, 118, 120, 122, 124, 126, 128, 132
+Useful for: Bass-led dance-punk, angular guitars, handclaps/cowbell energy.
+
+## Synth-Rock / Dreamwave Rock
+Slug: synth-rock-dreamwave-rock
+Description: Guitar and synth hybrid: cinematic pads, driving drums, emotional vocals, rock energy without becoming metal.
+Search tags: synth rock, dreamwave, neon rock, electronic rock, cinematic rock, retro synth
+Typical BPMs: 88, 92, 96, 100, 104, 108, 112, 118, 124
+Useful for: Guitar+synth hybrid; cinematic modern retro rock.
+
+## EBM / Industrial Dance Groove
+Slug: ebm-industrial-dance-groove
+Description: Mechanical body-music pulse: hard sequenced bass, stomping drums, dark vocals, club utility without EDM gloss.
+Search tags: EBM, industrial dance, body music, dark club, sequencer, machine groove
+Typical BPMs: 112, 116, 120, 122, 124, 126, 128, 130, 132
+Useful for: Dark mechanical club pulse, EBM/industrial body-music groove.
+
+## Balearic Electro / Cosmic Groove
+Slug: balearic-electro-cosmic-groove
+Description: Sunset electronic groove: relaxed disco, soft synths, organic percussion, warm bass, dreamy movement.
+Search tags: balearic, cosmic disco, sunset groove, electro pop, dreamy synth, relaxed dance
+Typical BPMs: 92, 96, 100, 104, 108, 112, 116, 120
+Useful for: Relaxed sunset electronic groove, cosmic disco, dreamy synths.

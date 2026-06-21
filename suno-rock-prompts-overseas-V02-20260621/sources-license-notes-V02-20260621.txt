@@ -1,0 +1,86 @@
+SUNO ROCK PROMPT SOURCES / LICENSE NOTES V02
+Date: 2026-06-21
+
+Policy:
+- CC0 sources can be copied/reworked, but this pack mainly uses original derived prompts.
+- Official help pages and genre pages are used as reference only.
+- Avoid direct artist-name prompting in public prompt libraries; describe sonic traits instead.
+
+ID: SRC-SUNO-STYLE-V45
+TITLE: Suno Help — Create in V4.5: Detailed Style Instructions
+URL: https://help.suno.com/en/articles/5782849
+USE: Suno公式の「会話的で詳細なスタイル指示が有効」という方針を参照。
+LICENSE/USE STATUS: Reference only / do not bulk copy
+---
+ID: SRC-SUNO-SIMPLE
+TITLE: Suno Help — Make a song in Simple Mode
+URL: https://help.suno.com/en/articles/2462273
+USE: ジャンル、楽器、曲構成を説明に入れる考え方を参照。
+LICENSE/USE STATUS: Reference only / do not bulk copy
+---
+ID: SRC-SUNO-CUSTOM-LYRICS
+TITLE: Suno Help — Can I use my own lyrics?
+URL: https://help.suno.com/en/articles/2415873
+USE: Custom Modeで歌詞と詳細コンテキストを分けられる点を参照。
+LICENSE/USE STATUS: Reference only / do not bulk copy
+---
+ID: SRC-SUNO-EXCLUDE
+TITLE: Suno Help — How do I exclude elements of a song?
+URL: https://help.suno.com/en/articles/3161921
+USE: Exclude欄で不要楽器・不要スタイルを指定する運用を参照。
+LICENSE/USE STATUS: Reference only / do not bulk copy
+---
+ID: SRC-SUNO-GLOSSARY
+TITLE: Suno Help — Music Glossary for Suno
+URL: https://help.suno.com/en/articles/9010177
+USE: BPM、syncopation、groove、song structure、production effectsなどの用語整理を参照。
+LICENSE/USE STATUS: Reference only / do not bulk copy
+---
+ID: SRC-AWESOME-SUNO-CC0
+TITLE: GitHub — awesome-suno-prompts / rock.md
+URL: https://github.com/naqashmunir21/awesome-suno-prompts/blob/main/prompts/rock.md
+USE: ロック系プロンプト分類、BPM/Key/Energy/Use Case構成を参考。CC0なので取り込み可能だが本ファイルでは主に派生・再構成。
+LICENSE/USE STATUS: CC0 1.0 Universal
+---
+ID: SRC-FUNK
+TITLE: Funk characteristics
+URL: https://en.wikipedia.org/wiki/Funk
+USE: 強いベースライン、syncopation、interlocking groovesなどgroove設計の参考。
+LICENSE/USE STATUS: Reference / factual genre notes
+---
+ID: SRC-STONER
+TITLE: Stoner rock characteristics
+URL: https://en.wikipedia.org/wiki/Stoner_rock
+USE: slow-to-mid tempo、bass-heavy、distorted、groove-laden、retro productionの語彙参考。
+LICENSE/USE STATUS: Reference / factual genre notes
+---
+ID: SRC-BLUES-ROCK
+TITLE: Blues rock characteristics
+URL: https://en.wikipedia.org/wiki/Blues_rock
+USE: blues structures、electric ensemble、improvisation、boogie jam、riff-oriented soundの参考。
+LICENSE/USE STATUS: Reference / factual genre notes
+---
+ID: SRC-KRAUT-MOTORIK
+TITLE: Krautrock and Motorik rhythm characteristics
+URL: https://en.wikipedia.org/wiki/Krautrock
+USE: motorik、hypnotic minimal rhythms、long-form repetition、texture/droneの参考。
+LICENSE/USE STATUS: Reference / factual genre notes
+---
+ID: SRC-MATH-ROCK
+TITLE: Math rock characteristics
+URL: https://en.wikipedia.org/wiki/Math_rock
+USE: odd time signatures、complex rhythms、counterpoint、through-composed structureの参考。
+LICENSE/USE STATUS: Reference / factual genre notes
+---
+ID: SRC-SHOEGAZE
+TITLE: Shoegaze characteristics
+URL: https://en.wikipedia.org/wiki/Shoegaze
+USE: ethereal soundscapes、obscured vocals、guitar effects/distortionの参考。
+LICENSE/USE STATUS: Reference / factual genre notes
+---
+ID: SRC-NOISE-ROCK
+TITLE: Noise rock characteristics
+URL: https://en.wikipedia.org/wiki/Noise_rock
+USE: extreme distortion、feedback、experimental rock/noise fusionの参考。
+LICENSE/USE STATUS: Reference / factual genre notes
+---

@@ -1,0 +1,38 @@
+SUNO AI PROMPT SOURCES / LICENSE NOTES V01
+Created: 2026-06-21
+
+## SRC001 Suno Help - Detailed Style Instructions
+URL: https://help.suno.com/en/articles/5782849
+Type: official
+License/usage note: Official guidance; use as reference, do not mirror full article
+Notes: V4.5以降は会話的で詳細なStyle指示が有効という公式説明。
+
+## SRC002 Suno Help - Music Glossary
+URL: https://help.suno.com/en/articles/9010177
+Type: official
+License/usage note: Official guidance; use as vocabulary reference
+Notes: BPM、構成、楽器、ボーカル、制作用語の辞書。
+
+## SRC003 Awesome Suno AI Prompts
+URL: https://github.com/naqashmunir21/awesome-suno-prompts
+Type: github
+License/usage note: CC0 1.0 Universal / Public Domain as stated in repo README
+Notes: このパックの exact_cc0 entries は主にここから。
+
+## SRC004 AlijeeWrites best-suno-ai-prompts
+URL: https://github.com/AlijeeWrites/best-suno-ai-prompts
+Type: github
+License/usage note: License unclear from visible repo; keep as source/index only unless permission/license confirmed
+Notes: 170+ジャンルの分類・タグ参考。本文の大量再配布は保留。
+
+## SRC005 SunoAI まとめ Wiki prompt page
+URL: https://ai.suno.jp/prompt/
+Type: japanese_wiki
+License/usage note: License unclear; use as research/reference and verify before reposting prompt text
+Notes: 日本語カテゴリ、和楽器、国、メタタグ、ジャンルの調査先。
+
+## SRC006 Reddit r/SunoAI prompt discussions
+URL: https://www.reddit.com/r/SunoAI/
+Type: community
+License/usage note: Use Reddit API/terms; store URL and short notes rather than republishing comments
+Notes: 成功/失敗談、genre stacking、no vocals等の検証情報。

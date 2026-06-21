@@ -1,0 +1,325 @@
+SUNO ROCK PROMPTS — TOP GROOVE SELECTION V02
+Date: 2026-06-21
+
+This file extracts the most groove-focused prompts from the full collection.
+
+[ROCK-V02-009-1] funk rock / Style prompt only / groove 10/10 / BPM 105 / A Dorian
+Create a funk rock track with syncopated 16th-note groove, strong downbeat, ghost-note snare. Use chicken-scratch muted guitar, wah-wah accents, crunchy chorus chords; slap bass or fingerstyle funk bass, tight dry drums. Lead vocal: charismatic rhythmic vocal, call-and-response backing vocals. Production: dry funk-rock mix, crisp transients, short room reverb. BPM: 105, Key: A Dorian. Make the chorus memorable without becoming generic pop.
+Exclude: EDM drop, trap hats, orchestral strings, smooth jazz polish, Japanese vocals
+
+[ROCK-V02-009-2] funk rock / Detailed arrangement / groove 10/10 / BPM 112 / D Mixolydian
+Create a funk rock song. Intro: establish the groove with drums and bass first. Verse: chicken-scratch muted guitar, wah-wah accents, crunchy chorus chords in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays syncopated 16th-note groove, strong downbeat, ghost-note snare. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: charismatic rhythmic vocal, call-and-response backing vocals. Production: dry funk-rock mix, crisp transients, short room reverb. BPM: 112, Key: D Mixolydian.
+Exclude: EDM drop, trap hats, orchestral strings, smooth jazz polish, Japanese vocals
+
+[ROCK-V02-009-3] funk rock / Raw/live version / groove 10/10 / BPM 117 / E Dorian
+Raw live-band funk rock, no click-perfect feel. The drummer should breathe around the groove: syncopated 16th-note groove, strong downbeat, ghost-note snare. Guitars: chicken-scratch muted guitar, wah-wah accents, crunchy chorus chords. Bass/drums: slap bass or fingerstyle funk bass, tight dry drums. Vocal performance: charismatic rhythmic vocal, call-and-response backing vocals. Keep the mix dry funk-rock mix, crisp transients, short room reverb, with human imperfections, small timing pushes, and real amp grit. BPM: 117, Key: E Dorian.
+Exclude: EDM drop, trap hats, orchestral strings, smooth jazz polish, Japanese vocals
+
+[ROCK-V02-009-4] funk rock / Hook-focused version / groove 10/10 / BPM 121 / A Dorian
+Hook-focused funk rock with a strong guitar or bass motif in the first five seconds. Build around syncopated 16th-note groove, strong downbeat, ghost-note snare; make chicken-scratch muted guitar, wah-wah accents, crunchy chorus chords answer the vocal line. slap bass or fingerstyle funk bass, tight dry drums. Vocal: charismatic rhythmic vocal, call-and-response backing vocals. Production: dry funk-rock mix, crisp transients, short room reverb. Add a short instrumental break after the second chorus. BPM: 121, Key: A Dorian.
+Exclude: EDM drop, trap hats, orchestral strings, smooth jazz polish, Japanese vocals
+
+[ROCK-V02-015-1] wah-wah groove rock / Style prompt only / groove 10/10 / BPM 94 / E minor
+Create a wah-wah groove rock track with laid-back syncopated groove with strong pocket. Use wah-wah rhythm guitar, short distorted lead answers; fat bassline, dry snare ghost notes, kick slightly behind beat. Lead vocal: smoky vocal, loose phrasing, understated grit. Production: analog warmth, close mics, no glossy master. BPM: 94, Key: E minor. Make the chorus memorable without becoming generic pop.
+Exclude: EDM drums, trap hi-hats, Japanese vocals, stadium synths
+
+[ROCK-V02-015-2] wah-wah groove rock / Detailed arrangement / groove 10/10 / BPM 100 / D minor
+Create a wah-wah groove rock song. Intro: establish the groove with drums and bass first. Verse: wah-wah rhythm guitar, short distorted lead answers in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays laid-back syncopated groove with strong pocket. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: smoky vocal, loose phrasing, understated grit. Production: analog warmth, close mics, no glossy master. BPM: 100, Key: D minor.
+Exclude: EDM drums, trap hi-hats, Japanese vocals, stadium synths
+
+[ROCK-V02-015-3] wah-wah groove rock / Raw/live version / groove 10/10 / BPM 104 / A minor
+Raw live-band wah-wah groove rock, no click-perfect feel. The drummer should breathe around the groove: laid-back syncopated groove with strong pocket. Guitars: wah-wah rhythm guitar, short distorted lead answers. Bass/drums: fat bassline, dry snare ghost notes, kick slightly behind beat. Vocal performance: smoky vocal, loose phrasing, understated grit. Keep the mix analog warmth, close mics, no glossy master, with human imperfections, small timing pushes, and real amp grit. BPM: 104, Key: A minor.
+Exclude: EDM drums, trap hi-hats, Japanese vocals, stadium synths
+
+[ROCK-V02-015-4] wah-wah groove rock / Hook-focused version / groove 10/10 / BPM 108 / E minor
+Hook-focused wah-wah groove rock with a strong guitar or bass motif in the first five seconds. Build around laid-back syncopated groove with strong pocket; make wah-wah rhythm guitar, short distorted lead answers answer the vocal line. fat bassline, dry snare ghost notes, kick slightly behind beat. Vocal: smoky vocal, loose phrasing, understated grit. Production: analog warmth, close mics, no glossy master. Add a short instrumental break after the second chorus. BPM: 108, Key: E minor.
+Exclude: EDM drums, trap hi-hats, Japanese vocals, stadium synths
+
+[ROCK-V02-001-1] pocket groove rock / Style prompt only / groove 10/10 / BPM 100 / D minor
+Create a pocket groove rock track with deep in-the-pocket backbeat, ghost-note snare, syncopated bass pushes. Use dry crunchy rhythm guitars with short stabs and bluesy fills; rubbery bassline locked to kick, tight organic drums, minimal fills. Lead vocal: raspy confident male vocal with restrained swagger. Production: warm analog rock mix, close drum room, light tape saturation. BPM: 100, Key: D minor. Make the chorus memorable without becoming generic pop.
+Exclude: EDM drop, trap hi-hats, Japanese vocals, idol-pop brightness, over-polished pop sheen
+
+[ROCK-V02-001-2] pocket groove rock / Detailed arrangement / groove 10/10 / BPM 106 / E minor
+Create a pocket groove rock song. Intro: establish the groove with drums and bass first. Verse: dry crunchy rhythm guitars with short stabs and bluesy fills in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays deep in-the-pocket backbeat, ghost-note snare, syncopated bass pushes. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: raspy confident male vocal with restrained swagger. Production: warm analog rock mix, close drum room, light tape saturation. BPM: 106, Key: E minor.
+Exclude: EDM drop, trap hi-hats, Japanese vocals, idol-pop brightness, over-polished pop sheen
+
+[ROCK-V02-001-3] pocket groove rock / Raw/live version / groove 10/10 / BPM 110 / A minor
+Raw live-band pocket groove rock, no click-perfect feel. The drummer should breathe around the groove: deep in-the-pocket backbeat, ghost-note snare, syncopated bass pushes. Guitars: dry crunchy rhythm guitars with short stabs and bluesy fills. Bass/drums: rubbery bassline locked to kick, tight organic drums, minimal fills. Vocal performance: raspy confident male vocal with restrained swagger. Keep the mix warm analog rock mix, close drum room, light tape saturation, with human imperfections, small timing pushes, and real amp grit. BPM: 110, Key: A minor.
+Exclude: EDM drop, trap hi-hats, Japanese vocals, idol-pop brightness, over-polished pop sheen
+
+[ROCK-V02-001-4] pocket groove rock / Hook-focused version / groove 10/10 / BPM 114 / D minor
+Hook-focused pocket groove rock with a strong guitar or bass motif in the first five seconds. Build around deep in-the-pocket backbeat, ghost-note snare, syncopated bass pushes; make dry crunchy rhythm guitars with short stabs and bluesy fills answer the vocal line. rubbery bassline locked to kick, tight organic drums, minimal fills. Vocal: raspy confident male vocal with restrained swagger. Production: warm analog rock mix, close drum room, light tape saturation. Add a short instrumental break after the second chorus. BPM: 114, Key: D minor.
+Exclude: EDM drop, trap hi-hats, Japanese vocals, idol-pop brightness, over-polished pop sheen
+
+[ROCK-V02-019-1] boogie rock / Style prompt only / groove 9/10 / BPM 118 / D major
+Create a boogie rock track with driving boogie shuffle, constant eighth-note engine. Use chunky blues-rock riffs, slide guitar responses; walking boogie bass, snare on two and four, piano optional. Lead vocal: rowdy barroom vocal, gang shouts on hook. Production: live club mix, gritty amps, minimal overdubs. BPM: 118, Key: D major. Make the chorus memorable without becoming generic pop.
+Exclude: EDM, trap drums, lush orchestration, Japanese vocals
+
+[ROCK-V02-019-2] boogie rock / Detailed arrangement / groove 9/10 / BPM 126 / E major
+Create a boogie rock song. Intro: establish the groove with drums and bass first. Verse: chunky blues-rock riffs, slide guitar responses in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays driving boogie shuffle, constant eighth-note engine. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: rowdy barroom vocal, gang shouts on hook. Production: live club mix, gritty amps, minimal overdubs. BPM: 126, Key: E major.
+Exclude: EDM, trap drums, lush orchestration, Japanese vocals
+
+[ROCK-V02-019-3] boogie rock / Raw/live version / groove 9/10 / BPM 132 / A major
+Raw live-band boogie rock, no click-perfect feel. The drummer should breathe around the groove: driving boogie shuffle, constant eighth-note engine. Guitars: chunky blues-rock riffs, slide guitar responses. Bass/drums: walking boogie bass, snare on two and four, piano optional. Vocal performance: rowdy barroom vocal, gang shouts on hook. Keep the mix live club mix, gritty amps, minimal overdubs, with human imperfections, small timing pushes, and real amp grit. BPM: 132, Key: A major.
+Exclude: EDM, trap drums, lush orchestration, Japanese vocals
+
+[ROCK-V02-019-4] boogie rock / Hook-focused version / groove 9/10 / BPM 136 / D major
+Hook-focused boogie rock with a strong guitar or bass motif in the first five seconds. Build around driving boogie shuffle, constant eighth-note engine; make chunky blues-rock riffs, slide guitar responses answer the vocal line. walking boogie bass, snare on two and four, piano optional. Vocal: rowdy barroom vocal, gang shouts on hook. Production: live club mix, gritty amps, minimal overdubs. Add a short instrumental break after the second chorus. BPM: 136, Key: D major.
+Exclude: EDM, trap drums, lush orchestration, Japanese vocals
+
+[ROCK-V02-027-1] desert rock / Style prompt only / groove 9/10 / BPM 94 / D minor
+Create a desert rock track with wide-open mid-tempo desert groove, tom accents, steady pulse. Use fuzz riffs, wah leads, octave guitar hooks; bass-heavy low end, dry drums, cymbals dusty and wide. Lead vocal: melodic but weathered vocal, distant harmonies. Production: sun-baked analog mix, roomy guitars, gritty saturation. BPM: 94, Key: D minor. Make the chorus memorable without becoming generic pop.
+Exclude: EDM, trap hats, polished pop, Japanese vocals, orchestral strings
+
+[ROCK-V02-027-2] desert rock / Detailed arrangement / groove 9/10 / BPM 101 / E minor
+Create a desert rock song. Intro: establish the groove with drums and bass first. Verse: fuzz riffs, wah leads, octave guitar hooks in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays wide-open mid-tempo desert groove, tom accents, steady pulse. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: melodic but weathered vocal, distant harmonies. Production: sun-baked analog mix, roomy guitars, gritty saturation. BPM: 101, Key: E minor.
+Exclude: EDM, trap hats, polished pop, Japanese vocals, orchestral strings
+
+[ROCK-V02-027-3] desert rock / Raw/live version / groove 9/10 / BPM 106 / C minor
+Raw live-band desert rock, no click-perfect feel. The drummer should breathe around the groove: wide-open mid-tempo desert groove, tom accents, steady pulse. Guitars: fuzz riffs, wah leads, octave guitar hooks. Bass/drums: bass-heavy low end, dry drums, cymbals dusty and wide. Vocal performance: melodic but weathered vocal, distant harmonies. Keep the mix sun-baked analog mix, roomy guitars, gritty saturation, with human imperfections, small timing pushes, and real amp grit. BPM: 106, Key: C minor.
+Exclude: EDM, trap hats, polished pop, Japanese vocals, orchestral strings
+
+[ROCK-V02-027-4] desert rock / Hook-focused version / groove 9/10 / BPM 110 / D minor
+Hook-focused desert rock with a strong guitar or bass motif in the first five seconds. Build around wide-open mid-tempo desert groove, tom accents, steady pulse; make fuzz riffs, wah leads, octave guitar hooks answer the vocal line. bass-heavy low end, dry drums, cymbals dusty and wide. Vocal: melodic but weathered vocal, distant harmonies. Production: sun-baked analog mix, roomy guitars, gritty saturation. Add a short instrumental break after the second chorus. BPM: 110, Key: D minor.
+Exclude: EDM, trap hats, polished pop, Japanese vocals, orchestral strings
+
+[ROCK-V02-028-1] stoner rock / Style prompt only / groove 9/10 / BPM 78 / D minor
+Create a stoner rock track with slow-to-mid tempo heavy pocket, lazy but massive backbeat. Use thick fuzz riffs, down-tuned guitars, long sustained bends; monolithic bass tone, heavy kick, roomy snare. Lead vocal: laid-back melodic vocal, slightly buried in mix. Production: retro production, tape saturation, massive low mids. BPM: 78, Key: D minor. Make the chorus memorable without becoming generic pop.
+Exclude: blast beats, EDM, trap hats, shiny pop vocals, Japanese vocals
+
+[ROCK-V02-028-2] stoner rock / Detailed arrangement / groove 9/10 / BPM 86 / C minor
+Create a stoner rock song. Intro: establish the groove with drums and bass first. Verse: thick fuzz riffs, down-tuned guitars, long sustained bends in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays slow-to-mid tempo heavy pocket, lazy but massive backbeat. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: laid-back melodic vocal, slightly buried in mix. Production: retro production, tape saturation, massive low mids. BPM: 86, Key: C minor.
+Exclude: blast beats, EDM, trap hats, shiny pop vocals, Japanese vocals
+
+[ROCK-V02-028-3] stoner rock / Raw/live version / groove 9/10 / BPM 92 / Drop C
+Raw live-band stoner rock, no click-perfect feel. The drummer should breathe around the groove: slow-to-mid tempo heavy pocket, lazy but massive backbeat. Guitars: thick fuzz riffs, down-tuned guitars, long sustained bends. Bass/drums: monolithic bass tone, heavy kick, roomy snare. Vocal performance: laid-back melodic vocal, slightly buried in mix. Keep the mix retro production, tape saturation, massive low mids, with human imperfections, small timing pushes, and real amp grit. BPM: 92, Key: Drop C.
+Exclude: blast beats, EDM, trap hats, shiny pop vocals, Japanese vocals
+
+[ROCK-V02-028-4] stoner rock / Hook-focused version / groove 9/10 / BPM 96 / D minor
+Hook-focused stoner rock with a strong guitar or bass motif in the first five seconds. Build around slow-to-mid tempo heavy pocket, lazy but massive backbeat; make thick fuzz riffs, down-tuned guitars, long sustained bends answer the vocal line. monolithic bass tone, heavy kick, roomy snare. Vocal: laid-back melodic vocal, slightly buried in mix. Production: retro production, tape saturation, massive low mids. Add a short instrumental break after the second chorus. BPM: 96, Key: D minor.
+Exclude: blast beats, EDM, trap hats, shiny pop vocals, Japanese vocals
+
+[ROCK-V02-011-1] dance-punk / Style prompt only / groove 9/10 / BPM 126 / D minor
+Create a dance-punk track with disco-influenced hi-hat, live snare, relentless kick pulse. Use thin angular guitar scratches, sharp stabs, no big solo; rubbery bass riff as main hook, dry tight drums. Lead vocal: cool detached vocal, shouted group chorus. Production: raw indie-club mix, bass forward, guitars wiry. BPM: 126, Key: D minor. Make the chorus memorable without becoming generic pop.
+Exclude: EDM drop, polished pop diva vocals, metal chugs, Japanese vocals
+
+[ROCK-V02-011-2] dance-punk / Detailed arrangement / groove 9/10 / BPM 131 / A minor
+Create a dance-punk song. Intro: establish the groove with drums and bass first. Verse: thin angular guitar scratches, sharp stabs, no big solo in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays disco-influenced hi-hat, live snare, relentless kick pulse. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: cool detached vocal, shouted group chorus. Production: raw indie-club mix, bass forward, guitars wiry. BPM: 131, Key: A minor.
+Exclude: EDM drop, polished pop diva vocals, metal chugs, Japanese vocals
+
+[ROCK-V02-011-3] dance-punk / Raw/live version / groove 9/10 / BPM 135 / E minor
+Raw live-band dance-punk, no click-perfect feel. The drummer should breathe around the groove: disco-influenced hi-hat, live snare, relentless kick pulse. Guitars: thin angular guitar scratches, sharp stabs, no big solo. Bass/drums: rubbery bass riff as main hook, dry tight drums. Vocal performance: cool detached vocal, shouted group chorus. Keep the mix raw indie-club mix, bass forward, guitars wiry, with human imperfections, small timing pushes, and real amp grit. BPM: 135, Key: E minor.
+Exclude: EDM drop, polished pop diva vocals, metal chugs, Japanese vocals
+
+[ROCK-V02-011-4] dance-punk / Hook-focused version / groove 9/10 / BPM 138 / D minor
+Hook-focused dance-punk with a strong guitar or bass motif in the first five seconds. Build around disco-influenced hi-hat, live snare, relentless kick pulse; make thin angular guitar scratches, sharp stabs, no big solo answer the vocal line. rubbery bass riff as main hook, dry tight drums. Vocal: cool detached vocal, shouted group chorus. Production: raw indie-club mix, bass forward, guitars wiry. Add a short instrumental break after the second chorus. BPM: 138, Key: D minor.
+Exclude: EDM drop, polished pop diva vocals, metal chugs, Japanese vocals
+
+[ROCK-V02-010-1] funk metal / Style prompt only / groove 9/10 / BPM 102 / Drop D
+Create a funk metal track with heavy syncopated groove, stop-start accents, half-time breakdown. Use down-tuned distorted riffs mixed with percussive muted guitar; slap bass through distortion, punchy kick, tight snare ghost notes. Lead vocal: aggressive shouted-sung vocal, occasional gang response. Production: tight modern heavy mix, gated low end, raw midrange. BPM: 102, Key: Drop D. Make the chorus memorable without becoming generic pop.
+Exclude: blast beats, death growls, EDM synth lead, Japanese vocals
+
+[ROCK-V02-010-2] funk metal / Detailed arrangement / groove 9/10 / BPM 109 / E minor
+Create a funk metal song. Intro: establish the groove with drums and bass first. Verse: down-tuned distorted riffs mixed with percussive muted guitar in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays heavy syncopated groove, stop-start accents, half-time breakdown. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: aggressive shouted-sung vocal, occasional gang response. Production: tight modern heavy mix, gated low end, raw midrange. BPM: 109, Key: E minor.
+Exclude: blast beats, death growls, EDM synth lead, Japanese vocals
+
+[ROCK-V02-010-3] funk metal / Raw/live version / groove 9/10 / BPM 114 / F# minor
+Raw live-band funk metal, no click-perfect feel. The drummer should breathe around the groove: heavy syncopated groove, stop-start accents, half-time breakdown. Guitars: down-tuned distorted riffs mixed with percussive muted guitar. Bass/drums: slap bass through distortion, punchy kick, tight snare ghost notes. Vocal performance: aggressive shouted-sung vocal, occasional gang response. Keep the mix tight modern heavy mix, gated low end, raw midrange, with human imperfections, small timing pushes, and real amp grit. BPM: 114, Key: F# minor.
+Exclude: blast beats, death growls, EDM synth lead, Japanese vocals
+
+[ROCK-V02-010-4] funk metal / Hook-focused version / groove 9/10 / BPM 118 / Drop D
+Hook-focused funk metal with a strong guitar or bass motif in the first five seconds. Build around heavy syncopated groove, stop-start accents, half-time breakdown; make down-tuned distorted riffs mixed with percussive muted guitar answer the vocal line. slap bass through distortion, punchy kick, tight snare ghost notes. Vocal: aggressive shouted-sung vocal, occasional gang response. Production: tight modern heavy mix, gated low end, raw midrange. Add a short instrumental break after the second chorus. BPM: 118, Key: Drop D.
+Exclude: blast beats, death growls, EDM synth lead, Japanese vocals
+
+[ROCK-V02-012-1] post-punk funk / Style prompt only / groove 9/10 / BPM 120 / B minor
+Create a post-punk funk track with tight danceable backbeat, syncopated bass accents, restrained fills. Use scratchy clean guitar, dissonant stabs, delay throws; prominent melodic bass, dry kick/snare, percussion claps. Lead vocal: monotone or nervous vocal, call-and-response lines. Production: dry, minimal, art-school production with roomy drums. BPM: 120, Key: B minor. Make the chorus memorable without becoming generic pop.
+Exclude: arena rock soloing, lush synthpop, trap drums, Japanese vocals
+
+[ROCK-V02-012-2] post-punk funk / Detailed arrangement / groove 9/10 / BPM 124 / D minor
+Create a post-punk funk song. Intro: establish the groove with drums and bass first. Verse: scratchy clean guitar, dissonant stabs, delay throws in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays tight danceable backbeat, syncopated bass accents, restrained fills. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: monotone or nervous vocal, call-and-response lines. Production: dry, minimal, art-school production with roomy drums. BPM: 124, Key: D minor.
+Exclude: arena rock soloing, lush synthpop, trap drums, Japanese vocals
+
+[ROCK-V02-012-3] post-punk funk / Raw/live version / groove 9/10 / BPM 128 / A minor
+Raw live-band post-punk funk, no click-perfect feel. The drummer should breathe around the groove: tight danceable backbeat, syncopated bass accents, restrained fills. Guitars: scratchy clean guitar, dissonant stabs, delay throws. Bass/drums: prominent melodic bass, dry kick/snare, percussion claps. Vocal performance: monotone or nervous vocal, call-and-response lines. Keep the mix dry, minimal, art-school production with roomy drums, with human imperfections, small timing pushes, and real amp grit. BPM: 128, Key: A minor.
+Exclude: arena rock soloing, lush synthpop, trap drums, Japanese vocals
+
+[ROCK-V02-012-4] post-punk funk / Hook-focused version / groove 9/10 / BPM 130 / B minor
+Hook-focused post-punk funk with a strong guitar or bass motif in the first five seconds. Build around tight danceable backbeat, syncopated bass accents, restrained fills; make scratchy clean guitar, dissonant stabs, delay throws answer the vocal line. prominent melodic bass, dry kick/snare, percussion claps. Vocal: monotone or nervous vocal, call-and-response lines. Production: dry, minimal, art-school production with roomy drums. Add a short instrumental break after the second chorus. BPM: 130, Key: B minor.
+Exclude: arena rock soloing, lush synthpop, trap drums, Japanese vocals
+
+[ROCK-V02-013-1] psychedelic funk rock / Style prompt only / groove 9/10 / BPM 99 / C minor
+Create a psychedelic funk rock track with loose syncopated groove, swung 16ths, percussion pockets. Use wah-wah guitar, fuzz leads, phase-shifted rhythm layers; round bass vamp, organic drums, congas tucked low. Lead vocal: soulful raspy vocal, group shouts in chorus. Production: 70s tape warmth, phaser, spring reverb, smoky stereo field. BPM: 99, Key: C minor. Make the chorus memorable without becoming generic pop.
+Exclude: EDM, trap hats, clean digital pop, Japanese vocals
+
+[ROCK-V02-013-2] psychedelic funk rock / Detailed arrangement / groove 9/10 / BPM 105 / E Mixolydian
+Create a psychedelic funk rock song. Intro: establish the groove with drums and bass first. Verse: wah-wah guitar, fuzz leads, phase-shifted rhythm layers in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays loose syncopated groove, swung 16ths, percussion pockets. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: soulful raspy vocal, group shouts in chorus. Production: 70s tape warmth, phaser, spring reverb, smoky stereo field. BPM: 105, Key: E Mixolydian.
+Exclude: EDM, trap hats, clean digital pop, Japanese vocals
+
+[ROCK-V02-013-3] psychedelic funk rock / Raw/live version / groove 9/10 / BPM 110 / A Dorian
+Raw live-band psychedelic funk rock, no click-perfect feel. The drummer should breathe around the groove: loose syncopated groove, swung 16ths, percussion pockets. Guitars: wah-wah guitar, fuzz leads, phase-shifted rhythm layers. Bass/drums: round bass vamp, organic drums, congas tucked low. Vocal performance: soulful raspy vocal, group shouts in chorus. Keep the mix 70s tape warmth, phaser, spring reverb, smoky stereo field, with human imperfections, small timing pushes, and real amp grit. BPM: 110, Key: A Dorian.
+Exclude: EDM, trap hats, clean digital pop, Japanese vocals
+
+[ROCK-V02-013-4] psychedelic funk rock / Hook-focused version / groove 9/10 / BPM 113 / C minor
+Hook-focused psychedelic funk rock with a strong guitar or bass motif in the first five seconds. Build around loose syncopated groove, swung 16ths, percussion pockets; make wah-wah guitar, fuzz leads, phase-shifted rhythm layers answer the vocal line. round bass vamp, organic drums, congas tucked low. Vocal: soulful raspy vocal, group shouts in chorus. Production: 70s tape warmth, phaser, spring reverb, smoky stereo field. Add a short instrumental break after the second chorus. BPM: 113, Key: C minor.
+Exclude: EDM, trap hats, clean digital pop, Japanese vocals
+
+[ROCK-V02-014-1] slap-bass alt-rock / Style prompt only / groove 9/10 / BPM 109 / E minor
+Create a slap-bass alt-rock track with syncopated bass-led groove with dry backbeat. Use clean muted verses, distorted chorus riffs, whammy accents; slap bass drives verses, heavy pick bass in chorus. Lead vocal: energetic male vocal, raw backing responses. Production: modern alt-rock with funk low-end clarity. BPM: 109, Key: E minor. Make the chorus memorable without becoming generic pop.
+Exclude: EDM drop, pop-punk gloss, Japanese vocals, orchestral strings
+
+[ROCK-V02-014-2] slap-bass alt-rock / Detailed arrangement / groove 9/10 / BPM 116 / G minor
+Create a slap-bass alt-rock song. Intro: establish the groove with drums and bass first. Verse: clean muted verses, distorted chorus riffs, whammy accents in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays syncopated bass-led groove with dry backbeat. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: energetic male vocal, raw backing responses. Production: modern alt-rock with funk low-end clarity. BPM: 116, Key: G minor.
+Exclude: EDM drop, pop-punk gloss, Japanese vocals, orchestral strings
+
+[ROCK-V02-014-3] slap-bass alt-rock / Raw/live version / groove 9/10 / BPM 121 / B minor
+Raw live-band slap-bass alt-rock, no click-perfect feel. The drummer should breathe around the groove: syncopated bass-led groove with dry backbeat. Guitars: clean muted verses, distorted chorus riffs, whammy accents. Bass/drums: slap bass drives verses, heavy pick bass in chorus. Vocal performance: energetic male vocal, raw backing responses. Keep the mix modern alt-rock with funk low-end clarity, with human imperfections, small timing pushes, and real amp grit. BPM: 121, Key: B minor.
+Exclude: EDM drop, pop-punk gloss, Japanese vocals, orchestral strings
+
+[ROCK-V02-014-4] slap-bass alt-rock / Hook-focused version / groove 9/10 / BPM 125 / E minor
+Hook-focused slap-bass alt-rock with a strong guitar or bass motif in the first five seconds. Build around syncopated bass-led groove with dry backbeat; make clean muted verses, distorted chorus riffs, whammy accents answer the vocal line. slap bass drives verses, heavy pick bass in chorus. Vocal: energetic male vocal, raw backing responses. Production: modern alt-rock with funk low-end clarity. Add a short instrumental break after the second chorus. BPM: 125, Key: E minor.
+Exclude: EDM drop, pop-punk gloss, Japanese vocals, orchestral strings
+
+[ROCK-V02-005-1] bassline-led alternative rock / Style prompt only / groove 9/10 / BPM 105 / B minor
+Create a bassline-led alternative rock track with bass riff starts first, drums enter with locked mid-tempo groove. Use angular guitars answer the bass, chorus opens into wide distortion; melodic bass as hook, natural kit, tight tom accents. Lead vocal: detached verse vocal, bigger emotional chorus. Production: dark modern alt-rock mix, gritty low mids, controlled ambience. BPM: 105, Key: B minor. Make the chorus memorable without becoming generic pop.
+Exclude: bright pop-punk, synthwave lead, rap flow, Japanese vocals
+
+[ROCK-V02-005-2] bassline-led alternative rock / Detailed arrangement / groove 9/10 / BPM 111 / C# minor
+Create a bassline-led alternative rock song. Intro: establish the groove with drums and bass first. Verse: angular guitars answer the bass, chorus opens into wide distortion in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays bass riff starts first, drums enter with locked mid-tempo groove. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: detached verse vocal, bigger emotional chorus. Production: dark modern alt-rock mix, gritty low mids, controlled ambience. BPM: 111, Key: C# minor.
+Exclude: bright pop-punk, synthwave lead, rap flow, Japanese vocals
+
+[ROCK-V02-005-3] bassline-led alternative rock / Raw/live version / groove 9/10 / BPM 116 / E minor
+Raw live-band bassline-led alternative rock, no click-perfect feel. The drummer should breathe around the groove: bass riff starts first, drums enter with locked mid-tempo groove. Guitars: angular guitars answer the bass, chorus opens into wide distortion. Bass/drums: melodic bass as hook, natural kit, tight tom accents. Vocal performance: detached verse vocal, bigger emotional chorus. Keep the mix dark modern alt-rock mix, gritty low mids, controlled ambience, with human imperfections, small timing pushes, and real amp grit. BPM: 116, Key: E minor.
+Exclude: bright pop-punk, synthwave lead, rap flow, Japanese vocals
+
+[ROCK-V02-005-4] bassline-led alternative rock / Hook-focused version / groove 9/10 / BPM 119 / B minor
+Hook-focused bassline-led alternative rock with a strong guitar or bass motif in the first five seconds. Build around bass riff starts first, drums enter with locked mid-tempo groove; make angular guitars answer the bass, chorus opens into wide distortion answer the vocal line. melodic bass as hook, natural kit, tight tom accents. Vocal: detached verse vocal, bigger emotional chorus. Production: dark modern alt-rock mix, gritty low mids, controlled ambience. Add a short instrumental break after the second chorus. BPM: 119, Key: B minor.
+Exclude: bright pop-punk, synthwave lead, rap flow, Japanese vocals
+
+[ROCK-V02-004-1] heavy dance-rock / Style prompt only / groove 9/10 / BPM 122 / A minor
+Create a heavy dance-rock track with four-on-floor kick with live rock snare, danceable hi-hat pulse. Use scratchy funk-rock guitars plus distorted chorus power chords; driving octave bass, tight kick, tambourine accents. Lead vocal: urgent shouted-sung vocal with gang hooks. Production: club-sized rock mix, dry verses, explosive chorus reverb. BPM: 122, Key: A minor. Make the chorus memorable without becoming generic pop.
+Exclude: house piano, EDM drop, trap drums, overly electronic lead synth
+
+[ROCK-V02-004-2] heavy dance-rock / Detailed arrangement / groove 9/10 / BPM 126 / D minor
+Create a heavy dance-rock song. Intro: establish the groove with drums and bass first. Verse: scratchy funk-rock guitars plus distorted chorus power chords in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays four-on-floor kick with live rock snare, danceable hi-hat pulse. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: urgent shouted-sung vocal with gang hooks. Production: club-sized rock mix, dry verses, explosive chorus reverb. BPM: 126, Key: D minor.
+Exclude: house piano, EDM drop, trap drums, overly electronic lead synth
+
+[ROCK-V02-004-3] heavy dance-rock / Raw/live version / groove 9/10 / BPM 130 / E minor
+Raw live-band heavy dance-rock, no click-perfect feel. The drummer should breathe around the groove: four-on-floor kick with live rock snare, danceable hi-hat pulse. Guitars: scratchy funk-rock guitars plus distorted chorus power chords. Bass/drums: driving octave bass, tight kick, tambourine accents. Vocal performance: urgent shouted-sung vocal with gang hooks. Keep the mix club-sized rock mix, dry verses, explosive chorus reverb, with human imperfections, small timing pushes, and real amp grit. BPM: 130, Key: E minor.
+Exclude: house piano, EDM drop, trap drums, overly electronic lead synth
+
+[ROCK-V02-004-4] heavy dance-rock / Hook-focused version / groove 9/10 / BPM 132 / A minor
+Hook-focused heavy dance-rock with a strong guitar or bass motif in the first five seconds. Build around four-on-floor kick with live rock snare, danceable hi-hat pulse; make scratchy funk-rock guitars plus distorted chorus power chords answer the vocal line. driving octave bass, tight kick, tambourine accents. Vocal: urgent shouted-sung vocal with gang hooks. Production: club-sized rock mix, dry verses, explosive chorus reverb. Add a short instrumental break after the second chorus. BPM: 132, Key: A minor.
+Exclude: house piano, EDM drop, trap drums, overly electronic lead synth
+
+[ROCK-V02-003-1] swagger blues-groove rock / Style prompt only / groove 9/10 / BPM 97 / E major
+Create a swagger blues-groove rock track with shuffle-influenced 4/4, lazy snare pocket, swinging 16ths. Use tube-amp blues riffs, slide guitar fills, short call-and-response licks; walking bass fragments with kick-snare lock, live room drums. Lead vocal: smoky raspy lead vocal, loose backing shouts. Production: vintage console warmth, spring reverb, tape slapback. BPM: 97, Key: E major. Make the chorus memorable without becoming generic pop.
+Exclude: metal double-kick, EDM bass, clean corporate pop, Japanese vocals
+
+[ROCK-V02-003-2] swagger blues-groove rock / Detailed arrangement / groove 9/10 / BPM 103 / G major
+Create a swagger blues-groove rock song. Intro: establish the groove with drums and bass first. Verse: tube-amp blues riffs, slide guitar fills, short call-and-response licks in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays shuffle-influenced 4/4, lazy snare pocket, swinging 16ths. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: smoky raspy lead vocal, loose backing shouts. Production: vintage console warmth, spring reverb, tape slapback. BPM: 103, Key: G major.
+Exclude: metal double-kick, EDM bass, clean corporate pop, Japanese vocals
+
+[ROCK-V02-003-3] swagger blues-groove rock / Raw/live version / groove 9/10 / BPM 108 / A major
+Raw live-band swagger blues-groove rock, no click-perfect feel. The drummer should breathe around the groove: shuffle-influenced 4/4, lazy snare pocket, swinging 16ths. Guitars: tube-amp blues riffs, slide guitar fills, short call-and-response licks. Bass/drums: walking bass fragments with kick-snare lock, live room drums. Vocal performance: smoky raspy lead vocal, loose backing shouts. Keep the mix vintage console warmth, spring reverb, tape slapback, with human imperfections, small timing pushes, and real amp grit. BPM: 108, Key: A major.
+Exclude: metal double-kick, EDM bass, clean corporate pop, Japanese vocals
+
+[ROCK-V02-003-4] swagger blues-groove rock / Hook-focused version / groove 9/10 / BPM 111 / E major
+Hook-focused swagger blues-groove rock with a strong guitar or bass motif in the first five seconds. Build around shuffle-influenced 4/4, lazy snare pocket, swinging 16ths; make tube-amp blues riffs, slide guitar fills, short call-and-response licks answer the vocal line. walking bass fragments with kick-snare lock, live room drums. Vocal: smoky raspy lead vocal, loose backing shouts. Production: vintage console warmth, spring reverb, tape slapback. Add a short instrumental break after the second chorus. BPM: 111, Key: E major.
+Exclude: metal double-kick, EDM bass, clean corporate pop, Japanese vocals
+
+[ROCK-V02-002-1] syncopated riff rock / Style prompt only / groove 9/10 / BPM 112 / E minor
+Create a syncopated riff rock track with off-beat accents, push-pull guitar rhythm, half-time chorus option. Use palm-muted low-string riffs alternating with open chord hits; busy but controlled bass accents, dry punchy snare, kick on unexpected pushes. Lead vocal: gritty melodic vocal, slightly behind the beat. Production: modern but organic mix, guitars wide, drums centered. BPM: 112, Key: E minor. Make the chorus memorable without becoming generic pop.
+Exclude: synth-pop gloss, EDM builds, orchestral strings, rap verses
+
+[ROCK-V02-002-2] syncopated riff rock / Detailed arrangement / groove 9/10 / BPM 118 / F# minor
+Create a syncopated riff rock song. Intro: establish the groove with drums and bass first. Verse: palm-muted low-string riffs alternating with open chord hits in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays off-beat accents, push-pull guitar rhythm, half-time chorus option. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: gritty melodic vocal, slightly behind the beat. Production: modern but organic mix, guitars wide, drums centered. BPM: 118, Key: F# minor.
+Exclude: synth-pop gloss, EDM builds, orchestral strings, rap verses
+
+[ROCK-V02-002-3] syncopated riff rock / Raw/live version / groove 9/10 / BPM 122 / B minor
+Raw live-band syncopated riff rock, no click-perfect feel. The drummer should breathe around the groove: off-beat accents, push-pull guitar rhythm, half-time chorus option. Guitars: palm-muted low-string riffs alternating with open chord hits. Bass/drums: busy but controlled bass accents, dry punchy snare, kick on unexpected pushes. Vocal performance: gritty melodic vocal, slightly behind the beat. Keep the mix modern but organic mix, guitars wide, drums centered, with human imperfections, small timing pushes, and real amp grit. BPM: 122, Key: B minor.
+Exclude: synth-pop gloss, EDM builds, orchestral strings, rap verses
+
+[ROCK-V02-002-4] syncopated riff rock / Hook-focused version / groove 9/10 / BPM 126 / E minor
+Hook-focused syncopated riff rock with a strong guitar or bass motif in the first five seconds. Build around off-beat accents, push-pull guitar rhythm, half-time chorus option; make palm-muted low-string riffs alternating with open chord hits answer the vocal line. busy but controlled bass accents, dry punchy snare, kick on unexpected pushes. Vocal: gritty melodic vocal, slightly behind the beat. Production: modern but organic mix, guitars wide, drums centered. Add a short instrumental break after the second chorus. BPM: 126, Key: E minor.
+Exclude: synth-pop gloss, EDM builds, orchestral strings, rap verses
+
+[ROCK-V02-037-1] alternative rock edge / Style prompt only / groove 8/10 / BPM 117 / E minor
+Create a alternative rock edge track with driving rhythm with off-kilter accents. Use angular guitars, chorus distortion, textured delays; melodic bass counterline, crisp drums. Lead vocal: tense verse vocal, open-throated chorus. Production: modern alt-rock mix, guitars layered but not polished. BPM: 117, Key: E minor. Make the chorus memorable without becoming generic pop.
+Exclude: EDM, trap hats, Japanese vocals, arena rock cliches
+
+[ROCK-V02-037-2] alternative rock edge / Detailed arrangement / groove 8/10 / BPM 124 / A minor
+Create a alternative rock edge song. Intro: establish the groove with drums and bass first. Verse: angular guitars, chorus distortion, textured delays in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays driving rhythm with off-kilter accents. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: tense verse vocal, open-throated chorus. Production: modern alt-rock mix, guitars layered but not polished. BPM: 124, Key: A minor.
+Exclude: EDM, trap hats, Japanese vocals, arena rock cliches
+
+[ROCK-V02-037-3] alternative rock edge / Raw/live version / groove 8/10 / BPM 129 / B minor
+Raw live-band alternative rock edge, no click-perfect feel. The drummer should breathe around the groove: driving rhythm with off-kilter accents. Guitars: angular guitars, chorus distortion, textured delays. Bass/drums: melodic bass counterline, crisp drums. Vocal performance: tense verse vocal, open-throated chorus. Keep the mix modern alt-rock mix, guitars layered but not polished, with human imperfections, small timing pushes, and real amp grit. BPM: 129, Key: B minor.
+Exclude: EDM, trap hats, Japanese vocals, arena rock cliches
+
+[ROCK-V02-037-4] alternative rock edge / Hook-focused version / groove 8/10 / BPM 133 / E minor
+Hook-focused alternative rock edge with a strong guitar or bass motif in the first five seconds. Build around driving rhythm with off-kilter accents; make angular guitars, chorus distortion, textured delays answer the vocal line. melodic bass counterline, crisp drums. Vocal: tense verse vocal, open-throated chorus. Production: modern alt-rock mix, guitars layered but not polished. Add a short instrumental break after the second chorus. BPM: 133, Key: E minor.
+Exclude: EDM, trap hats, Japanese vocals, arena rock cliches
+
+[ROCK-V02-035-1] grunge / Style prompt only / groove 8/10 / BPM 92 / D minor
+Create a grunge track with loose heavy backbeat, quiet verse then explosive chorus. Use clean arpeggios in verse, sludgy distortion in chorus; gritty bass, natural drums, cymbal wash. Lead vocal: raw anguished vocal, whisper-to-shout dynamics. Production: analog grit, room drums, feedback transitions. BPM: 92, Key: D minor. Make the chorus memorable without becoming generic pop.
+Exclude: EDM, trap drums, glossy pop tuning, Japanese vocals
+
+[ROCK-V02-035-2] grunge / Detailed arrangement / groove 8/10 / BPM 100 / E minor
+Create a grunge song. Intro: establish the groove with drums and bass first. Verse: clean arpeggios in verse, sludgy distortion in chorus in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays loose heavy backbeat, quiet verse then explosive chorus. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: raw anguished vocal, whisper-to-shout dynamics. Production: analog grit, room drums, feedback transitions. BPM: 100, Key: E minor.
+Exclude: EDM, trap drums, glossy pop tuning, Japanese vocals
+
+[ROCK-V02-035-3] grunge / Raw/live version / groove 8/10 / BPM 107 / Drop D
+Raw live-band grunge, no click-perfect feel. The drummer should breathe around the groove: loose heavy backbeat, quiet verse then explosive chorus. Guitars: clean arpeggios in verse, sludgy distortion in chorus. Bass/drums: gritty bass, natural drums, cymbal wash. Vocal performance: raw anguished vocal, whisper-to-shout dynamics. Keep the mix analog grit, room drums, feedback transitions, with human imperfections, small timing pushes, and real amp grit. BPM: 107, Key: Drop D.
+Exclude: EDM, trap drums, glossy pop tuning, Japanese vocals
+
+[ROCK-V02-035-4] grunge / Hook-focused version / groove 8/10 / BPM 112 / D minor
+Hook-focused grunge with a strong guitar or bass motif in the first five seconds. Build around loose heavy backbeat, quiet verse then explosive chorus; make clean arpeggios in verse, sludgy distortion in chorus answer the vocal line. gritty bass, natural drums, cymbal wash. Vocal: raw anguished vocal, whisper-to-shout dynamics. Production: analog grit, room drums, feedback transitions. Add a short instrumental break after the second chorus. BPM: 112, Key: D minor.
+Exclude: EDM, trap drums, glossy pop tuning, Japanese vocals
+
+[ROCK-V02-018-1] blues rock / Style prompt only / groove 8/10 / BPM 94 / A blues
+Create a blues rock track with solid backbeat with shuffle feel, relaxed pocket. Use electric blues riffs, expressive bends, slide fills; walking bass hints, natural kit, live room cymbals. Lead vocal: raspy soulful vocal with restrained vibrato. Production: vintage tube amps, spring reverb, analog tape warmth. BPM: 94, Key: A blues. Make the chorus memorable without becoming generic pop.
+Exclude: metal double-kick, EDM, synthpop, Japanese vocals
+
+[ROCK-V02-018-2] blues rock / Detailed arrangement / groove 8/10 / BPM 101 / G major
+Create a blues rock song. Intro: establish the groove with drums and bass first. Verse: electric blues riffs, expressive bends, slide fills in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays solid backbeat with shuffle feel, relaxed pocket. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: raspy soulful vocal with restrained vibrato. Production: vintage tube amps, spring reverb, analog tape warmth. BPM: 101, Key: G major.
+Exclude: metal double-kick, EDM, synthpop, Japanese vocals
+
+[ROCK-V02-018-3] blues rock / Raw/live version / groove 8/10 / BPM 106 / E blues
+Raw live-band blues rock, no click-perfect feel. The drummer should breathe around the groove: solid backbeat with shuffle feel, relaxed pocket. Guitars: electric blues riffs, expressive bends, slide fills. Bass/drums: walking bass hints, natural kit, live room cymbals. Vocal performance: raspy soulful vocal with restrained vibrato. Keep the mix vintage tube amps, spring reverb, analog tape warmth, with human imperfections, small timing pushes, and real amp grit. BPM: 106, Key: E blues.
+Exclude: metal double-kick, EDM, synthpop, Japanese vocals
+
+[ROCK-V02-018-4] blues rock / Hook-focused version / groove 8/10 / BPM 110 / A blues
+Hook-focused blues rock with a strong guitar or bass motif in the first five seconds. Build around solid backbeat with shuffle feel, relaxed pocket; make electric blues riffs, expressive bends, slide fills answer the vocal line. walking bass hints, natural kit, live room cymbals. Vocal: raspy soulful vocal with restrained vibrato. Production: vintage tube amps, spring reverb, analog tape warmth. Add a short instrumental break after the second chorus. BPM: 110, Key: A blues.
+Exclude: metal double-kick, EDM, synthpop, Japanese vocals
+
+[ROCK-V02-025-1] roadhouse rock / Style prompt only / groove 8/10 / BPM 114 / B major
+Create a roadhouse rock track with fast shuffle or straight boogie, live crowd energy implied. Use greasy rhythm guitar, short lead breaks, piano stabs optional; walking bass, lively drums, handclaps in hook. Lead vocal: rowdy vocal, loose group backing. Production: live bar mix, gritty, not over-edited. BPM: 114, Key: B major. Make the chorus memorable without becoming generic pop.
+Exclude: EDM, polished pop, Japanese vocals, huge arena reverb
+
+[ROCK-V02-025-2] roadhouse rock / Detailed arrangement / groove 8/10 / BPM 121 / E major
+Create a roadhouse rock song. Intro: establish the groove with drums and bass first. Verse: greasy rhythm guitar, short lead breaks, piano stabs optional in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays fast shuffle or straight boogie, live crowd energy implied. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: rowdy vocal, loose group backing. Production: live bar mix, gritty, not over-edited. BPM: 121, Key: E major.
+Exclude: EDM, polished pop, Japanese vocals, huge arena reverb
+
+[ROCK-V02-025-3] roadhouse rock / Raw/live version / groove 8/10 / BPM 126 / A major
+Raw live-band roadhouse rock, no click-perfect feel. The drummer should breathe around the groove: fast shuffle or straight boogie, live crowd energy implied. Guitars: greasy rhythm guitar, short lead breaks, piano stabs optional. Bass/drums: walking bass, lively drums, handclaps in hook. Vocal performance: rowdy vocal, loose group backing. Keep the mix live bar mix, gritty, not over-edited, with human imperfections, small timing pushes, and real amp grit. BPM: 126, Key: A major.
+Exclude: EDM, polished pop, Japanese vocals, huge arena reverb
+
+[ROCK-V02-025-4] roadhouse rock / Hook-focused version / groove 8/10 / BPM 130 / B major
+Hook-focused roadhouse rock with a strong guitar or bass motif in the first five seconds. Build around fast shuffle or straight boogie, live crowd energy implied; make greasy rhythm guitar, short lead breaks, piano stabs optional answer the vocal line. walking bass, lively drums, handclaps in hook. Vocal: rowdy vocal, loose group backing. Production: live bar mix, gritty, not over-edited. Add a short instrumental break after the second chorus. BPM: 130, Key: B major.
+Exclude: EDM, polished pop, Japanese vocals, huge arena reverb
+
+[ROCK-V02-024-1] slide guitar rock / Style prompt only / groove 8/10 / BPM 91 / Open E
+Create a slide guitar rock track with loose blues-rock backbeat, slightly behind the beat. Use slide guitar as lead voice, crunchy rhythm guitar underneath; simple bass groove, dry kick, snare with room tail. Lead vocal: raw soulful vocal, call-and-response with slide guitar. Production: tube amp warmth, room ambience, vintage plate reverb. BPM: 91, Key: Open E. Make the chorus memorable without becoming generic pop.
+Exclude: EDM, trap hats, orchestral strings, Japanese vocals
+
+[ROCK-V02-024-2] slide guitar rock / Detailed arrangement / groove 8/10 / BPM 98 / A blues
+Create a slide guitar rock song. Intro: establish the groove with drums and bass first. Verse: slide guitar as lead voice, crunchy rhythm guitar underneath in a restrained pattern. Pre-chorus: add tension with rising dynamics. Chorus: open into a bigger guitar hook while the rhythm stays loose blues-rock backbeat, slightly behind the beat. Bridge: strip down to bass/drums, then rebuild into the final chorus. Vocal: raw soulful vocal, call-and-response with slide guitar. Production: tube amp warmth, room ambience, vintage plate reverb. BPM: 98, Key: A blues.
+Exclude: EDM, trap hats, orchestral strings, Japanese vocals
+
+[ROCK-V02-024-3] slide guitar rock / Raw/live version / groove 8/10 / BPM 103 / Open G
+Raw live-band slide guitar rock, no click-perfect feel. The drummer should breathe around the groove: loose blues-rock backbeat, slightly behind the beat. Guitars: slide guitar as lead voice, crunchy rhythm guitar underneath. Bass/drums: simple bass groove, dry kick, snare with room tail. Vocal performance: raw soulful vocal, call-and-response with slide guitar. Keep the mix tube amp warmth, room ambience, vintage plate reverb, with human imperfections, small timing pushes, and real amp grit. BPM: 103, Key: Open G.
+Exclude: EDM, trap hats, orchestral strings, Japanese vocals
+
+[ROCK-V02-024-4] slide guitar rock / Hook-focused version / groove 8/10 / BPM 107 / Open E
+Hook-focused slide guitar rock with a strong guitar or bass motif in the first five seconds. Build around loose blues-rock backbeat, slightly behind the beat; make slide guitar as lead voice, crunchy rhythm guitar underneath answer the vocal line. simple bass groove, dry kick, snare with room tail. Vocal: raw soulful vocal, call-and-response with slide guitar. Production: tube amp warmth, room ambience, vintage plate reverb. Add a short instrumental break after the second chorus. BPM: 107, Key: Open E.
+Exclude: EDM, trap hats, orchestral strings, Japanese vocals
+

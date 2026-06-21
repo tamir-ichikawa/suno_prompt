@@ -1,0 +1,26 @@
+[
+  {
+    "id": "starter-v01",
+    "version": "V01",
+    "label": "全ジャンルスターター",
+    "description": "幅広いジャンルを対象にしたSunoプロンプトの初期スターター版。",
+    "prompt_count": 117,
+    "bundle_path": "data/bundles/v01.json"
+  },
+  {
+    "id": "overseas-rock-v02",
+    "version": "V02",
+    "label": "海外ロック",
+    "description": "グルーヴ感のある海外ロック、ファンクロック、ポストパンク、ガレージなど。",
+    "prompt_count": 328,
+    "bundle_path": "data/bundles/rock-v02.json"
+  },
+  {
+    "id": "electro-groove-v03",
+    "version": "V03",
+    "label": "海外エレクトロ・グルーヴ",
+    "description": "French touch、filter house、synthwave、neon noirなどの電子音楽グルーヴ集。",
+    "prompt_count": 395,
+    "bundle_path": "data/bundles/electro-groove-v03.json"
+  }
+]

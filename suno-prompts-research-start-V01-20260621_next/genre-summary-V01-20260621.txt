@@ -1,0 +1,21 @@
+GENRE SUMMARY V01
+
+afro_caribbean: 5
+ambient_chill: 6
+cinematic_orchestral: 6
+country_americana: 4
+electronic_edm: 22
+experimental: 3
+folk_acoustic: 2
+funk_disco: 3
+game_chiptune: 4
+hip_hop_rap: 5
+japanese_asian: 7
+jazz_blues: 5
+latin: 6
+metal: 3
+pop_and_modern: 12
+rnb_soul_gospel: 4
+rock_and_punk: 20
+
+TOTAL: 117

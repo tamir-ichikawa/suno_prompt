@@ -1,0 +1,1112 @@
+SUNO AI PROMPT RESEARCH STARTER PACK V01
+Created: 2026-06-21
+Purpose: GitHub/Firebaseで後から一覧化しやすいように、公開情報ベースのプロンプト候補をテキスト化。
+Important: exact_cc0 はCC0明記ソース由来。research_normalized は調査に基づく独自標準化シード。license unclear sources are source-only targets.
+
+=== SOURCES ===
+[SRC001] Suno Help - Detailed Style Instructions
+URL: https://help.suno.com/en/articles/5782849
+TYPE: official
+LICENSE NOTE: Official guidance; use as reference, do not mirror full article
+NOTES: V4.5以降は会話的で詳細なStyle指示が有効という公式説明。
+
+[SRC002] Suno Help - Music Glossary
+URL: https://help.suno.com/en/articles/9010177
+TYPE: official
+LICENSE NOTE: Official guidance; use as vocabulary reference
+NOTES: BPM、構成、楽器、ボーカル、制作用語の辞書。
+
+[SRC003] Awesome Suno AI Prompts
+URL: https://github.com/naqashmunir21/awesome-suno-prompts
+TYPE: github
+LICENSE NOTE: CC0 1.0 Universal / Public Domain as stated in repo README
+NOTES: このパックの exact_cc0 entries は主にここから。
+
+[SRC004] AlijeeWrites best-suno-ai-prompts
+URL: https://github.com/AlijeeWrites/best-suno-ai-prompts
+TYPE: github
+LICENSE NOTE: License unclear from visible repo; keep as source/index only unless permission/license confirmed
+NOTES: 170+ジャンルの分類・タグ参考。本文の大量再配布は保留。
+
+[SRC005] SunoAI まとめ Wiki prompt page
+URL: https://ai.suno.jp/prompt/
+TYPE: japanese_wiki
+LICENSE NOTE: License unclear; use as research/reference and verify before reposting prompt text
+NOTES: 日本語カテゴリ、和楽器、国、メタタグ、ジャンルの調査先。
+
+[SRC006] Reddit r/SunoAI prompt discussions
+URL: https://www.reddit.com/r/SunoAI/
+TYPE: community
+LICENSE NOTE: Use Reddit API/terms; store URL and short notes rather than republishing comments
+NOTES: 成功/失敗談、genre stacking、no vocals等の検証情報。
+
+=== PROMPTS ===
+---
+id: P0001
+title: Modern Pop Anthem (Female Vocals)
+genre_category: pop_and_modern
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Infectious pop anthem, female powerhouse vocals with layered harmonies, pulsing 808 bass, synth-wave layers, euphoric build-ups, radio-ready polish, modern production, vocal chops, stadium-ready energy, BPM: 128, Key: C Major
+---
+id: P0002
+title: Festival Pop Banger
+genre_category: pop_and_modern
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Massive drop-ready pop, EDM-influenced production, soaring vocal hooks, hands-in-the-air moments, festival main stage energy, crisp high-end, sub-bass that punches, BPM: 130, Key: A Minor
+---
+id: P0003
+title: K-Pop Inspired Dance Track
+genre_category: pop_and_modern
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+High-energy K-pop production, rap verses + melodic chorus, layered synths, trap-influenced beats, intricate vocal runs, polished perfection, dynamic structure, addictive hooks, BPM: 140, Key: F Minor
+---
+id: P0004
+title: Retro 80s Dance Pop
+genre_category: pop_and_modern
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+80s synth-pop revival, gated reverb on snare, analog synth leads, retro drum machines, nostalgic vibes, catchy chorus, uplifting mood, modern production polish, BPM: 118, Key: E♭ Major
+---
+id: P0005
+title: Latin Pop Fusion
+genre_category: latin
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Reggaeton-influenced pop, Spanish guitar accents, tropical percussion, bilingual lyrics vibe, catchy dembow rhythm, pop vocals with Latin flair, summer heat energy, BPM: 95, Key: A Minor
+---
+id: P0006
+title: Piano-Driven Power Ballad
+genre_category: pop_and_modern
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Piano-driven emotional ballad, raw vulnerable vocals, builds from intimate verse to soaring chorus, subtle string arrangements, modern radio production, reverb on vocals, stripped-down bridge, powerful final chorus, BPM: 72, Key: G Major
+---
+id: P0007
+title: Orchestral Pop Ballad
+genre_category: cinematic_orchestral
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Cinematic pop ballad, full orchestral arrangement, sweeping strings, powerful vocals, emotional build, Hollywood production, dramatic key change, epic final chorus, BPM: 68, Key: D Major
+---
+id: P0008
+title: Acoustic Intimate Ballad
+genre_category: folk_acoustic
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Stripped-down acoustic ballad, fingerpicked guitar, intimate whispered vocals, minimal production, authentic emotion, subtle string swells, bedroom recording vibe, BPM: 60, Key: C Major
+---
+id: P0009
+title: Gospel-Influenced Soul Ballad
+genre_category: rnb_soul_gospel
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Soul-stirring gospel-pop, powerful vocal runs, church organ, handclaps, choir backing vocals, emotional crescendo, uplifting message, modern R&B production, BPM: 75, Key: B♭ Major
+---
+id: P0010
+title: Bedroom Pop Dreamy
+genre_category: pop_and_modern
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Lo-fi bedroom pop aesthetic, dreamy vocals with subtle reverb, jangly indie guitars, vintage synth pads, tape saturation warmth, DIY production charm, imperfect and intimate, nostalgic atmosphere, BPM: 105, Key: E♭ Major
+---
+id: P0011
+title: Uplifting Indie Pop
+genre_category: pop_and_modern
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Feel-good indie pop, joyful melodies, handclaps and group vocals, organic instrumentation, positive energy, summery vibes, authentic production, catchy without being overproduced, BPM: 120, Key: C Major
+---
+id: P0012
+title: Melancholic Indie Pop
+genre_category: pop_and_modern
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Bittersweet indie pop, wistful vocals, minor key melancholy, reverb-drenched guitars, subtle synth textures, introspective mood, authentic emotional depth, lo-fi production touches, BPM: 90, Key: A Minor
+---
+id: P0013
+title: Dark Synth-Pop
+genre_category: pop_and_modern
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Dark moody synth-pop, pulsing bass synth, atmospheric pads, haunting vocals, minor key tension, cold digital production, BPM: 115, Key: D Minor
+---
+id: P0014
+title: Bright Synth-Pop
+genre_category: pop_and_modern
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Uplifting synth-pop, bright major key melodies, sparkling arpeggiated synths, optimistic vocals, 80s nostalgia with modern production, feel-good energy, radio-friendly, BPM: 124, Key: F Major
+---
+id: P0015
+title: Chillwave Synth-Pop
+genre_category: ambient_chill
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Chillwave aesthetics, hazy dream-pop synths, washed-out vocals with heavy reverb, nostalgic summer vibes, relaxed tempo, lo-fi production touches, BPM: 100, Key: G Major
+---
+id: P0016
+title: Bubblegum Pop
+genre_category: pop_and_modern
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Ultra-catchy teen pop, bubblegum melodies, bright shiny production, youthful energy vocals, simple but effective hooks, colorful sound palette, maximum radio-friendliness, BPM: 125, Key: C Major
+---
+id: P0017
+title: Pop-Punk Teen Anthem
+genre_category: rock_and_punk
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Pop-punk energy, distorted power chords + catchy pop hooks, rebellious teen vocals, driving drums, mall-punk nostalgia, emotional but upbeat, 2000s throwback vibes, BPM: 150, Key: E Major
+---
+id: P0018
+title: Radio-Friendly AC Pop
+genre_category: pop_and_modern
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Adult contemporary polish, mature sophisticated vocals, balanced instrumentation, radio-perfect mix, broad appeal production, relatable lyrics vibe, neither too young nor too old, BPM: 110, Key: G Major
+---
+id: P0019
+title: Coffee Shop Pop
+genre_category: folk_acoustic
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Mellow coffee shop pop, acoustic elements + subtle electronics, warm intimate vocals, sophisticated chord progressions, mature songwriting feel, easy listening, BPM: 95, Key: A Major
+---
+id: P0020
+title: Art Pop Avant-Garde
+genre_category: experimental
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Experimental art pop, unconventional structure, glitchy electronic elements, ethereal vocals, unexpected production choices, artistic vision, not radio-friendly but critically acclaimed, BPM: Variable, Key: Atonal elements
+---
+id: P0021
+title: Hyperpop Chaotic Energy
+genre_category: electronic_edm
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Hyperpop maximalism, aggressive pitched vocals, glitchy production, bass-boosted chaos, overwhelming layers, intentionally abrasive, Gen Z internet culture, BPM: 170, Key: Chromatic chaos
+---
+id: P0022
+title: Epic Arena Anthem
+genre_category: rock_and_punk
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Power rock anthem, soaring stadium vocals, massive guitar wall of sound, thunderous drum fills, crowd-chant worthy chorus, anthem hooks, crunchy distorted rhythm guitars, searing lead guitar solo, BPM: 140, Key: E Major, radio-ready polish with arena reverb
+---
+id: P0023
+title: Power Ballad Rock
+genre_category: rock_and_punk
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Emotional power ballad, starts intimate with clean electric guitar, builds to explosive distorted chorus, raw powerful vocals, orchestral strings in bridge, epic guitar solo at 2:30, lighter-waving atmosphere, BPM: 76, Key: G Major
+---
+id: P0024
+title: Victory Rock Anthem
+genre_category: rock_and_punk
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Triumphant rock, driving 4/4 beat, palm-muted power chords, anthemic whoa-oh backing vocals, inspirational chord progressions, double-tracked guitars, stadium reverb, uplifting energy, BPM: 145, Key: C Major
+---
+id: P0025
+title: 90s Grunge Sound
+genre_category: rock_and_punk
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Raw grunge vocals, sludgy distorted guitar, heavy drop-D tuning, dynamic quiet-LOUD-quiet structure, angsty energy, loose drumming, vintage analog distortion, feedback between sections, BPM: 118, Key: D Drop-D
+---
+id: P0026
+title: Alternative Rock Edge
+genre_category: rock_and_punk
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Crunchy alt-rock, jangly clean verses with distorted choruses, melodic yet aggressive vocals, off-kilter rhythms, effects-laden guitars, textured layers, modern alternative production, BPM: 135, Key: A Minor
+---
+id: P0027
+title: Grunge Ballad
+genre_category: rock_and_punk
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Melancholic grunge ballad, whispered verses building to screaming chorus, clean-tone arpeggios verses, walls of distortion on chorus, raw emotional delivery, tape saturation warmth, BPM: 82, Key: E Minor
+---
+id: P0028
+title: 70s Classic Rock
+genre_category: rock_and_punk
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Vintage 70s rock, bluesy guitar riffs, Hammond organ layers, groovy bass lines, powerful raspy vocals, analog tape warmth, vintage tube amp distortion, extended guitar solo, BPM: 128, Key: A Major
+---
+id: P0029
+title: Southern Rock Groove
+genre_category: rock_and_punk
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Southern rock swagger, dual lead guitars, slide guitar licks, driving boogie rhythm, bluesy raspy vocals, vintage amp crunch, Hammond B3 organ, extended jam section, BPM: 122, Key: E Major
+---
+id: P0030
+title: 80s Arena Rock
+genre_category: rock_and_punk
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+80s power rock, massive reverb on drums, soaring hair metal vocals, shredding guitar solos, synth layers, stadium production, power ballad structure, epic key change finale, BPM: 136, Key: D Major → E Major
+---
+id: P0031
+title: Heavy Metal Power
+genre_category: metal
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Heavy metal aggression, rapid double-kick drums, palm-muted power chords, shredding guitar solos, operatic or growling vocals, chugging low-end riffs, blast beats, technical precision, BPM: 180, Key: E Minor
+---
+id: P0032
+title: Doom Metal Darkness
+genre_category: metal
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Doom metal, slow crushing riffs, down-tuned guitars, monolithic bass tone, thunderous drums, dark atmospheric vocals, feedback drones, sludgy distortion, oppressive heaviness, BPM: 65, Key: C Drop-C
+---
+id: P0033
+title: Thrash Metal Speed
+genre_category: metal
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Thrash metal fury, blistering tempos, aggressive riffing, rapid-fire double bass, shredded vocals, chaotic energy, palm-muted galloping rhythms, shredding solos, BPM: 200, Key: E Minor
+---
+id: P0034
+title: Classic Punk Attitude
+genre_category: rock_and_punk
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Fast punk rock, three-chord power, raw shouted vocals, breakneck tempo, simple but effective, garage recording aesthetic, rebellious energy, anti-establishment vibe, BPM: 180, Key: A Major
+---
+id: P0035
+title: Pop-Punk Energy
+genre_category: rock_and_punk
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Pop-punk, catchy power-chord progressions, upbeat tempos, anthemic gang vocals on chorus, polished punk production, melodic vocal hooks, radio-friendly punk sound, BPM: 165, Key: D Major
+---
+id: P0036
+title: Post-Punk Darkness
+genre_category: rock_and_punk
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Post-punk atmosphere, angular guitar riffs, driving bass lines, detached monotone vocals, reverb-drenched production, dark atmospheric mood, minimalist drums, BPM: 128, Key: D Minor
+---
+id: P0037
+title: Indie Rock Jangle
+genre_category: rock_and_punk
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Jangly indie rock, clean Rickenbacker-style guitar tone, melodic bass lines, crisp drums, warm intimate vocals, lo-fi charm with modern clarity, authentic bedroom-pop energy, BPM: 138, Key: G Major
+---
+id: P0038
+title: Garage Rock Revival
+genre_category: rock_and_punk
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Garage rock rawness, fuzzy vintage amps, simple chord progressions, energetic sloppy drums, distorted shouted vocals, DIY recording aesthetic, BPM: 155, Key: E Major
+---
+id: P0039
+title: Math Rock Complexity
+genre_category: rock_and_punk
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Math rock intricacy, odd time signatures (7/8, 5/4), tapping guitar techniques, angular riffs, intricate drumming, clean-tone complexity, instrumental focus, BPM: Variable, Key: F# Minor
+---
+id: P0040
+title: Big Room House Anthem
+genre_category: electronic_edm
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Festival big room house, massive riser build-up, explosive drop, supersaws layered thick, sidechain compression pumping, euphoric lead melody, crowd-chant ready, stadium energy, BPM: 128, Key: C Minor
+---
+id: P0041
+title: Mainstage EDM Drop
+genre_category: electronic_edm
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Mainstage EDM, vocal chops buildup, white noise riser crescendo, synth pluck melody, heavy kickdrum, festival-ready production, anthemic hook, laser sound effects, radio-EDM polish, BPM: 130, Key: G Major
+---
+id: P0042
+title: Festival Trap Hybrid
+genre_category: electronic_edm
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Festival trap-EDM fusion, hybrid trap drums, dubstep-influenced bass, cinematic build-ups, aggressive horn stabs, festival anthem energy, massive bass drops, crowd hyping sections, BPM: 140 (half-time feel), Key: D Minor
+---
+id: P0043
+title: Melodic Progressive Journey
+genre_category: electronic_edm
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Progressive house, evolving arpeggiated synths, emotional chord progressions, driving bassline, crisp hi-hats, atmospheric pads building gradually, euphoric breakdown at 2:00, uplifting energy, radio-friendly, BPM: 126, Key: A Minor
+---
+id: P0044
+title: Deep Progressive Groove
+genre_category: electronic_edm
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Deep progressive house, hypnotic bassline groove, subtle chord stabs, organic percussion layers, warm analog synths, minimal vocal chops, sophisticated club sound, underground vibe, BPM: 122, Key: F Minor
+---
+id: P0045
+title: Progressive Trance
+genre_category: electronic_edm
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Progressive trance, uplifting arpeggios, emotional breakdown, soaring lead synth, driving kick and bass, euphoric energy, orchestral elements in breakdown, epic build and release, BPM: 138, Key: E Major
+---
+id: P0046
+title: Heavy Dubstep Drop
+genre_category: electronic_edm
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Heavy dubstep, aggressive wobble bass, half-time drums (70 BPM feel), distorted mid-range frequencies, metallic sound design, chaotic drop sections, sub-bass earthquake, dark atmosphere, BPM: 140 (half-time), Key: G Minor
+---
+id: P0047
+title: Melodic Dubstep
+genre_category: electronic_edm
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Melodic dubstep, emotional chord progressions, female vocal feature, beautiful breakdown, powerful but musical drop, super saw chords, emotional + aggressive balance, color bass techniques, BPM: 140 (half-time), Key: D Major
+---
+id: P0048
+title: Drum and Bass Energy
+genre_category: electronic_edm
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Drum and bass, rapid breakbeat (160-180 BPM), rolling bassline, amen break influences, jungle vibes, liquid DnB melodic elements, atmospheric pads, high-energy tempo, BPM: 174, Key: A Minor
+---
+id: P0049
+title: Uplifting Trance Anthem
+genre_category: electronic_edm
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Uplifting trance, soaring lead synth melody, euphoric breakdown, driving 4/4 kick, rolling bassline, orchestral elements, emotional piano in breakdown, epic buildup and release, BPM: 138, Key: F# Minor → F# Major
+---
+id: P0050
+title: Psy-Trance Journey
+genre_category: electronic_edm
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Psychedelic trance, hypnotic bassline, triplet hi-hats, evolving acid synth leads, minimal breaks, continuous driving energy, tribal percussion layers, festival sunrise vibe, BPM: 145, Key: E Minor
+---
+id: P0051
+title: Progressive Trance Anjuna Style
+genre_category: electronic_edm
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Progressive trance, lush pad layers, emotional chord progressions, crisp production, vocal trance elements, sophisticated arrangement, radio-friendly breakdown, BPM: 132, Key: C# Minor
+---
+id: P0052
+title: Peak-Time Techno
+genre_category: electronic_edm
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Peak-time techno, driving 4/4 kick, industrial sound design, hypnotic acid bassline, minimal melodic elements, relentless energy, warehouse rave atmosphere, Berlin techno vibe, BPM: 132, Key: G Minor
+---
+id: P0053
+title: Melodic Techno
+genre_category: electronic_edm
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Melodic techno, driving kick with emotional chord progressions, atmospheric pads, cinematic elements, sophisticated production, underground meets emotional, modern club vibe, BPM: 124, Key: A Minor
+---
+id: P0054
+title: Industrial Techno
+genre_category: electronic_edm
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Industrial techno, distorted percussion, metallic sound design, aggressive atmosphere, minimal melodic content, raw warehouse energy, relentless pounding rhythm, dark underground vibe, BPM: 140, Key: D Minor
+---
+id: P0055
+title: Emotional Future Bass
+genre_category: electronic_edm
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Future bass, emotional chord progressions, vocal chops prominent, supersaws on drop, sidechain compression, colorful sound design, bright uplifting energy, modern pop-EDM crossover, BPM: 150, Key: E Major
+---
+id: P0056
+title: Chill Future Bass
+genre_category: electronic_edm
+source_id: SRC003
+license_status: safe_cc0
+collection_mode: exact_cc0
+prompt:
+Chill future bass, lo-fi influenced, warm analog synths, laid-back drums, atmospheric vocals, relaxed tempo, study/work music vibe, emotional but not aggressive, BPM: 140, Key: G Major
+---
+id: P0057
+title: J-Pop Anime Opening
+genre_category: japanese_asian
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+J-pop / anime opening, bright lead melody, driving rock drums, layered synth strings, emotional youthful vocals, big pre-chorus lift, explosive chorus hook, polished Japanese pop production, BPM: 154, Key: E Major
+---
+id: P0058
+title: City Pop Night Drive
+genre_category: japanese_asian
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+city pop, smooth bassline, clean electric guitar, Rhodes piano, 80s Japanese funk influence, airy female vocals, glossy but warm mix, nostalgic night-drive atmosphere, BPM: 106, Key: A Major
+---
+id: P0059
+title: Modern Enka Drama
+genre_category: japanese_asian
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+Japanese enka, emotional vibrato vocals, shamisen and koto accents, cinematic strings, slow dramatic tempo, traditional melodic turns, heartfelt storytelling, BPM: 72, Key: D Minor
+---
+id: P0060
+title: Vocaloid Hyperpop
+genre_category: japanese_asian
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+vocaloid-style synthetic vocals, hyperpop energy, glitch edits, bright arpeggios, fast kick pattern, playful chaos, anime internet culture feel, BPM: 168, Key: F# Minor
+---
+id: P0061
+title: Shibuya-kei Lounge Pop
+genre_category: japanese_asian
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+Shibuya-kei inspired lounge pop, bossa nova guitar, jazzy chords, playful brass, whispery vocals, retro Tokyo boutique atmosphere, BPM: 118, Key: B♭ Major
+---
+id: P0062
+title: Wa-Rock Festival
+genre_category: japanese_asian
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+Japanese rock with taiko drums, shamisen riffs, distorted guitars, festival chants, energetic male and female vocals, dramatic build into huge chorus, BPM: 148, Key: A Minor
+---
+id: P0063
+title: Kawaii Future Pop
+genre_category: japanese_asian
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+kawaii future pop, sparkling synth bells, cute vocal tone, bouncy rhythm, colorful sound design, playful chorus hooks, compressed glossy mix, BPM: 132, Key: C Major
+---
+id: P0064
+title: Lo-fi Study Beat
+genre_category: ambient_chill
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+lo-fi hip hop, soft piano chords, vinyl texture, dusty drums, warm tape saturation, rain ambience, no vocals, calm study music, BPM: 75, Key: F Major
+---
+id: P0065
+title: Ambient Sleep Drone
+genre_category: ambient_chill
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+dark-but-gentle ambient drone, slow evolving pads, sub-bass hum, no drums, no vocals, long reverb tails, calming nighttime soundscape, BPM: none, Key: D Minor
+---
+id: P0066
+title: Meditation Bowls
+genre_category: ambient_chill
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+meditation music, Tibetan singing bowls, soft drones, ocean ambience, slow breathing rhythm, no percussion, no vocals, peaceful spacious mix, BPM: 60, Key: C Major
+---
+id: P0067
+title: Spa Piano Water
+genre_category: ambient_chill
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+spa music, gentle felt piano, soft water sounds, airy pads, minimal arrangement, warm peaceful tone, no vocals, slow tempo, BPM: 64, Key: G Major
+---
+id: P0068
+title: Cinematic Ambient Score
+genre_category: ambient_chill
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+cinematic ambient score, evolving string pads, soft piano motifs, low brass swells, emotional restraint, wide reverb, gradual crescendo into hopeful ending, BPM: 70, Key: E Minor
+---
+id: P0069
+title: Epic Trailer Hybrid
+genre_category: cinematic_orchestral
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+epic trailer music, hybrid orchestra, huge taiko-style drums, brass stabs, choir layers, rising tension, massive final impact, cinematic mix, BPM: 120, Key: D Minor
+---
+id: P0070
+title: Fantasy Adventure Score
+genre_category: cinematic_orchestral
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+fantasy orchestral score, flute and harp motifs, sweeping strings, warm French horn melody, magical wonder, adventurous but gentle, BPM: 96, Key: G Major
+---
+id: P0071
+title: Piano Solo Minimal
+genre_category: cinematic_orchestral
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+solo piano, intimate felt hammers, sparse emotional melody, rubato timing, soft dynamics, cinematic melancholy, no vocals, BPM: 66, Key: A Minor
+---
+id: P0072
+title: Baroque Chamber Pop
+genre_category: cinematic_orchestral
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+baroque pop, harpsichord ostinato, chamber strings, elegant counterpoint, modern soft vocals, ornate but catchy chorus, BPM: 112, Key: D Major
+---
+id: P0073
+title: Anime Emotional Score
+genre_category: cinematic_orchestral
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+anime emotional score, piano and strings, rising orchestral swell, bittersweet melody, cinematic percussion, dramatic climax, BPM: 86, Key: E♭ Major
+---
+id: P0074
+title: Afrobeats Pop
+genre_category: afro_caribbean
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+afrobeats pop, log drum groove, warm percussion, bright guitar accents, smooth melodic vocals, uplifting party energy, modern polished mix, BPM: 104, Key: B Minor
+---
+id: P0075
+title: Amapiano Night Groove
+genre_category: afro_caribbean
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+amapiano, deep log drum bass, airy pads, syncopated percussion, smooth vocal chants, late-night South African club groove, BPM: 112, Key: F Minor
+---
+id: P0076
+title: Reggae Roots
+genre_category: afro_caribbean
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+roots reggae, offbeat guitar skank, warm organ bubble, laid-back drums, soulful vocals, social message mood, analog tape warmth, BPM: 78, Key: A Major
+---
+id: P0077
+title: Dancehall Energy
+genre_category: afro_caribbean
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+dancehall riddim, energetic drums, deep sub-bass, sharp vocal chants, Jamaican party feel, sparse but punchy production, BPM: 96, Key: G Minor
+---
+id: P0078
+title: Calypso Sunshine
+genre_category: afro_caribbean
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+calypso, steel drums, tropical percussion, cheerful vocal melody, Caribbean beach atmosphere, bright major key, upbeat dance feel, BPM: 116, Key: C Major
+---
+id: P0079
+title: Salsa Big Band
+genre_category: latin
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+salsa, piano montuno, congas, timbales, brass section hits, passionate Spanish vocals, high-energy dance arrangement, BPM: 180, Key: C Minor
+---
+id: P0080
+title: Bossa Nova Cafe
+genre_category: latin
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+bossa nova, nylon guitar, soft brushed drums, gentle upright bass, intimate warm vocals, relaxed cafe atmosphere, BPM: 92, Key: F Major
+---
+id: P0081
+title: Bachata Romance
+genre_category: latin
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+bachata, romantic requinto guitar, sensual percussion, smooth Latin vocals, warm bass, intimate dance-floor mood, BPM: 126, Key: B Minor
+---
+id: P0082
+title: Tango Noir
+genre_category: latin
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+Argentine tango, dramatic bandoneon, staccato strings, upright bass, passionate melody, noir cinematic tension, BPM: 120, Key: D Minor
+---
+id: P0083
+title: Mariachi Celebration
+genre_category: latin
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+mariachi, trumpets, violins, guitarrón, bright celebratory vocals, traditional Mexican energy, proud melodic hooks, BPM: 112, Key: G Major
+---
+id: P0084
+title: Neo Soul Groove
+genre_category: rnb_soul_gospel
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+neo soul, jazz chords, Rhodes piano, pocket drums, warm bass, smooth intimate vocals, subtle gospel harmonies, organic modern mix, BPM: 82, Key: E♭ Minor
+---
+id: P0085
+title: 90s R&B Slow Jam
+genre_category: rnb_soul_gospel
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+90s R&B slow jam, lush electric piano, deep bass, smooth male vocal harmonies, sensual groove, slow swing drums, polished analog warmth, BPM: 68, Key: D♭ Major
+---
+id: P0086
+title: Gospel Choir Uplift
+genre_category: rnb_soul_gospel
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+gospel, full choir, Hammond organ, handclaps, powerful lead vocals, call and response, uplifting crescendo, live church energy, BPM: 92, Key: B♭ Major
+---
+id: P0087
+title: Funk Slap Bass
+genre_category: funk_disco
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+funk, slap bass, tight drums, wah guitar, horn stabs, energetic group vocals, syncopated groove, dry punchy mix, BPM: 108, Key: E Minor
+---
+id: P0088
+title: Disco Strings
+genre_category: funk_disco
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+disco, four-on-the-floor kick, string stabs, funky bassline, Nile-style rhythm guitar, bright party vocals, glittering 70s dance floor, BPM: 122, Key: A Major
+---
+id: P0089
+title: French House Filter
+genre_category: funk_disco
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+French house, filtered disco sample feel, sidechain pumping, funky bass loop, glossy synth stabs, euphoric club energy, BPM: 124, Key: C# Minor
+---
+id: P0090
+title: Smooth Jazz Lounge
+genre_category: jazz_blues
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+smooth jazz lounge, brushed drums, upright bass, warm saxophone lead, piano comping, intimate club ambience, mellow refined mix, BPM: 92, Key: B♭ Major
+---
+id: P0091
+title: Bebop Quintet
+genre_category: jazz_blues
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+bebop jazz, fast ride cymbal swing, walking bass, trumpet and alto sax solos, complex chord changes, energetic improvisation, BPM: 190, Key: F Major
+---
+id: P0092
+title: Jazz Fusion Drive
+genre_category: jazz_blues
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+jazz fusion, electric piano, fretless bass, syncopated drums, melodic guitar lead, complex harmony, energetic 70s studio sound, BPM: 132, Key: A Minor
+---
+id: P0093
+title: Chicago Blues Grit
+genre_category: jazz_blues
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+Chicago blues, 12-bar progression, slide guitar, harmonica, raw vocals, walking bass, vintage amp warmth, emotional bends, BPM: 80, Key: E Blues
+---
+id: P0094
+title: Delta Blues Solo
+genre_category: jazz_blues
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+Delta blues, fingerpicked acoustic guitar, foot stomp, raw weathered vocals, intimate field-recording atmosphere, sparse arrangement, BPM: 74, Key: A Blues
+---
+id: P0095
+title: Bluegrass Sprint
+genre_category: country_americana
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+bluegrass, fast banjo rolls, fiddle leads, mandolin chop, upright bass, tight vocal harmonies, virtuosic acoustic energy, BPM: 160, Key: G Major
+---
+id: P0096
+title: Americana Storytelling
+genre_category: country_americana
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+Americana, acoustic guitar, harmonica, rootsy drums, warm storytelling vocals, road-worn atmosphere, honest organic production, BPM: 92, Key: D Major
+---
+id: P0097
+title: Honky Tonk Barroom
+genre_category: country_americana
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+honky tonk, twangy electric guitar, barroom piano, shuffle drums, pedal steel, playful country vocals, dance-hall energy, BPM: 116, Key: A Major
+---
+id: P0098
+title: Country Gospel Hymn
+genre_category: country_americana
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+country gospel, acoustic guitar, pedal steel, choir harmonies, uplifting hymn melody, warm church hall ambience, BPM: 84, Key: C Major
+---
+id: P0099
+title: Modern Drill
+genre_category: hip_hop_rap
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+UK drill, sliding 808 bass, dark piano loop, fast hi-hats, clipped aggressive flow, cold street atmosphere, sparse menacing mix, BPM: 140, Key: F Minor
+---
+id: P0100
+title: Memphis Phonk
+genre_category: hip_hop_rap
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+Memphis phonk, distorted cowbell melody, heavy sub-bass, gritty lo-fi drums, dark chopped vocal textures, aggressive drift energy, BPM: 150, Key: G Minor
+---
+id: P0101
+title: Cloud Rap Haze
+genre_category: hip_hop_rap
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+cloud rap, dreamy pads, reverb-heavy melodic vocals, soft 808s, hazy atmosphere, slow floating beat, introspective mood, BPM: 72, Key: A Minor
+---
+id: P0102
+title: Conscious Jazz Rap
+genre_category: hip_hop_rap
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+conscious hip hop, jazzy piano sample, upright bass, dusty boom bap drums, thoughtful lyrical flow, warm analog texture, BPM: 88, Key: E♭ Major
+---
+id: P0103
+title: Trip-Hop Noir
+genre_category: hip_hop_rap
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+trip-hop, slow breakbeat, cinematic strings, smoky female vocal, dark bass, vinyl texture, noir atmosphere, BPM: 78, Key: C Minor
+---
+id: P0104
+title: Industrial EBM
+genre_category: electronic_edm
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+industrial EBM, pounding kick, metallic percussion, distorted synth bass, cold spoken vocals, dark club atmosphere, BPM: 128, Key: D Minor
+---
+id: P0105
+title: Minimal Tech House
+genre_category: electronic_edm
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+minimal tech house, rolling bass groove, tight 4/4 kick, sparse vocal chops, crisp percussion, hypnotic club mix, BPM: 126, Key: F Minor
+---
+id: P0106
+title: Tropical House Sunset
+genre_category: electronic_edm
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+tropical house, soft marimba plucks, beach percussion, warm pads, relaxed pop vocal hook, sunset summer mood, BPM: 112, Key: C Major
+---
+id: P0107
+title: Hardstyle Rave
+genre_category: electronic_edm
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+hardstyle, distorted reverse bass kick, euphoric synth melody, huge build-up, raw festival energy, shouted crowd vocals, BPM: 150, Key: E Minor
+---
+id: P0108
+title: Chiptune Adventure
+genre_category: game_chiptune
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+chiptune, 8-bit square wave lead, arpeggiated bass, retro game drums, heroic melody, loopable stage music, BPM: 140, Key: C Major
+---
+id: P0109
+title: JRPG Battle Theme
+genre_category: game_chiptune
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+JRPG battle theme, fast orchestral strings, electric guitar accents, driving drums, heroic brass, intense loopable structure, BPM: 170, Key: D Minor
+---
+id: P0110
+title: Cozy Farming Game BGM
+genre_category: game_chiptune
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+cozy game BGM, ukulele, celesta, soft percussion, warm acoustic bass, cheerful loop, no vocals, gentle village atmosphere, BPM: 96, Key: G Major
+---
+id: P0111
+title: Cyberpunk Chase
+genre_category: game_chiptune
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+cyberpunk action music, aggressive synth bass, industrial drums, arpeggiated sequences, dark neon atmosphere, cinematic tension, BPM: 132, Key: F# Minor
+---
+id: P0112
+title: Experimental Glitch Collage
+genre_category: experimental
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+experimental glitch music, chopped micro-samples, irregular rhythms, granular textures, sudden silences, abstract electronic atmosphere, BPM: variable, Key: atonal
+---
+id: P0113
+title: Noise Rock Collapse
+genre_category: experimental
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+noise rock, detuned guitars, chaotic drums, shouted vocals, feedback walls, abrasive production, unstable structure, BPM: 150, Key: dissonant
+---
+id: P0114
+title: Post-Rock Slow Build
+genre_category: rock_and_punk
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+post-rock, clean guitar delay, gradual crescendo, wordless vocals, massive reverb drums, emotional instrumental climax, BPM: 80, Key: A Minor
+---
+id: P0115
+title: Shoegaze Wall
+genre_category: rock_and_punk
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+shoegaze, dense guitar wall, dreamy buried vocals, heavy reverb, fuzz layers, slow emotional melody, hazy mix, BPM: 96, Key: D Major
+---
+id: P0116
+title: Ska Punk Brass Blast
+genre_category: rock_and_punk
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+ska punk, fast upstroke guitar, punchy brass hooks, energetic shout vocals, walking bass, upbeat rebellious party mood, BPM: 170, Key: B♭ Major
+---
+id: P0117
+title: Celtic Punk Tavern
+genre_category: rock_and_punk
+source_id: RESEARCH_NORMALIZED
+license_status: original_normalized_seed
+collection_mode: research_normalized
+prompt:
+celtic punk, fiddle and tin whistle, fast drums, distorted guitars, gang vocals, rowdy pub energy, BPM: 176, Key: D Major
+
+=== SOURCE-ONLY TARGETS / QUARANTINE ===
+T001 | 170+ genre taxonomy list | AlijeeWrites best-suno-ai-prompts | https://github.com/AlijeeWrites/best-suno-ai-prompts
+ACTION: Use as category/tag reference; do not copy entire README into public app until license is confirmed.
+
+T002 | Japanese prompt category set | SunoAI まとめ Wiki prompt page | https://ai.suno.jp/prompt/
+ACTION: Extract category names and URLs first; copy prompt text only if license/permission is clear.
+
+T003 | High-upvote prompt discussions | Reddit r/SunoAI prompt discussions | https://www.reddit.com/r/SunoAI/
+ACTION: Save Reddit URL, title, summary, and tested technique; avoid republishing comments verbatim.
+
+T004 | Official style-instruction examples | Suno Help - Detailed Style Instructions | https://help.suno.com/en/articles/5782849
+ACTION: Use rules as design criteria; keep direct quotes minimal.
+
+T005 | Official glossary vocabulary | Suno Help - Music Glossary | https://help.suno.com/en/articles/9010177
+ACTION: Use terms for tags/search filters/BPM/key/instrument fields.

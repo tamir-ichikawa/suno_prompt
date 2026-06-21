@@ -1,0 +1,27 @@
+{
+  "collection": "sunoPrompts",
+  "docId": "P0001",
+  "fields": {
+    "title": "string",
+    "prompt": "string",
+    "genreCategory": "string",
+    "tags": [
+      "string"
+    ],
+    "language": "en/ja/etc",
+    "sourceId": "string",
+    "sourceUrl": "string",
+    "licenseStatus": "safe_cc0 / original_normalized_seed / quarantine_unverified",
+    "collectionMode": "exact_cc0 / research_normalized / source_only",
+    "favoriteCount": "number",
+    "testedCount": "number",
+    "createdAt": "timestamp",
+    "updatedAt": "timestamp"
+  },
+  "recommendedIndexes": [
+    "genreCategory + licenseStatus",
+    "tags array-contains",
+    "language + genreCategory"
+  ],
+  "readCostNote": "一覧画面ではジャンル別に件数を絞って読む。全件を毎回読むより、genreCategoryごとのページングにする。"
+}

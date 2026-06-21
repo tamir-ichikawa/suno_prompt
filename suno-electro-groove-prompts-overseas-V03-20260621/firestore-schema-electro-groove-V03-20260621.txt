@@ -1,0 +1,48 @@
+FIRESTORE SCHEMA DRAFT - SUNO PROMPT LIBRARY / ELECTRO GROOVE V03
+Version: V03-20260621
+Total entries in this package: 395
+
+Recommended collection:
+  sunoPrompts
+
+Document ID:
+  Use id field, e.g. eg1234abcd
+
+Fields:
+  id: string
+  version: string
+  languageFocus: string
+  category: string
+  categorySlug: string
+  title: string
+  bpm: number
+  key: string
+  energy: string
+  useCase: string
+  groove: string
+  bass: string
+  synth: string
+  guitar: string
+  vocal: string
+  mood: string
+  production: string
+  structure: string
+  exclude: string
+  tags: array<string> or comma-separated string
+  prompt: string
+  sourceBasis: string
+  isPublicSafe: boolean = true
+  createdAt: serverTimestamp
+  updatedAt: serverTimestamp
+
+Suggested indexes:
+  categorySlug + energy
+  categorySlug + bpm
+  tags array-contains + energy
+  useCase + categorySlug
+
+Read-count note for future management site:
+  For a public prompt library, avoid loading every prompt on the first screen.
+  Load category summaries first, then load prompt documents only after a category is opened.
+  Use pagination: 20-30 prompts per page.
+  Store category counts in a separate collection, e.g. sunoPromptCategories/{slug}, to reduce Firestore reads.
