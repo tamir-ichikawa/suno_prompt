@@ -16,6 +16,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [],
     "tags": [
       "french-touch",
@@ -60,6 +63,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [],
     "tags": [
       "neon-noir",
@@ -104,6 +110,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [],
     "tags": [
       "electro-rock",
@@ -148,6 +157,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [],
     "tags": [
       "nu-disco",
@@ -192,6 +204,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [],
     "tags": [
       "synthwave",
@@ -236,6 +251,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "vocoder-style backing hooks",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-futuristic-joy"
     ],
@@ -280,6 +298,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "minimal repeated vocal phrase",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-futuristic-joy"
     ],
@@ -324,6 +345,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "minimal repeated vocal phrase",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-nightclub-euphoria"
     ],
@@ -368,6 +392,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "airy female chorus layers",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sleek-city-dancefloor-energy"
     ],
@@ -412,6 +439,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "robotic call-and-response hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "playful-robotic-confidence"
     ],
@@ -456,6 +486,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "robotic call-and-response hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sleek-city-dancefloor-energy"
     ],
@@ -500,6 +533,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "smooth understated male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-futuristic-joy"
     ],
@@ -544,6 +580,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "robotic call-and-response hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-nightclub-euphoria"
     ],
@@ -588,6 +627,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "robotic call-and-response hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sleek-city-dancefloor-energy"
     ],
@@ -632,6 +674,9 @@
     "key": "A major",
     "language": "English",
     "vocal": "airy female chorus layers",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-futuristic-joy"
     ],
@@ -676,6 +721,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "smooth understated male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sleek-city-dancefloor-energy"
     ],
@@ -720,6 +768,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "robotic call-and-response hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-nightclub-euphoria"
     ],
@@ -764,6 +815,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "robotic call-and-response hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "playful-robotic-confidence"
     ],
@@ -808,6 +862,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "airy female chorus layers",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-futuristic-joy"
     ],
@@ -852,6 +909,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "minimal repeated vocal phrase",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sleek-city-dancefloor-energy"
     ],
@@ -896,6 +956,9 @@
     "key": "D major",
     "language": "English",
     "vocal": "robotic call-and-response hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "late-night-chrome-optimism"
     ],
@@ -940,6 +1003,9 @@
     "key": "D major",
     "language": "English",
     "vocal": "smooth understated male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sleek-city-dancefloor-energy"
     ],
@@ -984,6 +1050,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "minimal repeated vocal phrase",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-futuristic-joy"
     ],
@@ -1028,6 +1097,9 @@
     "key": "D major",
     "language": "English",
     "vocal": "minimal repeated vocal phrase",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sleek-city-dancefloor-energy"
     ],
@@ -1072,6 +1144,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "vocoder-style backing hooks",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-nightclub-euphoria"
     ],
@@ -1116,6 +1191,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "robotic call-and-response hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-futuristic-joy"
     ],
@@ -1160,6 +1238,9 @@
     "key": "A major",
     "language": "English",
     "vocal": "airy female chorus layers",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "late-night-chrome-optimism"
     ],
@@ -1204,6 +1285,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "minimal repeated vocal phrase",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "late-night-chrome-optimism"
     ],
@@ -1248,6 +1332,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "robotic call-and-response hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "playful-robotic-confidence"
     ],
@@ -1292,6 +1379,9 @@
     "key": "A major",
     "language": "English",
     "vocal": "robotic call-and-response hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-futuristic-joy"
     ],
@@ -1336,6 +1426,9 @@
     "key": "A major",
     "language": "English",
     "vocal": "minimal repeated vocal phrase",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "playful-robotic-confidence"
     ],
@@ -1380,6 +1473,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "smooth understated male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-futuristic-joy"
     ],
@@ -1424,6 +1520,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "robotic call-and-response hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-futuristic-joy"
     ],
@@ -1468,6 +1567,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "minimal repeated vocal phrase",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-nightclub-euphoria"
     ],
@@ -1512,6 +1614,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "airy female chorus layers",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-futuristic-joy"
     ],
@@ -1556,6 +1661,9 @@
     "key": "F# minor",
     "language": "English",
     "vocal": "playful call-and-response vocals",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sleek-midnight-robot-soul"
     ],
@@ -1600,6 +1708,9 @@
     "key": "E dorian",
     "language": "English",
     "vocal": "deadpan spoken-sung male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "playful-sci-fi-party-energy"
     ],
@@ -1644,6 +1755,9 @@
     "key": "D dorian",
     "language": "English",
     "vocal": "stacked synthetic harmony hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "playful-sci-fi-party-energy"
     ],
@@ -1688,6 +1802,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "stacked synthetic harmony hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-futuristic-funk"
     ],
@@ -1732,6 +1849,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "robotic vocoder lead",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "quirky-but-confident-groove"
     ],
@@ -1776,6 +1896,9 @@
     "key": "F# minor",
     "language": "English",
     "vocal": "stacked synthetic harmony hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "quirky-but-confident-groove"
     ],
@@ -1820,6 +1943,9 @@
     "key": "E dorian",
     "language": "English",
     "vocal": "talkbox-style hook texture",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "quirky-but-confident-groove"
     ],
@@ -1864,6 +1990,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "deadpan spoken-sung male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "playful-sci-fi-party-energy"
     ],
@@ -1908,6 +2037,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "stacked synthetic harmony hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-futuristic-funk"
     ],
@@ -1952,6 +2084,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "playful call-and-response vocals",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sleek-midnight-robot-soul"
     ],
@@ -1996,6 +2131,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "talkbox-style hook texture",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sleek-midnight-robot-soul"
     ],
@@ -2040,6 +2178,9 @@
     "key": "F# minor",
     "language": "English",
     "vocal": "talkbox-style hook texture",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sleek-midnight-robot-soul"
     ],
@@ -2084,6 +2225,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "playful call-and-response vocals",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "chrome-dancefloor-funk"
     ],
@@ -2128,6 +2272,9 @@
     "key": "F# minor",
     "language": "English",
     "vocal": "deadpan spoken-sung male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-futuristic-funk"
     ],
@@ -2172,6 +2319,9 @@
     "key": "D dorian",
     "language": "English",
     "vocal": "talkbox-style hook texture",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "playful-sci-fi-party-energy"
     ],
@@ -2216,6 +2366,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "robotic vocoder lead",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "playful-sci-fi-party-energy"
     ],
@@ -2260,6 +2413,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "stacked synthetic harmony hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-futuristic-funk"
     ],
@@ -2304,6 +2460,9 @@
     "key": "D dorian",
     "language": "English",
     "vocal": "stacked synthetic harmony hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "chrome-dancefloor-funk"
     ],
@@ -2348,6 +2507,9 @@
     "key": "D dorian",
     "language": "English",
     "vocal": "stacked synthetic harmony hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "chrome-dancefloor-funk"
     ],
@@ -2392,6 +2554,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "talkbox-style hook texture",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "quirky-but-confident-groove"
     ],
@@ -2436,6 +2601,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "talkbox-style hook texture",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "playful-sci-fi-party-energy"
     ],
@@ -2480,6 +2648,9 @@
     "key": "F# minor",
     "language": "English",
     "vocal": "playful call-and-response vocals",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "quirky-but-confident-groove"
     ],
@@ -2524,6 +2695,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "robotic vocoder lead",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-futuristic-funk"
     ],
@@ -2568,6 +2742,9 @@
     "key": "E dorian",
     "language": "English",
     "vocal": "robotic vocoder lead",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-futuristic-funk"
     ],
@@ -2612,6 +2789,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "stacked synthetic harmony hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "chrome-dancefloor-funk"
     ],
@@ -2656,6 +2836,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "robotic vocoder lead",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "playful-sci-fi-party-energy"
     ],
@@ -2700,6 +2883,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "deadpan spoken-sung male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "quirky-but-confident-groove"
     ],
@@ -2744,6 +2930,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "stacked synthetic harmony hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "chrome-dancefloor-funk"
     ],
@@ -2788,6 +2977,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "robotic vocoder lead",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-futuristic-funk"
     ],
@@ -2832,6 +3024,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "talkbox-style hook texture",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "chrome-dancefloor-funk"
     ],
@@ -2876,6 +3071,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "smooth falsetto male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cool-indie-club-confidence"
     ],
@@ -2920,6 +3118,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "talk-sung verse with melodic chorus",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "romantic-rooftop-disco"
     ],
@@ -2964,6 +3165,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "group hook harmonies",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cool-indie-club-confidence"
     ],
@@ -3008,6 +3212,9 @@
     "key": "C major",
     "language": "English",
     "vocal": "talk-sung verse with melodic chorus",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "modern-city-summer-night"
     ],
@@ -3052,6 +3259,9 @@
     "key": "G major",
     "language": "English",
     "vocal": "cool understated female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cool-indie-club-confidence"
     ],
@@ -3096,6 +3306,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "soft romantic vocal with bright chorus lift",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-neon-pop-groove"
     ],
@@ -3140,6 +3353,9 @@
     "key": "C major",
     "language": "English",
     "vocal": "group hook harmonies",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "glossy-but-relaxed-dancefloor"
     ],
@@ -3184,6 +3400,9 @@
     "key": "Bb major",
     "language": "English",
     "vocal": "cool understated female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cool-indie-club-confidence"
     ],
@@ -3228,6 +3447,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "soft romantic vocal with bright chorus lift",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "glossy-but-relaxed-dancefloor"
     ],
@@ -3272,6 +3494,9 @@
     "key": "C major",
     "language": "English",
     "vocal": "smooth falsetto male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "romantic-rooftop-disco"
     ],
@@ -3316,6 +3541,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "cool understated female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "modern-city-summer-night"
     ],
@@ -3360,6 +3588,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "soft romantic vocal with bright chorus lift",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "glossy-but-relaxed-dancefloor"
     ],
@@ -3404,6 +3635,9 @@
     "key": "D major",
     "language": "English",
     "vocal": "soft romantic vocal with bright chorus lift",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cool-indie-club-confidence"
     ],
@@ -3448,6 +3682,9 @@
     "key": "Bb major",
     "language": "English",
     "vocal": "soft romantic vocal with bright chorus lift",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "glossy-but-relaxed-dancefloor"
     ],
@@ -3492,6 +3729,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "smooth falsetto male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-neon-pop-groove"
     ],
@@ -3536,6 +3776,9 @@
     "key": "G major",
     "language": "English",
     "vocal": "talk-sung verse with melodic chorus",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "glossy-but-relaxed-dancefloor"
     ],
@@ -3580,6 +3823,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "soft romantic vocal with bright chorus lift",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cool-indie-club-confidence"
     ],
@@ -3624,6 +3870,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "group hook harmonies",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "modern-city-summer-night"
     ],
@@ -3668,6 +3917,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "talk-sung verse with melodic chorus",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "romantic-rooftop-disco"
     ],
@@ -3712,6 +3964,9 @@
     "key": "C major",
     "language": "English",
     "vocal": "soft romantic vocal with bright chorus lift",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "modern-city-summer-night"
     ],
@@ -3756,6 +4011,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "talk-sung verse with melodic chorus",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "romantic-rooftop-disco"
     ],
@@ -3800,6 +4058,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "soft romantic vocal with bright chorus lift",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-neon-pop-groove"
     ],
@@ -3844,6 +4105,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "soft romantic vocal with bright chorus lift",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "glossy-but-relaxed-dancefloor"
     ],
@@ -3888,6 +4152,9 @@
     "key": "C major",
     "language": "English",
     "vocal": "soft romantic vocal with bright chorus lift",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "modern-city-summer-night"
     ],
@@ -3932,6 +4199,9 @@
     "key": "G major",
     "language": "English",
     "vocal": "cool understated female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "modern-city-summer-night"
     ],
@@ -3976,6 +4246,9 @@
     "key": "Bb major",
     "language": "English",
     "vocal": "smooth falsetto male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-neon-pop-groove"
     ],
@@ -4020,6 +4293,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "talk-sung verse with melodic chorus",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "modern-city-summer-night"
     ],
@@ -4064,6 +4340,9 @@
     "key": "Bb major",
     "language": "English",
     "vocal": "soft romantic vocal with bright chorus lift",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "glossy-but-relaxed-dancefloor"
     ],
@@ -4108,6 +4387,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "talk-sung verse with melodic chorus",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-neon-pop-groove"
     ],
@@ -4152,6 +4434,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "cool understated female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "glossy-but-relaxed-dancefloor"
     ],
@@ -4196,6 +4481,9 @@
     "key": "D major",
     "language": "English",
     "vocal": "detached synth-pop vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-futuristic-optimism"
     ],
@@ -4240,6 +4528,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "detached synth-pop vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cinematic-arcade-nostalgia"
     ],
@@ -4284,6 +4575,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "dreamy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cool-heroic-motion"
     ],
@@ -4328,6 +4622,9 @@
     "key": "D major",
     "language": "English",
     "vocal": "minimal wordless hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "neon-freeway-melancholy"
     ],
@@ -4372,6 +4669,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "instrumental with no lead vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-futuristic-optimism"
     ],
@@ -4416,6 +4716,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "dreamy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "lonely-midnight-skyline"
     ],
@@ -4460,6 +4763,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "detached synth-pop vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "neon-freeway-melancholy"
     ],
@@ -4504,6 +4810,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "instrumental with no lead vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cinematic-arcade-nostalgia"
     ],
@@ -4548,6 +4857,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "detached synth-pop vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cool-heroic-motion"
     ],
@@ -4592,6 +4904,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "dreamy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "neon-freeway-melancholy"
     ],
@@ -4636,6 +4951,9 @@
     "key": "D major",
     "language": "English",
     "vocal": "instrumental with no lead vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-futuristic-optimism"
     ],
@@ -4680,6 +4998,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "detached synth-pop vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cool-heroic-motion"
     ],
@@ -4724,6 +5045,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "melancholic male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "neon-freeway-melancholy"
     ],
@@ -4768,6 +5092,9 @@
     "key": "D major",
     "language": "English",
     "vocal": "instrumental with no lead vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "neon-freeway-melancholy"
     ],
@@ -4812,6 +5139,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "minimal wordless hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cinematic-arcade-nostalgia"
     ],
@@ -4856,6 +5186,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "dreamy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-futuristic-optimism"
     ],
@@ -4900,6 +5233,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "detached synth-pop vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cinematic-arcade-nostalgia"
     ],
@@ -4944,6 +5280,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "melancholic male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cinematic-arcade-nostalgia"
     ],
@@ -4988,6 +5327,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "detached synth-pop vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "neon-freeway-melancholy"
     ],
@@ -5032,6 +5374,9 @@
     "key": "D major",
     "language": "English",
     "vocal": "dreamy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cinematic-arcade-nostalgia"
     ],
@@ -5076,6 +5421,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "instrumental with no lead vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cool-heroic-motion"
     ],
@@ -5120,6 +5468,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "detached synth-pop vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cool-heroic-motion"
     ],
@@ -5164,6 +5515,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "instrumental with no lead vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cool-heroic-motion"
     ],
@@ -5208,6 +5562,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "minimal wordless hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-futuristic-optimism"
     ],
@@ -5252,6 +5609,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "dreamy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "lonely-midnight-skyline"
     ],
@@ -5296,6 +5656,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "minimal wordless hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cinematic-arcade-nostalgia"
     ],
@@ -5340,6 +5703,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "instrumental with no lead vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-futuristic-optimism"
     ],
@@ -5384,6 +5750,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "dreamy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "neon-freeway-melancholy"
     ],
@@ -5428,6 +5797,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "dreamy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "neon-freeway-melancholy"
     ],
@@ -5472,6 +5844,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "instrumental with no lead vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cool-heroic-motion"
     ],
@@ -5516,6 +5891,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "low intimate male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "danger-under-the-city-lights"
     ],
@@ -5560,6 +5938,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "low intimate male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "lonely-night-drive"
     ],
@@ -5604,6 +5985,9 @@
     "key": "C# minor",
     "language": "English",
     "vocal": "half-whispered verse vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "danger-under-the-city-lights"
     ],
@@ -5648,6 +6032,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "instrumental with ghostly vocal pads",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "rainy-highway-suspense"
     ],
@@ -5692,6 +6079,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "instrumental with ghostly vocal pads",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "lonely-night-drive"
     ],
@@ -5736,6 +6126,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "half-whispered verse vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "lonely-night-drive"
     ],
@@ -5780,6 +6173,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "breathy detached female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "danger-under-the-city-lights"
     ],
@@ -5824,6 +6220,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "breathy detached female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "neon-noir-romance"
     ],
@@ -5868,6 +6267,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "low intimate male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "danger-under-the-city-lights"
     ],
@@ -5912,6 +6314,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "half-whispered verse vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "melancholic-chrome-skyline"
     ],
@@ -5956,6 +6361,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "minimal cinematic vocal hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "rainy-highway-suspense"
     ],
@@ -6000,6 +6408,9 @@
     "key": "Bb minor",
     "language": "English",
     "vocal": "instrumental with ghostly vocal pads",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "lonely-night-drive"
     ],
@@ -6044,6 +6455,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "low intimate male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "melancholic-chrome-skyline"
     ],
@@ -6088,6 +6502,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "minimal cinematic vocal hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "melancholic-chrome-skyline"
     ],
@@ -6132,6 +6549,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "instrumental with ghostly vocal pads",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "rainy-highway-suspense"
     ],
@@ -6176,6 +6596,9 @@
     "key": "Bb minor",
     "language": "English",
     "vocal": "minimal cinematic vocal hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "lonely-night-drive"
     ],
@@ -6220,6 +6643,9 @@
     "key": "Bb minor",
     "language": "English",
     "vocal": "minimal cinematic vocal hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "neon-noir-romance"
     ],
@@ -6264,6 +6690,9 @@
     "key": "C# minor",
     "language": "English",
     "vocal": "breathy detached female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "melancholic-chrome-skyline"
     ],
@@ -6308,6 +6737,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "instrumental with ghostly vocal pads",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "lonely-night-drive"
     ],
@@ -6352,6 +6784,9 @@
     "key": "C# minor",
     "language": "English",
     "vocal": "minimal cinematic vocal hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "lonely-night-drive"
     ],
@@ -6396,6 +6831,9 @@
     "key": "C# minor",
     "language": "English",
     "vocal": "instrumental with ghostly vocal pads",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "rainy-highway-suspense"
     ],
@@ -6440,6 +6878,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "half-whispered verse vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "melancholic-chrome-skyline"
     ],
@@ -6484,6 +6925,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "instrumental with ghostly vocal pads",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "neon-noir-romance"
     ],
@@ -6528,6 +6972,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "breathy detached female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "neon-noir-romance"
     ],
@@ -6572,6 +7019,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "half-whispered verse vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "rainy-highway-suspense"
     ],
@@ -6616,6 +7066,9 @@
     "key": "C# minor",
     "language": "English",
     "vocal": "low intimate male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "melancholic-chrome-skyline"
     ],
@@ -6660,6 +7113,9 @@
     "key": "Bb minor",
     "language": "English",
     "vocal": "half-whispered verse vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "rainy-highway-suspense"
     ],
@@ -6704,6 +7160,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "instrumental with ghostly vocal pads",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "melancholic-chrome-skyline"
     ],
@@ -6748,6 +7207,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "minimal cinematic vocal hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "neon-noir-romance"
     ],
@@ -6792,6 +7254,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "minimal cinematic vocal hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "danger-under-the-city-lights"
     ],
@@ -6836,6 +7301,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "distant processed female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cold-neon-aggression"
     ],
@@ -6880,6 +7348,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "spoken cyberpunk hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dystopian-club-tension"
     ],
@@ -6924,6 +7395,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "chant-like gang vocal in the chorus",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dystopian-club-tension"
     ],
@@ -6968,6 +7442,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "spoken cyberpunk hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "horror-arcade-pressure"
     ],
@@ -7012,6 +7489,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "instrumental with synthetic choir pads",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dangerous-midnight-chase"
     ],
@@ -7056,6 +7536,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "chant-like gang vocal in the chorus",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dangerous-midnight-chase"
     ],
@@ -7100,6 +7583,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "spoken cyberpunk hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "horror-arcade-pressure"
     ],
@@ -7144,6 +7630,9 @@
     "key": "Eb minor",
     "language": "English",
     "vocal": "spoken cyberpunk hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dangerous-midnight-chase"
     ],
@@ -7188,6 +7677,9 @@
     "key": "C# minor",
     "language": "English",
     "vocal": "spoken cyberpunk hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dangerous-midnight-chase"
     ],
@@ -7232,6 +7724,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "instrumental with synthetic choir pads",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "underground-cyber-ritual"
     ],
@@ -7276,6 +7771,9 @@
     "key": "Eb minor",
     "language": "English",
     "vocal": "distant processed female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dystopian-club-tension"
     ],
@@ -7320,6 +7818,9 @@
     "key": "C# minor",
     "language": "English",
     "vocal": "instrumental with synthetic choir pads",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cold-neon-aggression"
     ],
@@ -7364,6 +7865,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "spoken cyberpunk hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "underground-cyber-ritual"
     ],
@@ -7408,6 +7912,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "spoken cyberpunk hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cold-neon-aggression"
     ],
@@ -7452,6 +7959,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "chant-like gang vocal in the chorus",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cold-neon-aggression"
     ],
@@ -7496,6 +8006,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "instrumental with synthetic choir pads",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "horror-arcade-pressure"
     ],
@@ -7540,6 +8053,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "chant-like gang vocal in the chorus",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dangerous-midnight-chase"
     ],
@@ -7584,6 +8100,9 @@
     "key": "C# minor",
     "language": "English",
     "vocal": "distant processed female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dangerous-midnight-chase"
     ],
@@ -7628,6 +8147,9 @@
     "key": "C# minor",
     "language": "English",
     "vocal": "instrumental with synthetic choir pads",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dystopian-club-tension"
     ],
@@ -7672,6 +8194,9 @@
     "key": "C# minor",
     "language": "English",
     "vocal": "instrumental with synthetic choir pads",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "underground-cyber-ritual"
     ],
@@ -7716,6 +8241,9 @@
     "key": "Eb minor",
     "language": "English",
     "vocal": "instrumental with synthetic choir pads",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cold-neon-aggression"
     ],
@@ -7760,6 +8288,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "chant-like gang vocal in the chorus",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cold-neon-aggression"
     ],
@@ -7804,6 +8335,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "distant processed female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dangerous-midnight-chase"
     ],
@@ -7848,6 +8382,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "instrumental with synthetic choir pads",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dystopian-club-tension"
     ],
@@ -7892,6 +8429,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "instrumental with synthetic choir pads",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dystopian-club-tension"
     ],
@@ -7936,6 +8476,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "cold low male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "underground-cyber-ritual"
     ],
@@ -7980,6 +8523,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "spoken cyberpunk hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "horror-arcade-pressure"
     ],
@@ -8024,6 +8570,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "chant-like gang vocal in the chorus",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cold-neon-aggression"
     ],
@@ -8068,6 +8617,9 @@
     "key": "C# minor",
     "language": "English",
     "vocal": "spoken cyberpunk hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "horror-arcade-pressure"
     ],
@@ -8112,6 +8664,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "instrumental with synthetic choir pads",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dystopian-club-tension"
     ],
@@ -8156,6 +8711,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "spoken-sung verse with explosive hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "fashion-week-electro-swagger"
     ],
@@ -8200,6 +8758,9 @@
     "key": "F# minor",
     "language": "English",
     "vocal": "minimal repeated party vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dirty-late-2000s-dancefloor-grit"
     ],
@@ -8244,6 +8805,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "minimal repeated party vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sweaty-basement-club-energy"
     ],
@@ -8288,6 +8852,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "minimal repeated party vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "rowdy-but-stylish-rock-club-pressure"
     ],
@@ -8332,6 +8899,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "cool detached indie male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "neon-punk-chaos"
     ],
@@ -8376,6 +8946,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "minimal repeated party vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "fashion-week-electro-swagger"
     ],
@@ -8420,6 +8993,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "shouted gang hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "rowdy-but-stylish-rock-club-pressure"
     ],
@@ -8464,6 +9040,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "shouted gang hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "rowdy-but-stylish-rock-club-pressure"
     ],
@@ -8508,6 +9087,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "minimal repeated party vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "rowdy-but-stylish-rock-club-pressure"
     ],
@@ -8552,6 +9134,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "cool detached indie male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "fashion-week-electro-swagger"
     ],
@@ -8596,6 +9181,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "cool detached indie male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "rowdy-but-stylish-rock-club-pressure"
     ],
@@ -8640,6 +9228,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "minimal repeated party vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "fashion-week-electro-swagger"
     ],
@@ -8684,6 +9275,9 @@
     "key": "E phrygian",
     "language": "English",
     "vocal": "raw female chant vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "rowdy-but-stylish-rock-club-pressure"
     ],
@@ -8728,6 +9322,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "cool detached indie male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dirty-late-2000s-dancefloor-grit"
     ],
@@ -8772,6 +9369,9 @@
     "key": "F# minor",
     "language": "English",
     "vocal": "raw female chant vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "neon-punk-chaos"
     ],
@@ -8816,6 +9416,9 @@
     "key": "E phrygian",
     "language": "English",
     "vocal": "cool detached indie male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "rowdy-but-stylish-rock-club-pressure"
     ],
@@ -8860,6 +9463,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "cool detached indie male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "rowdy-but-stylish-rock-club-pressure"
     ],
@@ -8904,6 +9510,9 @@
     "key": "E phrygian",
     "language": "English",
     "vocal": "raw female chant vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "rowdy-but-stylish-rock-club-pressure"
     ],
@@ -8948,6 +9557,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "raw female chant vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dirty-late-2000s-dancefloor-grit"
     ],
@@ -8992,6 +9604,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "minimal repeated party vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "rowdy-but-stylish-rock-club-pressure"
     ],
@@ -9036,6 +9651,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "shouted gang hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "rowdy-but-stylish-rock-club-pressure"
     ],
@@ -9080,6 +9698,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "minimal repeated party vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "neon-punk-chaos"
     ],
@@ -9124,6 +9745,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "spoken-sung verse with explosive hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "fashion-week-electro-swagger"
     ],
@@ -9168,6 +9792,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "spoken-sung verse with explosive hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dirty-late-2000s-dancefloor-grit"
     ],
@@ -9212,6 +9839,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "raw female chant vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dirty-late-2000s-dancefloor-grit"
     ],
@@ -9256,6 +9886,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "shouted gang hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "rowdy-but-stylish-rock-club-pressure"
     ],
@@ -9300,6 +9933,9 @@
     "key": "F# minor",
     "language": "English",
     "vocal": "shouted gang hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sweaty-basement-club-energy"
     ],
@@ -9344,6 +9980,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "raw female chant vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "fashion-week-electro-swagger"
     ],
@@ -9388,6 +10027,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "raw female chant vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "dirty-late-2000s-dancefloor-grit"
     ],
@@ -9432,6 +10074,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "cool detached indie male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "fashion-week-electro-swagger"
     ],
@@ -9476,6 +10121,9 @@
     "key": "A major",
     "language": "English",
     "vocal": "romantic male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "melancholic-but-danceable-nostalgia"
     ],
@@ -9520,6 +10168,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "dramatic female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "starlit-highway-euphoria"
     ],
@@ -9564,6 +10215,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "romantic male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "starlit-highway-euphoria"
     ],
@@ -9608,6 +10262,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "duet-style chorus layers",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-european-night-club"
     ],
@@ -9652,6 +10309,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "dramatic female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cosmic-romance"
     ],
@@ -9696,6 +10356,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "dramatic female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-european-night-club"
     ],
@@ -9740,6 +10403,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "romantic male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "melancholic-but-danceable-nostalgia"
     ],
@@ -9784,6 +10450,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "romantic male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "melancholic-but-danceable-nostalgia"
     ],
@@ -9828,6 +10497,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "dramatic female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cosmic-romance"
     ],
@@ -9872,6 +10544,9 @@
     "key": "A major",
     "language": "English",
     "vocal": "dreamy English-language hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "glossy-sci-fi-disco"
     ],
@@ -9916,6 +10591,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "dramatic female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "glossy-sci-fi-disco"
     ],
@@ -9960,6 +10638,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "duet-style chorus layers",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "starlit-highway-euphoria"
     ],
@@ -10004,6 +10685,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "romantic male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-european-night-club"
     ],
@@ -10048,6 +10732,9 @@
     "key": "F# minor",
     "language": "English",
     "vocal": "dreamy English-language hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "melancholic-but-danceable-nostalgia"
     ],
@@ -10092,6 +10779,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "romantic male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cosmic-romance"
     ],
@@ -10136,6 +10826,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "duet-style chorus layers",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cosmic-romance"
     ],
@@ -10180,6 +10873,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "romantic male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-european-night-club"
     ],
@@ -10224,6 +10920,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "vocoder harmony tucked behind chorus",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "melancholic-but-danceable-nostalgia"
     ],
@@ -10268,6 +10967,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "duet-style chorus layers",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "starlit-highway-euphoria"
     ],
@@ -10312,6 +11014,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "romantic male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cosmic-romance"
     ],
@@ -10356,6 +11061,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "duet-style chorus layers",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "melancholic-but-danceable-nostalgia"
     ],
@@ -10400,6 +11108,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "vocoder harmony tucked behind chorus",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "starlit-highway-euphoria"
     ],
@@ -10444,6 +11155,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "dreamy English-language hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "glossy-sci-fi-disco"
     ],
@@ -10488,6 +11202,9 @@
     "key": "A major",
     "language": "English",
     "vocal": "dramatic female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "starlit-highway-euphoria"
     ],
@@ -10532,6 +11249,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "dreamy English-language hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "glossy-sci-fi-disco"
     ],
@@ -10576,6 +11296,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "vocoder harmony tucked behind chorus",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cosmic-romance"
     ],
@@ -10620,6 +11343,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "dramatic female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cosmic-romance"
     ],
@@ -10664,6 +11390,9 @@
     "key": "A major",
     "language": "English",
     "vocal": "vocoder harmony tucked behind chorus",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-european-night-club"
     ],
@@ -10708,6 +11437,9 @@
     "key": "A major",
     "language": "English",
     "vocal": "dreamy English-language hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "retro-european-night-club"
     ],
@@ -10752,6 +11484,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "duet-style chorus layers",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "melancholic-but-danceable-nostalgia"
     ],
@@ -10796,6 +11531,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "minimal hook chant",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "detached-romantic-tension"
     ],
@@ -10840,6 +11578,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "detached female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "gray-industrial-morning"
     ],
@@ -10884,6 +11625,9 @@
     "key": "A dorian",
     "language": "English",
     "vocal": "cool bilingual-feeling vocal tone in English",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cold-city-minimalism"
     ],
@@ -10928,6 +11672,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "minimal hook chant",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "detached-romantic-tension"
     ],
@@ -10972,6 +11719,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "cool bilingual-feeling vocal tone in English",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "stylish-emotional-distance"
     ],
@@ -11016,6 +11766,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "minimal hook chant",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cold-city-minimalism"
     ],
@@ -11060,6 +11813,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "minimal hook chant",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "gray-industrial-morning"
     ],
@@ -11104,6 +11860,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "cool bilingual-feeling vocal tone in English",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "gray-industrial-morning"
     ],
@@ -11148,6 +11907,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "detached female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cold-city-minimalism"
     ],
@@ -11192,6 +11954,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "cool bilingual-feeling vocal tone in English",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "detached-romantic-tension"
     ],
@@ -11236,6 +12001,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "deadpan male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "stylish-emotional-distance"
     ],
@@ -11280,6 +12048,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "deadpan male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "detached-romantic-tension"
     ],
@@ -11324,6 +12095,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "deadpan male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "detached-romantic-tension"
     ],
@@ -11368,6 +12142,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "low monotone verse vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "gray-industrial-morning"
     ],
@@ -11412,6 +12189,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "low monotone verse vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "stylish-emotional-distance"
     ],
@@ -11456,6 +12236,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "cool bilingual-feeling vocal tone in English",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "stylish-emotional-distance"
     ],
@@ -11500,6 +12283,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "deadpan male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "stylish-emotional-distance"
     ],
@@ -11544,6 +12330,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "deadpan male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "gray-industrial-morning"
     ],
@@ -11588,6 +12377,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "detached female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "underground-synth-club-mood"
     ],
@@ -11632,6 +12424,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "detached female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "gray-industrial-morning"
     ],
@@ -11676,6 +12471,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "minimal hook chant",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "gray-industrial-morning"
     ],
@@ -11720,6 +12518,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "low monotone verse vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "underground-synth-club-mood"
     ],
@@ -11764,6 +12565,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "cool bilingual-feeling vocal tone in English",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "underground-synth-club-mood"
     ],
@@ -11808,6 +12612,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "minimal hook chant",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "underground-synth-club-mood"
     ],
@@ -11852,6 +12659,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "deadpan male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "underground-synth-club-mood"
     ],
@@ -11896,6 +12706,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "minimal hook chant",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "stylish-emotional-distance"
     ],
@@ -11940,6 +12753,9 @@
     "key": "A dorian",
     "language": "English",
     "vocal": "detached female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "underground-synth-club-mood"
     ],
@@ -11984,6 +12800,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "detached female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "detached-romantic-tension"
     ],
@@ -12028,6 +12847,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "deadpan male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "detached-romantic-tension"
     ],
@@ -12072,6 +12894,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "minimal hook chant",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "gray-industrial-morning"
     ],
@@ -12116,6 +12941,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "raw female chant vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "loose-party-chaos-with-tight-rhythm"
     ],
@@ -12160,6 +12988,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "talk-sung indie vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sweaty-art-school-club"
     ],
@@ -12204,6 +13035,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "cool detached male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "stylish-punk-funk-tension"
     ],
@@ -12248,6 +13082,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "urgent shouted hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sweaty-art-school-club"
     ],
@@ -12292,6 +13129,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "cool detached male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "downtown-nocturnal-swagger"
     ],
@@ -12336,6 +13176,9 @@
     "key": "D dorian",
     "language": "English",
     "vocal": "talk-sung indie vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "stylish-punk-funk-tension"
     ],
@@ -12380,6 +13223,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "urgent shouted hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sweaty-art-school-club"
     ],
@@ -12424,6 +13270,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "cool detached male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "downtown-nocturnal-swagger"
     ],
@@ -12468,6 +13317,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "talk-sung indie vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sweaty-art-school-club"
     ],
@@ -12512,6 +13364,9 @@
     "key": "A dorian",
     "language": "English",
     "vocal": "urgent shouted hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "nervous-city-dancefloor"
     ],
@@ -12556,6 +13411,9 @@
     "key": "A dorian",
     "language": "English",
     "vocal": "group chorus with handclaps",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "nervous-city-dancefloor"
     ],
@@ -12600,6 +13458,9 @@
     "key": "A dorian",
     "language": "English",
     "vocal": "cool detached male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sweaty-art-school-club"
     ],
@@ -12644,6 +13505,9 @@
     "key": "D dorian",
     "language": "English",
     "vocal": "talk-sung indie vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "loose-party-chaos-with-tight-rhythm"
     ],
@@ -12688,6 +13552,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "group chorus with handclaps",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "loose-party-chaos-with-tight-rhythm"
     ],
@@ -12732,6 +13599,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "urgent shouted hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "loose-party-chaos-with-tight-rhythm"
     ],
@@ -12776,6 +13646,9 @@
     "key": "A dorian",
     "language": "English",
     "vocal": "urgent shouted hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "downtown-nocturnal-swagger"
     ],
@@ -12820,6 +13693,9 @@
     "key": "F# minor",
     "language": "English",
     "vocal": "group chorus with handclaps",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "nervous-city-dancefloor"
     ],
@@ -12864,6 +13740,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "urgent shouted hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "downtown-nocturnal-swagger"
     ],
@@ -12908,6 +13787,9 @@
     "key": "A dorian",
     "language": "English",
     "vocal": "urgent shouted hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sweaty-art-school-club"
     ],
@@ -12952,6 +13834,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "cool detached male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "stylish-punk-funk-tension"
     ],
@@ -12996,6 +13881,9 @@
     "key": "A dorian",
     "language": "English",
     "vocal": "talk-sung indie vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sweaty-art-school-club"
     ],
@@ -13040,6 +13928,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "group chorus with handclaps",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "stylish-punk-funk-tension"
     ],
@@ -13084,6 +13975,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "cool detached male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "loose-party-chaos-with-tight-rhythm"
     ],
@@ -13128,6 +14022,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "talk-sung indie vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "loose-party-chaos-with-tight-rhythm"
     ],
@@ -13172,6 +14069,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "raw female chant vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "downtown-nocturnal-swagger"
     ],
@@ -13216,6 +14116,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "cool detached male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "nervous-city-dancefloor"
     ],
@@ -13260,6 +14163,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "talk-sung indie vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sweaty-art-school-club"
     ],
@@ -13304,6 +14210,9 @@
     "key": "D dorian",
     "language": "English",
     "vocal": "cool detached male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "downtown-nocturnal-swagger"
     ],
@@ -13348,6 +14257,9 @@
     "key": "D dorian",
     "language": "English",
     "vocal": "group chorus with handclaps",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "nervous-city-dancefloor"
     ],
@@ -13392,6 +14304,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "urgent shouted hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "stylish-punk-funk-tension"
     ],
@@ -13436,6 +14351,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "airy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "wide-screen-hopeful-motion"
     ],
@@ -13480,6 +14398,9 @@
     "key": "C major",
     "language": "English",
     "vocal": "intimate verse vocal with wide chorus harmonies",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "modern-retro-rock-drama"
     ],
@@ -13524,6 +14445,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "emotional male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "emotional-neon-nostalgia"
     ],
@@ -13568,6 +14492,9 @@
     "key": "C major",
     "language": "English",
     "vocal": "airy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "romantic-highway-melancholy"
     ],
@@ -13612,6 +14539,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "intimate verse vocal with wide chorus harmonies",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "blue-hour-city-skyline"
     ],
@@ -13656,6 +14586,9 @@
     "key": "F# minor",
     "language": "English",
     "vocal": "emotional male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "romantic-highway-melancholy"
     ],
@@ -13700,6 +14633,9 @@
     "key": "F# minor",
     "language": "English",
     "vocal": "airy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "modern-retro-rock-drama"
     ],
@@ -13744,6 +14680,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "wordless cinematic hook layers",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "emotional-neon-nostalgia"
     ],
@@ -13788,6 +14727,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "airy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "wide-screen-hopeful-motion"
     ],
@@ -13832,6 +14774,9 @@
     "key": "C major",
     "language": "English",
     "vocal": "emotional male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "emotional-neon-nostalgia"
     ],
@@ -13876,6 +14821,9 @@
     "key": "C major",
     "language": "English",
     "vocal": "emotional male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "wide-screen-hopeful-motion"
     ],
@@ -13920,6 +14868,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "wordless cinematic hook layers",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "romantic-highway-melancholy"
     ],
@@ -13964,6 +14915,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "anthemic but restrained chorus vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "wide-screen-hopeful-motion"
     ],
@@ -14008,6 +14962,9 @@
     "key": "C major",
     "language": "English",
     "vocal": "airy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "blue-hour-city-skyline"
     ],
@@ -14052,6 +15009,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "anthemic but restrained chorus vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "emotional-neon-nostalgia"
     ],
@@ -14096,6 +15056,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "wordless cinematic hook layers",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "emotional-neon-nostalgia"
     ],
@@ -14140,6 +15103,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "emotional male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "wide-screen-hopeful-motion"
     ],
@@ -14184,6 +15150,9 @@
     "key": "F# minor",
     "language": "English",
     "vocal": "emotional male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "emotional-neon-nostalgia"
     ],
@@ -14228,6 +15197,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "intimate verse vocal with wide chorus harmonies",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "romantic-highway-melancholy"
     ],
@@ -14272,6 +15244,9 @@
     "key": "F# minor",
     "language": "English",
     "vocal": "airy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "emotional-neon-nostalgia"
     ],
@@ -14316,6 +15291,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "intimate verse vocal with wide chorus harmonies",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "romantic-highway-melancholy"
     ],
@@ -14360,6 +15338,9 @@
     "key": "C major",
     "language": "English",
     "vocal": "emotional male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "romantic-highway-melancholy"
     ],
@@ -14404,6 +15385,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "anthemic but restrained chorus vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "wide-screen-hopeful-motion"
     ],
@@ -14448,6 +15432,9 @@
     "key": "C major",
     "language": "English",
     "vocal": "intimate verse vocal with wide chorus harmonies",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "modern-retro-rock-drama"
     ],
@@ -14492,6 +15479,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "intimate verse vocal with wide chorus harmonies",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "blue-hour-city-skyline"
     ],
@@ -14536,6 +15526,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "anthemic but restrained chorus vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "modern-retro-rock-drama"
     ],
@@ -14580,6 +15573,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "anthemic but restrained chorus vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "romantic-highway-melancholy"
     ],
@@ -14624,6 +15620,9 @@
     "key": "C major",
     "language": "English",
     "vocal": "airy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "emotional-neon-nostalgia"
     ],
@@ -14668,6 +15667,9 @@
     "key": "F# minor",
     "language": "English",
     "vocal": "intimate verse vocal with wide chorus harmonies",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "modern-retro-rock-drama"
     ],
@@ -14712,6 +15714,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "wordless cinematic hook layers",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "romantic-highway-melancholy"
     ],
@@ -14756,6 +15761,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "chant-like hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "disciplined-dark-club-energy"
     ],
@@ -14800,6 +15808,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "processed female response vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "mechanical-aggression"
     ],
@@ -14844,6 +15855,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "commanding low male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "underground-warehouse-tension"
     ],
@@ -14888,6 +15902,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "chant-like hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "underground-warehouse-tension"
     ],
@@ -14932,6 +15949,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "cold spoken vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "mechanical-aggression"
     ],
@@ -14976,6 +15996,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "cold spoken vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cold-industrial-romance"
     ],
@@ -15020,6 +16043,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "minimal shouted slogan hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "ritualistic-late-night-movement"
     ],
@@ -15064,6 +16090,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "minimal shouted slogan hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "mechanical-aggression"
     ],
@@ -15108,6 +16137,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "minimal shouted slogan hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "disciplined-dark-club-energy"
     ],
@@ -15152,6 +16184,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "commanding low male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "mechanical-aggression"
     ],
@@ -15196,6 +16231,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "chant-like hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "ritualistic-late-night-movement"
     ],
@@ -15240,6 +16278,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "commanding low male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "mechanical-aggression"
     ],
@@ -15284,6 +16325,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "processed female response vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "disciplined-dark-club-energy"
     ],
@@ -15328,6 +16372,9 @@
     "key": "F# minor",
     "language": "English",
     "vocal": "minimal shouted slogan hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "ritualistic-late-night-movement"
     ],
@@ -15372,6 +16419,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "commanding low male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cold-industrial-romance"
     ],
@@ -15416,6 +16466,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "commanding low male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "ritualistic-late-night-movement"
     ],
@@ -15460,6 +16513,9 @@
     "key": "F# minor",
     "language": "English",
     "vocal": "minimal shouted slogan hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "underground-warehouse-tension"
     ],
@@ -15504,6 +16560,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "processed female response vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "ritualistic-late-night-movement"
     ],
@@ -15548,6 +16607,9 @@
     "key": "F# minor",
     "language": "English",
     "vocal": "commanding low male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "disciplined-dark-club-energy"
     ],
@@ -15592,6 +16654,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "commanding low male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "underground-warehouse-tension"
     ],
@@ -15636,6 +16701,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "processed female response vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "ritualistic-late-night-movement"
     ],
@@ -15680,6 +16748,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "processed female response vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "ritualistic-late-night-movement"
     ],
@@ -15724,6 +16795,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "minimal shouted slogan hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "underground-warehouse-tension"
     ],
@@ -15768,6 +16842,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "commanding low male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "mechanical-aggression"
     ],
@@ -15812,6 +16889,9 @@
     "key": "F minor",
     "language": "English",
     "vocal": "cold spoken vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "mechanical-aggression"
     ],
@@ -15856,6 +16936,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "minimal shouted slogan hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cold-industrial-romance"
     ],
@@ -15900,6 +16983,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "chant-like hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "ritualistic-late-night-movement"
     ],
@@ -15944,6 +17030,9 @@
     "key": "C minor",
     "language": "English",
     "vocal": "chant-like hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "mechanical-aggression"
     ],
@@ -15988,6 +17077,9 @@
     "key": "G minor",
     "language": "English",
     "vocal": "commanding low male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "ritualistic-late-night-movement"
     ],
@@ -16032,6 +17124,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "commanding low male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "ritualistic-late-night-movement"
     ],
@@ -16076,6 +17171,9 @@
     "key": "F major",
     "language": "English",
     "vocal": "dreamy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sunset-coastal-drive"
     ],
@@ -16120,6 +17218,9 @@
     "key": "B minor",
     "language": "English",
     "vocal": "soft breezy male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "floating-dancefloor-calm"
     ],
@@ -16164,6 +17265,9 @@
     "key": "G major",
     "language": "English",
     "vocal": "laid-back group refrain",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "romantic-dusk-atmosphere"
     ],
@@ -16208,6 +17312,9 @@
     "key": "D major",
     "language": "English",
     "vocal": "minimal whispered hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-late-summer-nostalgia"
     ],
@@ -16252,6 +17359,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "soft breezy male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-late-summer-nostalgia"
     ],
@@ -16296,6 +17406,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "wordless sunset harmonies",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cosmic-relaxed-euphoria"
     ],
@@ -16340,6 +17453,9 @@
     "key": "D major",
     "language": "English",
     "vocal": "minimal whispered hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-late-summer-nostalgia"
     ],
@@ -16384,6 +17500,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "wordless sunset harmonies",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cosmic-relaxed-euphoria"
     ],
@@ -16428,6 +17547,9 @@
     "key": "F major",
     "language": "English",
     "vocal": "dreamy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-late-summer-nostalgia"
     ],
@@ -16472,6 +17594,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "wordless sunset harmonies",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cosmic-relaxed-euphoria"
     ],
@@ -16516,6 +17641,9 @@
     "key": "G major",
     "language": "English",
     "vocal": "soft breezy male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cosmic-relaxed-euphoria"
     ],
@@ -16560,6 +17688,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "wordless sunset harmonies",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "romantic-dusk-atmosphere"
     ],
@@ -16604,6 +17735,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "dreamy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cosmic-relaxed-euphoria"
     ],
@@ -16648,6 +17782,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "dreamy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sunset-coastal-drive"
     ],
@@ -16692,6 +17829,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "soft breezy male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "floating-dancefloor-calm"
     ],
@@ -16736,6 +17876,9 @@
     "key": "D minor",
     "language": "English",
     "vocal": "minimal whispered hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "romantic-dusk-atmosphere"
     ],
@@ -16780,6 +17923,9 @@
     "key": "D major",
     "language": "English",
     "vocal": "soft breezy male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "warm-late-summer-nostalgia"
     ],
@@ -16824,6 +17970,9 @@
     "key": "G major",
     "language": "English",
     "vocal": "dreamy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cosmic-relaxed-euphoria"
     ],
@@ -16868,6 +18017,9 @@
     "key": "F major",
     "language": "English",
     "vocal": "wordless sunset harmonies",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "romantic-dusk-atmosphere"
     ],
@@ -16912,6 +18064,9 @@
     "key": "C major",
     "language": "English",
     "vocal": "dreamy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "romantic-dusk-atmosphere"
     ],
@@ -16956,6 +18111,9 @@
     "key": "G major",
     "language": "English",
     "vocal": "laid-back group refrain",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cosmic-relaxed-euphoria"
     ],
@@ -17000,6 +18158,9 @@
     "key": "F major",
     "language": "English",
     "vocal": "dreamy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "floating-dancefloor-calm"
     ],
@@ -17044,6 +18205,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "laid-back group refrain",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "floating-dancefloor-calm"
     ],
@@ -17088,6 +18252,9 @@
     "key": "D major",
     "language": "English",
     "vocal": "dreamy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sunset-coastal-drive"
     ],
@@ -17132,6 +18299,9 @@
     "key": "F major",
     "language": "English",
     "vocal": "dreamy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sunset-coastal-drive"
     ],
@@ -17176,6 +18346,9 @@
     "key": "G major",
     "language": "English",
     "vocal": "wordless sunset harmonies",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "cosmic-relaxed-euphoria"
     ],
@@ -17220,6 +18393,9 @@
     "key": "E minor",
     "language": "English",
     "vocal": "soft breezy male vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sunset-coastal-drive"
     ],
@@ -17264,6 +18440,9 @@
     "key": "G major",
     "language": "English",
     "vocal": "dreamy female vocal",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "floating-dancefloor-calm"
     ],
@@ -17308,6 +18487,9 @@
     "key": "A minor",
     "language": "English",
     "vocal": "wordless sunset harmonies",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "sunset-coastal-drive"
     ],
@@ -17352,6 +18534,9 @@
     "key": "F major",
     "language": "English",
     "vocal": "minimal whispered hook",
+    "creator": "",
+    "creator_slug": "",
+    "creator_tags": [],
     "mood": [
       "romantic-dusk-atmosphere"
     ],

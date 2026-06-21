@@ -24,6 +24,7 @@ async function init() {
     renderStats();
     populateCollectionControls();
     updateCategoryOptions();
+    updateCreatorOptions();
     updateTagOptions();
     applyFilters();
   } catch (error) {
@@ -41,6 +42,7 @@ function cacheElements() {
     "searchInput",
     "collectionFilter",
     "categoryFilter",
+    "creatorFilter",
     "tagFilter",
     "bpmMin",
     "bpmMax",
@@ -70,6 +72,7 @@ function bindEvents() {
   [
     "searchInput",
     "categoryFilter",
+    "creatorFilter",
     "tagFilter",
     "bpmMin",
     "bpmMax",
@@ -83,7 +86,8 @@ function bindEvents() {
       if (id === "grooveMin") els.grooveOutput.value = `${els.grooveMin.value}+`;
       if (id === "energyMin") els.energyOutput.value = `${els.energyMin.value}+`;
       state.visibleCount = PAGE_SIZE;
-      if (id === "categoryFilter") updateTagOptions();
+      if (id === "categoryFilter") updateCreatorOptions();
+      if (id === "categoryFilter" || id === "creatorFilter") updateTagOptions();
       applyFilters();
     });
   });
@@ -91,6 +95,7 @@ function bindEvents() {
   els.collectionFilter.addEventListener("input", () => {
     state.visibleCount = PAGE_SIZE;
     updateCategoryOptions();
+    updateCreatorOptions();
     updateTagOptions();
     renderCollectionTabs();
     applyFilters();
@@ -108,6 +113,7 @@ function bindEvents() {
     els.collectionFilter.value = button.dataset.collection;
     state.visibleCount = PAGE_SIZE;
     updateCategoryOptions();
+    updateCreatorOptions();
     updateTagOptions();
     renderCollectionTabs();
     applyFilters();
@@ -194,15 +200,39 @@ function updateTagOptions() {
   els.tagFilter.value = [...els.tagFilter.options].some((option) => option.value === selected) ? selected : "all";
 }
 
-function promptsInCurrentScope() {
+function updateCreatorOptions() {
+  const scoped = promptsInCurrentScope({ includeCreator: false });
+  const counts = new Map();
+  scoped.forEach((prompt) => {
+    if (!prompt.creator_slug) return;
+    const current = counts.get(prompt.creator_slug) || { name: prompt.creator || prompt.creator_slug, count: 0 };
+    current.count += 1;
+    counts.set(prompt.creator_slug, current);
+  });
+
+  const selected = els.creatorFilter.value;
+  const creators = [...counts.entries()].sort((a, b) => b[1].count - a[1].count || a[1].name.localeCompare(b[1].name));
+  els.creatorFilter.innerHTML = [
+    `<option value="all">すべて</option>`,
+    ...creators.map(
+      ([slug, creator]) => `<option value="${escapeHtml(slug)}">${escapeHtml(creator.name)} (${creator.count})</option>`
+    ),
+  ].join("");
+  els.creatorFilter.value = [...els.creatorFilter.options].some((option) => option.value === selected) ? selected : "all";
+}
+
+function promptsInCurrentScope(options = {}) {
+  const includeCreator = options.includeCreator !== false;
   const collection = els.collectionFilter.value || "all";
   const category = els.categoryFilter.value || "all";
+  const creator = els.creatorFilter.value || "all";
   return state.prompts.filter((prompt) => {
     if (collection !== "all" && prompt.collection !== collection) return false;
     if (category !== "all") {
       const [categoryCollection, categorySlug] = category.split(":");
       if (prompt.collection !== categoryCollection || prompt.category_slug !== categorySlug) return false;
     }
+    if (includeCreator && creator !== "all" && prompt.creator_slug !== creator) return false;
     return true;
   });
 }
@@ -220,6 +250,7 @@ function readFilters() {
     query: els.searchInput.value.trim().toLowerCase(),
     collection: els.collectionFilter.value || "all",
     category: els.categoryFilter.value || "all",
+    creator: els.creatorFilter.value || "all",
     tag: els.tagFilter.value || "all",
     bpmMin: numberOrNull(els.bpmMin.value),
     bpmMax: numberOrNull(els.bpmMax.value),
@@ -235,6 +266,7 @@ function matchesFilters(prompt, filters) {
   if (filters.publicOnly && !prompt.public_safe) return false;
   if (filters.topOnly && !prompt.is_top_pick) return false;
   if (filters.collection !== "all" && prompt.collection !== filters.collection) return false;
+  if (filters.creator !== "all" && prompt.creator_slug !== filters.creator) return false;
 
   if (filters.category !== "all") {
     const [collection, slug] = filters.category.split(":");
@@ -253,6 +285,8 @@ function matchesFilters(prompt, filters) {
       prompt.collection_label,
       prompt.category,
       prompt.subcategory,
+      prompt.creator,
+      prompt.creator_slug,
       prompt.prompt,
       prompt.exclude,
       prompt.key,
@@ -308,6 +342,7 @@ function renderPromptCard(prompt) {
   const metrics = [
     prompt.bpm ? `BPM ${prompt.bpm}` : "",
     prompt.key ? prompt.key : "",
+    prompt.creator ? `Creator ${prompt.creator}` : "",
     prompt.groove_score !== null ? `Groove ${prompt.groove_score}` : "",
     prompt.energy_score !== null ? `Energy ${prompt.energy_score}` : "",
   ]
@@ -341,6 +376,10 @@ function renderActiveChips(filters) {
   if (filters.category !== "all") {
     const category = state.catalog.categories.find((item) => item.id === filters.category);
     if (category) chips.push(category.name);
+  }
+  if (filters.creator !== "all") {
+    const creator = (state.catalog.creators || []).find((item) => item.id === filters.creator);
+    chips.push(creator ? `作成者: ${creator.name}` : `作成者: ${filters.creator}`);
   }
   if (filters.tag !== "all") chips.push(`#${filters.tag}`);
   if (filters.query) chips.push(`検索: ${filters.query}`);
@@ -388,6 +427,7 @@ function openDialog(prompt) {
         ${[
           prompt.category,
           prompt.subcategory,
+          prompt.creator ? `Creator ${prompt.creator}` : "",
           prompt.bpm ? `BPM ${prompt.bpm}` : "",
           prompt.key,
           prompt.groove_score !== null ? `Groove ${prompt.groove_score}` : "",
@@ -478,6 +518,7 @@ function showToast(message) {
 function clearFilters() {
   els.searchInput.value = "";
   els.collectionFilter.value = "all";
+  els.creatorFilter.value = "all";
   els.bpmMin.value = "";
   els.bpmMax.value = "";
   els.grooveMin.value = "0";
@@ -489,6 +530,7 @@ function clearFilters() {
   els.sortSelect.value = "recommended";
   state.visibleCount = PAGE_SIZE;
   updateCategoryOptions();
+  updateCreatorOptions();
   updateTagOptions();
   renderCollectionTabs();
   applyFilters();

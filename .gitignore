@@ -1,2 +1,4 @@
 server*.log
 server*.err
+incoming/**/*.raw.md
+incoming/**/private/

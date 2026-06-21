@@ -31,6 +31,22 @@ const COLLECTIONS = {
     source: path.join(ROOT, "suno-electro-groove-prompts-overseas-V03-20260621", "manifest-electro-groove-prompts-V03-20260621.jsonl"),
     bundle: "electro-groove-v03.json",
   },
+  kota: {
+    id: "kota-v04",
+    version: "V04",
+    label: "KOTAプロンプト",
+    description: "KOTA作成のグランジ、オルタナ、R&B、シネマティック系Sunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "kota-v04.jsonl"),
+    bundle: "kota-v04.json",
+  },
+  worldPop: {
+    id: "world-pop-v04",
+    version: "V04",
+    label: "World Pop",
+    description: "世界各地のポップ語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "world-pop-v04.jsonl"),
+    bundle: "world-pop-v04.json",
+  },
 };
 
 function readJsonl(filePath) {
@@ -171,6 +187,9 @@ function basePrompt(fields) {
     key: fields.key || "",
     language: fields.language || "English",
     vocal: fields.vocal || "",
+    creator: fields.creator || "",
+    creator_slug: fields.creator_slug || slugify(fields.creator || ""),
+    creator_tags: unique(splitTags(fields.creator_tags)),
     mood: fields.mood || [],
     tags,
     use_case: fields.use_case || [],
@@ -278,6 +297,75 @@ function normalizeV03(items) {
   });
 }
 
+function normalizeKota(items) {
+  const meta = COLLECTIONS.kota;
+  return items.map((item, index) =>
+    basePrompt({
+      id: `kota-v04-${pad(index + 1)}`,
+      original_id: item.id || `${item.batch_id}-${pad(index + 1)}`,
+      version: meta.version,
+      collection: meta.id,
+      collection_label: meta.label,
+      category: item.category,
+      subcategory: item.subcategory,
+      title: item.title,
+      prompt: item.prompt,
+      exclude: item.exclude,
+      bpm: toNumber(item.bpm),
+      key: item.key,
+      language: "English",
+      vocal: item.vocal || "",
+      creator: item.creator || "KOTA",
+      creator_slug: item.creator_slug || "kota",
+      creator_tags: item.creator_tags || ["kota"],
+      mood: item.mood || [],
+      tags: item.tags,
+      groove_score: item.groove_score ?? null,
+      energy: item.energy || "",
+      energy_score: item.energy_score ?? null,
+      rights_status: item.rights_status || "original_normalized",
+      source_note: "KOTA作成プロンプトを公開用に整理し、BPM/Key/タグ/作成者メタデータを付与。",
+      is_top_pick: Boolean(item.is_top_pick),
+      public_safe: item.public_safe !== false,
+    })
+  );
+}
+
+function normalizeWorldPop(items) {
+  const meta = COLLECTIONS.worldPop;
+  return items.map((item, index) => {
+    const category = titleCase(item.subcategory || item.category || "World Pop");
+    return basePrompt({
+      id: `world-pop-v04-${pad(index + 1)}`,
+      original_id: item.id || `${item.batch_id}-${pad(index + 1)}`,
+      version: meta.version,
+      collection: meta.id,
+      collection_label: meta.label,
+      category,
+      subcategory: item.language_region || item.subcategory || "",
+      title: item.title,
+      prompt: item.prompt,
+      exclude: item.exclude,
+      bpm: toNumber(item.bpm),
+      key: item.key,
+      language: "English",
+      vocal: item.vocal || "",
+      creator: item.creator || "",
+      creator_slug: item.creator_slug || "",
+      creator_tags: item.creator_tags || [],
+      mood: item.mood || [],
+      tags: item.tags,
+      groove_score: item.groove_score ?? null,
+      energy: item.energy || "",
+      energy_score: item.energy_score ?? null,
+      rights_status: item.rights_status || "ai_generated_original",
+      source_note: "ChatGPTで生成した世界各地のポップ系Sunoプロンプトを公開用に検査・整理。",
+      is_top_pick: Boolean(item.is_top_pick),
+      public_safe: item.public_safe !== false,
+    });
+  });
+}
+
 function summarizeCollections(prompts) {
   return Object.values(COLLECTIONS).map((collection) => {
     const collectionPrompts = prompts.filter((prompt) => prompt.collection === collection.id);
@@ -300,6 +388,21 @@ function countBy(prompts, getKey) {
     counts.set(key, (counts.get(key) || 0) + 1);
   });
   return counts;
+}
+
+function summarizeCreators(prompts) {
+  const map = new Map();
+  prompts.forEach((prompt) => {
+    if (!prompt.creator_slug) return;
+    const current = map.get(prompt.creator_slug) || {
+      id: prompt.creator_slug,
+      name: prompt.creator || prompt.creator_slug,
+      count: 0,
+    };
+    current.count += 1;
+    map.set(prompt.creator_slug, current);
+  });
+  return [...map.values()].sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
 }
 
 function summarizeCategories(prompts) {
@@ -337,9 +440,12 @@ function build() {
   const v01 = normalizeV01(readJsonl(COLLECTIONS.v01.source));
   const rock = normalizeV02(readJsonl(COLLECTIONS.rock.source));
   const electro = normalizeV03(readJsonl(COLLECTIONS.electro.source));
-  const prompts = [...v01, ...rock, ...electro];
+  const kota = normalizeKota(readJsonl(COLLECTIONS.kota.source));
+  const worldPop = normalizeWorldPop(readJsonl(COLLECTIONS.worldPop.source));
+  const prompts = [...v01, ...rock, ...electro, ...kota, ...worldPop];
   const publicPrompts = prompts.filter((prompt) => prompt.public_safe);
   const collections = summarizeCollections(publicPrompts);
+  const creators = summarizeCreators(publicPrompts);
   const categories = summarizeCategories(publicPrompts);
   const tags = summarizeTags(publicPrompts);
   const topPicks = publicPrompts
@@ -357,6 +463,7 @@ function build() {
     total_source_count: prompts.length,
     public_safe_count: publicPrompts.length,
     collections,
+    creators,
     categories,
     top_tags: tags.slice(0, 80),
     top_pick_count: topPicks.length,
@@ -366,6 +473,8 @@ function build() {
   writeBundle(COLLECTIONS.v01.bundle, v01.filter((prompt) => prompt.public_safe));
   writeBundle(COLLECTIONS.rock.bundle, rock.filter((prompt) => prompt.public_safe));
   writeBundle(COLLECTIONS.electro.bundle, electro.filter((prompt) => prompt.public_safe));
+  writeBundle(COLLECTIONS.kota.bundle, kota.filter((prompt) => prompt.public_safe));
+  writeBundle(COLLECTIONS.worldPop.bundle, worldPop.filter((prompt) => prompt.public_safe));
   writeBundle("top-picks.json", topPicks);
 
   console.log(`Generated ${publicPrompts.length} public prompts`);

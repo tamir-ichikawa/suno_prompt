@@ -5,11 +5,11 @@
   },
   {
     "tag": "indie-dance",
-    "count": 92
+    "count": 95
   },
   {
     "tag": "night-drive",
-    "count": 62
+    "count": 63
   },
   {
     "tag": "ebm",
@@ -32,8 +32,16 @@
     "count": 60
   },
   {
+    "tag": "syncopation",
+    "count": 60
+  },
+  {
     "tag": "e-minor",
     "count": 58
+  },
+  {
+    "tag": "industrial",
+    "count": 47
   },
   {
     "tag": "d-minor",
@@ -72,16 +80,20 @@
     "count": 38
   },
   {
+    "tag": "funk-groove",
+    "count": 37
+  },
+  {
+    "tag": "cinematic-rock",
+    "count": 36
+  },
+  {
     "tag": "108bpm",
     "count": 35
   },
   {
     "tag": "dance-rock",
     "count": 35
-  },
-  {
-    "tag": "cinematic-rock",
-    "count": 34
   },
   {
     "tag": "dance-punk",
@@ -100,7 +112,7 @@
     "count": 33
   },
   {
-    "tag": "industrial",
+    "tag": "clean-guitar",
     "count": 32
   },
   {
@@ -120,11 +132,11 @@
     "count": 31
   },
   {
-    "tag": "cinematic-synth",
+    "tag": "chorus-guitar",
     "count": 31
   },
   {
-    "tag": "clean-guitar",
+    "tag": "cinematic-synth",
     "count": 31
   },
   {
@@ -224,10 +236,6 @@
     "count": 30
   },
   {
-    "tag": "chorus-guitar",
-    "count": 30
-  },
-  {
     "tag": "coldwave",
     "count": 30
   },
@@ -320,16 +328,20 @@
     "count": 30
   },
   {
-    "tag": "syncopation",
-    "count": 30
-  },
-  {
     "tag": "talkbox",
     "count": 30
   },
   {
     "tag": "104bpm",
     "count": 29
+  },
+  {
+    "tag": "dissonance",
+    "count": 28
+  },
+  {
+    "tag": "grunge",
+    "count": 28
   },
   {
     "tag": "raw",
@@ -348,6 +360,14 @@
     "count": 26
   },
   {
+    "tag": "microtonal",
+    "count": 26
+  },
+  {
+    "tag": "offbeat",
+    "count": 25
+  },
+  {
     "tag": "angular",
     "count": 24
   },
@@ -360,11 +380,19 @@
     "count": 23
   },
   {
+    "tag": "alternative-rock",
+    "count": 22
+  },
+  {
     "tag": "116bpm",
     "count": 20
   },
   {
     "tag": "fuzz",
+    "count": 20
+  },
+  {
+    "tag": "heavy-groove",
     "count": 20
   },
   {
@@ -380,11 +408,23 @@
     "count": 19
   },
   {
+    "tag": "blues-rock",
+    "count": 19
+  },
+  {
     "tag": "heavy",
     "count": 18
   },
   {
+    "tag": "alternative-grunge",
+    "count": 17
+  },
+  {
     "tag": "dark",
+    "count": 17
+  },
+  {
+    "tag": "detuned-guitar",
     "count": 17
   },
   {
@@ -396,15 +436,11 @@
     "count": 16
   },
   {
-    "tag": "blues-rock",
+    "tag": "groove-rock",
     "count": 16
   },
   {
     "tag": "guitar-driven",
-    "count": 16
-  },
-  {
-    "tag": "heavy-groove",
     "count": 16
   },
   {
@@ -428,6 +464,10 @@
     "count": 13
   },
   {
+    "tag": "cinematic",
+    "count": 13
+  },
+  {
     "tag": "d-major",
     "count": 13
   },
@@ -438,10 +478,6 @@
   {
     "tag": "experimental",
     "count": 13
-  },
-  {
-    "tag": "alternative-rock",
-    "count": 12
   },
   {
     "tag": "driving",
@@ -480,11 +516,31 @@
     "count": 12
   },
   {
+    "tag": "emotional",
+    "count": 11
+  },
+  {
+    "tag": "male-vocal",
+    "count": 11
+  },
+  {
+    "tag": "strings",
+    "count": 11
+  },
+  {
     "tag": "anthem",
     "count": 10
   },
   {
-    "tag": "emotional",
+    "tag": "art-rock",
+    "count": 10
+  },
+  {
+    "tag": "ballad",
+    "count": 10
+  },
+  {
+    "tag": "female-vocal",
     "count": 10
   },
   {
@@ -500,11 +556,27 @@
     "count": 9
   },
   {
+    "tag": "guitar-rock",
+    "count": 9
+  },
+  {
+    "tag": "jazz-influenced",
+    "count": 9
+  },
+  {
+    "tag": "rap-rock",
+    "count": 9
+  },
+  {
     "tag": "roots",
     "count": 9
   },
   {
     "tag": "shoegaze",
+    "count": 9
+  },
+  {
+    "tag": "synth-bass",
     "count": 9
   },
   {
@@ -528,10 +600,6 @@
     "count": 8
   },
   {
-    "tag": "art-rock",
-    "count": 8
-  },
-  {
     "tag": "d-dorian",
     "count": 8
   },
@@ -540,15 +608,15 @@
     "count": 8
   },
   {
-    "tag": "groove-rock",
-    "count": 8
-  },
-  {
     "tag": "hooky",
     "count": 8
   },
   {
     "tag": "hypnotic",
+    "count": 8
+  },
+  {
+    "tag": "instrumental",
     "count": 8
   },
   {
@@ -584,7 +652,23 @@
     "count": 7
   },
   {
-    "tag": "ballad",
+    "tag": "odd-meter",
+    "count": 7
+  },
+  {
+    "tag": "afro-pop",
+    "count": 6
+  },
+  {
+    "tag": "alternative-rnb",
+    "count": 6
+  },
+  {
+    "tag": "amapiano-pop",
+    "count": 6
+  },
+  {
+    "tag": "arabic-electronic-pop",
     "count": 6
   },
   {
@@ -592,15 +676,39 @@
     "count": 6
   },
   {
+    "tag": "dark-rnb",
+    "count": 6
+  },
+  {
+    "tag": "deep-groove",
+    "count": 6
+  },
+  {
     "tag": "f-major",
     "count": 6
   },
   {
-    "tag": "grunge",
+    "tag": "industrial-rnb",
+    "count": 6
+  },
+  {
+    "tag": "latin-alt-pop",
+    "count": 6
+  },
+  {
+    "tag": "progressive",
+    "count": 6
+  },
+  {
+    "tag": "progressive-rock",
     "count": 6
   },
   {
     "tag": "punk",
+    "count": 6
+  },
+  {
+    "tag": "southeast-asian-indie-pop",
     "count": 6
   },
   {
@@ -616,7 +724,23 @@
     "count": 5
   },
   {
+    "tag": "balkan-brass-pop",
+    "count": 5
+  },
+  {
+    "tag": "brazilian-funk-pop",
+    "count": 5
+  },
+  {
+    "tag": "caribbean-dance-pop",
+    "count": 5
+  },
+  {
     "tag": "curated",
+    "count": 5
+  },
+  {
+    "tag": "dark-rock",
     "count": 5
   },
   {
@@ -625,6 +749,18 @@
   },
   {
     "tag": "jam",
+    "count": 5
+  },
+  {
+    "tag": "keys",
+    "count": 5
+  },
+  {
+    "tag": "nordic-folk-pop",
+    "count": 5
+  },
+  {
+    "tag": "slow-groove",
     "count": 5
   },
   {
@@ -645,6 +781,10 @@
   },
   {
     "tag": "acid-groove",
+    "count": 4
+  },
+  {
+    "tag": "alternative-metal",
     "count": 4
   },
   {
@@ -716,6 +856,14 @@
     "count": 4
   },
   {
+    "tag": "british-rock",
+    "count": 4
+  },
+  {
+    "tag": "britpop",
+    "count": 4
+  },
+  {
     "tag": "catchy",
     "count": 4
   },
@@ -773,6 +921,10 @@
   },
   {
     "tag": "doom-blues",
+    "count": 4
+  },
+  {
+    "tag": "downer-rock",
     "count": 4
   },
   {
@@ -948,11 +1100,11 @@
     "count": 4
   },
   {
-    "tag": "industrial-rock",
+    "tag": "industrial-metal",
     "count": 4
   },
   {
-    "tag": "instrumental",
+    "tag": "industrial-rock",
     "count": 4
   },
   {
@@ -981,6 +1133,10 @@
   },
   {
     "tag": "live-drums",
+    "count": 4
+  },
+  {
+    "tag": "log-drum",
     "count": 4
   },
   {
@@ -1052,11 +1208,11 @@
     "count": 4
   },
   {
-    "tag": "odd-groove",
+    "tag": "nu-metal",
     "count": 4
   },
   {
-    "tag": "odd-meter",
+    "tag": "odd-groove",
     "count": 4
   },
   {
@@ -1101,14 +1257,6 @@
   },
   {
     "tag": "prog-groove",
-    "count": 4
-  },
-  {
-    "tag": "progressive",
-    "count": 4
-  },
-  {
-    "tag": "progressive-rock",
     "count": 4
   },
   {
@@ -1212,10 +1360,6 @@
     "count": 4
   },
   {
-    "tag": "slow-groove",
-    "count": 4
-  },
-  {
     "tag": "slow-riff",
     "count": 4
   },
@@ -1288,11 +1432,23 @@
     "count": 4
   },
   {
+    "tag": "underscore",
+    "count": 4
+  },
+  {
     "tag": "wall-of-guitars",
     "count": 4
   },
   {
     "tag": "106bpm",
+    "count": 3
+  },
+  {
+    "tag": "bouncy-groove",
+    "count": 3
+  },
+  {
+    "tag": "bright-master",
     "count": 3
   },
   {
@@ -1320,6 +1476,10 @@
     "count": 3
   },
   {
+    "tag": "hybrid-rock",
+    "count": 3
+  },
+  {
     "tag": "indie",
     "count": 3
   },
@@ -1332,7 +1492,15 @@
     "count": 3
   },
   {
+    "tag": "nylon-guitar",
+    "count": 3
+  },
+  {
     "tag": "piano",
+    "count": 3
+  },
+  {
+    "tag": "playful-vocal",
     "count": 3
   },
   {
@@ -1340,7 +1508,15 @@
     "count": 3
   },
   {
+    "tag": "raw-rock",
+    "count": 3
+  },
+  {
     "tag": "score",
+    "count": 3
+  },
+  {
+    "tag": "smooth-vocal",
     "count": 3
   },
   {
@@ -1349,6 +1525,22 @@
   },
   {
     "tag": "techno",
+    "count": 3
+  },
+  {
+    "tag": "toy-grunge",
+    "count": 3
+  },
+  {
+    "tag": "toy-instruments",
+    "count": 3
+  },
+  {
+    "tag": "toy-pop",
+    "count": 3
+  },
+  {
+    "tag": "uplifting",
     "count": 3
   },
   {
@@ -1384,6 +1576,14 @@
     "count": 2
   },
   {
+    "tag": "call-response",
+    "count": 2
+  },
+  {
+    "tag": "cinematic-mix",
+    "count": 2
+  },
+  {
     "tag": "classic",
     "count": 2
   },
@@ -1408,11 +1608,43 @@
     "count": 2
   },
   {
+    "tag": "duet",
+    "count": 2
+  },
+  {
+    "tag": "electric-piano",
+    "count": 2
+  },
+  {
     "tag": "epic",
     "count": 2
   },
   {
+    "tag": "fiddle",
+    "count": 2
+  },
+  {
+    "tag": "fingerpicked",
+    "count": 2
+  },
+  {
+    "tag": "fragile-vocal",
+    "count": 2
+  },
+  {
+    "tag": "frame-drum",
+    "count": 2
+  },
+  {
     "tag": "fusion",
+    "count": 2
+  },
+  {
+    "tag": "glossy-mix",
+    "count": 2
+  },
+  {
+    "tag": "guitar-pop",
     "count": 2
   },
   {
@@ -1428,7 +1660,19 @@
     "count": 2
   },
   {
+    "tag": "lo-fi",
+    "count": 2
+  },
+  {
     "tag": "lounge",
+    "count": 2
+  },
+  {
+    "tag": "minor-key",
+    "count": 2
+  },
+  {
+    "tag": "muted-trumpet",
     "count": 2
   },
   {
@@ -1440,7 +1684,23 @@
     "count": 2
   },
   {
+    "tag": "offbeat-guitar",
+    "count": 2
+  },
+  {
+    "tag": "oud-plucks",
+    "count": 2
+  },
+  {
     "tag": "post",
+    "count": 2
+  },
+  {
+    "tag": "punchy-mix",
+    "count": 2
+  },
+  {
+    "tag": "radio-ready",
     "count": 2
   },
   {
@@ -1448,7 +1708,19 @@
     "count": 2
   },
   {
+    "tag": "reflective-vocal",
+    "count": 2
+  },
+  {
+    "tag": "silky-vocal",
+    "count": 2
+  },
+  {
     "tag": "slow",
+    "count": 2
+  },
+  {
+    "tag": "smoky-vocal",
     "count": 2
   },
   {
@@ -1460,7 +1732,15 @@
     "count": 2
   },
   {
-    "tag": "uplifting",
+    "tag": "tuba-bass",
+    "count": 2
+  },
+  {
+    "tag": "velvety-mix",
+    "count": 2
+  },
+  {
+    "tag": "warm-mix",
     "count": 2
   },
   {
@@ -1468,11 +1748,39 @@
     "count": 1
   },
   {
+    "tag": "accordion",
+    "count": 1
+  },
+  {
+    "tag": "accordion-drone",
+    "count": 1
+  },
+  {
+    "tag": "accordion-stabs",
+    "count": 1
+  },
+  {
     "tag": "acoustic",
     "count": 1
   },
   {
+    "tag": "acoustic-guitar",
+    "count": 1
+  },
+  {
     "tag": "afrobeats",
+    "count": 1
+  },
+  {
+    "tag": "airy-master",
+    "count": 1
+  },
+  {
+    "tag": "airy-vocal",
+    "count": 1
+  },
+  {
+    "tag": "alternative-ballad",
     "count": 1
   },
   {
@@ -1496,6 +1804,14 @@
     "count": 1
   },
   {
+    "tag": "atmospheric",
+    "count": 1
+  },
+  {
+    "tag": "aurora",
+    "count": 1
+  },
+  {
     "tag": "avant",
     "count": 1
   },
@@ -1505,6 +1821,18 @@
   },
   {
     "tag": "bachata",
+    "count": 1
+  },
+  {
+    "tag": "baile-pop",
+    "count": 1
+  },
+  {
+    "tag": "balanced-mix",
+    "count": 1
+  },
+  {
+    "tag": "bamboo-flute",
     "count": 1
   },
   {
@@ -1524,6 +1852,10 @@
     "count": 1
   },
   {
+    "tag": "bass-hook",
+    "count": 1
+  },
+  {
     "tag": "battle",
     "count": 1
   },
@@ -1540,6 +1872,10 @@
     "count": 1
   },
   {
+    "tag": "bedroom-pop",
+    "count": 1
+  },
+  {
     "tag": "bgm",
     "count": 1
   },
@@ -1552,7 +1888,23 @@
     "count": 1
   },
   {
+    "tag": "bold-vocal",
+    "count": 1
+  },
+  {
+    "tag": "bongos",
+    "count": 1
+  },
+  {
     "tag": "bossa",
+    "count": 1
+  },
+  {
+    "tag": "bowed-lyre",
+    "count": 1
+  },
+  {
+    "tag": "bowed-texture",
     "count": 1
   },
   {
@@ -1561,6 +1913,34 @@
   },
   {
     "tag": "brass",
+    "count": 1
+  },
+  {
+    "tag": "brass-accents",
+    "count": 1
+  },
+  {
+    "tag": "brass-band",
+    "count": 1
+  },
+  {
+    "tag": "brass-fanfare",
+    "count": 1
+  },
+  {
+    "tag": "brass-pop",
+    "count": 1
+  },
+  {
+    "tag": "brass-stabs",
+    "count": 1
+  },
+  {
+    "tag": "breathy-vocal",
+    "count": 1
+  },
+  {
+    "tag": "breezy-vocal",
     "count": 1
   },
   {
@@ -1584,6 +1964,14 @@
     "count": 1
   },
   {
+    "tag": "carnival-pop",
+    "count": 1
+  },
+  {
+    "tag": "catchy-vocal",
+    "count": 1
+  },
+  {
     "tag": "celebration",
     "count": 1
   },
@@ -1601,6 +1989,10 @@
   },
   {
     "tag": "chase",
+    "count": 1
+  },
+  {
+    "tag": "cheerful-vocal",
     "count": 1
   },
   {
@@ -1624,7 +2016,15 @@
     "count": 1
   },
   {
-    "tag": "cinematic",
+    "tag": "choir-texture",
+    "count": 1
+  },
+  {
+    "tag": "cinematic-ballad",
+    "count": 1
+  },
+  {
+    "tag": "cinematic-pop",
     "count": 1
   },
   {
@@ -1632,7 +2032,31 @@
     "count": 1
   },
   {
+    "tag": "clean-guitars",
+    "count": 1
+  },
+  {
+    "tag": "clean-master",
+    "count": 1
+  },
+  {
+    "tag": "clean-mix",
+    "count": 1
+  },
+  {
+    "tag": "clipped-drums",
+    "count": 1
+  },
+  {
     "tag": "cloud",
+    "count": 1
+  },
+  {
+    "tag": "club-ready",
+    "count": 1
+  },
+  {
+    "tag": "coastal-pop",
     "count": 1
   },
   {
@@ -1645,6 +2069,10 @@
   },
   {
     "tag": "collapse",
+    "count": 1
+  },
+  {
+    "tag": "communal-vocal",
     "count": 1
   },
   {
@@ -1664,7 +2092,51 @@
     "count": 1
   },
   {
+    "tag": "crisp-master",
+    "count": 1
+  },
+  {
+    "tag": "crisp-mix",
+    "count": 1
+  },
+  {
+    "tag": "dance-groove",
+    "count": 1
+  },
+  {
+    "tag": "dance-pop",
+    "count": 1
+  },
+  {
     "tag": "dancehall",
+    "count": 1
+  },
+  {
+    "tag": "dancehall-bounce",
+    "count": 1
+  },
+  {
+    "tag": "darbuka-fills",
+    "count": 1
+  },
+  {
+    "tag": "darbuka-groove",
+    "count": 1
+  },
+  {
+    "tag": "darbuka-rolls",
+    "count": 1
+  },
+  {
+    "tag": "dark-airy",
+    "count": 1
+  },
+  {
+    "tag": "dark-dance",
+    "count": 1
+  },
+  {
+    "tag": "daytime-groove",
     "count": 1
   },
   {
@@ -1672,7 +2144,27 @@
     "count": 1
   },
   {
+    "tag": "deep-bass",
+    "count": 1
+  },
+  {
+    "tag": "deep-mix",
+    "count": 1
+  },
+  {
     "tag": "delta",
+    "count": 1
+  },
+  {
+    "tag": "desert-night",
+    "count": 1
+  },
+  {
+    "tag": "desert-pop",
+    "count": 1
+  },
+  {
+    "tag": "digital-bells",
     "count": 1
   },
   {
@@ -1685,6 +2177,14 @@
   },
   {
     "tag": "drama",
+    "count": 1
+  },
+  {
+    "tag": "dream-pop",
+    "count": 1
+  },
+  {
+    "tag": "dreamy-guitar",
     "count": 1
   },
   {
@@ -1704,6 +2204,18 @@
     "count": 1
   },
   {
+    "tag": "dry-mix",
+    "count": 1
+  },
+  {
+    "tag": "dry-percussion",
+    "count": 1
+  },
+  {
+    "tag": "east-africa",
+    "count": 1
+  },
+  {
     "tag": "edge",
     "count": 1
   },
@@ -1712,7 +2224,15 @@
     "count": 1
   },
   {
+    "tag": "elegant-vocal",
+    "count": 1
+  },
+  {
     "tag": "enka",
+    "count": 1
+  },
+  {
+    "tag": "expressive-vocal",
     "count": 1
   },
   {
@@ -1724,7 +2244,19 @@
     "count": 1
   },
   {
+    "tag": "fast-groove",
+    "count": 1
+  },
+  {
+    "tag": "felt-piano",
+    "count": 1
+  },
+  {
     "tag": "female",
+    "count": 1
+  },
+  {
+    "tag": "festive-master",
     "count": 1
   },
   {
@@ -1736,11 +2268,23 @@
     "count": 1
   },
   {
+    "tag": "fjord",
+    "count": 1
+  },
+  {
+    "tag": "flute-synth",
+    "count": 1
+  },
+  {
     "tag": "french",
     "count": 1
   },
   {
     "tag": "friendly",
+    "count": 1
+  },
+  {
+    "tag": "friendly-vocal",
     "count": 1
   },
   {
@@ -1752,7 +2296,35 @@
     "count": 1
   },
   {
+    "tag": "gamelan-plucks",
+    "count": 1
+  },
+  {
     "tag": "garde",
+    "count": 1
+  },
+  {
+    "tag": "garden-party",
+    "count": 1
+  },
+  {
+    "tag": "gentle-vocal",
+    "count": 1
+  },
+  {
+    "tag": "glass-lake",
+    "count": 1
+  },
+  {
+    "tag": "glass-piano",
+    "count": 1
+  },
+  {
+    "tag": "glassy-arps",
+    "count": 1
+  },
+  {
+    "tag": "glassy-synths",
     "count": 1
   },
   {
@@ -1760,7 +2332,47 @@
     "count": 1
   },
   {
+    "tag": "global-pop",
+    "count": 1
+  },
+  {
+    "tag": "glossy-intimate",
+    "count": 1
+  },
+  {
+    "tag": "glossy-master",
+    "count": 1
+  },
+  {
+    "tag": "glossy-pop",
+    "count": 1
+  },
+  {
+    "tag": "graceful-vocal",
+    "count": 1
+  },
+  {
+    "tag": "granular-synth",
+    "count": 1
+  },
+  {
     "tag": "grit",
+    "count": 1
+  },
+  {
+    "tag": "group-hook",
+    "count": 1
+  },
+  {
+    "tag": "group-vocals",
+    "count": 1
+  },
+  {
+    "tag": "guitar-chops",
+    "count": 1
+  },
+  {
+    "tag": "handclaps",
     "count": 1
   },
   {
@@ -1768,7 +2380,15 @@
     "count": 1
   },
   {
+    "tag": "harmonic-minor",
+    "count": 1
+  },
+  {
     "tag": "haze",
+    "count": 1
+  },
+  {
+    "tag": "highlife-guitar",
     "count": 1
   },
   {
@@ -1777,6 +2397,18 @@
   },
   {
     "tag": "hop",
+    "count": 1
+  },
+  {
+    "tag": "hopeful-vocal",
+    "count": 1
+  },
+  {
+    "tag": "horn-stabs",
+    "count": 1
+  },
+  {
+    "tag": "hushed-vocal",
     "count": 1
   },
   {
@@ -1796,11 +2428,23 @@
     "count": 1
   },
   {
+    "tag": "intimate-vocal",
+    "count": 1
+  },
+  {
+    "tag": "island-groove",
+    "count": 1
+  },
+  {
     "tag": "j",
     "count": 1
   },
   {
     "tag": "jangle",
+    "count": 1
+  },
+  {
+    "tag": "jangly-guitar",
     "count": 1
   },
   {
@@ -1812,11 +2456,23 @@
     "count": 1
   },
   {
+    "tag": "kalimba",
+    "count": 1
+  },
+  {
     "tag": "kawaii",
     "count": 1
   },
   {
     "tag": "kei",
+    "count": 1
+  },
+  {
+    "tag": "kulintang-plucks",
+    "count": 1
+  },
+  {
+    "tag": "late-night",
     "count": 1
   },
   {
@@ -1828,11 +2484,31 @@
     "count": 1
   },
   {
+    "tag": "loud-master",
+    "count": 1
+  },
+  {
+    "tag": "lounge-pop",
+    "count": 1
+  },
+  {
     "tag": "mainstage",
     "count": 1
   },
   {
+    "tag": "mandolin-plucks",
+    "count": 1
+  },
+  {
     "tag": "mariachi",
+    "count": 1
+  },
+  {
+    "tag": "marimba-plucks",
+    "count": 1
+  },
+  {
+    "tag": "market-energy",
     "count": 1
   },
   {
@@ -1848,11 +2524,63 @@
     "count": 1
   },
   {
+    "tag": "melodic-hook",
+    "count": 1
+  },
+  {
     "tag": "memphis",
     "count": 1
   },
   {
+    "tag": "mena",
+    "count": 1
+  },
+  {
+    "tag": "mid-tempo",
+    "count": 1
+  },
+  {
+    "tag": "midsummer",
+    "count": 1
+  },
+  {
+    "tag": "modern-master",
+    "count": 1
+  },
+  {
+    "tag": "modern-mix",
+    "count": 1
+  },
+  {
+    "tag": "moody-indie",
+    "count": 1
+  },
+  {
+    "tag": "muted-guitar",
+    "count": 1
+  },
+  {
+    "tag": "natural-polish",
+    "count": 1
+  },
+  {
     "tag": "neo",
+    "count": 1
+  },
+  {
+    "tag": "neon-texture",
+    "count": 1
+  },
+  {
+    "tag": "night-groove",
+    "count": 1
+  },
+  {
+    "tag": "night-island",
+    "count": 1
+  },
+  {
+    "tag": "night-market",
     "count": 1
   },
   {
@@ -1872,6 +2600,38 @@
     "count": 1
   },
   {
+    "tag": "organ-bubbles",
+    "count": 1
+  },
+  {
+    "tag": "organ-stabs",
+    "count": 1
+  },
+  {
+    "tag": "organic-modern",
+    "count": 1
+  },
+  {
+    "tag": "organic-pop",
+    "count": 1
+  },
+  {
+    "tag": "oud-texture",
+    "count": 1
+  },
+  {
+    "tag": "party-pop",
+    "count": 1
+  },
+  {
+    "tag": "passionate-vocal",
+    "count": 1
+  },
+  {
+    "tag": "pastel-mix",
+    "count": 1
+  },
+  {
     "tag": "peak",
     "count": 1
   },
@@ -1880,7 +2640,35 @@
     "count": 1
   },
   {
+    "tag": "piano-groove",
+    "count": 1
+  },
+  {
+    "tag": "piano-stabs",
+    "count": 1
+  },
+  {
+    "tag": "pristine-mix",
+    "count": 1
+  },
+  {
     "tag": "psy",
+    "count": 1
+  },
+  {
+    "tag": "punchy-drums",
+    "count": 1
+  },
+  {
+    "tag": "qanun-arps",
+    "count": 1
+  },
+  {
+    "tag": "qanun-patterns",
+    "count": 1
+  },
+  {
+    "tag": "qanun-runs",
     "count": 1
   },
   {
@@ -1896,6 +2684,14 @@
     "count": 1
   },
   {
+    "tag": "radio-polished",
+    "count": 1
+  },
+  {
+    "tag": "raspy-vocal",
+    "count": 1
+  },
+  {
     "tag": "rave",
     "count": 1
   },
@@ -1908,7 +2704,19 @@
     "count": 1
   },
   {
+    "tag": "rhodes-keys",
+    "count": 1
+  },
+  {
+    "tag": "road-trip",
+    "count": 1
+  },
+  {
     "tag": "romance",
+    "count": 1
+  },
+  {
+    "tag": "romantic-groove",
     "count": 1
   },
   {
@@ -1924,7 +2732,19 @@
     "count": 1
   },
   {
+    "tag": "shiny-master",
+    "count": 1
+  },
+  {
     "tag": "shop",
+    "count": 1
+  },
+  {
+    "tag": "shy-vocal",
+    "count": 1
+  },
+  {
+    "tag": "sincere-vocal",
     "count": 1
   },
   {
@@ -1936,7 +2756,31 @@
     "count": 1
   },
   {
+    "tag": "sleek-groove",
+    "count": 1
+  },
+  {
+    "tag": "sleek-pop",
+    "count": 1
+  },
+  {
+    "tag": "sleek-vocal",
+    "count": 1
+  },
+  {
     "tag": "sleep",
+    "count": 1
+  },
+  {
+    "tag": "slow-build",
+    "count": 1
+  },
+  {
+    "tag": "slow-swagger",
+    "count": 1
+  },
+  {
+    "tag": "smoky-mix",
     "count": 1
   },
   {
@@ -1944,7 +2788,31 @@
     "count": 1
   },
   {
+    "tag": "smooth-mix",
+    "count": 1
+  },
+  {
+    "tag": "snowfield",
+    "count": 1
+  },
+  {
+    "tag": "soca-pop",
+    "count": 1
+  },
+  {
+    "tag": "soft-bounce",
+    "count": 1
+  },
+  {
+    "tag": "soft-vocal",
+    "count": 1
+  },
+  {
     "tag": "sound",
+    "count": 1
+  },
+  {
+    "tag": "south-africa",
     "count": 1
   },
   {
@@ -1952,7 +2820,15 @@
     "count": 1
   },
   {
+    "tag": "southern-africa",
+    "count": 1
+  },
+  {
     "tag": "spa",
+    "count": 1
+  },
+  {
+    "tag": "spacious-mix",
     "count": 1
   },
   {
@@ -1964,11 +2840,27 @@
     "count": 1
   },
   {
+    "tag": "steelpan",
+    "count": 1
+  },
+  {
+    "tag": "steelpan-accent",
+    "count": 1
+  },
+  {
+    "tag": "steelpan-hook",
+    "count": 1
+  },
+  {
     "tag": "storytelling",
     "count": 1
   },
   {
-    "tag": "strings",
+    "tag": "street-band",
+    "count": 1
+  },
+  {
+    "tag": "street-pop",
     "count": 1
   },
   {
@@ -1980,11 +2872,47 @@
     "count": 1
   },
   {
+    "tag": "sub-control",
+    "count": 1
+  },
+  {
+    "tag": "summer-pop",
+    "count": 1
+  },
+  {
+    "tag": "sunny-bounce",
+    "count": 1
+  },
+  {
+    "tag": "sunny-groove",
+    "count": 1
+  },
+  {
+    "tag": "sunny-mix",
+    "count": 1
+  },
+  {
     "tag": "sunset",
     "count": 1
   },
   {
     "tag": "sunshine",
+    "count": 1
+  },
+  {
+    "tag": "synth-bells",
+    "count": 1
+  },
+  {
+    "tag": "synth-pop",
+    "count": 1
+  },
+  {
+    "tag": "talking-drum",
+    "count": 1
+  },
+  {
+    "tag": "tamborim",
     "count": 1
   },
   {
@@ -2004,11 +2932,31 @@
     "count": 1
   },
   {
+    "tag": "tender-vocal",
+    "count": 1
+  },
+  {
+    "tag": "terracotta",
+    "count": 1
+  },
+  {
+    "tag": "theatrical-vocal",
+    "count": 1
+  },
+  {
     "tag": "theme",
     "count": 1
   },
   {
     "tag": "thrash",
+    "count": 1
+  },
+  {
+    "tag": "thumb-piano",
+    "count": 1
+  },
+  {
+    "tag": "tight-master",
     "count": 1
   },
   {
@@ -2020,11 +2968,19 @@
     "count": 1
   },
   {
+    "tag": "toy-keys",
+    "count": 1
+  },
+  {
     "tag": "track",
     "count": 1
   },
   {
     "tag": "trailer",
+    "count": 1
+  },
+  {
+    "tag": "transparent-vocal",
     "count": 1
   },
   {
@@ -2041,6 +2997,14 @@
   },
   {
     "tag": "uplift",
+    "count": 1
+  },
+  {
+    "tag": "urban-breeze",
+    "count": 1
+  },
+  {
+    "tag": "urban-groove",
     "count": 1
   },
   {
@@ -2064,7 +3028,51 @@
     "count": 1
   },
   {
+    "tag": "waltz",
+    "count": 1
+  },
+  {
+    "tag": "warm-groove",
+    "count": 1
+  },
+  {
+    "tag": "warm-master",
+    "count": 1
+  },
+  {
+    "tag": "warm-texture",
+    "count": 1
+  },
+  {
+    "tag": "warm-vocal",
+    "count": 1
+  },
+  {
     "tag": "water",
+    "count": 1
+  },
+  {
+    "tag": "wedding-energy",
+    "count": 1
+  },
+  {
+    "tag": "west-africa",
+    "count": 1
+  },
+  {
+    "tag": "wide-mix",
+    "count": 1
+  },
+  {
+    "tag": "yearning-vocal",
+    "count": 1
+  },
+  {
+    "tag": "youthful-bounce",
+    "count": 1
+  },
+  {
+    "tag": "youthful-vocal",
     "count": 1
   }
 ]

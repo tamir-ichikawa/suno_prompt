@@ -36,6 +36,29 @@ tools/
 node tools\build-static-json.js
 ```
 
+## 大量収集ワークフロー
+
+ChatGPTで生成した新規バッチは、まず `incoming/chatgpt/*.jsonl` に保存します。公開用に昇格する前に検査します。
+
+```powershell
+node tools\validate-prompt-jsonl.js incoming\chatgpt\20260622-world-pop-001.jsonl
+```
+
+詳しい手順:
+
+- `docs/prompt-collection-workflow.md`
+- `docs/chatgpt-batch-template.md`
+- `docs/prompt-jsonl-schema.md`
+
+作成者が分かっているプロンプトは、音楽タグではなく `creator` / `creator_slug` / `creator_tags` に入れます。サイト側では「作成者」フィルターで絞り込みます。
+
+KOTAのアップロード済みプロンプトを再取り込みする場合:
+
+```powershell
+node tools\import-kota-prompts.js path\to\pasted-text.txt
+node tools\build-static-json.js
+```
+
 ## ローカル確認
 
 JSONをfetchするため、`file://` ではなくローカルサーバー経由で開きます。

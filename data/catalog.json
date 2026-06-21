@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-06-22",
-  "prompt_count": 840,
-  "total_source_count": 840,
-  "public_safe_count": 840,
+  "prompt_count": 944,
+  "total_source_count": 944,
+  "public_safe_count": 944,
   "collections": [
     {
       "id": "starter-v01",
@@ -27,6 +27,29 @@
       "description": "French touch、filter house、synthwave、neon noirなどの電子音楽グルーヴ集。",
       "prompt_count": 395,
       "bundle_path": "data/bundles/electro-groove-v03.json"
+    },
+    {
+      "id": "kota-v04",
+      "version": "V04",
+      "label": "KOTAプロンプト",
+      "description": "KOTA作成のグランジ、オルタナ、R&B、シネマティック系Sunoプロンプト。",
+      "prompt_count": 54,
+      "bundle_path": "data/bundles/kota-v04.json"
+    },
+    {
+      "id": "world-pop-v04",
+      "version": "V04",
+      "label": "World Pop",
+      "description": "世界各地のポップ語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+      "prompt_count": 50,
+      "bundle_path": "data/bundles/world-pop-v04.json"
+    }
+  ],
+  "creators": [
+    {
+      "id": "kota",
+      "name": "KOTA",
+      "count": 54
     }
   ],
   "categories": [
@@ -231,6 +254,14 @@
       "count": 20
     },
     {
+      "id": "kota-v04:alternative-grunge",
+      "slug": "alternative-grunge",
+      "name": "Alternative Grunge",
+      "collection": "kota-v04",
+      "collection_label": "KOTAプロンプト",
+      "count": 17
+    },
+    {
       "id": "starter-v01:pop-and-modern",
       "slug": "pop-and-modern",
       "name": "Pop And Modern",
@@ -247,11 +278,43 @@
       "count": 7
     },
     {
+      "id": "world-pop-v04:afro-pop",
+      "slug": "afro-pop",
+      "name": "Afro Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 6
+    },
+    {
+      "id": "kota-v04:alternative-r-and-b",
+      "slug": "alternative-r-and-b",
+      "name": "Alternative R&B",
+      "collection": "kota-v04",
+      "collection_label": "KOTAプロンプト",
+      "count": 6
+    },
+    {
+      "id": "world-pop-v04:amapiano-pop",
+      "slug": "amapiano-pop",
+      "name": "Amapiano Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 6
+    },
+    {
       "id": "starter-v01:ambient-chill",
       "slug": "ambient-chill",
       "name": "Ambient Chill",
       "collection": "starter-v01",
       "collection_label": "全ジャンルスターター",
+      "count": 6
+    },
+    {
+      "id": "world-pop-v04:arabic-electronic-pop",
+      "slug": "arabic-electronic-pop",
+      "name": "Arabic Electronic Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
       "count": 6
     },
     {
@@ -271,11 +334,67 @@
       "count": 6
     },
     {
+      "id": "world-pop-v04:latin-alt-pop",
+      "slug": "latin-alt-pop",
+      "name": "Latin Alt Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 6
+    },
+    {
+      "id": "world-pop-v04:southeast-asian-indie-pop",
+      "slug": "southeast-asian-indie-pop",
+      "name": "Southeast Asian Indie Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 6
+    },
+    {
       "id": "starter-v01:afro-caribbean",
       "slug": "afro-caribbean",
       "name": "Afro Caribbean",
       "collection": "starter-v01",
       "collection_label": "全ジャンルスターター",
+      "count": 5
+    },
+    {
+      "id": "kota-v04:alternative-rock",
+      "slug": "alternative-rock",
+      "name": "Alternative Rock",
+      "collection": "kota-v04",
+      "collection_label": "KOTAプロンプト",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:balkan-brass-pop",
+      "slug": "balkan-brass-pop",
+      "name": "Balkan Brass Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:brazilian-funk-pop",
+      "slug": "brazilian-funk-pop",
+      "name": "Brazilian Funk Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:caribbean-dance-pop",
+      "slug": "caribbean-dance-pop",
+      "name": "Caribbean Dance Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "kota-v04:female-vocal-alternative",
+      "slug": "female-vocal-alternative",
+      "name": "Female Vocal Alternative",
+      "collection": "kota-v04",
+      "collection_label": "KOTAプロンプト",
       "count": 5
     },
     {
@@ -293,6 +412,38 @@
       "collection": "starter-v01",
       "collection_label": "全ジャンルスターター",
       "count": 5
+    },
+    {
+      "id": "world-pop-v04:nordic-folk-pop",
+      "slug": "nordic-folk-pop",
+      "name": "Nordic Folk Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "kota-v04:alternative-metal",
+      "slug": "alternative-metal",
+      "name": "Alternative Metal",
+      "collection": "kota-v04",
+      "collection_label": "KOTAプロンプト",
+      "count": 4
+    },
+    {
+      "id": "kota-v04:british-rock",
+      "slug": "british-rock",
+      "name": "British Rock",
+      "collection": "kota-v04",
+      "collection_label": "KOTAプロンプト",
+      "count": 4
+    },
+    {
+      "id": "kota-v04:cinematic-instrumental",
+      "slug": "cinematic-instrumental",
+      "name": "Cinematic Instrumental",
+      "collection": "kota-v04",
+      "collection_label": "KOTAプロンプト",
+      "count": 4
     },
     {
       "id": "starter-v01:country-americana",
@@ -335,11 +486,27 @@
       "count": 3
     },
     {
+      "id": "kota-v04:groove-rock",
+      "slug": "groove-rock",
+      "name": "Groove Rock",
+      "collection": "kota-v04",
+      "collection_label": "KOTAプロンプト",
+      "count": 3
+    },
+    {
       "id": "starter-v01:metal",
       "slug": "metal",
       "name": "Metal",
       "collection": "starter-v01",
       "collection_label": "全ジャンルスターター",
+      "count": 3
+    },
+    {
+      "id": "kota-v04:toy-grunge",
+      "slug": "toy-grunge",
+      "name": "Toy Grunge",
+      "collection": "kota-v04",
+      "collection_label": "KOTAプロンプト",
       "count": 3
     },
     {
@@ -349,6 +516,22 @@
       "collection": "starter-v01",
       "collection_label": "全ジャンルスターター",
       "count": 2
+    },
+    {
+      "id": "kota-v04:progressive-rock",
+      "slug": "progressive-rock",
+      "name": "Progressive Rock",
+      "collection": "kota-v04",
+      "collection_label": "KOTAプロンプト",
+      "count": 2
+    },
+    {
+      "id": "kota-v04:alternative-ballad",
+      "slug": "alternative-ballad",
+      "name": "Alternative Ballad",
+      "collection": "kota-v04",
+      "collection_label": "KOTAプロンプト",
+      "count": 1
     }
   ],
   "top_tags": [
@@ -358,11 +541,11 @@
     },
     {
       "tag": "indie-dance",
-      "count": 92
+      "count": 95
     },
     {
       "tag": "night-drive",
-      "count": 62
+      "count": 63
     },
     {
       "tag": "ebm",
@@ -385,8 +568,16 @@
       "count": 60
     },
     {
+      "tag": "syncopation",
+      "count": 60
+    },
+    {
       "tag": "e-minor",
       "count": 58
+    },
+    {
+      "tag": "industrial",
+      "count": 47
     },
     {
       "tag": "d-minor",
@@ -425,16 +616,20 @@
       "count": 38
     },
     {
+      "tag": "funk-groove",
+      "count": 37
+    },
+    {
+      "tag": "cinematic-rock",
+      "count": 36
+    },
+    {
       "tag": "108bpm",
       "count": 35
     },
     {
       "tag": "dance-rock",
       "count": 35
-    },
-    {
-      "tag": "cinematic-rock",
-      "count": 34
     },
     {
       "tag": "dance-punk",
@@ -453,7 +648,7 @@
       "count": 33
     },
     {
-      "tag": "industrial",
+      "tag": "clean-guitar",
       "count": 32
     },
     {
@@ -473,11 +668,11 @@
       "count": 31
     },
     {
-      "tag": "cinematic-synth",
+      "tag": "chorus-guitar",
       "count": 31
     },
     {
-      "tag": "clean-guitar",
+      "tag": "cinematic-synth",
       "count": 31
     },
     {
@@ -577,10 +772,6 @@
       "count": 30
     },
     {
-      "tag": "chorus-guitar",
-      "count": 30
-    },
-    {
       "tag": "coldwave",
       "count": 30
     },
@@ -662,14 +853,6 @@
     },
     {
       "tag": "sequencer",
-      "count": 30
-    },
-    {
-      "tag": "space-disco",
-      "count": 30
-    },
-    {
-      "tag": "sunset-groove",
       "count": 30
     }
   ],

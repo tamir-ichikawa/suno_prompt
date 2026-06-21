@@ -22,5 +22,21 @@
     "description": "French touch、filter house、synthwave、neon noirなどの電子音楽グルーヴ集。",
     "prompt_count": 395,
     "bundle_path": "data/bundles/electro-groove-v03.json"
+  },
+  {
+    "id": "kota-v04",
+    "version": "V04",
+    "label": "KOTAプロンプト",
+    "description": "KOTA作成のグランジ、オルタナ、R&B、シネマティック系Sunoプロンプト。",
+    "prompt_count": 54,
+    "bundle_path": "data/bundles/kota-v04.json"
+  },
+  {
+    "id": "world-pop-v04",
+    "version": "V04",
+    "label": "World Pop",
+    "description": "世界各地のポップ語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    "prompt_count": 50,
+    "bundle_path": "data/bundles/world-pop-v04.json"
   }
 ]

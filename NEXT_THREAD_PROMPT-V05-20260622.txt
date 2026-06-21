@@ -1,0 +1,16 @@
+以下の引継ぎファイルを読んで、Suno AI用プロンプト管理サイトの開発を引き継いでください。
+
+E:\codex\dev\suno_prompt\suno-prompt-library-CODEX-HANDOFF-V05-20260622.md
+
+現在は、Firestoreを使わず、静的JSON中心の最小サイトが実装済みです。
+GitHubには入れました。GitHub Pagesで公開するため、一旦リポジトリをPublicにして、Settings > Pages で main / /(root) を設定する方針です。
+
+まずは引継ぎファイルを読んで、現在の実装状態・データ構造・GitHub Pages公開手順・次に確認すべきことを整理してください。
+その後、公開URLで表示確認し、404、JSON fetch失敗、パス問題、スマホ表示崩れ、コピー機能の不具合があれば修正してください。
+
+重要:
+- Firestoreはまだ使わない
+- 公開画面は静的JSON中心
+- Firestore Readを増やさない
+- 管理画面は後回し
+- 公開用プロンプトでは、特定アーティスト名や特定楽曲名を直接使わず、ジャンル・音質・楽器・構成・グルーヴ・BPM・Exclude指定などで表現する
