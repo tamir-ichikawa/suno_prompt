@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-06-22",
-  "prompt_count": 1094,
-  "total_source_count": 1094,
-  "public_safe_count": 1094,
+  "prompt_count": 1244,
+  "total_source_count": 1244,
+  "public_safe_count": 1244,
   "collections": [
     {
       "id": "starter-v01",
@@ -49,7 +49,7 @@
       "version": "V04",
       "label": "World Electronic",
       "description": "世界各地の電子音楽・ダンス音楽語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
-      "prompt_count": 50,
+      "prompt_count": 200,
       "bundle_path": "data/bundles/world-electronic-v04.json"
     }
   ],
@@ -366,6 +366,14 @@
       "count": 5
     },
     {
+      "id": "world-electronic-v04:acid-house",
+      "slug": "acid-house",
+      "name": "Acid House",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
       "id": "starter-v01:afro-caribbean",
       "slug": "afro-caribbean",
       "name": "Afro Caribbean",
@@ -387,6 +395,14 @@
       "name": "Alternative Rock",
       "collection": "kota-v04",
       "collection_label": "KOTAプロンプト",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:arabic-club-pop",
+      "slug": "arabic-club-pop",
+      "name": "Arabic Club Pop",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
       "count": 5
     },
     {
@@ -414,11 +430,35 @@
       "count": 5
     },
     {
+      "id": "world-electronic-v04:berlin-minimal-techno",
+      "slug": "berlin-minimal-techno",
+      "name": "Berlin Minimal Techno",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:brazilian-baile-electro",
+      "slug": "brazilian-baile-electro",
+      "name": "Brazilian Baile Electro",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:brazilian-funk-pop",
       "slug": "brazilian-funk-pop",
       "name": "Brazilian Funk Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:breakbeat",
+      "slug": "breakbeat",
+      "name": "Breakbeat",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
       "count": 5
     },
     {
@@ -430,11 +470,35 @@
       "count": 5
     },
     {
+      "id": "world-electronic-v04:chicago-house",
+      "slug": "chicago-house",
+      "name": "Chicago House",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:chilean-dream-pop",
       "slug": "chilean-dream-pop",
       "name": "Chilean Dream Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:chinese-future-pop",
+      "slug": "chinese-future-pop",
+      "name": "Chinese Future Pop",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:coldwave",
+      "slug": "coldwave",
+      "name": "Coldwave",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
       "count": 5
     },
     {
@@ -446,9 +510,73 @@
       "count": 5
     },
     {
+      "id": "world-electronic-v04:cyberpunk-electro",
+      "slug": "cyberpunk-electro",
+      "name": "Cyberpunk Electro",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:darksynth",
+      "slug": "darksynth",
+      "name": "Darksynth",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:deep-house",
       "slug": "deep-house",
       "name": "Deep House",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:detroit-techno",
+      "slug": "detroit-techno",
+      "name": "Detroit Techno",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:downtempo-electronica",
+      "slug": "downtempo-electronica",
+      "name": "Downtempo Electronica",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:dub-techno",
+      "slug": "dub-techno",
+      "name": "Dub Techno",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:ebm",
+      "slug": "ebm",
+      "name": "Ebm",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:electro-funk",
+      "slug": "electro-funk",
+      "name": "Electro Funk",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:electroclash",
+      "slug": "electroclash",
+      "name": "Electroclash",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
       "count": 5
@@ -518,6 +646,14 @@
       "count": 5
     },
     {
+      "id": "world-electronic-v04:indian-electronic-fusion",
+      "slug": "indian-electronic-fusion",
+      "name": "Indian Electronic Fusion",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:indian-indie-pop",
       "slug": "indian-indie-pop",
       "name": "Indian Indie Pop",
@@ -526,11 +662,27 @@
       "count": 5
     },
     {
+      "id": "world-electronic-v04:indonesian-club-pop",
+      "slug": "indonesian-club-pop",
+      "name": "Indonesian Club Pop",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:indonesian-indie-pop",
       "slug": "indonesian-indie-pop",
       "name": "Indonesian Indie Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:industrial-dance",
+      "slug": "industrial-dance",
+      "name": "Industrial Dance",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
       "count": 5
     },
     {
@@ -558,11 +710,27 @@
       "count": 5
     },
     {
+      "id": "world-electronic-v04:japanese-electronic-pop",
+      "slug": "japanese-electronic-pop",
+      "name": "Japanese Electronic Pop",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
       "id": "starter-v01:jazz-blues",
       "slug": "jazz-blues",
       "name": "Jazz Blues",
       "collection": "starter-v01",
       "collection_label": "全ジャンルスターター",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:jungle-lite",
+      "slug": "jungle-lite",
+      "name": "Jungle Lite",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
       "count": 5
     },
     {
@@ -574,11 +742,27 @@
       "count": 5
     },
     {
+      "id": "world-electronic-v04:korean-electronic-indie",
+      "slug": "korean-electronic-indie",
+      "name": "Korean Electronic Indie",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:korean-indie-pop",
       "slug": "korean-indie-pop",
       "name": "Korean Indie Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:liquid-drum-and-bass",
+      "slug": "liquid-drum-and-bass",
+      "name": "Liquid Drum And Bass",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
       "count": 5
     },
     {
@@ -590,6 +774,14 @@
       "count": 5
     },
     {
+      "id": "world-electronic-v04:minimal-wave",
+      "slug": "minimal-wave",
+      "name": "Minimal Wave",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:moroccan-electro-pop",
       "slug": "moroccan-electro-pop",
       "name": "Moroccan Electro Pop",
@@ -598,11 +790,27 @@
       "count": 5
     },
     {
+      "id": "world-electronic-v04:new-beat",
+      "slug": "new-beat",
+      "name": "New Beat",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:nigerian-alte-pop",
       "slug": "nigerian-alte-pop",
       "name": "Nigerian Alte Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:nigerian-electronic-alte",
+      "slug": "nigerian-electronic-alte",
+      "name": "Nigerian Electronic Alte",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
       "count": 5
     },
     {
@@ -622,11 +830,27 @@
       "count": 5
     },
     {
+      "id": "world-electronic-v04:outrun",
+      "slug": "outrun",
+      "name": "Outrun",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:peruvian-chicha-pop",
       "slug": "peruvian-chicha-pop",
       "name": "Peruvian Chicha Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:south-african-gqom-pop",
+      "slug": "south-african-gqom-pop",
+      "name": "South African Gqom Pop",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
       "count": 5
     },
     {
@@ -641,6 +865,22 @@
       "id": "world-electronic-v04:space-disco",
       "slug": "space-disco",
       "name": "Space Disco",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:synthwave",
+      "slug": "synthwave",
+      "name": "Synthwave",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:thai-electronic-pop",
+      "slug": "thai-electronic-pop",
+      "name": "Thai Electronic Pop",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
       "count": 5
@@ -789,19 +1029,19 @@
     },
     {
       "tag": "indie-dance",
-      "count": 95
+      "count": 97
     },
     {
       "tag": "night-drive",
-      "count": 66
+      "count": 67
     },
     {
       "tag": "ebm",
-      "count": 61
+      "count": 66
     },
     {
       "tag": "electro-funk",
-      "count": 61
+      "count": 66
     },
     {
       "tag": "syncopation",
@@ -856,6 +1096,10 @@
       "count": 40
     },
     {
+      "tag": "chorus-guitar",
+      "count": 40
+    },
+    {
       "tag": "f-minor",
       "count": 39
     },
@@ -870,10 +1114,6 @@
     {
       "tag": "funk-groove",
       "count": 37
-    },
-    {
-      "tag": "chorus-guitar",
-      "count": 36
     },
     {
       "tag": "cinematic-rock",
@@ -892,7 +1132,19 @@
       "count": 36
     },
     {
+      "tag": "outrun",
+      "count": 36
+    },
+    {
+      "tag": "synthwave",
+      "count": 36
+    },
+    {
       "tag": "108bpm",
+      "count": 35
+    },
+    {
+      "tag": "coldwave",
       "count": 35
     },
     {
@@ -900,7 +1152,19 @@
       "count": 35
     },
     {
+      "tag": "darksynth",
+      "count": 35
+    },
+    {
+      "tag": "industrial-dance",
+      "count": 35
+    },
+    {
       "tag": "italo-disco",
+      "count": 35
+    },
+    {
+      "tag": "minimal-wave",
       "count": 35
     },
     {
@@ -924,8 +1188,24 @@
       "count": 33
     },
     {
+      "tag": "distorted-bass",
+      "count": 33
+    },
+    {
+      "tag": "drum-machine",
+      "count": 33
+    },
+    {
+      "tag": "retro-future",
+      "count": 33
+    },
+    {
       "tag": "sunset-groove",
       "count": 33
+    },
+    {
+      "tag": "dirty-electro",
+      "count": 32
     },
     {
       "tag": "disco-house",
@@ -940,10 +1220,6 @@
       "count": 32
     },
     {
-      "tag": "retro-future",
-      "count": 32
-    },
-    {
       "tag": "80s-synth",
       "count": 31
     },
@@ -953,6 +1229,10 @@
     },
     {
       "tag": "bloghouse",
+      "count": 31
+    },
+    {
+      "tag": "body-music",
       "count": 31
     },
     {
@@ -972,10 +1252,6 @@
       "count": 31
     },
     {
-      "tag": "dirty-electro",
-      "count": 31
-    },
-    {
       "tag": "disco-pop",
       "count": 31
     },
@@ -992,6 +1268,10 @@
       "count": 31
     },
     {
+      "tag": "machine-groove",
+      "count": 31
+    },
+    {
       "tag": "moody-electronic",
       "count": 31
     },
@@ -1000,19 +1280,11 @@
       "count": 31
     },
     {
-      "tag": "outrun",
-      "count": 31
-    },
-    {
       "tag": "retrowave",
       "count": 31
     },
     {
       "tag": "sequencer",
-      "count": 31
-    },
-    {
-      "tag": "synthwave",
       "count": 31
     },
     {
@@ -1036,31 +1308,11 @@
       "count": 30
     },
     {
-      "tag": "body-music",
-      "count": 30
-    },
-    {
-      "tag": "coldwave",
-      "count": 30
-    },
-    {
-      "tag": "darksynth",
-      "count": 30
-    },
-    {
-      "tag": "distorted-bass",
-      "count": 30
-    },
-    {
       "tag": "dreamwave",
       "count": 30
     },
     {
       "tag": "dreamy-synth",
-      "count": 30
-    },
-    {
-      "tag": "drum-machine",
       "count": 30
     },
     {
@@ -1077,18 +1329,6 @@
     },
     {
       "tag": "horror-synth",
-      "count": 30
-    },
-    {
-      "tag": "industrial-dance",
-      "count": 30
-    },
-    {
-      "tag": "machine-groove",
-      "count": 30
-    },
-    {
-      "tag": "minimal-wave",
       "count": 30
     },
     {
