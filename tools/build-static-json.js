@@ -79,6 +79,14 @@ const COLLECTIONS = {
     source: path.join(ROOT, "data-src", "collections", "world-folk-acoustic-v04.jsonl"),
     bundle: "world-folk-acoustic-v04.json",
   },
+  worldJazzFunk: {
+    id: "world-jazz-funk-v04",
+    version: "V04",
+    label: "World Jazz/Funk",
+    description: "世界各地のJazz/Funk/Fusion/Groove/Brass系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "world-jazz-funk-v04.jsonl"),
+    bundle: "world-jazz-funk-v04.json",
+  },
 };
 
 function readJsonl(filePath) {
@@ -538,6 +546,41 @@ function normalizeWorldFolkAcoustic(items) {
   });
 }
 
+function normalizeWorldJazzFunk(items) {
+  const meta = COLLECTIONS.worldJazzFunk;
+  return items.map((item, index) => {
+    const category = titleCase(item.subcategory || item.category || "World Jazz/Funk");
+    return basePrompt({
+      id: `world-jazz-funk-v04-${pad(index + 1)}`,
+      original_id: item.id || `${item.batch_id}-${pad(index + 1)}`,
+      version: meta.version,
+      collection: meta.id,
+      collection_label: meta.label,
+      category,
+      subcategory: item.language_region || item.subcategory || "",
+      title: item.title,
+      prompt: item.prompt,
+      exclude: item.exclude,
+      bpm: toNumber(item.bpm),
+      key: item.key,
+      language: "English",
+      vocal: item.vocal || "",
+      creator: item.creator || "",
+      creator_slug: item.creator_slug || "",
+      creator_tags: item.creator_tags || [],
+      mood: item.mood || [],
+      tags: item.tags,
+      groove_score: item.groove_score ?? null,
+      energy: item.energy || "",
+      energy_score: item.energy_score ?? null,
+      rights_status: item.rights_status || "ai_generated_original",
+      source_note: "ChatGPTで生成した世界各地のJazz/Funk/Fusion/Groove/Brass系Sunoプロンプトを公開用に検査・整理。",
+      is_top_pick: Boolean(item.is_top_pick),
+      public_safe: item.public_safe !== false,
+    });
+  });
+}
+
 function summarizeCollections(prompts) {
   return Object.values(COLLECTIONS).map((collection) => {
     const collectionPrompts = prompts.filter((prompt) => prompt.collection === collection.id);
@@ -618,6 +661,7 @@ function build() {
   const worldRock = normalizeWorldRock(readJsonl(COLLECTIONS.worldRock.source));
   const worldHiphopRnb = normalizeWorldHiphopRnb(readJsonl(COLLECTIONS.worldHiphopRnb.source));
   const worldFolkAcoustic = normalizeWorldFolkAcoustic(readJsonl(COLLECTIONS.worldFolkAcoustic.source));
+  const worldJazzFunk = normalizeWorldJazzFunk(readJsonl(COLLECTIONS.worldJazzFunk.source));
   const prompts = [
     ...v01,
     ...rock,
@@ -628,6 +672,7 @@ function build() {
     ...worldRock,
     ...worldHiphopRnb,
     ...worldFolkAcoustic,
+    ...worldJazzFunk,
   ];
   const publicPrompts = prompts.filter((prompt) => prompt.public_safe);
   const collections = summarizeCollections(publicPrompts);
@@ -665,6 +710,7 @@ function build() {
   writeBundle(COLLECTIONS.worldRock.bundle, worldRock.filter((prompt) => prompt.public_safe));
   writeBundle(COLLECTIONS.worldHiphopRnb.bundle, worldHiphopRnb.filter((prompt) => prompt.public_safe));
   writeBundle(COLLECTIONS.worldFolkAcoustic.bundle, worldFolkAcoustic.filter((prompt) => prompt.public_safe));
+  writeBundle(COLLECTIONS.worldJazzFunk.bundle, worldJazzFunk.filter((prompt) => prompt.public_safe));
   writeBundle("top-picks.json", topPicks);
 
   console.log(`Generated ${publicPrompts.length} public prompts`);
