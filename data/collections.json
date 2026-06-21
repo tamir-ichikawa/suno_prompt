@@ -36,7 +36,7 @@
     "version": "V04",
     "label": "World Pop",
     "description": "世界各地のポップ語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
-    "prompt_count": 50,
+    "prompt_count": 150,
     "bundle_path": "data/bundles/world-pop-v04.json"
   }
 ]

@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-06-22",
-  "prompt_count": 944,
-  "total_source_count": 944,
-  "public_safe_count": 944,
+  "prompt_count": 1044,
+  "total_source_count": 1044,
+  "public_safe_count": 1044,
   "collections": [
     {
       "id": "starter-v01",
@@ -41,7 +41,7 @@
       "version": "V04",
       "label": "World Pop",
       "description": "世界各地のポップ語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
-      "prompt_count": 50,
+      "prompt_count": 150,
       "bundle_path": "data/bundles/world-pop-v04.json"
     }
   ],
@@ -366,6 +366,14 @@
       "count": 5
     },
     {
+      "id": "world-pop-v04:argentine-rock-pop",
+      "slug": "argentine-rock-pop",
+      "name": "Argentine Rock Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:balkan-brass-pop",
       "slug": "balkan-brass-pop",
       "name": "Balkan Brass Pop",
@@ -390,11 +398,59 @@
       "count": 5
     },
     {
+      "id": "world-pop-v04:chilean-dream-pop",
+      "slug": "chilean-dream-pop",
+      "name": "Chilean Dream Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:colombian-electro-pop",
+      "slug": "colombian-electro-pop",
+      "name": "Colombian Electro Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:ethiopian-jazz-pop",
+      "slug": "ethiopian-jazz-pop",
+      "name": "Ethiopian Jazz Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
       "id": "kota-v04:female-vocal-alternative",
       "slug": "female-vocal-alternative",
       "name": "Female Vocal Alternative",
       "collection": "kota-v04",
       "collection_label": "KOTAプロンプト",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:filipino-alt-pop",
+      "slug": "filipino-alt-pop",
+      "name": "Filipino Alt Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:french-chanson-pop-hybrid",
+      "slug": "french-chanson-pop-hybrid",
+      "name": "French Chanson Pop Hybrid",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:ghanaian-highlife-pop",
+      "slug": "ghanaian-highlife-pop",
+      "name": "Ghanaian Highlife Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
       "count": 5
     },
     {
@@ -406,6 +462,38 @@
       "count": 5
     },
     {
+      "id": "world-pop-v04:indian-indie-pop",
+      "slug": "indian-indie-pop",
+      "name": "Indian Indie Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:indonesian-indie-pop",
+      "slug": "indonesian-indie-pop",
+      "name": "Indonesian Indie Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:italian-disco-pop",
+      "slug": "italian-disco-pop",
+      "name": "Italian Disco Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:japanese-city-pop-inspired-modern-pop",
+      "slug": "japanese-city-pop-inspired-modern-pop",
+      "name": "Japanese City Pop Inspired Modern Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
       "id": "starter-v01:jazz-blues",
       "slug": "jazz-blues",
       "name": "Jazz Blues",
@@ -414,9 +502,81 @@
       "count": 5
     },
     {
+      "id": "world-pop-v04:kenyan-guitar-pop",
+      "slug": "kenyan-guitar-pop",
+      "name": "Kenyan Guitar Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:korean-indie-pop",
+      "slug": "korean-indie-pop",
+      "name": "Korean Indie Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:mexican-indie-pop",
+      "slug": "mexican-indie-pop",
+      "name": "Mexican Indie Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:moroccan-electro-pop",
+      "slug": "moroccan-electro-pop",
+      "name": "Moroccan Electro Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:nigerian-alte-pop",
+      "slug": "nigerian-alte-pop",
+      "name": "Nigerian Alte Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:nordic-folk-pop",
       "slug": "nordic-folk-pop",
       "name": "Nordic Folk Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:peruvian-chicha-pop",
+      "slug": "peruvian-chicha-pop",
+      "name": "Peruvian Chicha Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:south-african-house-pop",
+      "slug": "south-african-house-pop",
+      "name": "South African House Pop",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:thai-luk-thung-pop-hybrid",
+      "slug": "thai-luk-thung-pop-hybrid",
+      "name": "Thai Luk Thung Pop Hybrid",
+      "collection": "world-pop-v04",
+      "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-pop-v04:turkish-psychedelic-pop",
+      "slug": "turkish-psychedelic-pop",
+      "name": "Turkish Psychedelic Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
       "count": 5
@@ -545,7 +705,7 @@
     },
     {
       "tag": "night-drive",
-      "count": 63
+      "count": 65
     },
     {
       "tag": "ebm",
@@ -612,12 +772,20 @@
       "count": 39
     },
     {
+      "tag": "clean-guitar",
+      "count": 38
+    },
+    {
       "tag": "g-minor",
       "count": 38
     },
     {
       "tag": "funk-groove",
       "count": 37
+    },
+    {
+      "tag": "chorus-guitar",
+      "count": 36
     },
     {
       "tag": "cinematic-rock",
@@ -648,7 +816,7 @@
       "count": 33
     },
     {
-      "tag": "clean-guitar",
+      "tag": "funky-bass",
       "count": 32
     },
     {
@@ -665,10 +833,6 @@
     },
     {
       "tag": "bloghouse",
-      "count": 31
-    },
-    {
-      "tag": "chorus-guitar",
       "count": 31
     },
     {
@@ -716,10 +880,6 @@
       "count": 31
     },
     {
-      "tag": "funky-bass",
-      "count": 31
-    },
-    {
       "tag": "moody-electronic",
       "count": 31
     },
@@ -741,6 +901,10 @@
     },
     {
       "tag": "retrowave",
+      "count": 31
+    },
+    {
+      "tag": "sunset-groove",
       "count": 31
     },
     {
@@ -849,10 +1013,6 @@
     },
     {
       "tag": "robot-disco",
-      "count": 30
-    },
-    {
-      "tag": "sequencer",
       "count": 30
     }
   ],
