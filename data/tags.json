@@ -44,6 +44,10 @@
     "count": 47
   },
   {
+    "tag": "post-punk",
+    "count": 47
+  },
+  {
     "tag": "d-minor",
     "count": 46
   },
@@ -52,12 +56,12 @@
     "count": 45
   },
   {
-    "tag": "a-minor",
-    "count": 44
+    "tag": "chorus-guitar",
+    "count": 45
   },
   {
-    "tag": "post-punk",
-    "count": 42
+    "tag": "a-minor",
+    "count": 44
   },
   {
     "tag": "124bpm",
@@ -72,8 +76,8 @@
     "count": 40
   },
   {
-    "tag": "chorus-guitar",
-    "count": 40
+    "tag": "dance-punk",
+    "count": 39
   },
   {
     "tag": "f-minor",
@@ -81,6 +85,10 @@
   },
   {
     "tag": "clean-guitar",
+    "count": 38
+  },
+  {
+    "tag": "drum-machine",
     "count": 38
   },
   {
@@ -120,6 +128,14 @@
     "count": 35
   },
   {
+    "tag": "angular-guitar",
+    "count": 35
+  },
+  {
+    "tag": "bass-led",
+    "count": 35
+  },
+  {
     "tag": "coldwave",
     "count": 35
   },
@@ -148,10 +164,6 @@
     "count": 35
   },
   {
-    "tag": "dance-punk",
-    "count": 34
-  },
-  {
     "tag": "electronic-rock",
     "count": 34
   },
@@ -168,7 +180,7 @@
     "count": 33
   },
   {
-    "tag": "drum-machine",
+    "tag": "grunge",
     "count": 33
   },
   {
@@ -264,19 +276,11 @@
     "count": 31
   },
   {
-    "tag": "angular-guitar",
-    "count": 30
-  },
-  {
     "tag": "arpeggio",
     "count": 30
   },
   {
     "tag": "balearic",
-    "count": 30
-  },
-  {
-    "tag": "bass-led",
     "count": 30
   },
   {
@@ -340,10 +344,6 @@
     "count": 28
   },
   {
-    "tag": "grunge",
-    "count": 28
-  },
-  {
     "tag": "raw",
     "count": 28
   },
@@ -364,11 +364,19 @@
     "count": 26
   },
   {
+    "tag": "heavy-groove",
+    "count": 25
+  },
+  {
     "tag": "offbeat",
     "count": 25
   },
   {
     "tag": "angular",
+    "count": 24
+  },
+  {
+    "tag": "blues-rock",
     "count": 24
   },
   {
@@ -396,10 +404,6 @@
     "count": 20
   },
   {
-    "tag": "heavy-groove",
-    "count": 20
-  },
-  {
     "tag": "rock",
     "count": 20
   },
@@ -409,10 +413,6 @@
   },
   {
     "tag": "96bpm",
-    "count": 19
-  },
-  {
-    "tag": "blues-rock",
     "count": 19
   },
   {
@@ -440,6 +440,10 @@
     "count": 17
   },
   {
+    "tag": "riff-rock",
+    "count": 17
+  },
+  {
     "tag": "bass-driven",
     "count": 16
   },
@@ -450,6 +454,10 @@
   {
     "tag": "guitar-driven",
     "count": 16
+  },
+  {
+    "tag": "art-rock",
+    "count": 15
   },
   {
     "tag": "cinematic",
@@ -492,6 +500,10 @@
     "count": 13
   },
   {
+    "tag": "modern-rock",
+    "count": 13
+  },
+  {
     "tag": "vocal-chops",
     "count": 13
   },
@@ -516,11 +528,11 @@
     "count": 12
   },
   {
-    "tag": "riff",
+    "tag": "odd-meter",
     "count": 12
   },
   {
-    "tag": "riff-rock",
+    "tag": "riff",
     "count": 12
   },
   {
@@ -548,11 +560,15 @@
     "count": 11
   },
   {
+    "tag": "warm-mix",
+    "count": 11
+  },
+  {
     "tag": "anthem",
     "count": 10
   },
   {
-    "tag": "art-rock",
+    "tag": "delay-guitars",
     "count": 10
   },
   {
@@ -560,7 +576,35 @@
     "count": 10
   },
   {
+    "tag": "jangly-guitar",
+    "count": 10
+  },
+  {
     "tag": "minimal",
+    "count": 10
+  },
+  {
+    "tag": "phase-guitar",
+    "count": 10
+  },
+  {
+    "tag": "power-chords",
+    "count": 10
+  },
+  {
+    "tag": "raw-drums",
+    "count": 10
+  },
+  {
+    "tag": "sincere-vocal",
+    "count": 10
+  },
+  {
+    "tag": "strained-vocal",
+    "count": 10
+  },
+  {
+    "tag": "youthful-hook",
     "count": 10
   },
   {
@@ -568,11 +612,47 @@
     "count": 9
   },
   {
+    "tag": "alternative-metal",
+    "count": 9
+  },
+  {
+    "tag": "arena-rock",
+    "count": 9
+  },
+  {
+    "tag": "big-chorus",
+    "count": 9
+  },
+  {
+    "tag": "boogie-rock",
+    "count": 9
+  },
+  {
     "tag": "club-ready",
     "count": 9
   },
   {
+    "tag": "desert-rock",
+    "count": 9
+  },
+  {
+    "tag": "emo-rock",
+    "count": 9
+  },
+  {
+    "tag": "feedback",
+    "count": 9
+  },
+  {
     "tag": "g-major",
+    "count": 9
+  },
+  {
+    "tag": "garage-rock",
+    "count": 9
+  },
+  {
+    "tag": "glam-rock",
     "count": 9
   },
   {
@@ -588,6 +668,38 @@
     "count": 9
   },
   {
+    "tag": "math-rock",
+    "count": 9
+  },
+  {
+    "tag": "new-wave-rock",
+    "count": 9
+  },
+  {
+    "tag": "noise-rock",
+    "count": 9
+  },
+  {
+    "tag": "pop-punk",
+    "count": 9
+  },
+  {
+    "tag": "post-grunge",
+    "count": 9
+  },
+  {
+    "tag": "post-hardcore",
+    "count": 9
+  },
+  {
+    "tag": "post-rock",
+    "count": 9
+  },
+  {
+    "tag": "quiet-loud",
+    "count": 9
+  },
+  {
     "tag": "rap-rock",
     "count": 9
   },
@@ -597,6 +709,22 @@
   },
   {
     "tag": "shoegaze",
+    "count": 9
+  },
+  {
+    "tag": "slide-guitar",
+    "count": 9
+  },
+  {
+    "tag": "southern-rock",
+    "count": 9
+  },
+  {
+    "tag": "stoner-rock",
+    "count": 9
+  },
+  {
+    "tag": "swamp-rock",
     "count": 9
   },
   {
@@ -656,10 +784,6 @@
     "count": 8
   },
   {
-    "tag": "modern-rock",
-    "count": 8
-  },
-  {
     "tag": "muscular",
     "count": 8
   },
@@ -692,6 +816,10 @@
     "count": 7
   },
   {
+    "tag": "bittersweet",
+    "count": 7
+  },
+  {
     "tag": "breathy-vocals",
     "count": 7
   },
@@ -700,7 +828,15 @@
     "count": 7
   },
   {
+    "tag": "clean-guitars",
+    "count": 7
+  },
+  {
     "tag": "digital-bells",
+    "count": 7
+  },
+  {
+    "tag": "dry-drums",
     "count": 7
   },
   {
@@ -720,15 +856,15 @@
     "count": 7
   },
   {
+    "tag": "luminous-mix",
+    "count": 7
+  },
+  {
     "tag": "modern",
     "count": 7
   },
   {
     "tag": "nylon-guitar",
-    "count": 7
-  },
-  {
-    "tag": "odd-meter",
     "count": 7
   },
   {
@@ -740,11 +876,27 @@
     "count": 7
   },
   {
+    "tag": "rubbery-bass",
+    "count": 7
+  },
+  {
     "tag": "sequenced-bass",
     "count": 7
   },
   {
+    "tag": "soft-vocal",
+    "count": 7
+  },
+  {
     "tag": "spacious-mix",
+    "count": 7
+  },
+  {
+    "tag": "tape-delay",
+    "count": 7
+  },
+  {
+    "tag": "walking-bass",
     "count": 7
   },
   {
@@ -804,11 +956,19 @@
     "count": 6
   },
   {
+    "tag": "melancholic",
+    "count": 6
+  },
+  {
     "tag": "octave-bass",
     "count": 6
   },
   {
     "tag": "organ-chords",
+    "count": 6
+  },
+  {
+    "tag": "organic-groove",
     "count": 6
   },
   {
@@ -836,15 +996,27 @@
     "count": 6
   },
   {
+    "tag": "shuffle-groove",
+    "count": 6
+  },
+  {
     "tag": "southeast-asian-indie-pop",
     "count": 6
   },
   {
-    "tag": "vocal-syllables",
+    "tag": "theatrical-vocal",
     "count": 6
   },
   {
-    "tag": "warm-mix",
+    "tag": "tremolo-guitar",
+    "count": 6
+  },
+  {
+    "tag": "twin-guitars",
+    "count": 6
+  },
+  {
+    "tag": "vocal-syllables",
     "count": 6
   },
   {
@@ -868,7 +1040,27 @@
     "count": 5
   },
   {
+    "tag": "angular-arrangement",
+    "count": 5
+  },
+  {
+    "tag": "angular-riffs",
+    "count": 5
+  },
+  {
+    "tag": "anthemic-rock",
+    "count": 5
+  },
+  {
     "tag": "arabic-club-pop",
+    "count": 5
+  },
+  {
+    "tag": "argentine-rock",
+    "count": 5
+  },
+  {
+    "tag": "argentine-rock-nacional-rock",
     "count": 5
   },
   {
@@ -888,11 +1080,27 @@
     "count": 5
   },
   {
+    "tag": "baritone-texture",
+    "count": 5
+  },
+  {
+    "tag": "basement-rock",
+    "count": 5
+  },
+  {
     "tag": "bass-heavy",
     "count": 5
   },
   {
+    "tag": "bayou-groove",
+    "count": 5
+  },
+  {
     "tag": "berlin-minimal-techno",
+    "count": 5
+  },
+  {
+    "tag": "bleak-mood",
     "count": 5
   },
   {
@@ -908,7 +1116,15 @@
     "count": 5
   },
   {
+    "tag": "brazilian-psychedelic-rock",
+    "count": 5
+  },
+  {
     "tag": "breakbeat",
+    "count": 5
+  },
+  {
+    "tag": "broad-chorus",
     "count": 5
   },
   {
@@ -928,11 +1144,43 @@
     "count": 5
   },
   {
+    "tag": "cinematic-build",
+    "count": 5
+  },
+  {
     "tag": "cinematic-mix",
     "count": 5
   },
   {
+    "tag": "clean-drums",
+    "count": 5
+  },
+  {
     "tag": "clean-master",
+    "count": 5
+  },
+  {
+    "tag": "clean-to-fuzz",
+    "count": 5
+  },
+  {
+    "tag": "clean-transients",
+    "count": 5
+  },
+  {
+    "tag": "clean-verse",
+    "count": 5
+  },
+  {
+    "tag": "club-rock",
+    "count": 5
+  },
+  {
+    "tag": "cold-atmosphere",
+    "count": 5
+  },
+  {
+    "tag": "coldwave-rock",
     "count": 5
   },
   {
@@ -960,11 +1208,19 @@
     "count": 5
   },
   {
+    "tag": "dark-romantic",
+    "count": 5
+  },
+  {
     "tag": "deep-bass",
     "count": 5
   },
   {
     "tag": "deep-house",
+    "count": 5
+  },
+  {
+    "tag": "desert-texture",
     "count": 5
   },
   {
@@ -976,7 +1232,31 @@
     "count": 5
   },
   {
+    "tag": "dirty-guitars",
+    "count": 5
+  },
+  {
+    "tag": "dissonant-guitar",
+    "count": 5
+  },
+  {
     "tag": "downtempo-electronica",
+    "count": 5
+  },
+  {
+    "tag": "downtuned",
+    "count": 5
+  },
+  {
+    "tag": "dream-pop-rock",
+    "count": 5
+  },
+  {
+    "tag": "dreamy-vocals",
+    "count": 5
+  },
+  {
+    "tag": "drop-tuned",
     "count": 5
   },
   {
@@ -984,7 +1264,27 @@
     "count": 5
   },
   {
+    "tag": "dusty-drums",
+    "count": 5
+  },
+  {
+    "tag": "dynamic-shifts",
+    "count": 5
+  },
+  {
+    "tag": "earthy-mix",
+    "count": 5
+  },
+  {
     "tag": "electroclash",
+    "count": 5
+  },
+  {
+    "tag": "emotional-chorus",
+    "count": 5
+  },
+  {
+    "tag": "emotional-hook",
     "count": 5
   },
   {
@@ -992,7 +1292,27 @@
     "count": 5
   },
   {
+    "tag": "experimental-song",
+    "count": 5
+  },
+  {
+    "tag": "fast-downstrokes",
+    "count": 5
+  },
+  {
+    "tag": "fast-energy",
+    "count": 5
+  },
+  {
+    "tag": "fast-guitars",
+    "count": 5
+  },
+  {
     "tag": "filipino-alt-pop",
+    "count": 5
+  },
+  {
+    "tag": "filipino-alternative-rock",
     "count": 5
   },
   {
@@ -1004,7 +1324,31 @@
     "count": 5
   },
   {
+    "tag": "fuzz-guitar",
+    "count": 5
+  },
+  {
+    "tag": "fuzz-guitars",
+    "count": 5
+  },
+  {
+    "tag": "fuzz-riffs",
+    "count": 5
+  },
+  {
+    "tag": "fuzz-room",
+    "count": 5
+  },
+  {
+    "tag": "fuzz-wash",
+    "count": 5
+  },
+  {
     "tag": "garage",
+    "count": 5
+  },
+  {
+    "tag": "garage-energy",
     "count": 5
   },
   {
@@ -1012,7 +1356,19 @@
     "count": 5
   },
   {
+    "tag": "glitter-hooks",
+    "count": 5
+  },
+  {
+    "tag": "gothic-rock",
+    "count": 5
+  },
+  {
     "tag": "gritty-mix",
+    "count": 5
+  },
+  {
+    "tag": "guitar-forward",
     "count": 5
   },
   {
@@ -1020,7 +1376,31 @@
     "count": 5
   },
   {
+    "tag": "hardcore-punk",
+    "count": 5
+  },
+  {
+    "tag": "heavy-fuzz",
+    "count": 5
+  },
+  {
+    "tag": "heavy-hook",
+    "count": 5
+  },
+  {
+    "tag": "highway-rock",
+    "count": 5
+  },
+  {
     "tag": "hypnotic-groove",
+    "count": 5
+  },
+  {
+    "tag": "hypnotic-repetition",
+    "count": 5
+  },
+  {
+    "tag": "icy-guitars",
     "count": 5
   },
   {
@@ -1036,6 +1416,10 @@
     "count": 5
   },
   {
+    "tag": "indonesian-garage-rock",
+    "count": 5
+  },
+  {
     "tag": "indonesian-indie-pop",
     "count": 5
   },
@@ -1048,7 +1432,11 @@
     "count": 5
   },
   {
-    "tag": "jangly-guitar",
+    "tag": "jangly-hooks",
+    "count": 5
+  },
+  {
+    "tag": "japanese-alternative-rock",
     "count": 5
   },
   {
@@ -1080,7 +1468,31 @@
     "count": 5
   },
   {
+    "tag": "korean-indie-rock",
+    "count": 5
+  },
+  {
+    "tag": "krautrock-groove",
+    "count": 5
+  },
+  {
+    "tag": "krautrock-motorik-rock",
+    "count": 5
+  },
+  {
+    "tag": "layered-guitars",
+    "count": 5
+  },
+  {
     "tag": "liquid-drum-and-bass",
+    "count": 5
+  },
+  {
+    "tag": "low-tuned",
+    "count": 5
+  },
+  {
+    "tag": "lyrical-guitar",
     "count": 5
   },
   {
@@ -1088,11 +1500,31 @@
     "count": 5
   },
   {
+    "tag": "melodic-band",
+    "count": 5
+  },
+  {
+    "tag": "melodic-tension",
+    "count": 5
+  },
+  {
+    "tag": "melodic-weight",
+    "count": 5
+  },
+  {
     "tag": "mexican-indie-pop",
     "count": 5
   },
   {
+    "tag": "mexican-indie-rock",
+    "count": 5
+  },
+  {
     "tag": "minor-key",
+    "count": 5
+  },
+  {
+    "tag": "modal-riff",
     "count": 5
   },
   {
@@ -1101,6 +1533,10 @@
   },
   {
     "tag": "moroccan-electro-pop",
+    "count": 5
+  },
+  {
+    "tag": "motorik-rock",
     "count": 5
   },
   {
@@ -1120,6 +1556,30 @@
     "count": 5
   },
   {
+    "tag": "nordic-melancholic-rock",
+    "count": 5
+  },
+  {
+    "tag": "nordic-rock",
+    "count": 5
+  },
+  {
+    "tag": "nu-metal-groove-rock",
+    "count": 5
+  },
+  {
+    "tag": "octave-riffs",
+    "count": 5
+  },
+  {
+    "tag": "organ-swirl",
+    "count": 5
+  },
+  {
+    "tag": "percussive-vocal",
+    "count": 5
+  },
+  {
     "tag": "peruvian-chicha-pop",
     "count": 5
   },
@@ -1128,7 +1588,15 @@
     "count": 5
   },
   {
+    "tag": "power-riffs",
+    "count": 5
+  },
+  {
     "tag": "punchy-master",
+    "count": 5
+  },
+  {
+    "tag": "raw-energy",
     "count": 5
   },
   {
@@ -1136,15 +1604,51 @@
     "count": 5
   },
   {
+    "tag": "raw-shouts",
+    "count": 5
+  },
+  {
     "tag": "retro-modern",
     "count": 5
   },
   {
-    "tag": "sincere-vocal",
+    "tag": "riff-driven",
+    "count": 5
+  },
+  {
+    "tag": "roadhouse-energy",
+    "count": 5
+  },
+  {
+    "tag": "rootsy-groove",
+    "count": 5
+  },
+  {
+    "tag": "scratchy-guitar",
+    "count": 5
+  },
+  {
+    "tag": "shimmer-guitar",
+    "count": 5
+  },
+  {
+    "tag": "shoegaze-rock",
+    "count": 5
+  },
+  {
+    "tag": "short-sections",
+    "count": 5
+  },
+  {
+    "tag": "shuffle-drive",
     "count": 5
   },
   {
     "tag": "smooth-vocal",
+    "count": 5
+  },
+  {
+    "tag": "snappy-drums",
     "count": 5
   },
   {
@@ -1160,7 +1664,19 @@
     "count": 5
   },
   {
+    "tag": "stomping-beat",
+    "count": 5
+  },
+  {
+    "tag": "sunny-guitars",
+    "count": 5
+  },
+  {
     "tag": "syncopated",
+    "count": 5
+  },
+  {
+    "tag": "syncopated-riff",
     "count": 5
   },
   {
@@ -1168,7 +1684,23 @@
     "count": 5
   },
   {
+    "tag": "synth-stabs",
+    "count": 5
+  },
+  {
+    "tag": "tapped-guitar",
+    "count": 5
+  },
+  {
+    "tag": "textural-guitars",
+    "count": 5
+  },
+  {
     "tag": "thai-electronic-pop",
+    "count": 5
+  },
+  {
+    "tag": "thai-indie-rock",
     "count": 5
   },
   {
@@ -1176,7 +1708,19 @@
     "count": 5
   },
   {
+    "tag": "tight-stops",
+    "count": 5
+  },
+  {
     "tag": "top-pick",
+    "count": 5
+  },
+  {
+    "tag": "tropical-psych",
+    "count": 5
+  },
+  {
+    "tag": "tube-amp",
     "count": 5
   },
   {
@@ -1184,7 +1728,15 @@
     "count": 5
   },
   {
+    "tag": "turkish-psychedelic-rock",
+    "count": 5
+  },
+  {
     "tag": "uk-garage",
+    "count": 5
+  },
+  {
+    "tag": "urgent-downstrokes",
     "count": 5
   },
   {
@@ -1193,6 +1745,22 @@
   },
   {
     "tag": "vocal-particles",
+    "count": 5
+  },
+  {
+    "tag": "warm-band",
+    "count": 5
+  },
+  {
+    "tag": "wide-open",
+    "count": 5
+  },
+  {
+    "tag": "wide-reverb",
+    "count": 5
+  },
+  {
+    "tag": "wordless-texture",
     "count": 5
   },
   {
@@ -1216,10 +1784,6 @@
     "count": 4
   },
   {
-    "tag": "alternative-metal",
-    "count": 4
-  },
-  {
     "tag": "americana-rock",
     "count": 4
   },
@@ -1229,10 +1793,6 @@
   },
   {
     "tag": "anthemic",
-    "count": 4
-  },
-  {
-    "tag": "arena-rock",
     "count": 4
   },
   {
@@ -1268,19 +1828,11 @@
     "count": 4
   },
   {
-    "tag": "big-chorus",
-    "count": 4
-  },
-  {
     "tag": "big-drums",
     "count": 4
   },
   {
     "tag": "bluesy",
-    "count": 4
-  },
-  {
-    "tag": "boogie-rock",
     "count": 4
   },
   {
@@ -1340,10 +1892,6 @@
     "count": 4
   },
   {
-    "tag": "desert-rock",
-    "count": 4
-  },
-  {
     "tag": "detached-vocals",
     "count": 4
   },
@@ -1388,10 +1936,6 @@
     "count": 4
   },
   {
-    "tag": "emo-rock",
-    "count": 4
-  },
-  {
     "tag": "energy",
     "count": 4
   },
@@ -1401,10 +1945,6 @@
   },
   {
     "tag": "extended-jam",
-    "count": 4
-  },
-  {
-    "tag": "feedback",
     "count": 4
   },
   {
@@ -1449,14 +1989,6 @@
   },
   {
     "tag": "garage-punk",
-    "count": 4
-  },
-  {
-    "tag": "garage-rock",
-    "count": 4
-  },
-  {
-    "tag": "glam-rock",
     "count": 4
   },
   {
@@ -1596,10 +2128,6 @@
     "count": 4
   },
   {
-    "tag": "math-rock",
-    "count": 4
-  },
-  {
     "tag": "melodic-hard-rock",
     "count": 4
   },
@@ -1648,15 +2176,7 @@
     "count": 4
   },
   {
-    "tag": "new-wave-rock",
-    "count": 4
-  },
-  {
     "tag": "noise-pop",
-    "count": 4
-  },
-  {
-    "tag": "noise-rock",
     "count": 4
   },
   {
@@ -1700,23 +2220,7 @@
     "count": 4
   },
   {
-    "tag": "pop-punk",
-    "count": 4
-  },
-  {
-    "tag": "post-grunge",
-    "count": 4
-  },
-  {
-    "tag": "post-hardcore",
-    "count": 4
-  },
-  {
     "tag": "post-punk-funk",
-    "count": 4
-  },
-  {
-    "tag": "post-rock",
     "count": 4
   },
   {
@@ -1749,10 +2253,6 @@
   },
   {
     "tag": "punk-rock",
-    "count": 4
-  },
-  {
-    "tag": "quiet-loud",
     "count": 4
   },
   {
@@ -1824,10 +2324,6 @@
     "count": 4
   },
   {
-    "tag": "slide-guitar",
-    "count": 4
-  },
-  {
     "tag": "slow-blues",
     "count": 4
   },
@@ -1852,10 +2348,6 @@
     "count": 4
   },
   {
-    "tag": "southern-rock",
-    "count": 4
-  },
-  {
     "tag": "space-rock",
     "count": 4
   },
@@ -1872,10 +2364,6 @@
     "count": 4
   },
   {
-    "tag": "stoner-rock",
-    "count": 4
-  },
-  {
     "tag": "sunny-groove",
     "count": 4
   },
@@ -1885,10 +2373,6 @@
   },
   {
     "tag": "swagger-rock",
-    "count": 4
-  },
-  {
-    "tag": "swamp-rock",
     "count": 4
   },
   {
@@ -2296,10 +2780,6 @@
     "count": 2
   },
   {
-    "tag": "bittersweet",
-    "count": 2
-  },
-  {
     "tag": "brass-stabs",
     "count": 2
   },
@@ -2345,10 +2825,6 @@
   },
   {
     "tag": "classic",
-    "count": 2
-  },
-  {
-    "tag": "clean-guitars",
     "count": 2
   },
   {
@@ -2433,10 +2909,6 @@
   },
   {
     "tag": "drop",
-    "count": 2
-  },
-  {
-    "tag": "dry-drums",
     "count": 2
   },
   {
@@ -2568,10 +3040,6 @@
     "count": 2
   },
   {
-    "tag": "luminous-mix",
-    "count": 2
-  },
-  {
     "tag": "market-groove",
     "count": 2
   },
@@ -2692,10 +3160,6 @@
     "count": 2
   },
   {
-    "tag": "rubbery-bass",
-    "count": 2
-  },
-  {
     "tag": "sequencer-arps",
     "count": 2
   },
@@ -2748,10 +3212,6 @@
     "count": 2
   },
   {
-    "tag": "soft-vocal",
-    "count": 2
-  },
-  {
     "tag": "solo",
     "count": 2
   },
@@ -2793,10 +3253,6 @@
   },
   {
     "tag": "tabla-texture",
-    "count": 2
-  },
-  {
-    "tag": "tape-delay",
     "count": 2
   },
   {
@@ -2849,10 +3305,6 @@
   },
   {
     "tag": "vocal-tones",
-    "count": 2
-  },
-  {
-    "tag": "walking-bass",
     "count": 2
   },
   {
@@ -4880,10 +5332,6 @@
     "count": 1
   },
   {
-    "tag": "melancholic",
-    "count": 1
-  },
-  {
     "tag": "mellow-piano",
     "count": 1
   },
@@ -5217,10 +5665,6 @@
   },
   {
     "tag": "organic-drums",
-    "count": 1
-  },
-  {
-    "tag": "organic-groove",
     "count": 1
   },
   {
@@ -5764,10 +6208,6 @@
     "count": 1
   },
   {
-    "tag": "shuffle-groove",
-    "count": 1
-  },
-  {
     "tag": "shy-vocal",
     "count": 1
   },
@@ -6252,10 +6692,6 @@
     "count": 1
   },
   {
-    "tag": "theatrical-vocal",
-    "count": 1
-  },
-  {
     "tag": "theme",
     "count": 1
   },
@@ -6344,10 +6780,6 @@
     "count": 1
   },
   {
-    "tag": "tremolo-guitar",
-    "count": 1
-  },
-  {
     "tag": "trip",
     "count": 1
   },
@@ -6365,10 +6797,6 @@
   },
   {
     "tag": "turquoise-mood",
-    "count": 1
-  },
-  {
-    "tag": "twin-guitars",
     "count": 1
   },
   {

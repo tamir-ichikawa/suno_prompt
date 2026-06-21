@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-06-22",
-  "prompt_count": 1244,
-  "total_source_count": 1244,
-  "public_safe_count": 1244,
+  "prompt_count": 1444,
+  "total_source_count": 1444,
+  "public_safe_count": 1444,
   "collections": [
     {
       "id": "starter-v01",
@@ -51,6 +51,14 @@
       "description": "世界各地の電子音楽・ダンス音楽語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
       "prompt_count": 200,
       "bundle_path": "data/bundles/world-electronic-v04.json"
+    },
+    {
+      "id": "world-rock-v04",
+      "version": "V04",
+      "label": "World Rock",
+      "description": "世界各地のロック/ギター音楽語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+      "prompt_count": 200,
+      "bundle_path": "data/bundles/world-rock-v04.json"
     }
   ],
   "creators": [
@@ -390,6 +398,14 @@
       "count": 5
     },
     {
+      "id": "world-rock-v04:alternative-metal",
+      "slug": "alternative-metal",
+      "name": "Alternative Metal",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
       "id": "kota-v04:alternative-rock",
       "slug": "alternative-rock",
       "name": "Alternative Rock",
@@ -406,11 +422,35 @@
       "count": 5
     },
     {
+      "id": "world-rock-v04:arena-rock",
+      "slug": "arena-rock",
+      "name": "Arena Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:argentine-rock-nacional-rock",
+      "slug": "argentine-rock-nacional-rock",
+      "name": "Argentine Rock Nacional Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:argentine-rock-pop",
       "slug": "argentine-rock-pop",
       "name": "Argentine Rock Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:art-rock",
+      "slug": "art-rock",
+      "name": "Art Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
       "count": 5
     },
     {
@@ -438,6 +478,22 @@
       "count": 5
     },
     {
+      "id": "world-rock-v04:blues-rock",
+      "slug": "blues-rock",
+      "name": "Blues Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:boogie-rock",
+      "slug": "boogie-rock",
+      "name": "Boogie Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:brazilian-baile-electro",
       "slug": "brazilian-baile-electro",
       "name": "Brazilian Baile Electro",
@@ -451,6 +507,14 @@
       "name": "Brazilian Funk Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:brazilian-psychedelic-rock",
+      "slug": "brazilian-psychedelic-rock",
+      "name": "Brazilian Psychedelic Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
       "count": 5
     },
     {
@@ -502,6 +566,14 @@
       "count": 5
     },
     {
+      "id": "world-rock-v04:coldwave-rock",
+      "slug": "coldwave-rock",
+      "name": "Coldwave Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:colombian-electro-pop",
       "slug": "colombian-electro-pop",
       "name": "Colombian Electro Pop",
@@ -515,6 +587,14 @@
       "name": "Cyberpunk Electro",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:dance-punk",
+      "slug": "dance-punk",
+      "name": "Dance Punk",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
       "count": 5
     },
     {
@@ -534,6 +614,14 @@
       "count": 5
     },
     {
+      "id": "world-rock-v04:desert-rock",
+      "slug": "desert-rock",
+      "name": "Desert Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:detroit-techno",
       "slug": "detroit-techno",
       "name": "Detroit Techno",
@@ -547,6 +635,14 @@
       "name": "Downtempo Electronica",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:dream-pop-rock",
+      "slug": "dream-pop-rock",
+      "name": "Dream Pop Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
       "count": 5
     },
     {
@@ -582,6 +678,14 @@
       "count": 5
     },
     {
+      "id": "world-rock-v04:emo-rock",
+      "slug": "emo-rock",
+      "name": "Emo Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:ethiopian-jazz-pop",
       "slug": "ethiopian-jazz-pop",
       "name": "Ethiopian Jazz Pop",
@@ -603,6 +707,14 @@
       "name": "Filipino Alt Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:filipino-alternative-rock",
+      "slug": "filipino-alternative-rock",
+      "name": "Filipino Alternative Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
       "count": 5
     },
     {
@@ -630,11 +742,51 @@
       "count": 5
     },
     {
+      "id": "world-rock-v04:garage-rock",
+      "slug": "garage-rock",
+      "name": "Garage Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:ghanaian-highlife-pop",
       "slug": "ghanaian-highlife-pop",
       "name": "Ghanaian Highlife Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:glam-rock",
+      "slug": "glam-rock",
+      "name": "Glam Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:gothic-rock",
+      "slug": "gothic-rock",
+      "name": "Gothic Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:grunge",
+      "slug": "grunge",
+      "name": "Grunge",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:hardcore-punk",
+      "slug": "hardcore-punk",
+      "name": "Hardcore Punk",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
       "count": 5
     },
     {
@@ -670,6 +822,14 @@
       "count": 5
     },
     {
+      "id": "world-rock-v04:indonesian-garage-rock",
+      "slug": "indonesian-garage-rock",
+      "name": "Indonesian Garage Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:indonesian-indie-pop",
       "slug": "indonesian-indie-pop",
       "name": "Indonesian Indie Pop",
@@ -699,6 +859,14 @@
       "name": "Italo Disco",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:japanese-alternative-rock",
+      "slug": "japanese-alternative-rock",
+      "name": "Japanese Alternative Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
       "count": 5
     },
     {
@@ -758,6 +926,22 @@
       "count": 5
     },
     {
+      "id": "world-rock-v04:korean-indie-rock",
+      "slug": "korean-indie-rock",
+      "name": "Korean Indie Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:krautrock-motorik-rock",
+      "slug": "krautrock-motorik-rock",
+      "name": "Krautrock Motorik Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:liquid-drum-and-bass",
       "slug": "liquid-drum-and-bass",
       "name": "Liquid Drum And Bass",
@@ -766,11 +950,27 @@
       "count": 5
     },
     {
+      "id": "world-rock-v04:math-rock",
+      "slug": "math-rock",
+      "name": "Math Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:mexican-indie-pop",
       "slug": "mexican-indie-pop",
       "name": "Mexican Indie Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:mexican-indie-rock",
+      "slug": "mexican-indie-rock",
+      "name": "Mexican Indie Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
       "count": 5
     },
     {
@@ -798,6 +998,14 @@
       "count": 5
     },
     {
+      "id": "world-rock-v04:new-wave-rock",
+      "slug": "new-wave-rock",
+      "name": "New Wave Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:nigerian-alte-pop",
       "slug": "nigerian-alte-pop",
       "name": "Nigerian Alte Pop",
@@ -814,6 +1022,14 @@
       "count": 5
     },
     {
+      "id": "world-rock-v04:noise-rock",
+      "slug": "noise-rock",
+      "name": "Noise Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:nordic-folk-pop",
       "slug": "nordic-folk-pop",
       "name": "Nordic Folk Pop",
@@ -822,11 +1038,27 @@
       "count": 5
     },
     {
+      "id": "world-rock-v04:nordic-melancholic-rock",
+      "slug": "nordic-melancholic-rock",
+      "name": "Nordic Melancholic Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:nu-disco",
       "slug": "nu-disco",
       "name": "Nu Disco",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:nu-metal-groove-rock",
+      "slug": "nu-metal-groove-rock",
+      "name": "Nu Metal Groove Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
       "count": 5
     },
     {
@@ -846,6 +1078,62 @@
       "count": 5
     },
     {
+      "id": "world-rock-v04:pop-punk",
+      "slug": "pop-punk",
+      "name": "Pop Punk",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:post-grunge",
+      "slug": "post-grunge",
+      "name": "Post Grunge",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:post-hardcore",
+      "slug": "post-hardcore",
+      "name": "Post Hardcore",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:post-punk",
+      "slug": "post-punk",
+      "name": "Post Punk",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:post-rock",
+      "slug": "post-rock",
+      "name": "Post Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:riff-rock",
+      "slug": "riff-rock",
+      "name": "Riff Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:shoegaze-rock",
+      "slug": "shoegaze-rock",
+      "name": "Shoegaze Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:south-african-gqom-pop",
       "slug": "south-african-gqom-pop",
       "name": "South African Gqom Pop",
@@ -862,11 +1150,35 @@
       "count": 5
     },
     {
+      "id": "world-rock-v04:southern-rock",
+      "slug": "southern-rock",
+      "name": "Southern Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:space-disco",
       "slug": "space-disco",
       "name": "Space Disco",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:stoner-rock",
+      "slug": "stoner-rock",
+      "name": "Stoner Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:swamp-rock",
+      "slug": "swamp-rock",
+      "name": "Swamp Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
       "count": 5
     },
     {
@@ -886,6 +1198,14 @@
       "count": 5
     },
     {
+      "id": "world-rock-v04:thai-indie-rock",
+      "slug": "thai-indie-rock",
+      "name": "Thai Indie Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:thai-luk-thung-pop-hybrid",
       "slug": "thai-luk-thung-pop-hybrid",
       "name": "Thai Luk Thung Pop Hybrid",
@@ -899,6 +1219,14 @@
       "name": "Turkish Psychedelic Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-rock-v04:turkish-psychedelic-rock",
+      "slug": "turkish-psychedelic-rock",
+      "name": "Turkish Psychedelic Rock",
+      "collection": "world-rock-v04",
+      "collection_label": "World Rock",
       "count": 5
     },
     {
@@ -1068,6 +1396,10 @@
       "count": 47
     },
     {
+      "tag": "post-punk",
+      "count": 47
+    },
+    {
       "tag": "d-minor",
       "count": 46
     },
@@ -1076,12 +1408,12 @@
       "count": 45
     },
     {
-      "tag": "a-minor",
-      "count": 44
+      "tag": "chorus-guitar",
+      "count": 45
     },
     {
-      "tag": "post-punk",
-      "count": 42
+      "tag": "a-minor",
+      "count": 44
     },
     {
       "tag": "124bpm",
@@ -1096,8 +1428,8 @@
       "count": 40
     },
     {
-      "tag": "chorus-guitar",
-      "count": 40
+      "tag": "dance-punk",
+      "count": 39
     },
     {
       "tag": "f-minor",
@@ -1105,6 +1437,10 @@
     },
     {
       "tag": "clean-guitar",
+      "count": 38
+    },
+    {
+      "tag": "drum-machine",
       "count": 38
     },
     {
@@ -1144,6 +1480,14 @@
       "count": 35
     },
     {
+      "tag": "angular-guitar",
+      "count": 35
+    },
+    {
+      "tag": "bass-led",
+      "count": 35
+    },
+    {
       "tag": "coldwave",
       "count": 35
     },
@@ -1172,10 +1516,6 @@
       "count": 35
     },
     {
-      "tag": "dance-punk",
-      "count": 34
-    },
-    {
       "tag": "electronic-rock",
       "count": 34
     },
@@ -1192,7 +1532,7 @@
       "count": 33
     },
     {
-      "tag": "drum-machine",
+      "tag": "grunge",
       "count": 33
     },
     {
@@ -1288,19 +1628,11 @@
       "count": 31
     },
     {
-      "tag": "angular-guitar",
-      "count": 30
-    },
-    {
       "tag": "arpeggio",
       "count": 30
     },
     {
       "tag": "balearic",
-      "count": 30
-    },
-    {
-      "tag": "bass-led",
       "count": 30
     },
     {
@@ -1337,10 +1669,6 @@
     },
     {
       "tag": "new-wave",
-      "count": 30
-    },
-    {
-      "tag": "punk-funk",
       "count": 30
     }
   ],

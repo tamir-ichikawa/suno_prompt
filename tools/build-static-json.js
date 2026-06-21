@@ -55,6 +55,14 @@ const COLLECTIONS = {
     source: path.join(ROOT, "data-src", "collections", "world-electronic-v04.jsonl"),
     bundle: "world-electronic-v04.json",
   },
+  worldRock: {
+    id: "world-rock-v04",
+    version: "V04",
+    label: "World Rock",
+    description: "世界各地のロック/ギター音楽語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "world-rock-v04.jsonl"),
+    bundle: "world-rock-v04.json",
+  },
 };
 
 function readJsonl(filePath) {
@@ -409,6 +417,41 @@ function normalizeWorldElectronic(items) {
   });
 }
 
+function normalizeWorldRock(items) {
+  const meta = COLLECTIONS.worldRock;
+  return items.map((item, index) => {
+    const category = titleCase(item.subcategory || item.category || "World Rock");
+    return basePrompt({
+      id: `world-rock-v04-${pad(index + 1)}`,
+      original_id: item.id || `${item.batch_id}-${pad(index + 1)}`,
+      version: meta.version,
+      collection: meta.id,
+      collection_label: meta.label,
+      category,
+      subcategory: item.language_region || item.subcategory || "",
+      title: item.title,
+      prompt: item.prompt,
+      exclude: item.exclude,
+      bpm: toNumber(item.bpm),
+      key: item.key,
+      language: "English",
+      vocal: item.vocal || "",
+      creator: item.creator || "",
+      creator_slug: item.creator_slug || "",
+      creator_tags: item.creator_tags || [],
+      mood: item.mood || [],
+      tags: item.tags,
+      groove_score: item.groove_score ?? null,
+      energy: item.energy || "",
+      energy_score: item.energy_score ?? null,
+      rights_status: item.rights_status || "ai_generated_original",
+      source_note: "ChatGPTで生成した世界各地のロック/ギター音楽系Sunoプロンプトを公開用に検査・整理。",
+      is_top_pick: Boolean(item.is_top_pick),
+      public_safe: item.public_safe !== false,
+    });
+  });
+}
+
 function summarizeCollections(prompts) {
   return Object.values(COLLECTIONS).map((collection) => {
     const collectionPrompts = prompts.filter((prompt) => prompt.collection === collection.id);
@@ -486,7 +529,8 @@ function build() {
   const kota = normalizeKota(readJsonl(COLLECTIONS.kota.source));
   const worldPop = normalizeWorldPop(readJsonl(COLLECTIONS.worldPop.source));
   const worldElectronic = normalizeWorldElectronic(readJsonl(COLLECTIONS.worldElectronic.source));
-  const prompts = [...v01, ...rock, ...electro, ...kota, ...worldPop, ...worldElectronic];
+  const worldRock = normalizeWorldRock(readJsonl(COLLECTIONS.worldRock.source));
+  const prompts = [...v01, ...rock, ...electro, ...kota, ...worldPop, ...worldElectronic, ...worldRock];
   const publicPrompts = prompts.filter((prompt) => prompt.public_safe);
   const collections = summarizeCollections(publicPrompts);
   const creators = summarizeCreators(publicPrompts);
@@ -520,6 +564,7 @@ function build() {
   writeBundle(COLLECTIONS.kota.bundle, kota.filter((prompt) => prompt.public_safe));
   writeBundle(COLLECTIONS.worldPop.bundle, worldPop.filter((prompt) => prompt.public_safe));
   writeBundle(COLLECTIONS.worldElectronic.bundle, worldElectronic.filter((prompt) => prompt.public_safe));
+  writeBundle(COLLECTIONS.worldRock.bundle, worldRock.filter((prompt) => prompt.public_safe));
   writeBundle("top-picks.json", topPicks);
 
   console.log(`Generated ${publicPrompts.length} public prompts`);

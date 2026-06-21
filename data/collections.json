@@ -46,5 +46,13 @@
     "description": "世界各地の電子音楽・ダンス音楽語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
     "prompt_count": 200,
     "bundle_path": "data/bundles/world-electronic-v04.json"
+  },
+  {
+    "id": "world-rock-v04",
+    "version": "V04",
+    "label": "World Rock",
+    "description": "世界各地のロック/ギター音楽語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/world-rock-v04.json"
   }
 ]
