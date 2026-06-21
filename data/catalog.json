@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-06-22",
-  "prompt_count": 1044,
-  "total_source_count": 1044,
-  "public_safe_count": 1044,
+  "prompt_count": 1094,
+  "total_source_count": 1094,
+  "public_safe_count": 1094,
   "collections": [
     {
       "id": "starter-v01",
@@ -43,6 +43,14 @@
       "description": "世界各地のポップ語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
       "prompt_count": 150,
       "bundle_path": "data/bundles/world-pop-v04.json"
+    },
+    {
+      "id": "world-electronic-v04",
+      "version": "V04",
+      "label": "World Electronic",
+      "description": "世界各地の電子音楽・ダンス音楽語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+      "prompt_count": 50,
+      "bundle_path": "data/bundles/world-electronic-v04.json"
     }
   ],
   "creators": [
@@ -350,11 +358,27 @@
       "count": 6
     },
     {
+      "id": "world-electronic-v04:2-step-garage",
+      "slug": "2-step-garage",
+      "name": "2 Step Garage",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
       "id": "starter-v01:afro-caribbean",
       "slug": "afro-caribbean",
       "name": "Afro Caribbean",
       "collection": "starter-v01",
       "collection_label": "全ジャンルスターター",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:afro-house",
+      "slug": "afro-house",
+      "name": "Afro House",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
       "count": 5
     },
     {
@@ -371,6 +395,14 @@
       "name": "Argentine Rock Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:balearic-house",
+      "slug": "balearic-house",
+      "name": "Balearic House",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
       "count": 5
     },
     {
@@ -414,6 +446,14 @@
       "count": 5
     },
     {
+      "id": "world-electronic-v04:deep-house",
+      "slug": "deep-house",
+      "name": "Deep House",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:ethiopian-jazz-pop",
       "slug": "ethiopian-jazz-pop",
       "name": "Ethiopian Jazz Pop",
@@ -438,11 +478,27 @@
       "count": 5
     },
     {
+      "id": "world-electronic-v04:filter-house",
+      "slug": "filter-house",
+      "name": "Filter House",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:french-chanson-pop-hybrid",
       "slug": "french-chanson-pop-hybrid",
       "name": "French Chanson Pop Hybrid",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:french-touch",
+      "slug": "french-touch",
+      "name": "French Touch",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
       "count": 5
     },
     {
@@ -483,6 +539,14 @@
       "name": "Italian Disco Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:italo-disco",
+      "slug": "italo-disco",
+      "name": "Italo Disco",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
       "count": 5
     },
     {
@@ -550,6 +614,14 @@
       "count": 5
     },
     {
+      "id": "world-electronic-v04:nu-disco",
+      "slug": "nu-disco",
+      "name": "Nu Disco",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:peruvian-chicha-pop",
       "slug": "peruvian-chicha-pop",
       "name": "Peruvian Chicha Pop",
@@ -566,6 +638,14 @@
       "count": 5
     },
     {
+      "id": "world-electronic-v04:space-disco",
+      "slug": "space-disco",
+      "name": "Space Disco",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:thai-luk-thung-pop-hybrid",
       "slug": "thai-luk-thung-pop-hybrid",
       "name": "Thai Luk Thung Pop Hybrid",
@@ -579,6 +659,14 @@
       "name": "Turkish Psychedelic Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-electronic-v04:uk-garage",
+      "slug": "uk-garage",
+      "name": "Uk Garage",
+      "collection": "world-electronic-v04",
+      "collection_label": "World Electronic",
       "count": 5
     },
     {
@@ -705,7 +793,7 @@
     },
     {
       "tag": "night-drive",
-      "count": 65
+      "count": 66
     },
     {
       "tag": "ebm",
@@ -713,6 +801,10 @@
     },
     {
       "tag": "electro-funk",
+      "count": 61
+    },
+    {
+      "tag": "syncopation",
       "count": 61
     },
     {
@@ -725,10 +817,6 @@
     },
     {
       "tag": "retro-synth",
-      "count": 60
-    },
-    {
-      "tag": "syncopation",
       "count": 60
     },
     {
@@ -792,11 +880,31 @@
       "count": 36
     },
     {
+      "tag": "filter-house",
+      "count": 36
+    },
+    {
+      "tag": "french-touch",
+      "count": 36
+    },
+    {
+      "tag": "nu-disco",
+      "count": 36
+    },
+    {
       "tag": "108bpm",
       "count": 35
     },
     {
       "tag": "dance-rock",
+      "count": 35
+    },
+    {
+      "tag": "italo-disco",
+      "count": 35
+    },
+    {
+      "tag": "space-disco",
       "count": 35
     },
     {
@@ -816,11 +924,23 @@
       "count": 33
     },
     {
+      "tag": "sunset-groove",
+      "count": 33
+    },
+    {
+      "tag": "disco-house",
+      "count": 32
+    },
+    {
       "tag": "funky-bass",
       "count": 32
     },
     {
       "tag": "overseas",
+      "count": 32
+    },
+    {
+      "tag": "retro-future",
       "count": 32
     },
     {
@@ -844,15 +964,15 @@
       "count": 31
     },
     {
+      "tag": "dark-club",
+      "count": 31
+    },
+    {
       "tag": "dark-pop",
       "count": 31
     },
     {
       "tag": "dirty-electro",
-      "count": 31
-    },
-    {
-      "tag": "disco-house",
       "count": 31
     },
     {
@@ -868,15 +988,7 @@
       "count": 31
     },
     {
-      "tag": "filter-house",
-      "count": 31
-    },
-    {
       "tag": "french-electro",
-      "count": 31
-    },
-    {
-      "tag": "french-touch",
       "count": 31
     },
     {
@@ -888,15 +1000,7 @@
       "count": 31
     },
     {
-      "tag": "nu-disco",
-      "count": 31
-    },
-    {
       "tag": "outrun",
-      "count": 31
-    },
-    {
-      "tag": "retro-future",
       "count": 31
     },
     {
@@ -904,7 +1008,7 @@
       "count": 31
     },
     {
-      "tag": "sunset-groove",
+      "tag": "sequencer",
       "count": 31
     },
     {
@@ -937,10 +1041,6 @@
     },
     {
       "tag": "coldwave",
-      "count": 30
-    },
-    {
-      "tag": "dark-club",
       "count": 30
     },
     {
@@ -984,10 +1084,6 @@
       "count": 30
     },
     {
-      "tag": "italo-disco",
-      "count": 30
-    },
-    {
       "tag": "machine-groove",
       "count": 30
     },
@@ -1005,14 +1101,6 @@
     },
     {
       "tag": "punk-funk",
-      "count": 30
-    },
-    {
-      "tag": "relaxed-dance",
-      "count": 30
-    },
-    {
-      "tag": "robot-disco",
       "count": 30
     }
   ],

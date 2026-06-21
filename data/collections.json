@@ -38,5 +38,13 @@
     "description": "世界各地のポップ語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
     "prompt_count": 150,
     "bundle_path": "data/bundles/world-pop-v04.json"
+  },
+  {
+    "id": "world-electronic-v04",
+    "version": "V04",
+    "label": "World Electronic",
+    "description": "世界各地の電子音楽・ダンス音楽語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    "prompt_count": 50,
+    "bundle_path": "data/bundles/world-electronic-v04.json"
   }
 ]
