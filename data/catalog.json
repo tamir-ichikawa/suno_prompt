@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-06-22",
-  "prompt_count": 2044,
-  "total_source_count": 2044,
-  "public_safe_count": 2044,
+  "prompt_count": 2244,
+  "total_source_count": 2244,
+  "public_safe_count": 2244,
   "collections": [
     {
       "id": "starter-v01",
@@ -83,6 +83,14 @@
       "description": "世界各地のJazz/Funk/Fusion/Groove/Brass系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
       "prompt_count": 200,
       "bundle_path": "data/bundles/world-jazz-funk-v04.json"
+    },
+    {
+      "id": "world-cinematic-score-v04",
+      "version": "V04",
+      "label": "World Cinematic Score",
+      "description": "世界各地のCinematic/Score/Ambient/Hybrid Orchestra系語彙を、特定作品名なしで整理したSunoプロンプト。",
+      "prompt_count": 200,
+      "bundle_path": "data/bundles/world-cinematic-score-v04.json"
     }
   ],
   "creators": [
@@ -419,6 +427,22 @@
       "name": "Acid Jazz",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:adventure-score",
+      "slug": "adventure-score",
+      "name": "Adventure Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:african-cinematic-score",
+      "slug": "african-cinematic-score",
+      "name": "African Cinematic Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
       "count": 5
     },
     {
@@ -790,6 +814,14 @@
       "count": 5
     },
     {
+      "id": "world-cinematic-score-v04:chamber-score",
+      "slug": "chamber-score",
+      "name": "Chamber Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:chicago-house",
       "slug": "chicago-house",
       "name": "Chicago House",
@@ -822,11 +854,27 @@
       "count": 5
     },
     {
+      "id": "world-cinematic-score-v04:choir-orchestral",
+      "slug": "choir-orchestral",
+      "name": "Choir Orchestral",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
       "id": "world-folk-acoustic-v04:cinematic-acoustic-ballad",
       "slug": "cinematic-acoustic-ballad",
       "name": "Cinematic Acoustic Ballad",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:cinematic-ambient",
+      "slug": "cinematic-ambient",
+      "name": "Cinematic Ambient",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
       "count": 5
     },
     {
@@ -886,6 +934,14 @@
       "count": 5
     },
     {
+      "id": "world-cinematic-score-v04:crime-thriller-score",
+      "slug": "crime-thriller-score",
+      "name": "Crime Thriller Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:cuban-jazz-groove",
       "slug": "cuban-jazz-groove",
       "name": "Cuban Jazz Groove",
@@ -902,6 +958,14 @@
       "count": 5
     },
     {
+      "id": "world-cinematic-score-v04:cyberpunk-score",
+      "slug": "cyberpunk-score",
+      "name": "Cyberpunk Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:dance-punk",
       "slug": "dance-punk",
       "name": "Dance Punk",
@@ -915,6 +979,14 @@
       "name": "Dancehall Rnb",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:dark-drone-score",
+      "slug": "dark-drone-score",
+      "name": "Dark Drone Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
       "count": 5
     },
     {
@@ -939,6 +1011,14 @@
       "name": "Dembow Pop Rap",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:desert-cinematic-score",
+      "slug": "desert-cinematic-score",
+      "name": "Desert Cinematic Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
       "count": 5
     },
     {
@@ -971,6 +1051,14 @@
       "name": "Disco Soul Rnb",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:documentary-score",
+      "slug": "documentary-score",
+      "name": "Documentary Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
       "count": 5
     },
     {
@@ -1011,6 +1099,14 @@
       "name": "East African Acoustic Pop",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:east-asian-cinematic-score",
+      "slug": "east-asian-cinematic-score",
+      "name": "East Asian Cinematic Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
       "count": 5
     },
     {
@@ -1062,6 +1158,38 @@
       "count": 5
     },
     {
+      "id": "world-cinematic-score-v04:emotional-piano-score",
+      "slug": "emotional-piano-score",
+      "name": "Emotional Piano Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:ending-credits-score",
+      "slug": "ending-credits-score",
+      "name": "Ending Credits Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:epic-orchestral",
+      "slug": "epic-orchestral",
+      "name": "Epic Orchestral",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:ethereal-vocal-score",
+      "slug": "ethereal-vocal-score",
+      "name": "Ethereal Vocal Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:ethio-jazz-inspired",
       "slug": "ethio-jazz-inspired",
       "name": "Ethio Jazz Inspired",
@@ -1083,6 +1211,14 @@
       "name": "Fado Inspired Pop",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:fantasy-orchestral",
+      "slug": "fantasy-orchestral",
+      "name": "Fantasy Orchestral",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
       "count": 5
     },
     {
@@ -1307,6 +1443,38 @@
       "name": "Hip Hop Rap",
       "collection": "starter-v01",
       "collection_label": "全ジャンルスターター",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:historical-drama-score",
+      "slug": "historical-drama-score",
+      "name": "Historical Drama Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:hopeful-orchestra",
+      "slug": "hopeful-orchestra",
+      "name": "Hopeful Orchestra",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:horror-tension-score",
+      "slug": "horror-tension-score",
+      "name": "Horror Tension Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:hybrid-trailer",
+      "slug": "hybrid-trailer",
+      "name": "Hybrid Trailer",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
       "count": 5
     },
     {
@@ -1590,6 +1758,14 @@
       "count": 5
     },
     {
+      "id": "world-cinematic-score-v04:latin-cinematic-score",
+      "slug": "latin-cinematic-score",
+      "name": "Latin Cinematic Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:latin-jazz-funk",
       "slug": "latin-jazz-funk",
       "name": "Latin Jazz Funk",
@@ -1630,6 +1806,14 @@
       "count": 5
     },
     {
+      "id": "world-cinematic-score-v04:magical-realism-score",
+      "slug": "magical-realism-score",
+      "name": "Magical Realism Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:math-rock",
       "slug": "math-rock",
       "name": "Math Rock",
@@ -1643,6 +1827,14 @@
       "name": "Mediterranean Folk Pop",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:melancholic-strings",
+      "slug": "melancholic-strings",
+      "name": "Melancholic Strings",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
       "count": 5
     },
     {
@@ -1678,6 +1870,22 @@
       "count": 5
     },
     {
+      "id": "world-cinematic-score-v04:middle-eastern-cinematic-score",
+      "slug": "middle-eastern-cinematic-score",
+      "name": "Middle Eastern Cinematic Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:minimal-piano-score",
+      "slug": "minimal-piano-score",
+      "name": "Minimal Piano Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:minimal-wave",
       "slug": "minimal-wave",
       "name": "Minimal Wave",
@@ -1699,6 +1907,22 @@
       "name": "Moroccan Electro Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:mystery-score",
+      "slug": "mystery-score",
+      "name": "Mystery Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:nature-documentary-score",
+      "slug": "nature-documentary-score",
+      "name": "Nature Documentary Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
       "count": 5
     },
     {
@@ -1766,11 +1990,27 @@
       "count": 5
     },
     {
+      "id": "world-cinematic-score-v04:noir-jazz-score",
+      "slug": "noir-jazz-score",
+      "name": "Noir Jazz Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:noise-rock",
       "slug": "noise-rock",
       "name": "Noise Rock",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:nordic-cinematic-score",
+      "slug": "nordic-cinematic-score",
+      "name": "Nordic Cinematic Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
       "count": 5
     },
     {
@@ -1830,6 +2070,14 @@
       "count": 5
     },
     {
+      "id": "world-cinematic-score-v04:oceanic-cinematic-score",
+      "slug": "oceanic-cinematic-score",
+      "name": "Oceanic Cinematic Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:organ-trio-groove",
       "slug": "organ-trio-groove",
       "name": "Organ Trio Groove",
@@ -1851,6 +2099,14 @@
       "name": "Pakistani Sufi Inspired Pop",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:pastoral-acoustic-score",
+      "slug": "pastoral-acoustic-score",
+      "name": "Pastoral Acoustic Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
       "count": 5
     },
     {
@@ -1950,11 +2206,35 @@
       "count": 5
     },
     {
+      "id": "world-cinematic-score-v04:ritual-percussion-score",
+      "slug": "ritual-percussion-score",
+      "name": "Ritual Percussion Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:romantic-drama-score",
+      "slug": "romantic-drama-score",
+      "name": "Romantic Drama Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
       "id": "world-folk-acoustic-v04:roots-blues-acoustic",
       "slug": "roots-blues-acoustic",
       "name": "Roots Blues Acoustic",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:sci-fi-synth-score",
+      "slug": "sci-fi-synth-score",
+      "name": "Sci Fi Synth Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
       "count": 5
     },
     {
@@ -1987,6 +2267,14 @@
       "name": "Smooth Jazz Groove",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:solo-cello-score",
+      "slug": "solo-cello-score",
+      "name": "Solo Cello Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
       "count": 5
     },
     {
@@ -2046,6 +2334,14 @@
       "count": 5
     },
     {
+      "id": "world-cinematic-score-v04:sports-documentary-score",
+      "slug": "sports-documentary-score",
+      "name": "Sports Documentary Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:stoner-rock",
       "slug": "stoner-rock",
       "name": "Stoner Rock",
@@ -2059,6 +2355,14 @@
       "name": "Street Brass Pop",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:string-quartet-score",
+      "slug": "string-quartet-score",
+      "name": "String Quartet Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
       "count": 5
     },
     {
@@ -2198,11 +2502,27 @@
       "count": 5
     },
     {
+      "id": "world-cinematic-score-v04:urban-night-score",
+      "slug": "urban-night-score",
+      "name": "Urban Night Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:wah-guitar-funk",
       "slug": "wah-guitar-funk",
       "name": "Wah Guitar Funk",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:war-drama-score",
+      "slug": "war-drama-score",
+      "name": "War Drama Score",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
       "count": 5
     },
     {
@@ -2219,6 +2539,14 @@
       "name": "West Coast Funk Rap",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-cinematic-score-v04:world-cinematic-percussion",
+      "slug": "world-cinematic-percussion",
+      "name": "World Cinematic Percussion",
+      "collection": "world-cinematic-score-v04",
+      "collection_label": "World Cinematic Score",
       "count": 5
     },
     {
@@ -2336,12 +2664,24 @@
   ],
   "top_tags": [
     {
+      "tag": "instrumental",
+      "count": 203
+    },
+    {
       "tag": "organic-mix",
       "count": 202
     },
     {
+      "tag": "cinematic-score",
+      "count": 200
+    },
+    {
       "tag": "public-safe",
       "count": 200
+    },
+    {
+      "tag": "film-ready",
+      "count": 145
     },
     {
       "tag": "folk-pop",
@@ -2642,18 +2982,6 @@
     {
       "tag": "retrowave",
       "count": 31
-    },
-    {
-      "tag": "sequencer",
-      "count": 31
-    },
-    {
-      "tag": "arpeggio",
-      "count": 30
-    },
-    {
-      "tag": "balearic",
-      "count": 30
     }
   ],
   "top_pick_count": 17,

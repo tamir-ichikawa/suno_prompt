@@ -78,5 +78,13 @@
     "description": "世界各地のJazz/Funk/Fusion/Groove/Brass系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
     "prompt_count": 200,
     "bundle_path": "data/bundles/world-jazz-funk-v04.json"
+  },
+  {
+    "id": "world-cinematic-score-v04",
+    "version": "V04",
+    "label": "World Cinematic Score",
+    "description": "世界各地のCinematic/Score/Ambient/Hybrid Orchestra系語彙を、特定作品名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/world-cinematic-score-v04.json"
   }
 ]

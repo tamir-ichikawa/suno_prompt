@@ -1,11 +1,23 @@
 [
   {
+    "tag": "instrumental",
+    "count": 203
+  },
+  {
     "tag": "organic-mix",
     "count": 202
   },
   {
+    "tag": "cinematic-score",
+    "count": 200
+  },
+  {
     "tag": "public-safe",
     "count": 200
+  },
+  {
+    "tag": "film-ready",
+    "count": 145
   },
   {
     "tag": "folk-pop",
@@ -464,6 +476,10 @@
     "count": 20
   },
   {
+    "tag": "orchestra",
+    "count": 20
+  },
+  {
     "tag": "rock",
     "count": 20
   },
@@ -489,6 +505,10 @@
   },
   {
     "tag": "marimba-plucks",
+    "count": 18
+  },
+  {
+    "tag": "piano",
     "count": 18
   },
   {
@@ -636,6 +656,10 @@
     "count": 13
   },
   {
+    "tag": "ambient",
+    "count": 12
+  },
+  {
     "tag": "brass-stabs",
     "count": 12
   },
@@ -772,6 +796,10 @@
     "count": 10
   },
   {
+    "tag": "percussion",
+    "count": 10
+  },
+  {
     "tag": "percussive-bass",
     "count": 10
   },
@@ -833,6 +861,10 @@
   },
   {
     "tag": "vocal-one-shots",
+    "count": 10
+  },
+  {
+    "tag": "wordless-vocal",
     "count": 10
   },
   {
@@ -1040,15 +1072,7 @@
     "count": 8
   },
   {
-    "tag": "instrumental",
-    "count": 8
-  },
-  {
     "tag": "muscular",
-    "count": 8
-  },
-  {
-    "tag": "piano",
     "count": 8
   },
   {
@@ -1436,7 +1460,15 @@
     "count": 5
   },
   {
+    "tag": "adventure-score",
+    "count": 5
+  },
+  {
     "tag": "africa",
+    "count": 5
+  },
+  {
+    "tag": "african-cinematic-score",
     "count": 5
   },
   {
@@ -1716,6 +1748,10 @@
     "count": 5
   },
   {
+    "tag": "chamber-score",
+    "count": 5
+  },
+  {
     "tag": "chicago-house",
     "count": 5
   },
@@ -1736,11 +1772,19 @@
     "count": 5
   },
   {
+    "tag": "choir-orchestral",
+    "count": 5
+  },
+  {
     "tag": "chopped-texture",
     "count": 5
   },
   {
     "tag": "cinematic-acoustic-ballad",
+    "count": 5
+  },
+  {
+    "tag": "cinematic-ambient",
     "count": 5
   },
   {
@@ -1880,6 +1924,10 @@
     "count": 5
   },
   {
+    "tag": "crime-thriller-score",
+    "count": 5
+  },
+  {
     "tag": "cuban-groove",
     "count": 5
   },
@@ -1893,6 +1941,10 @@
   },
   {
     "tag": "cyberpunk-electro",
+    "count": 5
+  },
+  {
+    "tag": "cyberpunk-score",
     "count": 5
   },
   {
@@ -1913,6 +1965,10 @@
   },
   {
     "tag": "dark-bass",
+    "count": 5
+  },
+  {
+    "tag": "dark-drone-score",
     "count": 5
   },
   {
@@ -1941,6 +1997,10 @@
   },
   {
     "tag": "dembow-pop-rap",
+    "count": 5
+  },
+  {
+    "tag": "desert-cinematic-score",
     "count": 5
   },
   {
@@ -1977,6 +2037,10 @@
   },
   {
     "tag": "dissonant-guitar",
+    "count": 5
+  },
+  {
+    "tag": "documentary-score",
     "count": 5
   },
   {
@@ -2020,6 +2084,10 @@
     "count": 5
   },
   {
+    "tag": "east-asian-cinematic-score",
+    "count": 5
+  },
+  {
     "tag": "east-coast-night-rap",
     "count": 5
   },
@@ -2056,6 +2124,22 @@
     "count": 5
   },
   {
+    "tag": "emotional-piano-score",
+    "count": 5
+  },
+  {
+    "tag": "ending-credits-score",
+    "count": 5
+  },
+  {
+    "tag": "epic-orchestral",
+    "count": 5
+  },
+  {
+    "tag": "ethereal-vocal-score",
+    "count": 5
+  },
+  {
     "tag": "ethio-jazz",
     "count": 5
   },
@@ -2077,6 +2161,10 @@
   },
   {
     "tag": "fado-inspired-pop",
+    "count": 5
+  },
+  {
+    "tag": "fantasy-orchestral",
     "count": 5
   },
   {
@@ -2304,6 +2392,14 @@
     "count": 5
   },
   {
+    "tag": "historical-drama-score",
+    "count": 5
+  },
+  {
+    "tag": "hopeful-orchestra",
+    "count": 5
+  },
+  {
     "tag": "horn-riffs",
     "count": 5
   },
@@ -2312,7 +2408,15 @@
     "count": 5
   },
   {
+    "tag": "horror-tension-score",
+    "count": 5
+  },
+  {
     "tag": "hybrid-drums",
+    "count": 5
+  },
+  {
+    "tag": "hybrid-trailer",
     "count": 5
   },
   {
@@ -2524,6 +2628,10 @@
     "count": 5
   },
   {
+    "tag": "latin-cinematic-score",
+    "count": 5
+  },
+  {
     "tag": "latin-groove",
     "count": 5
   },
@@ -2580,6 +2688,10 @@
     "count": 5
   },
   {
+    "tag": "magical-realism-score",
+    "count": 5
+  },
+  {
     "tag": "major-key",
     "count": 5
   },
@@ -2593,6 +2705,10 @@
   },
   {
     "tag": "mediterranean-folk-pop",
+    "count": 5
+  },
+  {
+    "tag": "melancholic-strings",
     "count": 5
   },
   {
@@ -2640,7 +2756,15 @@
     "count": 5
   },
   {
+    "tag": "middle-eastern-cinematic-score",
+    "count": 5
+  },
+  {
     "tag": "minimal-bass",
+    "count": 5
+  },
+  {
+    "tag": "minimal-piano-score",
     "count": 5
   },
   {
@@ -2692,6 +2816,14 @@
     "count": 5
   },
   {
+    "tag": "mystery-score",
+    "count": 5
+  },
+  {
+    "tag": "nature-documentary-score",
+    "count": 5
+  },
+  {
     "tag": "neo-soul",
     "count": 5
   },
@@ -2724,6 +2856,14 @@
     "count": 5
   },
   {
+    "tag": "noir-jazz-score",
+    "count": 5
+  },
+  {
+    "tag": "nordic-cinematic-score",
+    "count": 5
+  },
+  {
     "tag": "nordic-jazz",
     "count": 5
   },
@@ -2749,6 +2889,10 @@
   },
   {
     "tag": "nu-metal-groove-rock",
+    "count": 5
+  },
+  {
+    "tag": "oceanic-cinematic-score",
     "count": 5
   },
   {
@@ -2809,6 +2953,10 @@
   },
   {
     "tag": "party-clean",
+    "count": 5
+  },
+  {
+    "tag": "pastoral-acoustic-score",
     "count": 5
   },
   {
@@ -2932,6 +3080,10 @@
     "count": 5
   },
   {
+    "tag": "ritual-percussion-score",
+    "count": 5
+  },
+  {
     "tag": "rnb-hooks",
     "count": 5
   },
@@ -2948,6 +3100,10 @@
     "count": 5
   },
   {
+    "tag": "romantic-drama-score",
+    "count": 5
+  },
+  {
     "tag": "roots-blues-acoustic",
     "count": 5
   },
@@ -2961,6 +3117,10 @@
   },
   {
     "tag": "sample-feel",
+    "count": 5
+  },
+  {
+    "tag": "sci-fi-synth-score",
     "count": 5
   },
   {
@@ -3092,6 +3252,10 @@
     "count": 5
   },
   {
+    "tag": "solo-cello-score",
+    "count": 5
+  },
+  {
     "tag": "soul-drums",
     "count": 5
   },
@@ -3148,6 +3312,10 @@
     "count": 5
   },
   {
+    "tag": "sports-documentary-score",
+    "count": 5
+  },
+  {
     "tag": "steelpan-keys",
     "count": 5
   },
@@ -3165,6 +3333,10 @@
   },
   {
     "tag": "street-funk",
+    "count": 5
+  },
+  {
+    "tag": "string-quartet-score",
     "count": 5
   },
   {
@@ -3336,6 +3508,10 @@
     "count": 5
   },
   {
+    "tag": "urban-night-score",
+    "count": 5
+  },
+  {
     "tag": "urgent-downstrokes",
     "count": 5
   },
@@ -3353,6 +3529,10 @@
   },
   {
     "tag": "wah-guitar-funk",
+    "count": 5
+  },
+  {
+    "tag": "war-drama-score",
     "count": 5
   },
   {
@@ -3393,6 +3573,10 @@
   },
   {
     "tag": "wordless-texture",
+    "count": 5
+  },
+  {
+    "tag": "world-cinematic-percussion",
     "count": 5
   },
   {
@@ -4297,10 +4481,6 @@
   },
   {
     "tag": "afro-fusion",
-    "count": 2
-  },
-  {
-    "tag": "ambient",
     "count": 2
   },
   {
@@ -6496,7 +6676,7 @@
     "count": 1
   },
   {
-    "tag": "iron-halo",
+    "tag": "iron-signal",
     "count": 1
   },
   {
