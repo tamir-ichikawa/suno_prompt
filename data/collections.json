@@ -198,5 +198,101 @@
     "description": "日本のScore/BGM/Production Music系語彙を、特定作品名なしで整理したSunoプロンプト。",
     "prompt_count": 200,
     "bundle_path": "data/bundles/japan-score-bgm-v04.json"
+  },
+  {
+    "id": "world-africa-v04",
+    "version": "V04",
+    "label": "World Africa",
+    "description": "アフリカ各地域のPop/Groove/Folk/Electronic語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/world-africa-v04.json"
+  },
+  {
+    "id": "world-middle-east-central-asia-v04",
+    "version": "V04",
+    "label": "World Middle East/Central Asia",
+    "description": "中東・中央アジアのModal Pop/Folk/Electronic/Cinematic語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/world-middle-east-central-asia-v04.json"
+  },
+  {
+    "id": "world-south-asia-v04",
+    "version": "V04",
+    "label": "World South Asia",
+    "description": "南アジアのFilm Pop/Folk/Classical Fusion/Dance語彙を、特定作品名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/world-south-asia-v04.json"
+  },
+  {
+    "id": "world-east-asia-v04",
+    "version": "V04",
+    "label": "World East Asia",
+    "description": "日本以外の東アジアPop/R&B/Indie/Traditional Fusion語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/world-east-asia-v04.json"
+  },
+  {
+    "id": "world-southeast-asia-oceania-v04",
+    "version": "V04",
+    "label": "World Southeast Asia/Oceania",
+    "description": "東南アジア・オセアニアのPop/Folk/Island/Electronic語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/world-southeast-asia-oceania-v04.json"
+  },
+  {
+    "id": "world-europe-regional-v04",
+    "version": "V04",
+    "label": "World Europe Regional",
+    "description": "欧州各地域のFolk/Chanson/Dance/Regional Pop語彙を、特定曲名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/world-europe-regional-v04.json"
+  },
+  {
+    "id": "world-ambient-new-age-v04",
+    "version": "V04",
+    "label": "World Ambient/New Age",
+    "description": "Ambient/New Age/Healing/Focus/Soundscape系語彙を、特定作品名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/world-ambient-new-age-v04.json"
+  },
+  {
+    "id": "world-experimental-noise-v04",
+    "version": "V04",
+    "label": "World Experimental/Noise",
+    "description": "Experimental/Noise/Glitch/Sound Art系語彙を、特定作曲家名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/world-experimental-noise-v04.json"
+  },
+  {
+    "id": "utility-commercial-social-v04",
+    "version": "V04",
+    "label": "Utility Commercial/Social",
+    "description": "広告・SNS・Podcast・プレゼンなど実用用途向けの短尺/背景音楽プロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/utility-commercial-social-v04.json"
+  },
+  {
+    "id": "utility-game-stream-bgm-v04",
+    "version": "V04",
+    "label": "Utility Game/Stream BGM",
+    "description": "ゲームループ・配信BGM・UI効果音寄りの実用Sunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/utility-game-stream-bgm-v04.json"
+  },
+  {
+    "id": "utility-kids-education-v04",
+    "version": "V04",
+    "label": "Utility Kids/Education",
+    "description": "キッズ・教育・クラスルーム用途の、既存童謡メロディを避けた実用Sunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/utility-kids-education-v04.json"
+  },
+  {
+    "id": "utility-seasonal-event-v04",
+    "version": "V04",
+    "label": "Utility Seasonal/Event",
+    "description": "季節・式典・イベント・記念用途向けの、既存曲を避けた実用Sunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/utility-seasonal-event-v04.json"
   }
 ]

@@ -207,6 +207,102 @@ const COLLECTIONS = {
     source: path.join(ROOT, "data-src", "collections", "japan-score-bgm-v04.jsonl"),
     bundle: "japan-score-bgm-v04.json",
   },
+  worldAfrica: {
+    id: "world-africa-v04",
+    version: "V04",
+    label: "World Africa",
+    description: "アフリカ各地域のPop/Groove/Folk/Electronic語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "world-africa-v04.jsonl"),
+    bundle: "world-africa-v04.json",
+  },
+  worldMiddleEastCentralAsia: {
+    id: "world-middle-east-central-asia-v04",
+    version: "V04",
+    label: "World Middle East/Central Asia",
+    description: "中東・中央アジアのModal Pop/Folk/Electronic/Cinematic語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "world-middle-east-central-asia-v04.jsonl"),
+    bundle: "world-middle-east-central-asia-v04.json",
+  },
+  worldSouthAsia: {
+    id: "world-south-asia-v04",
+    version: "V04",
+    label: "World South Asia",
+    description: "南アジアのFilm Pop/Folk/Classical Fusion/Dance語彙を、特定作品名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "world-south-asia-v04.jsonl"),
+    bundle: "world-south-asia-v04.json",
+  },
+  worldEastAsia: {
+    id: "world-east-asia-v04",
+    version: "V04",
+    label: "World East Asia",
+    description: "日本以外の東アジアPop/R&B/Indie/Traditional Fusion語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "world-east-asia-v04.jsonl"),
+    bundle: "world-east-asia-v04.json",
+  },
+  worldSoutheastAsiaOceania: {
+    id: "world-southeast-asia-oceania-v04",
+    version: "V04",
+    label: "World Southeast Asia/Oceania",
+    description: "東南アジア・オセアニアのPop/Folk/Island/Electronic語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "world-southeast-asia-oceania-v04.jsonl"),
+    bundle: "world-southeast-asia-oceania-v04.json",
+  },
+  worldEuropeRegional: {
+    id: "world-europe-regional-v04",
+    version: "V04",
+    label: "World Europe Regional",
+    description: "欧州各地域のFolk/Chanson/Dance/Regional Pop語彙を、特定曲名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "world-europe-regional-v04.jsonl"),
+    bundle: "world-europe-regional-v04.json",
+  },
+  worldAmbientNewAge: {
+    id: "world-ambient-new-age-v04",
+    version: "V04",
+    label: "World Ambient/New Age",
+    description: "Ambient/New Age/Healing/Focus/Soundscape系語彙を、特定作品名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "world-ambient-new-age-v04.jsonl"),
+    bundle: "world-ambient-new-age-v04.json",
+  },
+  worldExperimentalNoise: {
+    id: "world-experimental-noise-v04",
+    version: "V04",
+    label: "World Experimental/Noise",
+    description: "Experimental/Noise/Glitch/Sound Art系語彙を、特定作曲家名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "world-experimental-noise-v04.jsonl"),
+    bundle: "world-experimental-noise-v04.json",
+  },
+  utilityCommercialSocial: {
+    id: "utility-commercial-social-v04",
+    version: "V04",
+    label: "Utility Commercial/Social",
+    description: "広告・SNS・Podcast・プレゼンなど実用用途向けの短尺/背景音楽プロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "utility-commercial-social-v04.jsonl"),
+    bundle: "utility-commercial-social-v04.json",
+  },
+  utilityGameStreamBgm: {
+    id: "utility-game-stream-bgm-v04",
+    version: "V04",
+    label: "Utility Game/Stream BGM",
+    description: "ゲームループ・配信BGM・UI効果音寄りの実用Sunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "utility-game-stream-bgm-v04.jsonl"),
+    bundle: "utility-game-stream-bgm-v04.json",
+  },
+  utilityKidsEducation: {
+    id: "utility-kids-education-v04",
+    version: "V04",
+    label: "Utility Kids/Education",
+    description: "キッズ・教育・クラスルーム用途の、既存童謡メロディを避けた実用Sunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "utility-kids-education-v04.jsonl"),
+    bundle: "utility-kids-education-v04.json",
+  },
+  utilitySeasonalEvent: {
+    id: "utility-seasonal-event-v04",
+    version: "V04",
+    label: "Utility Seasonal/Event",
+    description: "季節・式典・イベント・記念用途向けの、既存曲を避けた実用Sunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "utility-seasonal-event-v04.jsonl"),
+    bundle: "utility-seasonal-event-v04.json",
+  },
 };
 
 const JAPAN_COLLECTION_KEYS = [
@@ -220,6 +316,21 @@ const JAPAN_COLLECTION_KEYS = [
   "japanJazzFunkCity",
   "japanCuteCharacterNovelty",
   "japanScoreBgm",
+];
+
+const EXPANSION_COLLECTION_KEYS = [
+  "worldAfrica",
+  "worldMiddleEastCentralAsia",
+  "worldSouthAsia",
+  "worldEastAsia",
+  "worldSoutheastAsiaOceania",
+  "worldEuropeRegional",
+  "worldAmbientNewAge",
+  "worldExperimentalNoise",
+  "utilityCommercialSocial",
+  "utilityGameStreamBgm",
+  "utilityKidsEducation",
+  "utilitySeasonalEvent",
 ];
 
 function readJsonl(filePath) {
@@ -924,6 +1035,41 @@ function normalizeJapanCollection(items, collectionKey) {
   });
 }
 
+function normalizeExpansionCollection(items, collectionKey) {
+  const meta = COLLECTIONS[collectionKey];
+  return items.map((item, index) => {
+    const category = titleCase(item.subcategory || item.category || meta.label);
+    return basePrompt({
+      id: `${meta.id}-${pad(index + 1)}`,
+      original_id: item.id || `${item.batch_id}-${pad(index + 1)}`,
+      version: meta.version,
+      collection: meta.id,
+      collection_label: meta.label,
+      category,
+      subcategory: item.language_region || item.subcategory || "",
+      title: item.title,
+      prompt: item.prompt,
+      exclude: item.exclude,
+      bpm: toNumber(item.bpm),
+      key: item.key,
+      language: item.language || "English",
+      vocal: item.vocal || "",
+      creator: item.creator || "",
+      creator_slug: item.creator_slug || "",
+      creator_tags: item.creator_tags || [],
+      mood: item.mood || [],
+      tags: item.tags,
+      groove_score: item.groove_score ?? null,
+      energy: item.energy || "",
+      energy_score: item.energy_score ?? null,
+      rights_status: item.rights_status || "ai_generated_original",
+      source_note: `Codexで生成した${meta.label}系Sunoプロンプトを公開用に検査・整理。`,
+      is_top_pick: Boolean(item.is_top_pick),
+      public_safe: item.public_safe !== false,
+    });
+  });
+}
+
 function summarizeCollections(prompts) {
   return Object.values(COLLECTIONS).map((collection) => {
     const collectionPrompts = prompts.filter((prompt) => prompt.collection === collection.id);
@@ -1013,6 +1159,9 @@ function build() {
   const japanCollections = JAPAN_COLLECTION_KEYS.flatMap((collectionKey) =>
     normalizeJapanCollection(readJsonl(COLLECTIONS[collectionKey].source), collectionKey)
   );
+  const expansionCollections = EXPANSION_COLLECTION_KEYS.flatMap((collectionKey) =>
+    normalizeExpansionCollection(readJsonl(COLLECTIONS[collectionKey].source), collectionKey)
+  );
   const prompts = [
     ...v01,
     ...rock,
@@ -1030,6 +1179,7 @@ function build() {
     ...worldBluesSoulGospel,
     ...worldLatinTropical,
     ...japanCollections,
+    ...expansionCollections,
   ];
   const publicPrompts = prompts.filter((prompt) => prompt.public_safe);
   const collections = summarizeCollections(publicPrompts);
@@ -1074,6 +1224,10 @@ function build() {
   writeBundle(COLLECTIONS.worldBluesSoulGospel.bundle, worldBluesSoulGospel.filter((prompt) => prompt.public_safe));
   writeBundle(COLLECTIONS.worldLatinTropical.bundle, worldLatinTropical.filter((prompt) => prompt.public_safe));
   JAPAN_COLLECTION_KEYS.forEach((collectionKey) => {
+    const meta = COLLECTIONS[collectionKey];
+    writeBundle(meta.bundle, publicPrompts.filter((prompt) => prompt.collection === meta.id));
+  });
+  EXPANSION_COLLECTION_KEYS.forEach((collectionKey) => {
     const meta = COLLECTIONS[collectionKey];
     writeBundle(meta.bundle, publicPrompts.filter((prompt) => prompt.collection === meta.id));
   });
