@@ -6,6 +6,7 @@ const state = {
   catalog: null,
   prompts: [],
   filtered: [],
+  collectionFacetOptions: [],
   visibleCount: PAGE_SIZE,
 };
 
@@ -22,10 +23,7 @@ async function init() {
     state.catalog = catalog;
     state.prompts = prompts;
     renderStats();
-    populateCollectionControls();
-    updateCategoryOptions();
-    updateCreatorOptions();
-    updateTagOptions();
+    syncFacetOptions();
     applyFilters();
   } catch (error) {
     els.resultTitle.textContent = "データを読み込めませんでした";
@@ -71,6 +69,7 @@ function cacheElements() {
 function bindEvents() {
   [
     "searchInput",
+    "collectionFilter",
     "categoryFilter",
     "creatorFilter",
     "tagFilter",
@@ -82,23 +81,7 @@ function bindEvents() {
     "topOnly",
     "sortSelect",
   ].forEach((id) => {
-    els[id].addEventListener("input", () => {
-      if (id === "grooveMin") els.grooveOutput.value = `${els.grooveMin.value}+`;
-      if (id === "energyMin") els.energyOutput.value = `${els.energyMin.value}+`;
-      state.visibleCount = PAGE_SIZE;
-      if (id === "categoryFilter") updateCreatorOptions();
-      if (id === "categoryFilter" || id === "creatorFilter") updateTagOptions();
-      applyFilters();
-    });
-  });
-
-  els.collectionFilter.addEventListener("input", () => {
-    state.visibleCount = PAGE_SIZE;
-    updateCategoryOptions();
-    updateCreatorOptions();
-    updateTagOptions();
-    renderCollectionTabs();
-    applyFilters();
+    els[id].addEventListener("input", () => handleFilterChange(id));
   });
 
   els.clearFilters.addEventListener("click", clearFilters);
@@ -111,16 +94,19 @@ function bindEvents() {
     const button = event.target.closest("[data-collection]");
     if (!button) return;
     els.collectionFilter.value = button.dataset.collection;
-    state.visibleCount = PAGE_SIZE;
-    updateCategoryOptions();
-    updateCreatorOptions();
-    updateTagOptions();
-    renderCollectionTabs();
-    applyFilters();
+    handleFilterChange("collectionFilter");
   });
 
   els.promptGrid.addEventListener("click", handlePromptAction);
   els.dialogContent.addEventListener("click", handlePromptAction);
+}
+
+function handleFilterChange(id) {
+  if (id === "grooveMin") els.grooveOutput.value = `${els.grooveMin.value}+`;
+  if (id === "energyMin") els.energyOutput.value = `${els.energyMin.value}+`;
+  state.visibleCount = PAGE_SIZE;
+  syncFacetOptions();
+  applyFilters();
 }
 
 async function fetchJson(url) {
@@ -134,28 +120,11 @@ function renderStats() {
   els.statCollections.textContent = state.catalog.collections.length.toLocaleString("ja-JP");
 }
 
-function populateCollectionControls() {
-  const options = [
-    `<option value="all">すべて</option>`,
-    ...state.catalog.collections.map(
-      (collection) =>
-        `<option value="${escapeHtml(collection.id)}">${escapeHtml(collection.version)} / ${escapeHtml(collection.label)}</option>`
-    ),
-  ];
-  els.collectionFilter.innerHTML = options.join("");
-  renderCollectionTabs();
-}
-
 function renderCollectionTabs() {
   const current = els.collectionFilter.value || "all";
-  const tabs = [
-    { id: "all", label: "すべて", count: state.catalog.prompt_count },
-    ...state.catalog.collections.map((collection) => ({
-      id: collection.id,
-      label: `${collection.version} ${collection.label}`,
-      count: collection.prompt_count,
-    })),
-  ];
+  const tabs = state.collectionFacetOptions.length
+    ? state.collectionFacetOptions.map((option) => ({ id: option.value, label: option.label, count: option.count }))
+    : [{ id: "all", label: "すべて", count: state.catalog.prompt_count }];
 
   els.collectionTabs.innerHTML = tabs
     .map(
@@ -167,41 +136,85 @@ function renderCollectionTabs() {
     .join("");
 }
 
-function updateCategoryOptions() {
-  const collection = els.collectionFilter.value || "all";
-  const selected = els.categoryFilter.value;
-  const categories = state.catalog.categories.filter((category) => collection === "all" || category.collection === collection);
+function syncFacetOptions() {
+  for (let pass = 0; pass < 4; pass += 1) {
+    const collectionChanged = updateCollectionOptions();
+    const categoryChanged = updateCategoryOptions();
+    const creatorChanged = updateCreatorOptions();
+    const tagChanged = updateTagOptions();
+    const changed = collectionChanged || categoryChanged || creatorChanged || tagChanged;
+    if (!changed) break;
+  }
+  renderCollectionTabs();
+}
+
+function updateCollectionOptions() {
+  const selected = els.collectionFilter.value || "all";
+  const filters = readFilters();
+  const scoped = promptsForFacet(filters, "collection");
+  const counts = countFacet(scoped, (prompt) => prompt.collection);
   const options = [
-    `<option value="all">すべて</option>`,
-    ...categories.map(
-      (category) =>
-        `<option value="${escapeHtml(category.id)}">${escapeHtml(category.collection_label)} / ${escapeHtml(
-          category.name
-        )} (${category.count})</option>`
-    ),
+    { value: "all", label: "すべて", count: scoped.length },
+    ...state.catalog.collections
+      .filter((collection) => counts.has(collection.id))
+      .map((collection) => ({
+        value: collection.id,
+        label: collection.label,
+        count: counts.get(collection.id),
+      })),
   ];
-  els.categoryFilter.innerHTML = options.join("");
-  els.categoryFilter.value = [...els.categoryFilter.options].some((option) => option.value === selected) ? selected : "all";
+
+  state.collectionFacetOptions = options;
+  return setSelectOptions(els.collectionFilter, options, selected);
+}
+
+function updateCategoryOptions() {
+  const selected = els.categoryFilter.value;
+  const collection = els.collectionFilter.value || "all";
+  const filters = readFilters();
+  const scoped = promptsForFacet(filters, "category");
+  const counts = countFacet(scoped, (prompt) => `${prompt.collection}:${prompt.category_slug}`);
+  const categoryById = new Map(state.catalog.categories.map((category) => [category.id, category]));
+  const categories = [...counts.entries()]
+    .map(([id, count]) => {
+      const category = categoryById.get(id);
+      if (!category) return null;
+      const label = collection === "all" ? `${category.collection_label} / ${category.name}` : category.name;
+      return { value: id, label, count };
+    })
+    .filter(Boolean)
+    .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
+
+  return setSelectOptions(els.categoryFilter, [{ value: "all", label: "すべて" }, ...categories], selected);
 }
 
 function updateTagOptions() {
-  const scoped = promptsInCurrentScope();
+  const filters = readFilters();
+  const scoped = promptsForFacet(filters, "tag");
   const counts = new Map();
   scoped.forEach((prompt) => {
     prompt.tags.forEach((tag) => counts.set(tag, (counts.get(tag) || 0) + 1));
   });
   const selected = els.tagFilter.value;
-  const tags = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])).slice(0, 250);
+  const tags = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+  const visibleTags = tags.slice(0, 250);
+  if (selected !== "all" && counts.has(selected) && !visibleTags.some(([tag]) => tag === selected)) {
+    visibleTags.push([selected, counts.get(selected)]);
+  }
 
-  els.tagFilter.innerHTML = [
-    `<option value="all">すべて</option>`,
-    ...tags.map(([tag, count]) => `<option value="${escapeHtml(tag)}">${escapeHtml(tag)} (${count})</option>`),
-  ].join("");
-  els.tagFilter.value = [...els.tagFilter.options].some((option) => option.value === selected) ? selected : "all";
+  return setSelectOptions(
+    els.tagFilter,
+    [
+      { value: "all", label: "すべて" },
+      ...visibleTags.map(([tag, count]) => ({ value: tag, label: tag, count })),
+    ],
+    selected
+  );
 }
 
 function updateCreatorOptions() {
-  const scoped = promptsInCurrentScope({ includeCreator: false });
+  const filters = readFilters();
+  const scoped = promptsForFacet(filters, "creator");
   const counts = new Map();
   scoped.forEach((prompt) => {
     if (!prompt.creator_slug) return;
@@ -211,30 +224,37 @@ function updateCreatorOptions() {
   });
 
   const selected = els.creatorFilter.value;
-  const creators = [...counts.entries()].sort((a, b) => b[1].count - a[1].count || a[1].name.localeCompare(b[1].name));
-  els.creatorFilter.innerHTML = [
-    `<option value="all">すべて</option>`,
-    ...creators.map(
-      ([slug, creator]) => `<option value="${escapeHtml(slug)}">${escapeHtml(creator.name)} (${creator.count})</option>`
-    ),
-  ].join("");
-  els.creatorFilter.value = [...els.creatorFilter.options].some((option) => option.value === selected) ? selected : "all";
+  const creators = [...counts.entries()]
+    .map(([slug, creator]) => ({ value: slug, label: creator.name, count: creator.count }))
+    .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
+
+  return setSelectOptions(els.creatorFilter, [{ value: "all", label: "すべて" }, ...creators], selected);
 }
 
-function promptsInCurrentScope(options = {}) {
-  const includeCreator = options.includeCreator !== false;
-  const collection = els.collectionFilter.value || "all";
-  const category = els.categoryFilter.value || "all";
-  const creator = els.creatorFilter.value || "all";
-  return state.prompts.filter((prompt) => {
-    if (collection !== "all" && prompt.collection !== collection) return false;
-    if (category !== "all") {
-      const [categoryCollection, categorySlug] = category.split(":");
-      if (prompt.collection !== categoryCollection || prompt.category_slug !== categorySlug) return false;
-    }
-    if (includeCreator && creator !== "all" && prompt.creator_slug !== creator) return false;
-    return true;
+function promptsForFacet(filters, facet) {
+  return state.prompts.filter((prompt) => matchesFilters(prompt, filters, { ignore: facet }));
+}
+
+function countFacet(prompts, getKey) {
+  const counts = new Map();
+  prompts.forEach((prompt) => {
+    const key = getKey(prompt);
+    if (!key) return;
+    counts.set(key, (counts.get(key) || 0) + 1);
   });
+  return counts;
+}
+
+function setSelectOptions(select, options, selected) {
+  select.innerHTML = options
+    .map((option) => {
+      const count = option.count === undefined ? "" : ` (${option.count.toLocaleString("ja-JP")})`;
+      return `<option value="${escapeHtml(option.value)}">${escapeHtml(option.label)}${count}</option>`;
+    })
+    .join("");
+  const next = options.some((option) => option.value === selected) ? selected : "all";
+  select.value = next;
+  return next !== selected;
 }
 
 function applyFilters() {
@@ -262,18 +282,19 @@ function readFilters() {
   };
 }
 
-function matchesFilters(prompt, filters) {
+function matchesFilters(prompt, filters, options = {}) {
+  const ignored = new Set([options.ignore].flat().filter(Boolean));
   if (filters.publicOnly && !prompt.public_safe) return false;
   if (filters.topOnly && !prompt.is_top_pick) return false;
-  if (filters.collection !== "all" && prompt.collection !== filters.collection) return false;
-  if (filters.creator !== "all" && prompt.creator_slug !== filters.creator) return false;
+  if (!ignored.has("collection") && filters.collection !== "all" && prompt.collection !== filters.collection) return false;
+  if (!ignored.has("creator") && filters.creator !== "all" && prompt.creator_slug !== filters.creator) return false;
 
-  if (filters.category !== "all") {
+  if (!ignored.has("category") && filters.category !== "all") {
     const [collection, slug] = filters.category.split(":");
     if (prompt.collection !== collection || prompt.category_slug !== slug) return false;
   }
 
-  if (filters.tag !== "all" && !prompt.tags.includes(filters.tag)) return false;
+  if (!ignored.has("tag") && filters.tag !== "all" && !prompt.tags.includes(filters.tag)) return false;
   if (filters.bpmMin !== null && (prompt.bpm === null || prompt.bpm < filters.bpmMin)) return false;
   if (filters.bpmMax !== null && (prompt.bpm === null || prompt.bpm > filters.bpmMax)) return false;
   if (filters.grooveMin > 0 && (prompt.groove_score === null || prompt.groove_score < filters.grooveMin)) return false;
@@ -312,7 +333,6 @@ function sortPrompts(prompts, sort) {
   if (sort === "collection") {
     return items.sort(
       (a, b) =>
-        a.version.localeCompare(b.version) ||
         a.collection_label.localeCompare(b.collection_label) ||
         a.category.localeCompare(b.category) ||
         byText(a, b)
@@ -324,7 +344,7 @@ function sortPrompts(prompts, sort) {
       Number(b.is_top_pick) - Number(a.is_top_pick) ||
       (b.groove_score ?? -1) - (a.groove_score ?? -1) ||
       (b.energy_score ?? -1) - (a.energy_score ?? -1) ||
-      a.version.localeCompare(b.version) ||
+      a.collection_label.localeCompare(b.collection_label) ||
       byText(a, b)
   );
 }
@@ -353,7 +373,7 @@ function renderPromptCard(prompt) {
   return `
     <article class="prompt-card">
       <div class="card-meta">
-        <span class="collection-pill">${escapeHtml(prompt.version)} / ${escapeHtml(prompt.collection_label)}</span>
+        <span class="collection-pill">${escapeHtml(prompt.collection_label)}</span>
         <span>${escapeHtml(prompt.category)}</span>
       </div>
       <h3>${escapeHtml(prompt.title)}</h3>
@@ -420,7 +440,7 @@ function openDialog(prompt) {
   els.dialogContent.innerHTML = `
     <div class="dialog-body">
       <div>
-        <p class="eyebrow">${escapeHtml(prompt.version)} / ${escapeHtml(prompt.collection_label)}</p>
+        <p class="eyebrow">${escapeHtml(prompt.collection_label)}</p>
         <h3>${escapeHtml(prompt.title)}</h3>
       </div>
       <div class="metric-row">
@@ -537,7 +557,9 @@ function showToast(message) {
 function clearFilters() {
   els.searchInput.value = "";
   els.collectionFilter.value = "all";
+  els.categoryFilter.value = "all";
   els.creatorFilter.value = "all";
+  els.tagFilter.value = "all";
   els.bpmMin.value = "";
   els.bpmMax.value = "";
   els.grooveMin.value = "0";
@@ -548,10 +570,7 @@ function clearFilters() {
   els.topOnly.checked = false;
   els.sortSelect.value = "recommended";
   state.visibleCount = PAGE_SIZE;
-  updateCategoryOptions();
-  updateCreatorOptions();
-  updateTagOptions();
-  renderCollectionTabs();
+  syncFacetOptions();
   applyFilters();
 }
 
