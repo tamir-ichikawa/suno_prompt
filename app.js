@@ -2,6 +2,191 @@ const DATA_URL = "data/prompts-index.min.json";
 const CATALOG_URL = "data/catalog.json";
 const PAGE_SIZE = 60;
 
+const GENRE_GROUPS = [
+  {
+    id: "pop-idol",
+    label: "Pop / Idol",
+    keywords: [
+      "pop",
+      "idol",
+      "jpop",
+      "j pop",
+      "k pop",
+      "korean pop",
+      "mandopop",
+      "cantopop",
+      "kayokyoku",
+      "enka",
+      "schlager",
+      "chanson",
+      "canzone",
+      "city pop",
+      "bubblegum",
+    ],
+  },
+  {
+    id: "rock-metal",
+    label: "Rock / Metal",
+    keywords: [
+      "rock",
+      "metal",
+      "punk",
+      "hardcore",
+      "grunge",
+      "shoegaze",
+      "emo",
+      "garage",
+      "post rock",
+      "stoner",
+      "doom",
+      "sludge",
+      "thrash",
+      "djent",
+      "visual kei",
+      "guitar",
+    ],
+  },
+  {
+    id: "electronic-dance",
+    label: "Electronic / Dance",
+    keywords: [
+      "electronic",
+      "electro",
+      "dance",
+      "club",
+      "house",
+      "techno",
+      "edm",
+      "synth",
+      "synthwave",
+      "future bass",
+      "garage",
+      "breakbeat",
+      "trance",
+      "disco",
+      "vaporwave",
+      "amapiano",
+      "gqom",
+    ],
+  },
+  {
+    id: "hiphop-rnb",
+    label: "Hip-Hop / R&B",
+    keywords: ["hiphop", "hip hop", "rap", "trap", "rnb", "r and b", "soul rap", "boom bap", "lofi beat"],
+  },
+  {
+    id: "folk-acoustic-traditional",
+    label: "Folk / Acoustic / Traditional",
+    keywords: [
+      "folk",
+      "acoustic",
+      "traditional",
+      "roots",
+      "regional",
+      "fusion",
+      "middle east",
+      "central asia",
+      "south asia",
+      "modal",
+      "desert",
+      "monsoon",
+      "procession",
+      "shamisen",
+      "taiko",
+      "wadaiko",
+      "oud",
+      "sitar",
+      "tabla",
+      "bansuri",
+      "komuz",
+      "kora",
+      "qanun",
+      "persian",
+      "flamenco",
+      "celtic",
+      "fado",
+      "bluegrass",
+      "country",
+    ],
+  },
+  {
+    id: "jazz-funk-soul-blues",
+    label: "Jazz / Funk / Soul / Blues",
+    keywords: ["jazz", "funk", "soul", "blues", "gospel", "boogie", "fusion", "brass", "lounge"],
+  },
+  {
+    id: "latin-reggae-tropical",
+    label: "Latin / Reggae / Tropical",
+    keywords: [
+      "latin",
+      "reggae",
+      "dub",
+      "dancehall",
+      "ska",
+      "tropical",
+      "salsa",
+      "cumbia",
+      "bachata",
+      "bossa",
+      "bolero",
+      "rumba",
+      "caribbean",
+      "island",
+    ],
+  },
+  {
+    id: "score-bgm-ambient",
+    label: "Score / BGM / Ambient",
+    keywords: [
+      "score",
+      "bgm",
+      "cinematic",
+      "ambient",
+      "new age",
+      "underscore",
+      "documentary",
+      "orchestral",
+      "drone",
+      "soundscape",
+      "menu loop",
+      "loop",
+      "fanfare",
+      "sting",
+    ],
+  },
+  {
+    id: "experimental-noise",
+    label: "Experimental / Noise",
+    keywords: ["experimental", "noise", "glitch", "avant", "sound art", "prepared", "microsound", "electroacoustic"],
+  },
+  {
+    id: "utility-commercial-event",
+    label: "Utility / Commercial / Event",
+    keywords: [
+      "utility",
+      "commercial",
+      "social",
+      "promo",
+      "brand",
+      "podcast",
+      "stream",
+      "game",
+      "education",
+      "kids",
+      "seasonal",
+      "event",
+      "ceremony",
+      "tutorial",
+      "classroom",
+    ],
+  },
+  {
+    id: "other",
+    label: "Other / Unsorted",
+    keywords: [],
+  },
+];
+
 const state = {
   catalog: null,
   prompts: [],
@@ -39,6 +224,7 @@ function cacheElements() {
     "statCollections",
     "searchInput",
     "collectionFilter",
+    "genreFilter",
     "categoryFilter",
     "creatorFilter",
     "tagFilter",
@@ -71,6 +257,7 @@ function bindEvents() {
   [
     "searchInput",
     "collectionFilter",
+    "genreFilter",
     "categoryFilter",
     "creatorFilter",
     "tagFilter",
@@ -141,10 +328,11 @@ function renderCollectionTabs() {
 function syncFacetOptions() {
   for (let pass = 0; pass < 4; pass += 1) {
     const collectionChanged = updateCollectionOptions();
+    const genreChanged = updateGenreOptions();
     const categoryChanged = updateCategoryOptions();
     const creatorChanged = updateCreatorOptions();
     const tagChanged = updateTagOptions();
-    const changed = collectionChanged || categoryChanged || creatorChanged || tagChanged;
+    const changed = collectionChanged || genreChanged || categoryChanged || creatorChanged || tagChanged;
     if (!changed) break;
   }
   renderCollectionTabs();
@@ -168,6 +356,27 @@ function updateCollectionOptions() {
 
   state.collectionFacetOptions = options;
   return setSelectOptions(els.collectionFilter, options, selected);
+}
+
+function updateGenreOptions() {
+  const selected = els.genreFilter.value || "all";
+  const filters = readFilters();
+  const scoped = promptsForFacet(filters, "genre");
+  const counts = new Map();
+  scoped.forEach((prompt) => {
+    getPromptGenres(prompt).forEach((genreId) => counts.set(genreId, (counts.get(genreId) || 0) + 1));
+  });
+
+  const options = [
+    { value: "all", label: "すべて", count: scoped.length },
+    ...GENRE_GROUPS.filter((genre) => counts.has(genre.id)).map((genre) => ({
+      value: genre.id,
+      label: genre.label,
+      count: counts.get(genre.id),
+    })),
+  ];
+
+  return setSelectOptions(els.genreFilter, options, selected);
 }
 
 function updateCategoryOptions() {
@@ -259,6 +468,47 @@ function setSelectOptions(select, options, selected) {
   return next !== selected;
 }
 
+function getPromptGenres(prompt) {
+  if (prompt._genre_ids) return prompt._genre_ids;
+
+  const text = normalizeFacetText(
+    [
+      prompt.collection,
+      prompt.collection_label,
+      prompt.category,
+      prompt.category_slug,
+      prompt.subcategory,
+      prompt.title,
+      (prompt.tags || []).join(" "),
+    ].join(" ")
+  );
+
+  const matched = GENRE_GROUPS.filter((genre) => genre.keywords.some((keyword) => hasFacetKeyword(text, keyword))).map(
+    (genre) => genre.id
+  );
+
+  prompt._genre_ids = matched.length ? matched : ["other"];
+  return prompt._genre_ids;
+}
+
+function genreLabel(genreId) {
+  return GENRE_GROUPS.find((genre) => genre.id === genreId)?.label || "Other";
+}
+
+function normalizeFacetText(value) {
+  return ` ${String(value || "")
+    .toLowerCase()
+    .replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()} `;
+}
+
+function hasFacetKeyword(normalizedText, keyword) {
+  const normalizedKeyword = normalizeFacetText(keyword).trim();
+  return Boolean(normalizedKeyword) && normalizedText.includes(` ${normalizedKeyword} `);
+}
+
 function applyFilters() {
   const filters = readFilters();
   const filtered = state.prompts.filter((prompt) => matchesFilters(prompt, filters));
@@ -271,6 +521,7 @@ function readFilters() {
   return {
     query: els.searchInput.value.trim().toLowerCase(),
     collection: els.collectionFilter.value || "all",
+    genre: els.genreFilter.value || "all",
     category: els.categoryFilter.value || "all",
     creator: els.creatorFilter.value || "all",
     tag: els.tagFilter.value || "all",
@@ -289,6 +540,7 @@ function matchesFilters(prompt, filters, options = {}) {
   if (filters.publicOnly && !prompt.public_safe) return false;
   if (filters.topOnly && !prompt.is_top_pick) return false;
   if (!ignored.has("collection") && filters.collection !== "all" && prompt.collection !== filters.collection) return false;
+  if (!ignored.has("genre") && filters.genre !== "all" && !getPromptGenres(prompt).includes(filters.genre)) return false;
   if (!ignored.has("creator") && filters.creator !== "all" && prompt.creator_slug !== filters.creator) return false;
 
   if (!ignored.has("category") && filters.category !== "all") {
@@ -310,10 +562,13 @@ function matchesFilters(prompt, filters, options = {}) {
       prompt.subcategory,
       prompt.creator,
       prompt.creator_slug,
+      getPromptGenres(prompt)
+        .map((genreId) => genreLabel(genreId))
+        .join(" "),
       prompt.prompt,
       prompt.exclude,
       prompt.key,
-      prompt.tags.join(" "),
+      (prompt.tags || []).join(" "),
     ]
       .join(" ")
       .toLowerCase();
@@ -395,6 +650,7 @@ function renderActiveChips(filters) {
   const chips = [];
   const collection = state.catalog.collections.find((item) => item.id === filters.collection);
   if (collection) chips.push(collection.label);
+  if (filters.genre !== "all") chips.push(`ジャンル: ${genreLabel(filters.genre)}`);
   if (filters.category !== "all") {
     const category = state.catalog.categories.find((item) => item.id === filters.category);
     if (category) chips.push(category.name);
@@ -559,6 +815,7 @@ function showToast(message) {
 function clearFilters() {
   els.searchInput.value = "";
   els.collectionFilter.value = "all";
+  els.genreFilter.value = "all";
   els.categoryFilter.value = "all";
   els.creatorFilter.value = "all";
   els.tagFilter.value = "all";
