@@ -2259,8 +2259,8 @@
     "category": "Japanese Asian",
     "category_slug": "japanese-asian",
     "subcategory": "",
-    "title": "Vocaloid Hyperpop",
-    "prompt": "vocaloid-style synthetic vocals, hyperpop energy, glitch edits, bright arpeggios, fast kick pattern, playful chaos, anime internet culture feel, BPM: 168, Key: F# Minor",
+    "title": "Vocal Synth Hyperpop",
+    "prompt": "bright vocal-synth textures, hyperpop energy, glitch edits, bright arpeggios, fast kick pattern, playful chaos, Japanese internet culture feel, BPM: 168, Key: F# Minor",
     "exclude": "",
     "lyrics_direction": "",
     "bpm": 168,
@@ -2273,7 +2273,7 @@
     "mood": [],
     "tags": [
       "hyperpop",
-      "vocaloid"
+      "vocal-synth"
     ],
     "use_case": [],
     "groove_score": null,

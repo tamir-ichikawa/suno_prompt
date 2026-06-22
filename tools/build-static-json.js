@@ -111,7 +111,116 @@ const COLLECTIONS = {
     source: path.join(ROOT, "data-src", "collections", "world-reggae-dub-caribbean-v04.jsonl"),
     bundle: "world-reggae-dub-caribbean-v04.json",
   },
+  worldBluesSoulGospel: {
+    id: "world-blues-soul-gospel-v04",
+    version: "V04",
+    label: "World Blues/Soul/Gospel",
+    description: "世界各地のBlues/Soul/Gospel/R&B Roots系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "world-blues-soul-gospel-v04.jsonl"),
+    bundle: "world-blues-soul-gospel-v04.json",
+  },
+  worldLatinTropical: {
+    id: "world-latin-tropical-v04",
+    version: "V04",
+    label: "World Latin/Tropical",
+    description: "世界各地のLatin/Tropical/Salsa/Cumbia/Brazilian/Caribbean Pop系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "world-latin-tropical-v04.jsonl"),
+    bundle: "world-latin-tropical-v04.json",
+  },
+  japanPopIdol: {
+    id: "japan-pop-idol-v04",
+    version: "V04",
+    label: "Japan Pop/Idol",
+    description: "日本のJ-Pop/Idol/Pop Chorus系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "japan-pop-idol-v04.jsonl"),
+    bundle: "japan-pop-idol-v04.json",
+  },
+  japanRockAlt: {
+    id: "japan-rock-alt-v04",
+    version: "V04",
+    label: "Japan Rock/Alt",
+    description: "日本のRock/Alternative/Band Sound系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "japan-rock-alt-v04.jsonl"),
+    bundle: "japan-rock-alt-v04.json",
+  },
+  japanAnimeGame: {
+    id: "japan-anime-game-v04",
+    version: "V04",
+    label: "Japan Anime/Game",
+    description: "日本のAnime/Game/Media Theme系語彙を、特定作品名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "japan-anime-game-v04.jsonl"),
+    bundle: "japan-anime-game-v04.json",
+  },
+  japanElectronicClub: {
+    id: "japan-electronic-club-v04",
+    version: "V04",
+    label: "Japan Electronic/Club",
+    description: "日本のElectronic/Club/Vocal Synth-like/Kawaii Electronic系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "japan-electronic-club-v04.jsonl"),
+    bundle: "japan-electronic-club-v04.json",
+  },
+  japanKayokyokuEnkaFolk: {
+    id: "japan-kayokyoku-enka-folk-v04",
+    version: "V04",
+    label: "Japan Kayokyoku/Enka/Folk",
+    description: "日本のKayokyoku/Enka/Folk/New Music系語彙を、特定歌手名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "japan-kayokyoku-enka-folk-v04.jsonl"),
+    bundle: "japan-kayokyoku-enka-folk-v04.json",
+  },
+  japanTraditionalFusion: {
+    id: "japan-traditional-fusion-v04",
+    version: "V04",
+    label: "Japan Traditional Fusion",
+    description: "日本のTraditional Instrument/Festival/Regional Fusion系語彙を、特定民謡・祭り曲名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "japan-traditional-fusion-v04.jsonl"),
+    bundle: "japan-traditional-fusion-v04.json",
+  },
+  japanHiphopRnb: {
+    id: "japan-hiphop-rnb-v04",
+    version: "V04",
+    label: "Japan Hip-Hop/R&B",
+    description: "日本のHip-Hop/R&B/City Night Beat系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "japan-hiphop-rnb-v04.jsonl"),
+    bundle: "japan-hiphop-rnb-v04.json",
+  },
+  japanJazzFunkCity: {
+    id: "japan-jazz-funk-city-v04",
+    version: "V04",
+    label: "Japan Jazz/Funk/City",
+    description: "日本のJazz/Funk/Fusion/City Groove系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "japan-jazz-funk-city-v04.jsonl"),
+    bundle: "japan-jazz-funk-city-v04.json",
+  },
+  japanCuteCharacterNovelty: {
+    id: "japan-cute-character-novelty-v04",
+    version: "V04",
+    label: "Japan Cute/Character/Novelty",
+    description: "日本のCute Pop/Character Song/Novelty/Jingle系語彙を、特定キャラクター名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "japan-cute-character-novelty-v04.jsonl"),
+    bundle: "japan-cute-character-novelty-v04.json",
+  },
+  japanScoreBgm: {
+    id: "japan-score-bgm-v04",
+    version: "V04",
+    label: "Japan Score/BGM",
+    description: "日本のScore/BGM/Production Music系語彙を、特定作品名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "japan-score-bgm-v04.jsonl"),
+    bundle: "japan-score-bgm-v04.json",
+  },
 };
+
+const JAPAN_COLLECTION_KEYS = [
+  "japanPopIdol",
+  "japanRockAlt",
+  "japanAnimeGame",
+  "japanElectronicClub",
+  "japanKayokyokuEnkaFolk",
+  "japanTraditionalFusion",
+  "japanHiphopRnb",
+  "japanJazzFunkCity",
+  "japanCuteCharacterNovelty",
+  "japanScoreBgm",
+];
 
 function readJsonl(filePath) {
   const text = fs.readFileSync(filePath, "utf8");
@@ -710,6 +819,111 @@ function normalizeWorldReggaeDubCaribbean(items) {
   });
 }
 
+function normalizeWorldBluesSoulGospel(items) {
+  const meta = COLLECTIONS.worldBluesSoulGospel;
+  return items.map((item, index) => {
+    const category = titleCase(item.subcategory || item.category || "World Blues/Soul/Gospel");
+    return basePrompt({
+      id: `world-blues-soul-gospel-v04-${pad(index + 1)}`,
+      original_id: item.id || `${item.batch_id}-${pad(index + 1)}`,
+      version: meta.version,
+      collection: meta.id,
+      collection_label: meta.label,
+      category,
+      subcategory: item.language_region || item.subcategory || "",
+      title: item.title,
+      prompt: item.prompt,
+      exclude: item.exclude,
+      bpm: toNumber(item.bpm),
+      key: item.key,
+      language: "English",
+      vocal: item.vocal || "",
+      creator: item.creator || "",
+      creator_slug: item.creator_slug || "",
+      creator_tags: item.creator_tags || [],
+      mood: item.mood || [],
+      tags: item.tags,
+      groove_score: item.groove_score ?? null,
+      energy: item.energy || "",
+      energy_score: item.energy_score ?? null,
+      rights_status: item.rights_status || "ai_generated_original",
+      source_note: "Codexで生成した世界各地のBlues/Soul/Gospel/R&B Roots系Sunoプロンプトを公開用に検査・整理。",
+      is_top_pick: Boolean(item.is_top_pick),
+      public_safe: item.public_safe !== false,
+    });
+  });
+}
+
+function normalizeWorldLatinTropical(items) {
+  const meta = COLLECTIONS.worldLatinTropical;
+  return items.map((item, index) => {
+    const category = titleCase(item.subcategory || item.category || "World Latin/Tropical");
+    return basePrompt({
+      id: `world-latin-tropical-v04-${pad(index + 1)}`,
+      original_id: item.id || `${item.batch_id}-${pad(index + 1)}`,
+      version: meta.version,
+      collection: meta.id,
+      collection_label: meta.label,
+      category,
+      subcategory: item.language_region || item.subcategory || "",
+      title: item.title,
+      prompt: item.prompt,
+      exclude: item.exclude,
+      bpm: toNumber(item.bpm),
+      key: item.key,
+      language: "English",
+      vocal: item.vocal || "",
+      creator: item.creator || "",
+      creator_slug: item.creator_slug || "",
+      creator_tags: item.creator_tags || [],
+      mood: item.mood || [],
+      tags: item.tags,
+      groove_score: item.groove_score ?? null,
+      energy: item.energy || "",
+      energy_score: item.energy_score ?? null,
+      rights_status: item.rights_status || "ai_generated_original",
+      source_note: "Codexで生成した世界各地のLatin/Tropical/Salsa/Cumbia/Brazilian/Caribbean Pop系Sunoプロンプトを公開用に検査・整理。",
+      is_top_pick: Boolean(item.is_top_pick),
+      public_safe: item.public_safe !== false,
+    });
+  });
+}
+
+function normalizeJapanCollection(items, collectionKey) {
+  const meta = COLLECTIONS[collectionKey];
+  return items.map((item, index) => {
+    const category = titleCase(item.subcategory || item.category || meta.label);
+    return basePrompt({
+      id: `${meta.id}-${pad(index + 1)}`,
+      original_id: item.id || `${item.batch_id}-${pad(index + 1)}`,
+      version: meta.version,
+      collection: meta.id,
+      collection_label: meta.label,
+      category,
+      subcategory: item.language_region || item.subcategory || "",
+      title: item.title,
+      prompt: item.prompt,
+      exclude: item.exclude,
+      bpm: toNumber(item.bpm),
+      key: item.key,
+      language: item.language || "Japanese",
+      vocal: item.vocal || "",
+      creator: item.creator || "",
+      creator_slug: item.creator_slug || "",
+      creator_tags: item.creator_tags || [],
+      mood: item.mood || [],
+      tags: item.tags,
+      groove_score: item.groove_score ?? null,
+      energy: item.energy || "",
+      energy_score: item.energy_score ?? null,
+      rights_status: item.rights_status || "ai_generated_original",
+      source_note: `Codexで生成した${meta.label}系Sunoプロンプトを公開用に検査・整理。`,
+      is_top_pick: Boolean(item.is_top_pick),
+      public_safe: item.public_safe !== false,
+    });
+  });
+}
+
 function summarizeCollections(prompts) {
   return Object.values(COLLECTIONS).map((collection) => {
     const collectionPrompts = prompts.filter((prompt) => prompt.collection === collection.id);
@@ -794,6 +1008,11 @@ function build() {
   const worldCinematicScore = normalizeWorldCinematicScore(readJsonl(COLLECTIONS.worldCinematicScore.source));
   const worldMetalHeavy = normalizeWorldMetalHeavy(readJsonl(COLLECTIONS.worldMetalHeavy.source));
   const worldReggaeDubCaribbean = normalizeWorldReggaeDubCaribbean(readJsonl(COLLECTIONS.worldReggaeDubCaribbean.source));
+  const worldBluesSoulGospel = normalizeWorldBluesSoulGospel(readJsonl(COLLECTIONS.worldBluesSoulGospel.source));
+  const worldLatinTropical = normalizeWorldLatinTropical(readJsonl(COLLECTIONS.worldLatinTropical.source));
+  const japanCollections = JAPAN_COLLECTION_KEYS.flatMap((collectionKey) =>
+    normalizeJapanCollection(readJsonl(COLLECTIONS[collectionKey].source), collectionKey)
+  );
   const prompts = [
     ...v01,
     ...rock,
@@ -808,6 +1027,9 @@ function build() {
     ...worldCinematicScore,
     ...worldMetalHeavy,
     ...worldReggaeDubCaribbean,
+    ...worldBluesSoulGospel,
+    ...worldLatinTropical,
+    ...japanCollections,
   ];
   const publicPrompts = prompts.filter((prompt) => prompt.public_safe);
   const collections = summarizeCollections(publicPrompts);
@@ -849,6 +1071,12 @@ function build() {
   writeBundle(COLLECTIONS.worldCinematicScore.bundle, worldCinematicScore.filter((prompt) => prompt.public_safe));
   writeBundle(COLLECTIONS.worldMetalHeavy.bundle, worldMetalHeavy.filter((prompt) => prompt.public_safe));
   writeBundle(COLLECTIONS.worldReggaeDubCaribbean.bundle, worldReggaeDubCaribbean.filter((prompt) => prompt.public_safe));
+  writeBundle(COLLECTIONS.worldBluesSoulGospel.bundle, worldBluesSoulGospel.filter((prompt) => prompt.public_safe));
+  writeBundle(COLLECTIONS.worldLatinTropical.bundle, worldLatinTropical.filter((prompt) => prompt.public_safe));
+  JAPAN_COLLECTION_KEYS.forEach((collectionKey) => {
+    const meta = COLLECTIONS[collectionKey];
+    writeBundle(meta.bundle, publicPrompts.filter((prompt) => prompt.collection === meta.id));
+  });
   writeBundle("top-picks.json", topPicks);
 
   console.log(`Generated ${publicPrompts.length} public prompts`);

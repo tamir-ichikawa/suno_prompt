@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-06-22",
-  "prompt_count": 2644,
-  "total_source_count": 2644,
-  "public_safe_count": 2644,
+  "prompt_count": 5044,
+  "total_source_count": 5044,
+  "public_safe_count": 5044,
   "collections": [
     {
       "id": "starter-v01",
@@ -107,6 +107,102 @@
       "description": "世界各地のReggae/Dub/Dancehall/Ska/Caribbean系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
       "prompt_count": 200,
       "bundle_path": "data/bundles/world-reggae-dub-caribbean-v04.json"
+    },
+    {
+      "id": "world-blues-soul-gospel-v04",
+      "version": "V04",
+      "label": "World Blues/Soul/Gospel",
+      "description": "世界各地のBlues/Soul/Gospel/R&B Roots系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+      "prompt_count": 200,
+      "bundle_path": "data/bundles/world-blues-soul-gospel-v04.json"
+    },
+    {
+      "id": "world-latin-tropical-v04",
+      "version": "V04",
+      "label": "World Latin/Tropical",
+      "description": "世界各地のLatin/Tropical/Salsa/Cumbia/Brazilian/Caribbean Pop系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+      "prompt_count": 200,
+      "bundle_path": "data/bundles/world-latin-tropical-v04.json"
+    },
+    {
+      "id": "japan-pop-idol-v04",
+      "version": "V04",
+      "label": "Japan Pop/Idol",
+      "description": "日本のJ-Pop/Idol/Pop Chorus系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+      "prompt_count": 200,
+      "bundle_path": "data/bundles/japan-pop-idol-v04.json"
+    },
+    {
+      "id": "japan-rock-alt-v04",
+      "version": "V04",
+      "label": "Japan Rock/Alt",
+      "description": "日本のRock/Alternative/Band Sound系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+      "prompt_count": 200,
+      "bundle_path": "data/bundles/japan-rock-alt-v04.json"
+    },
+    {
+      "id": "japan-anime-game-v04",
+      "version": "V04",
+      "label": "Japan Anime/Game",
+      "description": "日本のAnime/Game/Media Theme系語彙を、特定作品名なしで整理したSunoプロンプト。",
+      "prompt_count": 200,
+      "bundle_path": "data/bundles/japan-anime-game-v04.json"
+    },
+    {
+      "id": "japan-electronic-club-v04",
+      "version": "V04",
+      "label": "Japan Electronic/Club",
+      "description": "日本のElectronic/Club/Vocal Synth-like/Kawaii Electronic系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+      "prompt_count": 200,
+      "bundle_path": "data/bundles/japan-electronic-club-v04.json"
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04",
+      "version": "V04",
+      "label": "Japan Kayokyoku/Enka/Folk",
+      "description": "日本のKayokyoku/Enka/Folk/New Music系語彙を、特定歌手名なしで整理したSunoプロンプト。",
+      "prompt_count": 200,
+      "bundle_path": "data/bundles/japan-kayokyoku-enka-folk-v04.json"
+    },
+    {
+      "id": "japan-traditional-fusion-v04",
+      "version": "V04",
+      "label": "Japan Traditional Fusion",
+      "description": "日本のTraditional Instrument/Festival/Regional Fusion系語彙を、特定民謡・祭り曲名なしで整理したSunoプロンプト。",
+      "prompt_count": 200,
+      "bundle_path": "data/bundles/japan-traditional-fusion-v04.json"
+    },
+    {
+      "id": "japan-hiphop-rnb-v04",
+      "version": "V04",
+      "label": "Japan Hip-Hop/R&B",
+      "description": "日本のHip-Hop/R&B/City Night Beat系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+      "prompt_count": 200,
+      "bundle_path": "data/bundles/japan-hiphop-rnb-v04.json"
+    },
+    {
+      "id": "japan-jazz-funk-city-v04",
+      "version": "V04",
+      "label": "Japan Jazz/Funk/City",
+      "description": "日本のJazz/Funk/Fusion/City Groove系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+      "prompt_count": 200,
+      "bundle_path": "data/bundles/japan-jazz-funk-city-v04.json"
+    },
+    {
+      "id": "japan-cute-character-novelty-v04",
+      "version": "V04",
+      "label": "Japan Cute/Character/Novelty",
+      "description": "日本のCute Pop/Character Song/Novelty/Jingle系語彙を、特定キャラクター名なしで整理したSunoプロンプト。",
+      "prompt_count": 200,
+      "bundle_path": "data/bundles/japan-cute-character-novelty-v04.json"
+    },
+    {
+      "id": "japan-score-bgm-v04",
+      "version": "V04",
+      "label": "Japan Score/BGM",
+      "description": "日本のScore/BGM/Production Music系語彙を、特定作品名なしで整理したSunoプロンプト。",
+      "prompt_count": 200,
+      "bundle_path": "data/bundles/japan-score-bgm-v04.json"
     }
   ],
   "creators": [
@@ -422,11 +518,35 @@
       "count": 5
     },
     {
+      "id": "japan-kayokyoku-enka-folk-v04:70s-new-music",
+      "slug": "70s-new-music",
+      "name": "70s New Music",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:80s-kayokyoku-pop",
+      "slug": "80s-kayokyoku-pop",
+      "name": "80s Kayokyoku Pop",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:abstract-hiphop",
       "slug": "abstract-hiphop",
       "name": "Abstract Hiphop",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:accordion-kayokyoku",
+      "slug": "accordion-kayokyoku",
+      "name": "Accordion Kayokyoku",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
       "count": 5
     },
     {
@@ -446,11 +566,75 @@
       "count": 5
     },
     {
+      "id": "japan-jazz-funk-city-v04:acid-jazz-japan",
+      "slug": "acid-jazz-japan",
+      "name": "Acid Jazz Japan",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:acoustic-duo",
+      "slug": "acoustic-duo",
+      "name": "Acoustic Duo",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:acoustic-jpop",
+      "slug": "acoustic-jpop",
+      "name": "Acoustic Jpop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:acoustic-kayokyoku",
+      "slug": "acoustic-kayokyoku",
+      "name": "Acoustic Kayokyoku",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:acoustic-rap",
+      "slug": "acoustic-rap",
+      "name": "Acoustic Rap",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-reggae-dub-caribbean-v04:acoustic-reggae",
       "slug": "acoustic-reggae",
       "name": "Acoustic Reggae",
       "collection": "world-reggae-dub-caribbean-v04",
       "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:acoustic-rock",
+      "slug": "acoustic-rock",
+      "name": "Acoustic Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:adult-contemporary-kayokyoku",
+      "slug": "adult-contemporary-kayokyoku",
+      "name": "Adult Contemporary Kayokyoku",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:adventure-map-bgm",
+      "slug": "adventure-map-bgm",
+      "name": "Adventure Map Bgm",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
       "count": 5
     },
     {
@@ -510,6 +694,14 @@
       "count": 5
     },
     {
+      "id": "world-latin-tropical-v04:afro-cuban-jazz",
+      "slug": "afro-cuban-jazz",
+      "name": "Afro Cuban Jazz",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:afro-house",
       "slug": "afro-house",
       "name": "Afro House",
@@ -526,11 +718,27 @@
       "count": 5
     },
     {
+      "id": "world-blues-soul-gospel-v04:afro-soul",
+      "slug": "afro-soul",
+      "name": "Afro Soul",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:afro-swing",
       "slug": "afro-swing",
       "name": "Afro Swing",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:alt-rock",
+      "slug": "alt-rock",
+      "name": "Alt Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
       "count": 5
     },
     {
@@ -550,11 +758,27 @@
       "count": 5
     },
     {
+      "id": "japan-rock-alt-v04:alternative-metal-japan",
+      "slug": "alternative-metal-japan",
+      "name": "Alternative Metal Japan",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:alternative-rnb",
       "slug": "alternative-rnb",
       "name": "Alternative Rnb",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:alternative-rnb-japan",
+      "slug": "alternative-rnb-japan",
+      "name": "Alternative Rnb Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -566,11 +790,35 @@
       "count": 5
     },
     {
+      "id": "world-blues-soul-gospel-v04:alternative-soul",
+      "slug": "alternative-soul",
+      "name": "Alternative Soul",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:amami-island-pop",
+      "slug": "amami-island-pop",
+      "name": "Amami Island Pop",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:amapiano-rnb",
       "slug": "amapiano-rnb",
       "name": "Amapiano Rnb",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:ambient-techno-japan",
+      "slug": "ambient-techno-japan",
+      "name": "Ambient Techno Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
       "count": 5
     },
     {
@@ -587,6 +835,102 @@
       "name": "Andean Folk Pop",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:andean-tropical-pop",
+      "slug": "andean-tropical-pop",
+      "name": "Andean Tropical Pop",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:anime-battle-theme-rock",
+      "slug": "anime-battle-theme-rock",
+      "name": "Anime Battle Theme Rock",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:anime-club-pop",
+      "slug": "anime-club-pop",
+      "name": "Anime Club Pop",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:anime-ending-ballad",
+      "slug": "anime-ending-ballad",
+      "name": "Anime Ending Ballad",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:anime-fantasy-adventure",
+      "slug": "anime-fantasy-adventure",
+      "name": "Anime Fantasy Adventure",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:anime-idol-opening",
+      "slug": "anime-idol-opening",
+      "name": "Anime Idol Opening",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:anime-magical-girl-pop",
+      "slug": "anime-magical-girl-pop",
+      "name": "Anime Magical Girl Pop",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:anime-mecha-rock",
+      "slug": "anime-mecha-rock",
+      "name": "Anime Mecha Rock",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:anime-mystery-ending",
+      "slug": "anime-mystery-ending",
+      "name": "Anime Mystery Ending",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:anime-opening-pop-rock",
+      "slug": "anime-opening-pop-rock",
+      "name": "Anime Opening Pop Rock",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:anime-slice-of-life-pop",
+      "slug": "anime-slice-of-life-pop",
+      "name": "Anime Slice Of Life Pop",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:anime-sports-opening",
+      "slug": "anime-sports-opening",
+      "name": "Anime Sports Opening",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
       "count": 5
     },
     {
@@ -619,6 +963,30 @@
       "name": "Arabic Rnb",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:arcade-cute-pop",
+      "slug": "arcade-cute-pop",
+      "name": "Arcade Cute Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:arcade-electro",
+      "slug": "arcade-electro",
+      "name": "Arcade Electro",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:arcade-racing-theme",
+      "slug": "arcade-racing-theme",
+      "name": "Arcade Racing Theme",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
       "count": 5
     },
     {
@@ -662,11 +1030,59 @@
       "count": 5
     },
     {
+      "id": "japan-rock-alt-v04:art-rock",
+      "slug": "art-rock",
+      "name": "Art Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
       "id": "world-metal-heavy-v04:atmospheric-blackened-metal",
       "slug": "atmospheric-blackened-metal",
       "name": "Atmospheric Blackened Metal",
       "collection": "world-metal-heavy-v04",
       "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:awa-odori-fusion",
+      "slug": "awa-odori-fusion",
+      "name": "Awa Odori Fusion",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:award-ceremony-bgm",
+      "slug": "award-ceremony-bgm",
+      "name": "Award Ceremony Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:bachata-tradicional",
+      "slug": "bachata-tradicional",
+      "name": "Bachata Tradicional",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:bachata-urbana",
+      "slug": "bachata-urbana",
+      "name": "Bachata Urbana",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:baiao-fusion",
+      "slug": "baiao-fusion",
+      "name": "Baiao Fusion",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
       "count": 5
     },
     {
@@ -710,6 +1126,30 @@
       "count": 5
     },
     {
+      "id": "japan-traditional-fusion-v04:bamboo-flute-chill",
+      "slug": "bamboo-flute-chill",
+      "name": "Bamboo Flute Chill",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:band-pop",
+      "slug": "band-pop",
+      "name": "Band Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:basement-indie-rock",
+      "slug": "basement-indie-rock",
+      "name": "Basement Indie Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
       "id": "world-reggae-dub-caribbean-v04:bass-heavy-sound-system",
       "slug": "bass-heavy-sound-system",
       "name": "Bass Heavy Sound System",
@@ -726,11 +1166,35 @@
       "count": 5
     },
     {
+      "id": "japan-electronic-club-v04:bass-music-japan",
+      "slug": "bass-music-japan",
+      "name": "Bass Music Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:bedroom-rnb",
       "slug": "bedroom-rnb",
       "name": "Bedroom Rnb",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:bedroom-rnb-japan",
+      "slug": "bedroom-rnb-japan",
+      "name": "Bedroom Rnb Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:beginner-lesson-song",
+      "slug": "beginner-lesson-song",
+      "name": "Beginner Lesson Song",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
       "count": 5
     },
     {
@@ -750,11 +1214,83 @@
       "count": 5
     },
     {
+      "id": "japan-jazz-funk-city-v04:big-band-tv-theme",
+      "slug": "big-band-tv-theme",
+      "name": "Big Band Tv Theme",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:bilingual-pop-rap",
+      "slug": "bilingual-pop-rap",
+      "name": "Bilingual Pop Rap",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:bittersweet-pop",
+      "slug": "bittersweet-pop",
+      "name": "Bittersweet Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:blue-hour-rock",
+      "slug": "blue-hour-rock",
+      "name": "Blue Hour Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:blues-gospel-rock",
+      "slug": "blues-gospel-rock",
+      "name": "Blues Gospel Rock",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:blues-rock",
       "slug": "blues-rock",
       "name": "Blues Rock",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:bolero",
+      "slug": "bolero",
+      "name": "Bolero",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:bolero-son",
+      "slug": "bolero-son",
+      "name": "Bolero Son",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:bon-odori-groove",
+      "slug": "bon-odori-groove",
+      "name": "Bon Odori Groove",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:boogie-funk-japan",
+      "slug": "boogie-funk-japan",
+      "name": "Boogie Funk Japan",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
       "count": 5
     },
     {
@@ -766,6 +1302,14 @@
       "count": 5
     },
     {
+      "id": "world-blues-soul-gospel-v04:boogie-woogie",
+      "slug": "boogie-woogie",
+      "name": "Boogie Woogie",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:boom-bap",
       "slug": "boom-bap",
       "name": "Boom Bap",
@@ -774,11 +1318,75 @@
       "count": 5
     },
     {
+      "id": "japan-hiphop-rnb-v04:boom-bap-japan",
+      "slug": "boom-bap-japan",
+      "name": "Boom Bap Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:boom-bap-storytelling",
+      "slug": "boom-bap-storytelling",
+      "name": "Boom Bap Storytelling",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:boss-rush-electronic-rock",
+      "slug": "boss-rush-electronic-rock",
+      "name": "Boss Rush Electronic Rock",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:bossa-nova",
+      "slug": "bossa-nova",
+      "name": "Bossa Nova",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:brass-band-funk",
       "slug": "brass-band-funk",
       "name": "Brass Band Funk",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:brass-funk-japan",
+      "slug": "brass-funk-japan",
+      "name": "Brass Funk Japan",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:brass-kayokyoku",
+      "slug": "brass-kayokyoku",
+      "name": "Brass Kayokyoku",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:brass-rap",
+      "slug": "brass-rap",
+      "name": "Brass Rap",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:brass-rock",
+      "slug": "brass-rock",
+      "name": "Brass Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
       "count": 5
     },
     {
@@ -838,6 +1446,14 @@
       "count": 5
     },
     {
+      "id": "world-blues-soul-gospel-v04:brazilian-soul",
+      "slug": "brazilian-soul",
+      "name": "Brazilian Soul",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:breakbeat",
       "slug": "breakbeat",
       "name": "Breakbeat",
@@ -846,11 +1462,59 @@
       "count": 5
     },
     {
+      "id": "japan-electronic-club-v04:breakbeat-japan",
+      "slug": "breakbeat-japan",
+      "name": "Breakbeat Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:bright-teen-pop",
+      "slug": "bright-teen-pop",
+      "name": "Bright Teen Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:broken-beat-jazz",
       "slug": "broken-beat-jazz",
       "name": "Broken Beat Jazz",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:bubblegum-jpop",
+      "slug": "bubblegum-jpop",
+      "name": "Bubblegum Jpop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:bubblegum-kawaii-pop",
+      "slug": "bubblegum-kawaii-pop",
+      "name": "Bubblegum Kawaii Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:cafe-jazz-pop",
+      "slug": "cafe-jazz-pop",
+      "name": "Cafe Jazz Pop",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:call-and-response-cute",
+      "slug": "call-and-response-cute",
+      "name": "Call And Response Cute",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
       "count": 5
     },
     {
@@ -867,6 +1531,14 @@
       "name": "Campfire Pop",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:campus-folk",
+      "slug": "campus-folk",
+      "name": "Campus Folk",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
       "count": 5
     },
     {
@@ -902,6 +1574,14 @@
       "count": 5
     },
     {
+      "id": "world-blues-soul-gospel-v04:caribbean-soul",
+      "slug": "caribbean-soul",
+      "name": "Caribbean Soul",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
       "id": "world-reggae-dub-caribbean-v04:caribbean-soul-reggae",
       "slug": "caribbean-soul-reggae",
       "name": "Caribbean Soul Reggae",
@@ -910,11 +1590,27 @@
       "count": 5
     },
     {
+      "id": "japan-jazz-funk-city-v04:cassette-fusion",
+      "slug": "cassette-fusion",
+      "name": "Cassette Fusion",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
       "id": "world-folk-acoustic-v04:celtic-inspired-folk",
       "slug": "celtic-inspired-folk",
       "name": "Celtic Inspired Folk",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:cha-cha-cha",
+      "slug": "cha-cha-cha",
+      "name": "Cha Cha Cha",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
       "count": 5
     },
     {
@@ -934,6 +1630,30 @@
       "count": 5
     },
     {
+      "id": "japan-kayokyoku-enka-folk-v04:chanson-kayokyoku",
+      "slug": "chanson-kayokyoku",
+      "name": "Chanson Kayokyoku",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:character-song-pop",
+      "slug": "character-song-pop",
+      "name": "Character Song Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:chicago-electric-blues",
+      "slug": "chicago-electric-blues",
+      "name": "Chicago Electric Blues",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:chicago-house",
       "slug": "chicago-house",
       "name": "Chicago House",
@@ -942,11 +1662,27 @@
       "count": 5
     },
     {
+      "id": "world-latin-tropical-v04:chicha-psychedelic-cumbia",
+      "slug": "chicha-psychedelic-cumbia",
+      "name": "Chicha Psychedelic Cumbia",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:chilean-dream-pop",
       "slug": "chilean-dream-pop",
       "name": "Chilean Dream Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:chillhop-japan",
+      "slug": "chillhop-japan",
+      "name": "Chillhop Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -966,11 +1702,43 @@
       "count": 5
     },
     {
+      "id": "japan-electronic-club-v04:chiptune-dance",
+      "slug": "chiptune-dance",
+      "name": "Chiptune Dance",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:chiptune-pop",
+      "slug": "chiptune-pop",
+      "name": "Chiptune Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:choir-orchestral",
       "slug": "choir-orchestral",
       "name": "Choir Orchestral",
       "collection": "world-cinematic-score-v04",
       "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:choir-pop-idol",
+      "slug": "choir-pop-idol",
+      "name": "Choir Pop Idol",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:chorus-heavy-rock",
+      "slug": "chorus-heavy-rock",
+      "name": "Chorus Heavy Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
       "count": 5
     },
     {
@@ -1006,11 +1774,59 @@
       "count": 5
     },
     {
+      "id": "world-blues-soul-gospel-v04:cinematic-soul",
+      "slug": "cinematic-soul",
+      "name": "Cinematic Soul",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:city-electronic",
+      "slug": "city-electronic",
+      "name": "City Electronic",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:city-jazz-pop",
       "slug": "city-jazz-pop",
       "name": "City Jazz Pop",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:city-kayokyoku",
+      "slug": "city-kayokyoku",
+      "name": "City Kayokyoku",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:city-night-rnb",
+      "slug": "city-night-rnb",
+      "name": "City Night Rnb",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:city-pop-groove",
+      "slug": "city-pop-groove",
+      "name": "City Pop Groove",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:city-pop-revival",
+      "slug": "city-pop-revival",
+      "name": "City Pop Revival",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
       "count": 5
     },
     {
@@ -1022,11 +1838,83 @@
       "count": 5
     },
     {
+      "id": "japan-score-bgm-v04:city-rain-bgm",
+      "slug": "city-rain-bgm",
+      "name": "City Rain Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:city-rnb",
+      "slug": "city-rnb",
+      "name": "City Rnb",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:city-rock",
+      "slug": "city-rock",
+      "name": "City Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:city-soul-groove",
+      "slug": "city-soul-groove",
+      "name": "City Soul Groove",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
       "id": "world-metal-heavy-v04:classic-heavy-metal",
       "slug": "classic-heavy-metal",
       "name": "Classic Heavy Metal",
       "collection": "world-metal-heavy-v04",
       "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:cleaning-song-pop",
+      "slug": "cleaning-song-pop",
+      "name": "Cleaning Song Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:club-bgm-loop",
+      "slug": "club-bgm-loop",
+      "name": "Club Bgm Loop",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:club-rap-japan",
+      "slug": "club-rap-japan",
+      "name": "Club Rap Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:cm-jingle-cute",
+      "slug": "cm-jingle-cute",
+      "name": "Cm Jingle Cute",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:cm-pop-jingle",
+      "slug": "cm-pop-jingle",
+      "name": "Cm Pop Jingle",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
       "count": 5
     },
     {
@@ -1054,11 +1942,83 @@
       "count": 5
     },
     {
+      "id": "japan-rock-alt-v04:college-rock",
+      "slug": "college-rock",
+      "name": "College Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:colombian-electro-pop",
       "slug": "colombian-electro-pop",
       "name": "Colombian Electro Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:comic-opening-pop",
+      "slug": "comic-opening-pop",
+      "name": "Comic Opening Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:coming-of-age-pop",
+      "slug": "coming-of-age-pop",
+      "name": "Coming Of Age Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:conscious-rap-japan",
+      "slug": "conscious-rap-japan",
+      "name": "Conscious Rap Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:cooking-show-bgm",
+      "slug": "cooking-show-bgm",
+      "name": "Cooking Show Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:corporate-vp-bgm",
+      "slug": "corporate-vp-bgm",
+      "name": "Corporate Vp Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:country-soul",
+      "slug": "country-soul",
+      "name": "Country Soul",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:countryside-bgm",
+      "slug": "countryside-bgm",
+      "name": "Countryside Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:cozy-game-bgm",
+      "slug": "cozy-game-bgm",
+      "name": "Cozy Game Bgm",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
       "count": 5
     },
     {
@@ -1086,6 +2046,46 @@
       "count": 5
     },
     {
+      "id": "world-latin-tropical-v04:cumbia-colombiana",
+      "slug": "cumbia-colombiana",
+      "name": "Cumbia Colombiana",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:cumbia-sonidera",
+      "slug": "cumbia-sonidera",
+      "name": "Cumbia Sonidera",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:cute-pop",
+      "slug": "cute-pop",
+      "name": "Cute Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:cute-rap-pop",
+      "slug": "cute-rap-pop",
+      "name": "Cute Rap Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:cyber-idol-electro",
+      "slug": "cyber-idol-electro",
+      "name": "Cyber Idol Electro",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
       "id": "world-metal-heavy-v04:cyber-metal",
       "slug": "cyber-metal",
       "name": "Cyber Metal",
@@ -1102,11 +2102,43 @@
       "count": 5
     },
     {
+      "id": "japan-anime-game-v04:cyberpunk-game-bgm",
+      "slug": "cyberpunk-game-bgm",
+      "name": "Cyberpunk Game Bgm",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:cyberpunk-score",
       "slug": "cyberpunk-score",
       "name": "Cyberpunk Score",
       "collection": "world-cinematic-score-v04",
       "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:cypher-beat-japan",
+      "slug": "cypher-beat-japan",
+      "name": "Cypher Beat Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:daily-life-bgm",
+      "slug": "daily-life-bgm",
+      "name": "Daily Life Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:dance-pop-idol",
+      "slug": "dance-pop-idol",
+      "name": "Dance Pop Idol",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
       "count": 5
     },
     {
@@ -1166,11 +2198,75 @@
       "count": 5
     },
     {
+      "id": "japan-electronic-club-v04:deep-house-japan",
+      "slug": "deep-house-japan",
+      "name": "Deep House Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:deep-soul-ballad",
+      "slug": "deep-soul-ballad",
+      "name": "Deep Soul Ballad",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:delta-blues",
+      "slug": "delta-blues",
+      "name": "Delta Blues",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:dembow-club",
+      "slug": "dembow-club",
+      "name": "Dembow Club",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:dembow-pop-rap",
       "slug": "dembow-pop-rap",
       "name": "Dembow Pop Rap",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:denpa-electro",
+      "slug": "denpa-electro",
+      "name": "Denpa Electro",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:denpa-pop",
+      "slug": "denpa-pop",
+      "name": "Denpa Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:department-store-bgm",
+      "slug": "department-store-bgm",
+      "name": "Department Store Bgm",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:desert-blues-soul",
+      "slug": "desert-blues-soul",
+      "name": "Desert Blues Soul",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
       "count": 5
     },
     {
@@ -1214,11 +2310,59 @@
       "count": 5
     },
     {
+      "id": "japan-score-bgm-v04:detective-bgm",
+      "slug": "detective-bgm",
+      "name": "Detective Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:detective-jazz-funk",
+      "slug": "detective-jazz-funk",
+      "name": "Detective Jazz Funk",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:detroit-soul-pop",
+      "slug": "detroit-soul-pop",
+      "name": "Detroit Soul Pop",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:detroit-techno",
       "slug": "detroit-techno",
       "name": "Detroit Techno",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:digital-cumbia",
+      "slug": "digital-cumbia",
+      "name": "Digital Cumbia",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:disco-funk-japan",
+      "slug": "disco-funk-japan",
+      "name": "Disco Funk Japan",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:disco-pop-japan",
+      "slug": "disco-pop-japan",
+      "name": "Disco Pop Japan",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
       "count": 5
     },
     {
@@ -1235,6 +2379,14 @@
       "name": "Djent Groove Metal",
       "collection": "world-metal-heavy-v04",
       "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:documentary-japan",
+      "slug": "documentary-japan",
+      "name": "Documentary Japan",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
       "count": 5
     },
     {
@@ -1262,6 +2414,30 @@
       "count": 5
     },
     {
+      "id": "japan-electronic-club-v04:downtempo-japan",
+      "slug": "downtempo-japan",
+      "name": "Downtempo Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:drama-rock-ballad",
+      "slug": "drama-rock-ballad",
+      "name": "Drama Rock Ballad",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:drama-theme-pop",
+      "slug": "drama-theme-pop",
+      "name": "Drama Theme Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:dream-pop-rock",
       "slug": "dream-pop-rock",
       "name": "Dream Pop Rock",
@@ -1270,11 +2446,51 @@
       "count": 5
     },
     {
+      "id": "japan-rock-alt-v04:dream-pop-rock",
+      "slug": "dream-pop-rock",
+      "name": "Dream Pop Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:dreamwave-japan",
+      "slug": "dreamwave-japan",
+      "name": "Dreamwave Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:drill-japan",
+      "slug": "drill-japan",
+      "name": "Drill Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:drill-rnb",
       "slug": "drill-rnb",
       "name": "Drill Rnb",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:driving-rock",
+      "slug": "driving-rock",
+      "name": "Driving Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:drum-and-bass-japan",
+      "slug": "drum-and-bass-japan",
+      "name": "Drum And Bass Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
       "count": 5
     },
     {
@@ -1310,6 +2526,14 @@
       "count": 5
     },
     {
+      "id": "japan-anime-game-v04:dungeon-synth-game",
+      "slug": "dungeon-synth-game",
+      "name": "Dungeon Synth Game",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
       "id": "world-folk-acoustic-v04:east-african-acoustic-pop",
       "slug": "east-african-acoustic-pop",
       "name": "East African Acoustic Pop",
@@ -1342,11 +2566,59 @@
       "count": 5
     },
     {
+      "id": "japan-traditional-fusion-v04:edo-street-pop",
+      "slug": "edo-street-pop",
+      "name": "Edo Street Pop",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:educational-kids-pop",
+      "slug": "educational-kids-pop",
+      "name": "Educational Kids Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:eisa-drum-pop",
+      "slug": "eisa-drum-pop",
+      "name": "Eisa Drum Pop",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:electric-piano-groove",
+      "slug": "electric-piano-groove",
+      "name": "Electric Piano Groove",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:electro-funk",
       "slug": "electro-funk",
       "name": "Electro Funk",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:electro-house-japan",
+      "slug": "electro-house-japan",
+      "name": "Electro House Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:electro-idol",
+      "slug": "electro-idol",
+      "name": "Electro Idol",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
       "count": 5
     },
     {
@@ -1358,11 +2630,43 @@
       "count": 5
     },
     {
+      "id": "japan-pop-idol-v04:electro-pop-chorus",
+      "slug": "electro-pop-chorus",
+      "name": "Electro Pop Chorus",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:electro-rap",
+      "slug": "electro-rap",
+      "name": "Electro Rap",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:electroclash",
       "slug": "electroclash",
       "name": "Electroclash",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:elevator-luxury-groove",
+      "slug": "elevator-luxury-groove",
+      "name": "Elevator Luxury Groove",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:emo-rap-japan",
+      "slug": "emo-rap-japan",
+      "name": "Emo Rap Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -1374,11 +2678,43 @@
       "count": 5
     },
     {
+      "id": "japan-anime-game-v04:emotional-cutscene-score",
+      "slug": "emotional-cutscene-score",
+      "name": "Emotional Cutscene Score",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:emotional-piano-score",
       "slug": "emotional-piano-score",
       "name": "Emotional Piano Score",
       "collection": "world-cinematic-score-v04",
       "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:emotional-piano-score",
+      "slug": "emotional-piano-score",
+      "name": "Emotional Piano Score",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:ending-credits-bgm",
+      "slug": "ending-credits-bgm",
+      "name": "Ending Credits Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:ending-credits-piano",
+      "slug": "ending-credits-piano",
+      "name": "Ending Credits Piano",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
       "count": 5
     },
     {
@@ -1390,11 +2726,27 @@
       "count": 5
     },
     {
+      "id": "japan-kayokyoku-enka-folk-v04:enka-ballad",
+      "slug": "enka-ballad",
+      "name": "Enka Ballad",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:epic-orchestral",
       "slug": "epic-orchestral",
       "name": "Epic Orchestral",
       "collection": "world-cinematic-score-v04",
       "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:episode-recap-bgm",
+      "slug": "episode-recap-bgm",
+      "name": "Episode Recap Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
       "count": 5
     },
     {
@@ -1422,6 +2774,22 @@
       "count": 5
     },
     {
+      "id": "world-blues-soul-gospel-v04:ethiopian-soul-jazz",
+      "slug": "ethiopian-soul-jazz",
+      "name": "Ethiopian Soul Jazz",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:event-opening-bgm",
+      "slug": "event-opening-bgm",
+      "name": "Event Opening Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
       "id": "world-metal-heavy-v04:extreme-metal-groove",
       "slug": "extreme-metal-groove",
       "name": "Extreme Metal Groove",
@@ -1438,6 +2806,22 @@
       "count": 5
     },
     {
+      "id": "japan-score-bgm-v04:family-drama-score",
+      "slug": "family-drama-score",
+      "name": "Family Drama Score",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:family-folk",
+      "slug": "family-folk",
+      "name": "Family Folk",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:fantasy-orchestral",
       "slug": "fantasy-orchestral",
       "name": "Fantasy Orchestral",
@@ -1446,11 +2830,83 @@
       "count": 5
     },
     {
+      "id": "japan-anime-game-v04:fantasy-tavern-bgm",
+      "slug": "fantasy-tavern-bgm",
+      "name": "Fantasy Tavern Bgm",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
       "id": "kota-v04:female-vocal-alternative",
       "slug": "female-vocal-alternative",
       "name": "Female Vocal Alternative",
       "collection": "kota-v04",
       "collection_label": "KOTAプロンプト",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:festival-booth-pop",
+      "slug": "festival-booth-pop",
+      "name": "Festival Booth Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:festival-drum-pop",
+      "slug": "festival-drum-pop",
+      "name": "Festival Drum Pop",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:festival-edm-pop",
+      "slug": "festival-edm-pop",
+      "name": "Festival Edm Pop",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:festival-kayokyoku",
+      "slug": "festival-kayokyoku",
+      "name": "Festival Kayokyoku",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:festival-pop",
+      "slug": "festival-pop",
+      "name": "Festival Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:festival-rap",
+      "slug": "festival-rap",
+      "name": "Festival Rap",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:festival-rock",
+      "slug": "festival-rock",
+      "name": "Festival Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:festival-scene-bgm",
+      "slug": "festival-scene-bgm",
+      "name": "Festival Scene Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
       "count": 5
     },
     {
@@ -1502,6 +2958,14 @@
       "count": 5
     },
     {
+      "id": "japan-electronic-club-v04:filter-house-japan",
+      "slug": "filter-house-japan",
+      "name": "Filter House Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
       "id": "world-folk-acoustic-v04:flamenco-pop-acoustic",
       "slug": "flamenco-pop-acoustic",
       "name": "Flamenco Pop Acoustic",
@@ -1510,11 +2974,51 @@
       "count": 5
     },
     {
+      "id": "world-latin-tropical-v04:flamenco-pop-fusion",
+      "slug": "flamenco-pop-fusion",
+      "name": "Flamenco Pop Fusion",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:folk-dance-fusion",
+      "slug": "folk-dance-fusion",
+      "name": "Folk Dance Fusion",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
       "id": "world-metal-heavy-v04:folk-metal-inspired",
       "slug": "folk-metal-inspired",
       "name": "Folk Metal Inspired",
       "collection": "world-metal-heavy-v04",
       "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:folk-rock-kayokyoku",
+      "slug": "folk-rock-kayokyoku",
+      "name": "Folk Rock Kayokyoku",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:folk-song-japan",
+      "slug": "folk-song-japan",
+      "name": "Folk Song Japan",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:forro-pop",
+      "slug": "forro-pop",
+      "name": "Forro Pop",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
       "count": 5
     },
     {
@@ -1566,11 +3070,75 @@
       "count": 5
     },
     {
+      "id": "japan-pop-idol-v04:friendship-pop",
+      "slug": "friendship-pop",
+      "name": "Friendship Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:funk-rap-japan",
+      "slug": "funk-rap-japan",
+      "name": "Funk Rap Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:funk-rock",
+      "slug": "funk-rock",
+      "name": "Funk Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:funk-soul",
       "slug": "funk-soul",
       "name": "Funk Soul",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:funk-soul",
+      "slug": "funk-soul",
+      "name": "Funk Soul",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:fusion-instrumental",
+      "slug": "fusion-instrumental",
+      "name": "Fusion Instrumental",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:future-bass-pop",
+      "slug": "future-bass-pop",
+      "name": "Future Bass Pop",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:future-garage-japan",
+      "slug": "future-garage-japan",
+      "name": "Future Garage Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:future-idol-pop",
+      "slug": "future-idol-pop",
+      "name": "Future Idol Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
       "count": 5
     },
     {
@@ -1582,11 +3150,51 @@
       "count": 5
     },
     {
+      "id": "japan-traditional-fusion-v04:gagaku-inspired-ambient",
+      "slug": "gagaku-inspired-ambient",
+      "name": "Gagaku Inspired Ambient",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:game-menu-cute",
+      "slug": "game-menu-cute",
+      "name": "Game Menu Cute",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:garage-rnb-japan",
+      "slug": "garage-rnb-japan",
+      "name": "Garage Rnb Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:garage-rock",
       "slug": "garage-rock",
       "name": "Garage Rock",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:garage-rock",
+      "slug": "garage-rock",
+      "name": "Garage Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:gentle-protest-folk",
+      "slug": "gentle-protest-folk",
+      "name": "Gentle Protest Folk",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
       "count": 5
     },
     {
@@ -1614,11 +3222,51 @@
       "count": 5
     },
     {
+      "id": "japan-electronic-club-v04:glitch-pop-japan",
+      "slug": "glitch-pop-japan",
+      "name": "Glitch Pop Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:glockenspiel-pop",
+      "slug": "glockenspiel-pop",
+      "name": "Glockenspiel Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:gospel-ballad",
+      "slug": "gospel-ballad",
+      "name": "Gospel Ballad",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:gospel-choir",
+      "slug": "gospel-choir",
+      "name": "Gospel Choir",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
       "id": "world-folk-acoustic-v04:gospel-folk-pop",
       "slug": "gospel-folk-pop",
       "name": "Gospel Folk Pop",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:gospel-house",
+      "slug": "gospel-house",
+      "name": "Gospel House",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
       "count": 5
     },
     {
@@ -1646,11 +3294,27 @@
       "count": 5
     },
     {
+      "id": "japan-pop-idol-v04:graduation-pop",
+      "slug": "graduation-pop",
+      "name": "Graduation Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
       "id": "world-folk-acoustic-v04:greek-island-acoustic",
       "slug": "greek-island-acoustic",
       "name": "Greek Island Acoustic",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:grime-japan",
+      "slug": "grime-japan",
+      "name": "Grime Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -1670,11 +3334,83 @@
       "count": 5
     },
     {
+      "id": "japan-kayokyoku-enka-folk-v04:group-sounds-inspired",
+      "slug": "group-sounds-inspired",
+      "name": "Group Sounds Inspired",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:grunge",
       "slug": "grunge",
       "name": "Grunge",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:grunge-alt",
+      "slug": "grunge-alt",
+      "name": "Grunge Alt",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:guitar-rock",
+      "slug": "guitar-rock",
+      "name": "Guitar Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:haiku-spoken-ambient",
+      "slug": "haiku-spoken-ambient",
+      "name": "Haiku Spoken Ambient",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:handclap-cute-pop",
+      "slug": "handclap-cute-pop",
+      "name": "Handclap Cute Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:handclap-gospel",
+      "slug": "handclap-gospel",
+      "name": "Handclap Gospel",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:happy-hardcore-japan",
+      "slug": "happy-hardcore-japan",
+      "name": "Happy Hardcore Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:harbor-ballad",
+      "slug": "harbor-ballad",
+      "name": "Harbor Ballad",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:hard-rock",
+      "slug": "hard-rock",
+      "name": "Hard Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
       "count": 5
     },
     {
@@ -1686,6 +3422,14 @@
       "count": 5
     },
     {
+      "id": "japan-pop-idol-v04:harmony-pop",
+      "slug": "harmony-pop",
+      "name": "Harmony Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
       "id": "world-folk-acoustic-v04:hawaiian-acoustic-pop",
       "slug": "hawaiian-acoustic-pop",
       "name": "Hawaiian Acoustic Pop",
@@ -1694,11 +3438,27 @@
       "count": 5
     },
     {
+      "id": "japan-score-bgm-v04:healing-spa-bgm",
+      "slug": "healing-spa-bgm",
+      "name": "Healing Spa Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
       "id": "world-metal-heavy-v04:heavy-metal",
       "slug": "heavy-metal",
       "name": "Heavy Metal",
       "collection": "world-metal-heavy-v04",
       "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:hero-transformation-theme",
+      "slug": "hero-transformation-theme",
+      "name": "Hero Transformation Theme",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
       "count": 5
     },
     {
@@ -1718,11 +3478,35 @@
       "count": 5
     },
     {
+      "id": "japan-score-bgm-v04:historical-town-bgm",
+      "slug": "historical-town-bgm",
+      "name": "Historical Town Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:hometown-ballad",
+      "slug": "hometown-ballad",
+      "name": "Hometown Ballad",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:hopeful-orchestra",
       "slug": "hopeful-orchestra",
       "name": "Hopeful Orchestra",
       "collection": "world-cinematic-score-v04",
       "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:horn-section-funk",
+      "slug": "horn-section-funk",
+      "name": "Horn Section Funk",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
       "count": 5
     },
     {
@@ -1734,11 +3518,83 @@
       "count": 5
     },
     {
+      "id": "japan-jazz-funk-city-v04:hotel-lobby-jazz",
+      "slug": "hotel-lobby-jazz",
+      "name": "Hotel Lobby Jazz",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:huayno-pop-fusion",
+      "slug": "huayno-pop-fusion",
+      "name": "Huayno Pop Fusion",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:hybrid-trailer",
       "slug": "hybrid-trailer",
       "name": "Hybrid Trailer",
       "collection": "world-cinematic-score-v04",
       "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:hyperpop-japan",
+      "slug": "hyperpop-japan",
+      "name": "Hyperpop Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:idol-cute-unit",
+      "slug": "idol-cute-unit",
+      "name": "Idol Cute Unit",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:idol-pop",
+      "slug": "idol-pop",
+      "name": "Idol Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:idol-rap-pop",
+      "slug": "idol-rap-pop",
+      "name": "Idol Rap Pop",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:idol-unit-cool",
+      "slug": "idol-unit-cool",
+      "name": "Idol Unit Cool",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:idol-unit-cute",
+      "slug": "idol-unit-cute",
+      "name": "Idol Unit Cute",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:idol-unit-emotional",
+      "slug": "idol-unit-emotional",
+      "name": "Idol Unit Emotional",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
       "count": 5
     },
     {
@@ -1779,6 +3635,22 @@
       "name": "Indie Folk",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:indie-rock",
+      "slug": "indie-rock",
+      "name": "Indie Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:indie-soul",
+      "slug": "indie-soul",
+      "name": "Indie Soul",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
       "count": 5
     },
     {
@@ -1854,6 +3726,14 @@
       "count": 5
     },
     {
+      "id": "japan-rock-alt-v04:instrumental-post-rock",
+      "slug": "instrumental-post-rock",
+      "name": "Instrumental Post Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
       "id": "world-reggae-dub-caribbean-v04:island-dub-ambient",
       "slug": "island-dub-ambient",
       "name": "Island Dub Ambient",
@@ -1867,6 +3747,14 @@
       "name": "Island Reggae Acoustic",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:island-sanshin-pop",
+      "slug": "island-sanshin-pop",
+      "name": "Island Sanshin Pop",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
       "count": 5
     },
     {
@@ -1902,6 +3790,38 @@
       "count": 5
     },
     {
+      "id": "japan-electronic-club-v04:j-core-inspired",
+      "slug": "j-core-inspired",
+      "name": "J Core Inspired",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:j-electro-pop",
+      "slug": "j-electro-pop",
+      "name": "J Electro Pop",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:j-pop-anthem",
+      "slug": "j-pop-anthem",
+      "name": "J Pop Anthem",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:j-rock-anthem",
+      "slug": "j-rock-anthem",
+      "name": "J Rock Anthem",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
       "id": "world-folk-acoustic-v04:japanese-acoustic-folk",
       "slug": "japanese-acoustic-folk",
       "name": "Japanese Acoustic Folk",
@@ -1915,6 +3835,14 @@
       "name": "Japanese Alternative Rock",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:japanese-cinematic",
+      "slug": "japanese-cinematic",
+      "name": "Japanese Cinematic",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
       "count": 5
     },
     {
@@ -1934,6 +3862,30 @@
       "count": 5
     },
     {
+      "id": "japan-rock-alt-v04:japanese-emo-rock",
+      "slug": "japanese-emo-rock",
+      "name": "Japanese Emo Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:japanese-flute-pop",
+      "slug": "japanese-flute-pop",
+      "name": "Japanese Flute Pop",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:japanese-fusion",
+      "slug": "japanese-fusion",
+      "name": "Japanese Fusion",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
       "id": "world-metal-heavy-v04:japanese-heavy-rock",
       "slug": "japanese-heavy-rock",
       "name": "Japanese Heavy Rock",
@@ -1947,6 +3899,14 @@
       "name": "Japanese Jazz Fusion",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:japanese-rap",
+      "slug": "japanese-rap",
+      "name": "Japanese Rap",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -1974,11 +3934,27 @@
       "count": 5
     },
     {
+      "id": "japan-jazz-funk-city-v04:jazz-funk-japan",
+      "slug": "jazz-funk-japan",
+      "name": "Jazz Funk Japan",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:jazz-house-live",
       "slug": "jazz-house-live",
       "name": "Jazz House Live",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:jazz-kayokyoku",
+      "slug": "jazz-kayokyoku",
+      "name": "Jazz Kayokyoku",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
       "count": 5
     },
     {
@@ -1990,6 +3966,62 @@
       "count": 5
     },
     {
+      "id": "japan-hiphop-rnb-v04:jazz-rap-japan",
+      "slug": "jazz-rap-japan",
+      "name": "Jazz Rap Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:jrpg-airship-theme",
+      "slug": "jrpg-airship-theme",
+      "name": "Jrpg Airship Theme",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:jrpg-battle-theme",
+      "slug": "jrpg-battle-theme",
+      "name": "Jrpg Battle Theme",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:jrpg-boss-theme",
+      "slug": "jrpg-boss-theme",
+      "name": "Jrpg Boss Theme",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:jrpg-field-theme",
+      "slug": "jrpg-field-theme",
+      "name": "Jrpg Field Theme",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:jrpg-town-theme",
+      "slug": "jrpg-town-theme",
+      "name": "Jrpg Town Theme",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:jump-blues",
+      "slug": "jump-blues",
+      "name": "Jump Blues",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:jungle-lite",
       "slug": "jungle-lite",
       "name": "Jungle Lite",
@@ -1998,11 +4030,83 @@
       "count": 5
     },
     {
+      "id": "japan-electronic-club-v04:jungle-pop",
+      "slug": "jungle-pop",
+      "name": "Jungle Pop",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:kabuki-inspired-rock",
+      "slug": "kabuki-inspired-rock",
+      "name": "Kabuki Inspired Rock",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:karaoke-ballad",
+      "slug": "karaoke-ballad",
+      "name": "Karaoke Ballad",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:karaoke-standard",
+      "slug": "karaoke-standard",
+      "name": "Karaoke Standard",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:kawaii-bass",
+      "slug": "kawaii-bass",
+      "name": "Kawaii Bass",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:kawaii-electronic",
+      "slug": "kawaii-electronic",
+      "name": "Kawaii Electronic",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:kawaii-future-bass",
+      "slug": "kawaii-future-bass",
+      "name": "Kawaii Future Bass",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:kenyan-guitar-pop",
       "slug": "kenyan-guitar-pop",
       "name": "Kenyan Guitar Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:keyboard-solo-fusion",
+      "slug": "keyboard-solo-fusion",
+      "name": "Keyboard Solo Fusion",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:kitchen-timer-jingle",
+      "slug": "kitchen-timer-jingle",
+      "name": "Kitchen Timer Jingle",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
       "count": 5
     },
     {
@@ -2062,11 +4166,43 @@
       "count": 5
     },
     {
+      "id": "japan-traditional-fusion-v04:koto-ambient",
+      "slug": "koto-ambient",
+      "name": "Koto Ambient",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:koto-jazz-fusion",
+      "slug": "koto-jazz-fusion",
+      "name": "Koto Jazz Fusion",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:krautrock-motorik-rock",
       "slug": "krautrock-motorik-rock",
       "name": "Krautrock Motorik Rock",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:laid-back-rap",
+      "slug": "laid-back-rap",
+      "name": "Laid Back Rap",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:late-night-bar-jazz",
+      "slug": "late-night-bar-jazz",
+      "name": "Late Night Bar Jazz",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
       "count": 5
     },
     {
@@ -2078,11 +4214,51 @@
       "count": 5
     },
     {
+      "id": "world-latin-tropical-v04:latin-funk",
+      "slug": "latin-funk",
+      "name": "Latin Funk",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:latin-house",
+      "slug": "latin-house",
+      "name": "Latin House",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:latin-jazz",
+      "slug": "latin-jazz",
+      "name": "Latin Jazz",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:latin-jazz-funk",
       "slug": "latin-jazz-funk",
       "name": "Latin Jazz Funk",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:latin-jpop",
+      "slug": "latin-jpop",
+      "name": "Latin Jpop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:latin-kayokyoku",
+      "slug": "latin-kayokyoku",
+      "name": "Latin Kayokyoku",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
       "count": 5
     },
     {
@@ -2099,6 +4275,30 @@
       "name": "Latin Reggae Fusion",
       "collection": "world-reggae-dub-caribbean-v04",
       "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:latin-rock",
+      "slug": "latin-rock",
+      "name": "Latin Rock",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:latin-soul",
+      "slug": "latin-soul",
+      "name": "Latin Soul",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:latin-trap-pop",
+      "slug": "latin-trap-pop",
+      "name": "Latin Trap Pop",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
       "count": 5
     },
     {
@@ -2126,6 +4326,38 @@
       "count": 5
     },
     {
+      "id": "japan-electronic-club-v04:lofi-electronica",
+      "slug": "lofi-electronica",
+      "name": "Lofi Electronica",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:lofi-rap-japan",
+      "slug": "lofi-rap-japan",
+      "name": "Lofi Rap Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:lofi-soul-blues",
+      "slug": "lofi-soul-blues",
+      "name": "Lofi Soul Blues",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:lounge-jazz-japan",
+      "slug": "lounge-jazz-japan",
+      "name": "Lounge Jazz Japan",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:lounge-jazz-modern",
       "slug": "lounge-jazz-modern",
       "name": "Lounge Jazz Modern",
@@ -2150,6 +4382,30 @@
       "count": 5
     },
     {
+      "id": "japan-cute-character-novelty-v04:magical-toy-pop",
+      "slug": "magical-toy-pop",
+      "name": "Magical Toy Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:mambo-big-band",
+      "slug": "mambo-big-band",
+      "name": "Mambo Big Band",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:mandolin-kayokyoku",
+      "slug": "mandolin-kayokyoku",
+      "name": "Mandolin Kayokyoku",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
       "id": "world-reggae-dub-caribbean-v04:maori-pacific-reggae",
       "slug": "maori-pacific-reggae",
       "name": "Maori Pacific Reggae",
@@ -2158,11 +4414,59 @@
       "count": 5
     },
     {
+      "id": "world-latin-tropical-v04:mariachi-pop-fusion",
+      "slug": "mariachi-pop-fusion",
+      "name": "Mariachi Pop Fusion",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:marimba-cute-pop",
+      "slug": "marimba-cute-pop",
+      "name": "Marimba Cute Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:mascot-theme",
+      "slug": "mascot-theme",
+      "name": "Mascot Theme",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:mascot-theme-pop",
+      "slug": "mascot-theme-pop",
+      "name": "Mascot Theme Pop",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:math-rock",
       "slug": "math-rock",
       "name": "Math Rock",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:math-rock",
+      "slug": "math-rock",
+      "name": "Math Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:matsuri-beat",
+      "slug": "matsuri-beat",
+      "name": "Matsuri Beat",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
       "count": 5
     },
     {
@@ -2190,6 +4494,22 @@
       "count": 5
     },
     {
+      "id": "japan-rock-alt-v04:melodic-punk",
+      "slug": "melodic-punk",
+      "name": "Melodic Punk",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:melodic-rap-japan",
+      "slug": "melodic-rap-japan",
+      "name": "Melodic Rap Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-metal-heavy-v04:melodic-thrash-metal",
       "slug": "melodic-thrash-metal",
       "name": "Melodic Thrash Metal",
@@ -2206,11 +4526,51 @@
       "count": 5
     },
     {
+      "id": "world-blues-soul-gospel-v04:memphis-style-soul",
+      "slug": "memphis-style-soul",
+      "name": "Memphis Style Soul",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
       "id": "world-reggae-dub-caribbean-v04:mento-inspired",
       "slug": "mento-inspired",
       "name": "Mento Inspired",
       "collection": "world-reggae-dub-caribbean-v04",
       "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:menu-screen-bgm",
+      "slug": "menu-screen-bgm",
+      "name": "Menu Screen Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:menu-screen-pop",
+      "slug": "menu-screen-pop",
+      "name": "Menu Screen Pop",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:merengue-pop",
+      "slug": "merengue-pop",
+      "name": "Merengue Pop",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:merengue-tipico-inspired",
+      "slug": "merengue-tipico-inspired",
+      "name": "Merengue Tipico Inspired",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
       "count": 5
     },
     {
@@ -2262,11 +4622,35 @@
       "count": 5
     },
     {
+      "id": "japan-jazz-funk-city-v04:midnight-smooth-groove",
+      "slug": "midnight-smooth-groove",
+      "name": "Midnight Smooth Groove",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:milonga-fusion",
+      "slug": "milonga-fusion",
+      "name": "Milonga Fusion",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:minimal-piano-score",
       "slug": "minimal-piano-score",
       "name": "Minimal Piano Score",
       "collection": "world-cinematic-score-v04",
       "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:minimal-techno-tokyo",
+      "slug": "minimal-techno-tokyo",
+      "name": "Minimal Techno Tokyo",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
       "count": 5
     },
     {
@@ -2278,11 +4662,51 @@
       "count": 5
     },
     {
+      "id": "japan-hiphop-rnb-v04:minimalist-rnb",
+      "slug": "minimalist-rnb",
+      "name": "Minimalist Rnb",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:minyo-electro",
+      "slug": "minyo-electro",
+      "name": "Minyo Electro",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:minyo-pop",
+      "slug": "minyo-pop",
+      "name": "Minyo Pop",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:mobile-game-idol-pop",
+      "slug": "mobile-game-idol-pop",
+      "name": "Mobile Game Idol Pop",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:modal-jazz-groove",
       "slug": "modal-jazz-groove",
       "name": "Modal Jazz Groove",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:modern-blues-rock",
+      "slug": "modern-blues-rock",
+      "name": "Modern Blues Rock",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
       "count": 5
     },
     {
@@ -2294,6 +4718,14 @@
       "count": 5
     },
     {
+      "id": "japan-kayokyoku-enka-folk-v04:modern-enka",
+      "slug": "modern-enka",
+      "name": "Modern Enka",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
       "id": "world-reggae-dub-caribbean-v04:modern-roots-reggae",
       "slug": "modern-roots-reggae",
       "name": "Modern Roots Reggae",
@@ -2302,11 +4734,75 @@
       "count": 5
     },
     {
+      "id": "japan-kayokyoku-enka-folk-v04:mood-kayokyoku",
+      "slug": "mood-kayokyoku",
+      "name": "Mood Kayokyoku",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:morning-exercise-pop",
+      "slug": "morning-exercise-pop",
+      "name": "Morning Exercise Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:morning-news-bed",
+      "slug": "morning-news-bed",
+      "name": "Morning News Bed",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:morning-tv-pop",
+      "slug": "morning-tv-pop",
+      "name": "Morning Tv Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
       "id": "world-pop-v04:moroccan-electro-pop",
       "slug": "moroccan-electro-pop",
       "name": "Moroccan Electro Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:mountain-village-fusion",
+      "slug": "mountain-village-fusion",
+      "name": "Mountain Village Fusion",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:mpb-tropical-pop",
+      "slug": "mpb-tropical-pop",
+      "name": "Mpb Tropical Pop",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:museum-audio-bgm",
+      "slug": "museum-audio-bgm",
+      "name": "Museum Audio Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:mystery-drama-score",
+      "slug": "mystery-drama-score",
+      "name": "Mystery Drama Score",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
       "count": 5
     },
     {
@@ -2326,11 +4822,35 @@
       "count": 5
     },
     {
+      "id": "japan-score-bgm-v04:nature-travel-bgm",
+      "slug": "nature-travel-bgm",
+      "name": "Nature Travel Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:neo-soul",
       "slug": "neo-soul",
       "name": "Neo Soul",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:neo-soul",
+      "slug": "neo-soul",
+      "name": "Neo Soul",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:neo-soul-japan",
+      "slug": "neo-soul-japan",
+      "name": "Neo Soul Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -2350,11 +4870,35 @@
       "count": 5
     },
     {
+      "id": "japan-kayokyoku-enka-folk-v04:new-music",
+      "slug": "new-music",
+      "name": "New Music",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:new-orleans-funk",
       "slug": "new-orleans-funk",
       "name": "New Orleans Funk",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:new-orleans-rnb",
+      "slug": "new-orleans-rnb",
+      "name": "New Orleans Rnb",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:new-orleans-soul-funk",
+      "slug": "new-orleans-soul-funk",
+      "name": "New Orleans Soul Funk",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
       "count": 5
     },
     {
@@ -2382,6 +4926,38 @@
       "count": 5
     },
     {
+      "id": "japan-electronic-club-v04:night-drive-electro",
+      "slug": "night-drive-electro",
+      "name": "Night Drive Electro",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:night-drive-fusion",
+      "slug": "night-drive-fusion",
+      "name": "Night Drive Fusion",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:night-drive-pop",
+      "slug": "night-drive-pop",
+      "name": "Night Drive Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:noh-inspired-minimal",
+      "slug": "noh-inspired-minimal",
+      "name": "Noh Inspired Minimal",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:noir-jazz-groove",
       "slug": "noir-jazz-groove",
       "name": "Noir Jazz Groove",
@@ -2403,6 +4979,14 @@
       "name": "Noise Rock",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:noise-rock",
+      "slug": "noise-rock",
+      "name": "Noise Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
       "count": 5
     },
     {
@@ -2454,11 +5038,51 @@
       "count": 5
     },
     {
+      "id": "world-latin-tropical-v04:norteno-pop",
+      "slug": "norteno-pop",
+      "name": "Norteno Pop",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:northern-soul",
+      "slug": "northern-soul",
+      "name": "Northern Soul",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:nostalgic-tv-theme",
+      "slug": "nostalgic-tv-theme",
+      "name": "Nostalgic Tv Theme",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:novelty-dance-pop",
+      "slug": "novelty-dance-pop",
+      "name": "Novelty Dance Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:nu-disco",
       "slug": "nu-disco",
       "name": "Nu Disco",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:nu-disco-japan",
+      "slug": "nu-disco-japan",
+      "name": "Nu Disco Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
       "count": 5
     },
     {
@@ -2486,11 +5110,27 @@
       "count": 5
     },
     {
+      "id": "japan-cute-character-novelty-v04:nursery-electro-pop",
+      "slug": "nursery-electro-pop",
+      "name": "Nursery Electro Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
       "id": "world-reggae-dub-caribbean-v04:nyabinghi-inspired-roots",
       "slug": "nyabinghi-inspired-roots",
       "name": "Nyabinghi Inspired Roots",
       "collection": "world-reggae-dub-caribbean-v04",
       "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:obon-night-pop",
+      "slug": "obon-night-pop",
+      "name": "Obon Night Pop",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
       "count": 5
     },
     {
@@ -2502,11 +5142,59 @@
       "count": 5
     },
     {
+      "id": "japan-traditional-fusion-v04:okinawan-pop",
+      "slug": "okinawan-pop",
+      "name": "Okinawan Pop",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:old-school-hiphop-japan",
+      "slug": "old-school-hiphop-japan",
+      "name": "Old School Hiphop Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-reggae-dub-caribbean-v04:one-drop-reggae",
       "slug": "one-drop-reggae",
       "name": "One Drop Reggae",
       "collection": "world-reggae-dub-caribbean-v04",
       "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:onsen-lounge",
+      "slug": "onsen-lounge",
+      "name": "Onsen Lounge",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:onsen-travel-bgm",
+      "slug": "onsen-travel-bgm",
+      "name": "Onsen Travel Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:opening-title-theme",
+      "slug": "opening-title-theme",
+      "name": "Opening Title Theme",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:organ-jazz-funk",
+      "slug": "organ-jazz-funk",
+      "name": "Organ Jazz Funk",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
       "count": 5
     },
     {
@@ -2534,11 +5222,27 @@
       "count": 5
     },
     {
+      "id": "world-latin-tropical-v04:pagode-pop",
+      "slug": "pagode-pop",
+      "name": "Pagode Pop",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
       "id": "world-folk-acoustic-v04:pakistani-sufi-inspired-pop",
       "slug": "pakistani-sufi-inspired-pop",
       "name": "Pakistani Sufi Inspired Pop",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:pastel-electro-pop",
+      "slug": "pastel-electro-pop",
+      "name": "Pastel Electro Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
       "count": 5
     },
     {
@@ -2558,6 +5262,14 @@
       "count": 5
     },
     {
+      "id": "japan-score-bgm-v04:period-drama-inspired",
+      "slug": "period-drama-inspired",
+      "name": "Period Drama Inspired",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
       "id": "world-folk-acoustic-v04:persian-acoustic-pop",
       "slug": "persian-acoustic-pop",
       "name": "Persian Acoustic Pop",
@@ -2574,11 +5286,91 @@
       "count": 5
     },
     {
+      "id": "world-blues-soul-gospel-v04:philly-soul-inspired",
+      "slug": "philly-soul-inspired",
+      "name": "Philly Soul Inspired",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:piano-house-japan",
+      "slug": "piano-house-japan",
+      "name": "Piano House Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:piano-pop-ballad",
+      "slug": "piano-pop-ballad",
+      "name": "Piano Pop Ballad",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:piano-rap-ballad",
+      "slug": "piano-rap-ballad",
+      "name": "Piano Rap Ballad",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:piedmont-blues",
+      "slug": "piedmont-blues",
+      "name": "Piedmont Blues",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:pixel-mascot-theme",
+      "slug": "pixel-mascot-theme",
+      "name": "Pixel Mascot Theme",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:playground-synth-pop",
+      "slug": "playground-synth-pop",
+      "name": "Playground Synth Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:podcast-bed-japan",
+      "slug": "podcast-bed-japan",
+      "name": "Podcast Bed Japan",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:pop-punk",
       "slug": "pop-punk",
       "name": "Pop Punk",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:pop-punk",
+      "slug": "pop-punk",
+      "name": "Pop Punk",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:pop-rap-japan",
+      "slug": "pop-rap-japan",
+      "name": "Pop Rap Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -2595,6 +5387,14 @@
       "name": "Post Hardcore",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:post-hardcore",
+      "slug": "post-hardcore",
+      "name": "Post Hardcore",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
       "count": 5
     },
     {
@@ -2630,11 +5430,35 @@
       "count": 5
     },
     {
+      "id": "japan-rock-alt-v04:post-rock",
+      "slug": "post-rock",
+      "name": "Post Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
       "id": "world-metal-heavy-v04:power-metal",
       "slug": "power-metal",
       "name": "Power Metal",
       "collection": "world-metal-heavy-v04",
       "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:power-pop-rock",
+      "slug": "power-pop-rock",
+      "name": "Power Pop Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:product-demo-bgm",
+      "slug": "product-demo-bgm",
+      "name": "Product Demo Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
       "count": 5
     },
     {
@@ -2654,11 +5478,43 @@
       "count": 5
     },
     {
+      "id": "japan-rock-alt-v04:progressive-rock",
+      "slug": "progressive-rock",
+      "name": "Progressive Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
       "id": "world-reggae-dub-caribbean-v04:psychedelic-dub",
       "slug": "psychedelic-dub",
       "name": "Psychedelic Dub",
       "collection": "world-reggae-dub-caribbean-v04",
       "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:psychedelic-rock",
+      "slug": "psychedelic-rock",
+      "name": "Psychedelic Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:punk-rock",
+      "slug": "punk-rock",
+      "name": "Punk Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:puzzle-game-bgm",
+      "slug": "puzzle-game-bgm",
+      "name": "Puzzle Game Bgm",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
       "count": 5
     },
     {
@@ -2678,6 +5534,46 @@
       "count": 5
     },
     {
+      "id": "japan-pop-idol-v04:rainy-day-pop",
+      "slug": "rainy-day-pop",
+      "name": "Rainy Day Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:rainy-guitar-rock",
+      "slug": "rainy-guitar-rock",
+      "name": "Rainy Guitar Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:rainy-lounge",
+      "slug": "rainy-lounge",
+      "name": "Rainy Lounge",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:rainy-night-kayokyoku",
+      "slug": "rainy-night-kayokyoku",
+      "name": "Rainy Night Kayokyoku",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:rainy-rnb",
+      "slug": "rainy-rnb",
+      "name": "Rainy Rnb",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-reggae-dub-caribbean-v04:reggae-fusion",
       "slug": "reggae-fusion",
       "name": "Reggae Fusion",
@@ -2694,11 +5590,99 @@
       "count": 5
     },
     {
+      "id": "world-latin-tropical-v04:reggaeton-pop",
+      "slug": "reggaeton-pop",
+      "name": "Reggaeton Pop",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:reggaeton-rnb",
       "slug": "reggaeton-rnb",
       "name": "Reggaeton Rnb",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:resort-fusion",
+      "slug": "resort-fusion",
+      "name": "Resort Fusion",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:retail-store-bgm",
+      "slug": "retail-store-bgm",
+      "name": "Retail Store Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:retro-cm-song",
+      "slug": "retro-cm-song",
+      "name": "Retro Cm Song",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:retro-game-chiptune",
+      "slug": "retro-game-chiptune",
+      "name": "Retro Game Chiptune",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:retro-idol-kayokyoku",
+      "slug": "retro-idol-kayokyoku",
+      "name": "Retro Idol Kayokyoku",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:retro-kayokyoku-pop",
+      "slug": "retro-kayokyoku-pop",
+      "name": "Retro Kayokyoku Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:retro-soul",
+      "slug": "retro-soul",
+      "name": "Retro Soul",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:retro-tv-opener",
+      "slug": "retro-tv-opener",
+      "name": "Retro Tv Opener",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:rhythm-game-electronic",
+      "slug": "rhythm-game-electronic",
+      "name": "Rhythm Game Electronic",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:rhythm-game-pop",
+      "slug": "rhythm-game-pop",
+      "name": "Rhythm Game Pop",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
       "count": 5
     },
     {
@@ -2715,6 +5699,30 @@
       "name": "Ritual Percussion Score",
       "collection": "world-cinematic-score-v04",
       "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:rnb-pop-japan",
+      "slug": "rnb-pop-japan",
+      "name": "Rnb Pop Japan",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:robot-helper-pop",
+      "slug": "robot-helper-pop",
+      "name": "Robot Helper Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:robotic-pop",
+      "slug": "robotic-pop",
+      "name": "Robotic Pop",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
       "count": 5
     },
     {
@@ -2758,11 +5766,147 @@
       "count": 5
     },
     {
+      "id": "japan-kayokyoku-enka-folk-v04:sake-bar-ballad",
+      "slug": "sake-bar-ballad",
+      "name": "Sake Bar Ballad",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:salsa-dura",
+      "slug": "salsa-dura",
+      "name": "Salsa Dura",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:salsa-house-fusion",
+      "slug": "salsa-house-fusion",
+      "name": "Salsa House Fusion",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:salsa-romantica",
+      "slug": "salsa-romantica",
+      "name": "Salsa Romantica",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:samba",
+      "slug": "samba",
+      "name": "Samba",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:samba-reggae",
+      "slug": "samba-reggae",
+      "name": "Samba Reggae",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:sample-free-soul-rap",
+      "slug": "sample-free-soul-rap",
+      "name": "Sample Free Soul Rap",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:samurai-cinematic",
+      "slug": "samurai-cinematic",
+      "name": "Samurai Cinematic",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:samurai-drama-score",
+      "slug": "samurai-drama-score",
+      "name": "Samurai Drama Score",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:sax-city-pop",
+      "slug": "sax-city-pop",
+      "name": "Sax City Pop",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:school-anime-chorus",
+      "slug": "school-anime-chorus",
+      "name": "School Anime Chorus",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:school-bell-pop",
+      "slug": "school-bell-pop",
+      "name": "School Bell Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:school-day-bgm",
+      "slug": "school-day-bgm",
+      "name": "School Day Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:school-festival-pop",
+      "slug": "school-festival-pop",
+      "name": "School Festival Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:sci-fi-synth-score",
       "slug": "sci-fi-synth-score",
       "name": "Sci Fi Synth Score",
       "collection": "world-cinematic-score-v04",
       "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:seaside-city-pop",
+      "slug": "seaside-city-pop",
+      "name": "Seaside City Pop",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:seaside-enka",
+      "slug": "seaside-enka",
+      "name": "Seaside Enka",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:seasonal-sakura-pop",
+      "slug": "seasonal-sakura-pop",
+      "name": "Seasonal Sakura Pop",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
       "count": 5
     },
     {
@@ -2774,11 +5918,107 @@
       "count": 5
     },
     {
+      "id": "japan-traditional-fusion-v04:shakuhachi-chill",
+      "slug": "shakuhachi-chill",
+      "name": "Shakuhachi Chill",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:shamisen-hiphop",
+      "slug": "shamisen-hiphop",
+      "name": "Shamisen Hiphop",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:shamisen-pop",
+      "slug": "shamisen-pop",
+      "name": "Shamisen Pop",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:shamisen-rock",
+      "slug": "shamisen-rock",
+      "name": "Shamisen Rock",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:shibuya-club-pop",
+      "slug": "shibuya-club-pop",
+      "name": "Shibuya Club Pop",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:shibuya-kei-inspired-pop",
+      "slug": "shibuya-kei-inspired-pop",
+      "name": "Shibuya Kei Inspired Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:shoegaze",
+      "slug": "shoegaze",
+      "name": "Shoegaze",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:shoegaze-rock",
       "slug": "shoegaze-rock",
       "name": "Shoegaze Rock",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:shopping-arcade-funk",
+      "slug": "shopping-arcade-funk",
+      "name": "Shopping Arcade Funk",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:short-loop-jingle",
+      "slug": "short-loop-jingle",
+      "name": "Short Loop Jingle",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:short-stinger-fanfare",
+      "slug": "short-stinger-fanfare",
+      "name": "Short Stinger Fanfare",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:showa-kayokyoku",
+      "slug": "showa-kayokyoku",
+      "name": "Showa Kayokyoku",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:shrine-bell-ambient",
+      "slug": "shrine-bell-ambient",
+      "name": "Shrine Bell Ambient",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
       "count": 5
     },
     {
@@ -2790,11 +6030,43 @@
       "count": 5
     },
     {
+      "id": "japan-rock-alt-v04:ska-punk",
+      "slug": "ska-punk",
+      "name": "Ska Punk",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:slap-bass-funk",
+      "slug": "slap-bass-funk",
+      "name": "Slap Bass Funk",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:slap-funk-pop",
       "slug": "slap-funk-pop",
       "name": "Slap Funk Pop",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:slice-of-life-score",
+      "slug": "slice-of-life-score",
+      "name": "Slice Of Life Score",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:slow-dance-kayokyoku",
+      "slug": "slow-dance-kayokyoku",
+      "name": "Slow Dance Kayokyoku",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
       "count": 5
     },
     {
@@ -2822,11 +6094,51 @@
       "count": 5
     },
     {
+      "id": "japan-jazz-funk-city-v04:smooth-jazz-japan",
+      "slug": "smooth-jazz-japan",
+      "name": "Smooth Jazz Japan",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:snow-country-folk",
+      "slug": "snow-country-folk",
+      "name": "Snow Country Folk",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
       "id": "world-reggae-dub-caribbean-v04:soca-groove",
       "slug": "soca-groove",
       "name": "Soca Groove",
       "collection": "world-reggae-dub-caribbean-v04",
       "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:soft-rock",
+      "slug": "soft-rock",
+      "name": "Soft Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:soft-rock-pop",
+      "slug": "soft-rock-pop",
+      "name": "Soft Rock Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:soft-synth-pop",
+      "slug": "soft-synth-pop",
+      "name": "Soft Synth Pop",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
       "count": 5
     },
     {
@@ -2838,11 +6150,43 @@
       "count": 5
     },
     {
+      "id": "world-latin-tropical-v04:son-cubano-inspired",
+      "slug": "son-cubano-inspired",
+      "name": "Son Cubano Inspired",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:soul-blues",
+      "slug": "soul-blues",
+      "name": "Soul Blues",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:soul-jazz",
       "slug": "soul-jazz",
       "name": "Soul Jazz",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:soulful-acoustic-ballad",
+      "slug": "soulful-acoustic-ballad",
+      "name": "Soulful Acoustic Ballad",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:soulful-rap-chorus",
+      "slug": "soulful-rap-chorus",
+      "name": "Soulful Rap Chorus",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
       "count": 5
     },
     {
@@ -2870,6 +6214,14 @@
       "count": 5
     },
     {
+      "id": "world-blues-soul-gospel-v04:south-african-soul",
+      "slug": "south-african-soul",
+      "name": "South African Soul",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:southern-rap-groove",
       "slug": "southern-rap-groove",
       "name": "Southern Rap Groove",
@@ -2886,11 +6238,35 @@
       "count": 5
     },
     {
+      "id": "world-blues-soul-gospel-v04:southern-soul",
+      "slug": "southern-soul",
+      "name": "Southern Soul",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:space-disco",
       "slug": "space-disco",
       "name": "Space Disco",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:spanish-rumba-pop",
+      "slug": "spanish-rumba-pop",
+      "name": "Spanish Rumba Pop",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:sparkling-pop",
+      "slug": "sparkling-pop",
+      "name": "Sparkling Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
       "count": 5
     },
     {
@@ -2902,6 +6278,22 @@
       "count": 5
     },
     {
+      "id": "world-blues-soul-gospel-v04:spiritual-jazz-soul",
+      "slug": "spiritual-jazz-soul",
+      "name": "Spiritual Jazz Soul",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:spoken-word-beat",
+      "slug": "spoken-word-beat",
+      "name": "Spoken Word Beat",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:sports-documentary-score",
       "slug": "sports-documentary-score",
       "name": "Sports Documentary Score",
@@ -2910,11 +6302,43 @@
       "count": 5
     },
     {
+      "id": "japan-jazz-funk-city-v04:sports-highlight-funk",
+      "slug": "sports-highlight-funk",
+      "name": "Sports Highlight Funk",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:stealth-beat-japan",
+      "slug": "stealth-beat-japan",
+      "name": "Stealth Beat Japan",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:stealth-mission-bgm",
+      "slug": "stealth-mission-bgm",
+      "name": "Stealth Mission Bgm",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
       "id": "world-reggae-dub-caribbean-v04:steppers-dub-reggae",
       "slug": "steppers-dub-reggae",
       "name": "Steppers Dub Reggae",
       "collection": "world-reggae-dub-caribbean-v04",
       "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:sticker-book-pop",
+      "slug": "sticker-book-pop",
+      "name": "Sticker Book Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
       "count": 5
     },
     {
@@ -2934,11 +6358,43 @@
       "count": 5
     },
     {
+      "id": "japan-hiphop-rnb-v04:street-night-rap",
+      "slug": "street-night-rap",
+      "name": "Street Night Rap",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:string-quartet-score",
       "slug": "string-quartet-score",
       "name": "String Quartet Score",
       "collection": "world-cinematic-score-v04",
       "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:summer-idol-pop",
+      "slug": "summer-idol-pop",
+      "name": "Summer Idol Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:summer-memory-score",
+      "slug": "summer-memory-score",
+      "name": "Summer Memory Score",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:sunrise-city-groove",
+      "slug": "sunrise-city-groove",
+      "name": "Sunrise City Groove",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
       "count": 5
     },
     {
@@ -2950,11 +6406,43 @@
       "count": 5
     },
     {
+      "id": "japan-rock-alt-v04:surf-rock-japan",
+      "slug": "surf-rock-japan",
+      "name": "Surf Rock Japan",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:suspense-tv-score",
+      "slug": "suspense-tv-score",
+      "name": "Suspense Tv Score",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:swamp-blues",
+      "slug": "swamp-blues",
+      "name": "Swamp Blues",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:swamp-rock",
       "slug": "swamp-rock",
       "name": "Swamp Rock",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:sweet-shop-pop",
+      "slug": "sweet-shop-pop",
+      "name": "Sweet Shop Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
       "count": 5
     },
     {
@@ -2974,11 +6462,83 @@
       "count": 5
     },
     {
+      "id": "japan-pop-idol-v04:synth-pop-jpop",
+      "slug": "synth-pop-jpop",
+      "name": "Synth Pop Jpop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:synth-rock",
+      "slug": "synth-rock",
+      "name": "Synth Rock",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:synthwave",
       "slug": "synthwave",
       "name": "Synthwave",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:synthwave-japan",
+      "slug": "synthwave-japan",
+      "name": "Synthwave Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:taiko-cinematic",
+      "slug": "taiko-cinematic",
+      "name": "Taiko Cinematic",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:taiko-edm",
+      "slug": "taiko-edm",
+      "name": "Taiko Edm",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:tango-kayokyoku",
+      "slug": "tango-kayokyoku",
+      "name": "Tango Kayokyoku",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:tango-nuevo-inspired",
+      "slug": "tango-nuevo-inspired",
+      "name": "Tango Nuevo Inspired",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:tea-house-acoustic",
+      "slug": "tea-house-acoustic",
+      "name": "Tea House Acoustic",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:tech-house-japan",
+      "slug": "tech-house-japan",
+      "name": "Tech House Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
       "count": 5
     },
     {
@@ -2995,6 +6555,30 @@
       "name": "Technical Metal",
       "collection": "world-metal-heavy-v04",
       "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:television-variety-theme",
+      "slug": "television-variety-theme",
+      "name": "Television Variety Theme",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:temple-town-ambient",
+      "slug": "temple-town-ambient",
+      "name": "Temple Town Ambient",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "world-blues-soul-gospel-v04:texas-blues",
+      "slug": "texas-blues",
+      "name": "Texas Blues",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
       "count": 5
     },
     {
@@ -3054,6 +6638,94 @@
       "count": 5
     },
     {
+      "id": "japan-cute-character-novelty-v04:tiny-choir-pop",
+      "slug": "tiny-choir-pop",
+      "name": "Tiny Choir Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:tiny-marching-band",
+      "slug": "tiny-marching-band",
+      "name": "Tiny Marching Band",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:tokusatsu-inspired-anthem",
+      "slug": "tokusatsu-inspired-anthem",
+      "name": "Tokusatsu Inspired Anthem",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:toy-piano-pop",
+      "slug": "toy-piano-pop",
+      "name": "Toy Piano Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-cute-character-novelty-v04:toy-pop",
+      "slug": "toy-pop",
+      "name": "Toy Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:traditional-lullaby-fusion",
+      "slug": "traditional-lullaby-fusion",
+      "name": "Traditional Lullaby Fusion",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:train-journey-bgm",
+      "slug": "train-journey-bgm",
+      "name": "Train Journey Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:train-station-ballad",
+      "slug": "train-station-ballad",
+      "name": "Train Station Ballad",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:train-window-lofi",
+      "slug": "train-window-lofi",
+      "name": "Train Window Lofi",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:trap-electro-japan",
+      "slug": "trap-electro-japan",
+      "name": "Trap Electro Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:trap-japan",
+      "slug": "trap-japan",
+      "name": "Trap Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:trap-soul",
       "slug": "trap-soul",
       "name": "Trap Soul",
@@ -3062,11 +6734,35 @@
       "count": 5
     },
     {
+      "id": "japan-hiphop-rnb-v04:trap-soul-japan",
+      "slug": "trap-soul-japan",
+      "name": "Trap Soul Japan",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:travel-show-bgm",
+      "slug": "travel-show-bgm",
+      "name": "Travel Show Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
       "id": "world-reggae-dub-caribbean-v04:tropical-reggae-pop",
       "slug": "tropical-reggae-pop",
       "name": "Tropical Reggae Pop",
       "collection": "world-reggae-dub-caribbean-v04",
       "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:trumpet-fusion",
+      "slug": "trumpet-fusion",
+      "name": "Trumpet Fusion",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
       "count": 5
     },
     {
@@ -3110,6 +6806,30 @@
       "count": 5
     },
     {
+      "id": "japan-score-bgm-v04:tutorial-bgm",
+      "slug": "tutorial-bgm",
+      "name": "Tutorial Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:tv-variety-funk",
+      "slug": "tv-variety-funk",
+      "name": "Tv Variety Funk",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:twilight-kayokyoku",
+      "slug": "twilight-kayokyoku",
+      "name": "Twilight Kayokyoku",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
       "id": "world-reggae-dub-caribbean-v04:two-tone-inspired-ska",
       "slug": "two-tone-inspired-ska",
       "name": "Two Tone Inspired Ska",
@@ -3150,11 +6870,139 @@
       "count": 5
     },
     {
+      "id": "japan-cute-character-novelty-v04:ukulele-cute-pop",
+      "slug": "ukulele-cute-pop",
+      "name": "Ukulele Cute Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:upbeat-guitar-pop",
+      "slug": "upbeat-guitar-pop",
+      "name": "Upbeat Guitar Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:urban-night-bgm",
+      "slug": "urban-night-bgm",
+      "name": "Urban Night Bgm",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:urban-night-score",
       "slug": "urban-night-score",
       "name": "Urban Night Score",
       "collection": "world-cinematic-score-v04",
       "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "world-latin-tropical-v04:vallenato-pop",
+      "slug": "vallenato-pop",
+      "name": "Vallenato Pop",
+      "collection": "world-latin-tropical-v04",
+      "collection_label": "World Latin/Tropical",
+      "count": 5
+    },
+    {
+      "id": "japan-hiphop-rnb-v04:vapor-rap",
+      "slug": "vapor-rap",
+      "name": "Vapor Rap",
+      "collection": "japan-hiphop-rnb-v04",
+      "collection_label": "Japan Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:vaporwave-japan",
+      "slug": "vaporwave-japan",
+      "name": "Vaporwave Japan",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:victory-fanfare-pop",
+      "slug": "victory-fanfare-pop",
+      "name": "Victory Fanfare Pop",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:vinyl-lounge",
+      "slug": "vinyl-lounge",
+      "name": "Vinyl Lounge",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-rock-alt-v04:visual-kei-inspired",
+      "slug": "visual-kei-inspired",
+      "name": "Visual Kei Inspired",
+      "collection": "japan-rock-alt-v04",
+      "collection_label": "Japan Rock/Alt",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:visual-novel-ballad",
+      "slug": "visual-novel-ballad",
+      "name": "Visual Novel Ballad",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:visual-novel-mystery",
+      "slug": "visual-novel-mystery",
+      "name": "Visual Novel Mystery",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-anime-game-v04:visual-novel-school-life",
+      "slug": "visual-novel-school-life",
+      "name": "Visual Novel School Life",
+      "collection": "japan-anime-game-v04",
+      "collection_label": "Japan Anime/Game",
+      "count": 5
+    },
+    {
+      "id": "japan-electronic-club-v04:vocal-synth-pop",
+      "slug": "vocal-synth-pop",
+      "name": "Vocal Synth Pop",
+      "collection": "japan-electronic-club-v04",
+      "collection_label": "Japan Electronic/Club",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:wa-lofi",
+      "slug": "wa-lofi",
+      "name": "Wa Lofi",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:wa-orchestra",
+      "slug": "wa-orchestra",
+      "name": "Wa Orchestra",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:wadaiko-rock",
+      "slug": "wadaiko-rock",
+      "name": "Wadaiko Rock",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
       "count": 5
     },
     {
@@ -3166,11 +7014,27 @@
       "count": 5
     },
     {
+      "id": "japan-jazz-funk-city-v04:wah-guitar-funk",
+      "slug": "wah-guitar-funk",
+      "name": "Wah Guitar Funk",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:war-drama-score",
       "slug": "war-drama-score",
       "name": "War Drama Score",
       "collection": "world-cinematic-score-v04",
       "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:wedding-pop",
+      "slug": "wedding-pop",
+      "name": "Wedding Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
       "count": 5
     },
     {
@@ -3190,6 +7054,14 @@
       "count": 5
     },
     {
+      "id": "world-blues-soul-gospel-v04:west-coast-blues",
+      "slug": "west-coast-blues",
+      "name": "West Coast Blues",
+      "collection": "world-blues-soul-gospel-v04",
+      "collection_label": "World Blues/Soul/Gospel",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:west-coast-funk-rap",
       "slug": "west-coast-funk-rap",
       "name": "West Coast Funk Rap",
@@ -3198,11 +7070,75 @@
       "count": 5
     },
     {
+      "id": "japan-cute-character-novelty-v04:whistle-pop",
+      "slug": "whistle-pop",
+      "name": "Whistle Pop",
+      "collection": "japan-cute-character-novelty-v04",
+      "collection_label": "Japan Cute/Character/Novelty",
+      "count": 5
+    },
+    {
+      "id": "japan-pop-idol-v04:winter-ballad-pop",
+      "slug": "winter-ballad-pop",
+      "name": "Winter Ballad Pop",
+      "collection": "japan-pop-idol-v04",
+      "collection_label": "Japan Pop/Idol",
+      "count": 5
+    },
+    {
+      "id": "japan-kayokyoku-enka-folk-v04:winter-enka",
+      "slug": "winter-enka",
+      "name": "Winter Enka",
+      "collection": "japan-kayokyoku-enka-folk-v04",
+      "collection_label": "Japan Kayokyoku/Enka/Folk",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:winter-town-score",
+      "slug": "winter-town-score",
+      "name": "Winter Town Score",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:world-cinematic-percussion",
       "slug": "world-cinematic-percussion",
       "name": "World Cinematic Percussion",
       "collection": "world-cinematic-score-v04",
       "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "japan-jazz-funk-city-v04:yacht-rock-city",
+      "slug": "yacht-rock-city",
+      "name": "Yacht Rock City",
+      "collection": "japan-jazz-funk-city-v04",
+      "collection_label": "Japan Jazz/Funk/City",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:yosakoi-pop",
+      "slug": "yosakoi-pop",
+      "name": "Yosakoi Pop",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
+      "count": 5
+    },
+    {
+      "id": "japan-score-bgm-v04:youth-drama-score",
+      "slug": "youth-drama-score",
+      "name": "Youth Drama Score",
+      "collection": "japan-score-bgm-v04",
+      "collection_label": "Japan Score/BGM",
+      "count": 5
+    },
+    {
+      "id": "japan-traditional-fusion-v04:zen-ambient",
+      "slug": "zen-ambient",
+      "name": "Zen Ambient",
+      "collection": "japan-traditional-fusion-v04",
+      "collection_label": "Japan Traditional Fusion",
       "count": 5
     },
     {
@@ -3320,15 +7256,163 @@
   ],
   "top_tags": [
     {
+      "tag": "japan",
+      "count": 2010
+    },
+    {
+      "tag": "global",
+      "count": 235
+    },
+    {
+      "tag": "guitar",
+      "count": 232
+    },
+    {
       "tag": "instrumental",
-      "count": 223
+      "count": 228
+    },
+    {
+      "tag": "fusion",
+      "count": 217
+    },
+    {
+      "tag": "club",
+      "count": 215
+    },
+    {
+      "tag": "hook",
+      "count": 210
+    },
+    {
+      "tag": "hybrid",
+      "count": 207
+    },
+    {
+      "tag": "cute-pop",
+      "count": 205
+    },
+    {
+      "tag": "jazz-funk",
+      "count": 205
+    },
+    {
+      "tag": "score",
+      "count": 203
+    },
+    {
+      "tag": "synth",
+      "count": 203
     },
     {
       "tag": "organic-mix",
       "count": 202
     },
     {
+      "tag": "band",
+      "count": 201
+    },
+    {
+      "tag": "beat",
+      "count": 201
+    },
+    {
+      "tag": "bgm",
+      "count": 201
+    },
+    {
+      "tag": "city-pop",
+      "count": 201
+    },
+    {
+      "tag": "enka",
+      "count": 201
+    },
+    {
+      "tag": "theme",
+      "count": 201
+    },
+    {
+      "tag": "anime-inspired",
+      "count": 200
+    },
+    {
+      "tag": "character",
+      "count": 200
+    },
+    {
       "tag": "cinematic-score",
+      "count": 200
+    },
+    {
+      "tag": "electronic",
+      "count": 200
+    },
+    {
+      "tag": "folk",
+      "count": 200
+    },
+    {
+      "tag": "game-bgm",
+      "count": 200
+    },
+    {
+      "tag": "hiphop",
+      "count": 200
+    },
+    {
+      "tag": "idol-pop",
+      "count": 200
+    },
+    {
+      "tag": "j-pop",
+      "count": 200
+    },
+    {
+      "tag": "j-rock",
+      "count": 200
+    },
+    {
+      "tag": "japan-city-groove",
+      "count": 200
+    },
+    {
+      "tag": "japan-club",
+      "count": 200
+    },
+    {
+      "tag": "japan-cute-media",
+      "count": 200
+    },
+    {
+      "tag": "japan-media-inspired",
+      "count": 200
+    },
+    {
+      "tag": "japan-production-music",
+      "count": 200
+    },
+    {
+      "tag": "japan-regional-fusion",
+      "count": 200
+    },
+    {
+      "tag": "japan-retro-song",
+      "count": 200
+    },
+    {
+      "tag": "japan-urban",
+      "count": 200
+    },
+    {
+      "tag": "kayokyoku",
+      "count": 200
+    },
+    {
+      "tag": "novelty",
+      "count": 200
+    },
+    {
+      "tag": "production-music",
       "count": 200
     },
     {
@@ -3336,8 +7420,16 @@
       "count": 200
     },
     {
-      "tag": "global",
-      "count": 160
+      "tag": "rnb",
+      "count": 200
+    },
+    {
+      "tag": "traditional-color",
+      "count": 200
+    },
+    {
+      "tag": "wa-fusion",
+      "count": 200
     },
     {
       "tag": "film-ready",
@@ -3356,20 +7448,32 @@
       "count": 120
     },
     {
+      "tag": "acoustic",
+      "count": 111
+    },
+    {
       "tag": "indie-dance",
       "count": 97
     },
     {
-      "tag": "acoustic",
-      "count": 96
+      "tag": "clean-guitar",
+      "count": 93
     },
     {
-      "tag": "clean-guitar",
-      "count": 83
+      "tag": "dance",
+      "count": 82
     },
     {
       "tag": "natural-groove",
       "count": 80
+    },
+    {
+      "tag": "electric-piano",
+      "count": 72
+    },
+    {
+      "tag": "hand-percussion",
+      "count": 71
     },
     {
       "tag": "night-drive",
@@ -3384,8 +7488,16 @@
       "count": 66
     },
     {
-      "tag": "electric-piano",
+      "tag": "warm-bass",
+      "count": 66
+    },
+    {
+      "tag": "nylon-guitar",
       "count": 62
+    },
+    {
+      "tag": "sub-bass",
+      "count": 61
     },
     {
       "tag": "syncopation",
@@ -3400,6 +7512,10 @@
       "count": 60
     },
     {
+      "tag": "percussion",
+      "count": 60
+    },
+    {
       "tag": "retro-synth",
       "count": 60
     },
@@ -3409,11 +7525,31 @@
     },
     {
       "tag": "melodic",
-      "count": 52
+      "count": 57
     },
     {
-      "tag": "warm-bass",
-      "count": 51
+      "tag": "bright",
+      "count": 56
+    },
+    {
+      "tag": "brazil",
+      "count": 55
+    },
+    {
+      "tag": "horns",
+      "count": 55
+    },
+    {
+      "tag": "organ",
+      "count": 55
+    },
+    {
+      "tag": "warm",
+      "count": 55
+    },
+    {
+      "tag": "bass-led",
+      "count": 50
     },
     {
       "tag": "chorus-guitar",
@@ -3424,222 +7560,22 @@
       "count": 50
     },
     {
-      "tag": "industrial",
-      "count": 47
-    },
-    {
-      "tag": "post-punk",
-      "count": 47
-    },
-    {
-      "tag": "d-minor",
-      "count": 46
-    },
-    {
-      "tag": "hand-percussion",
-      "count": 46
-    },
-    {
-      "tag": "b-minor",
-      "count": 45
-    },
-    {
-      "tag": "bass-led",
-      "count": 45
-    },
-    {
-      "tag": "bassline",
-      "count": 45
-    },
-    {
-      "tag": "a-minor",
-      "count": 44
-    },
-    {
-      "tag": "124bpm",
-      "count": 41
-    },
-    {
-      "tag": "c-minor",
-      "count": 41
-    },
-    {
-      "tag": "112bpm",
-      "count": 40
-    },
-    {
-      "tag": "dance-punk",
-      "count": 39
-    },
-    {
-      "tag": "f-minor",
-      "count": 39
-    },
-    {
-      "tag": "drum-machine",
-      "count": 38
+      "tag": "syncopated",
+      "count": 50
     },
     {
       "tag": "fast",
-      "count": 38
+      "count": 48
     },
     {
-      "tag": "g-minor",
-      "count": 38
+      "tag": "piano",
+      "count": 48
     },
     {
-      "tag": "heavy",
-      "count": 38
-    },
-    {
-      "tag": "funk-groove",
-      "count": 37
-    },
-    {
-      "tag": "cinematic-rock",
-      "count": 36
-    },
-    {
-      "tag": "distorted-synth",
-      "count": 36
-    },
-    {
-      "tag": "filter-house",
-      "count": 36
-    },
-    {
-      "tag": "french-touch",
-      "count": 36
-    },
-    {
-      "tag": "nu-disco",
-      "count": 36
-    },
-    {
-      "tag": "outrun",
-      "count": 36
-    },
-    {
-      "tag": "sub-bass",
-      "count": 36
-    },
-    {
-      "tag": "synthwave",
-      "count": 36
-    },
-    {
-      "tag": "108bpm",
-      "count": 35
-    },
-    {
-      "tag": "angular-guitar",
-      "count": 35
-    },
-    {
-      "tag": "coldwave",
-      "count": 35
-    },
-    {
-      "tag": "dance-rock",
-      "count": 35
-    },
-    {
-      "tag": "darksynth",
-      "count": 35
-    },
-    {
-      "tag": "heavy-groove",
-      "count": 35
-    },
-    {
-      "tag": "industrial-dance",
-      "count": 35
-    },
-    {
-      "tag": "italo-disco",
-      "count": 35
-    },
-    {
-      "tag": "minimal-wave",
-      "count": 35
-    },
-    {
-      "tag": "space-disco",
-      "count": 35
-    },
-    {
-      "tag": "uk",
-      "count": 35
-    },
-    {
-      "tag": "electronic-rock",
-      "count": 34
-    },
-    {
-      "tag": "synth-rock",
-      "count": 34
-    },
-    {
-      "tag": "wah-guitar",
-      "count": 34
-    },
-    {
-      "tag": "120bpm",
-      "count": 33
-    },
-    {
-      "tag": "distorted-bass",
-      "count": 33
-    },
-    {
-      "tag": "felt-piano",
-      "count": 33
-    },
-    {
-      "tag": "grunge",
-      "count": 33
-    },
-    {
-      "tag": "retro-future",
-      "count": 33
-    },
-    {
-      "tag": "sunset-groove",
-      "count": 33
-    },
-    {
-      "tag": "dirty-electro",
-      "count": 32
-    },
-    {
-      "tag": "disco-house",
-      "count": 32
-    },
-    {
-      "tag": "funky-bass",
-      "count": 32
-    },
-    {
-      "tag": "nylon-guitar",
-      "count": 32
-    },
-    {
-      "tag": "overseas",
-      "count": 32
-    },
-    {
-      "tag": "80s-synth",
-      "count": 31
-    },
-    {
-      "tag": "analog-synth",
-      "count": 31
-    },
-    {
-      "tag": "bloghouse",
-      "count": 31
+      "tag": "industrial",
+      "count": 47
     }
   ],
-  "top_pick_count": 35,
+  "top_pick_count": 48,
   "strategy": "Static JSON first. Firestore is reserved for future admin editing and publish workflows."
 }

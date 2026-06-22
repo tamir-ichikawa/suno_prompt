@@ -1,14 +1,162 @@
 [
   {
+    "tag": "japan",
+    "count": 2010
+  },
+  {
+    "tag": "global",
+    "count": 235
+  },
+  {
+    "tag": "guitar",
+    "count": 232
+  },
+  {
     "tag": "instrumental",
-    "count": 223
+    "count": 228
+  },
+  {
+    "tag": "fusion",
+    "count": 217
+  },
+  {
+    "tag": "club",
+    "count": 215
+  },
+  {
+    "tag": "hook",
+    "count": 210
+  },
+  {
+    "tag": "hybrid",
+    "count": 207
+  },
+  {
+    "tag": "cute-pop",
+    "count": 205
+  },
+  {
+    "tag": "jazz-funk",
+    "count": 205
+  },
+  {
+    "tag": "score",
+    "count": 203
+  },
+  {
+    "tag": "synth",
+    "count": 203
   },
   {
     "tag": "organic-mix",
     "count": 202
   },
   {
+    "tag": "band",
+    "count": 201
+  },
+  {
+    "tag": "beat",
+    "count": 201
+  },
+  {
+    "tag": "bgm",
+    "count": 201
+  },
+  {
+    "tag": "city-pop",
+    "count": 201
+  },
+  {
+    "tag": "enka",
+    "count": 201
+  },
+  {
+    "tag": "theme",
+    "count": 201
+  },
+  {
+    "tag": "anime-inspired",
+    "count": 200
+  },
+  {
+    "tag": "character",
+    "count": 200
+  },
+  {
     "tag": "cinematic-score",
+    "count": 200
+  },
+  {
+    "tag": "electronic",
+    "count": 200
+  },
+  {
+    "tag": "folk",
+    "count": 200
+  },
+  {
+    "tag": "game-bgm",
+    "count": 200
+  },
+  {
+    "tag": "hiphop",
+    "count": 200
+  },
+  {
+    "tag": "idol-pop",
+    "count": 200
+  },
+  {
+    "tag": "j-pop",
+    "count": 200
+  },
+  {
+    "tag": "j-rock",
+    "count": 200
+  },
+  {
+    "tag": "japan-city-groove",
+    "count": 200
+  },
+  {
+    "tag": "japan-club",
+    "count": 200
+  },
+  {
+    "tag": "japan-cute-media",
+    "count": 200
+  },
+  {
+    "tag": "japan-media-inspired",
+    "count": 200
+  },
+  {
+    "tag": "japan-production-music",
+    "count": 200
+  },
+  {
+    "tag": "japan-regional-fusion",
+    "count": 200
+  },
+  {
+    "tag": "japan-retro-song",
+    "count": 200
+  },
+  {
+    "tag": "japan-urban",
+    "count": 200
+  },
+  {
+    "tag": "kayokyoku",
+    "count": 200
+  },
+  {
+    "tag": "novelty",
+    "count": 200
+  },
+  {
+    "tag": "production-music",
     "count": 200
   },
   {
@@ -16,8 +164,16 @@
     "count": 200
   },
   {
-    "tag": "global",
-    "count": 160
+    "tag": "rnb",
+    "count": 200
+  },
+  {
+    "tag": "traditional-color",
+    "count": 200
+  },
+  {
+    "tag": "wa-fusion",
+    "count": 200
   },
   {
     "tag": "film-ready",
@@ -36,20 +192,32 @@
     "count": 120
   },
   {
+    "tag": "acoustic",
+    "count": 111
+  },
+  {
     "tag": "indie-dance",
     "count": 97
   },
   {
-    "tag": "acoustic",
-    "count": 96
+    "tag": "clean-guitar",
+    "count": 93
   },
   {
-    "tag": "clean-guitar",
-    "count": 83
+    "tag": "dance",
+    "count": 82
   },
   {
     "tag": "natural-groove",
     "count": 80
+  },
+  {
+    "tag": "electric-piano",
+    "count": 72
+  },
+  {
+    "tag": "hand-percussion",
+    "count": 71
   },
   {
     "tag": "night-drive",
@@ -64,8 +232,16 @@
     "count": 66
   },
   {
-    "tag": "electric-piano",
+    "tag": "warm-bass",
+    "count": 66
+  },
+  {
+    "tag": "nylon-guitar",
     "count": 62
+  },
+  {
+    "tag": "sub-bass",
+    "count": 61
   },
   {
     "tag": "syncopation",
@@ -80,6 +256,10 @@
     "count": 60
   },
   {
+    "tag": "percussion",
+    "count": 60
+  },
+  {
     "tag": "retro-synth",
     "count": 60
   },
@@ -89,11 +269,31 @@
   },
   {
     "tag": "melodic",
-    "count": 52
+    "count": 57
   },
   {
-    "tag": "warm-bass",
-    "count": 51
+    "tag": "bright",
+    "count": 56
+  },
+  {
+    "tag": "brazil",
+    "count": 55
+  },
+  {
+    "tag": "horns",
+    "count": 55
+  },
+  {
+    "tag": "organ",
+    "count": 55
+  },
+  {
+    "tag": "warm",
+    "count": 55
+  },
+  {
+    "tag": "bass-led",
+    "count": 50
   },
   {
     "tag": "chorus-guitar",
@@ -102,6 +302,18 @@
   {
     "tag": "jamaica",
     "count": 50
+  },
+  {
+    "tag": "syncopated",
+    "count": 50
+  },
+  {
+    "tag": "fast",
+    "count": 48
+  },
+  {
+    "tag": "piano",
+    "count": 48
   },
   {
     "tag": "industrial",
@@ -116,7 +328,7 @@
     "count": 46
   },
   {
-    "tag": "hand-percussion",
+    "tag": "smooth",
     "count": 46
   },
   {
@@ -124,15 +336,27 @@
     "count": 45
   },
   {
-    "tag": "bass-led",
-    "count": 45
-  },
-  {
     "tag": "bassline",
     "count": 45
   },
   {
+    "tag": "harmony",
+    "count": 45
+  },
+  {
+    "tag": "latin-america",
+    "count": 45
+  },
+  {
     "tag": "a-minor",
+    "count": 44
+  },
+  {
+    "tag": "call-response",
+    "count": 44
+  },
+  {
+    "tag": "wah-guitar",
     "count": 44
   },
   {
@@ -148,6 +372,10 @@
     "count": 40
   },
   {
+    "tag": "modal",
+    "count": 40
+  },
+  {
     "tag": "dance-punk",
     "count": 39
   },
@@ -156,11 +384,11 @@
     "count": 39
   },
   {
-    "tag": "drum-machine",
-    "count": 38
+    "tag": "synth-rock",
+    "count": 39
   },
   {
-    "tag": "fast",
+    "tag": "drum-machine",
     "count": 38
   },
   {
@@ -200,10 +428,6 @@
     "count": 36
   },
   {
-    "tag": "sub-bass",
-    "count": 36
-  },
-  {
     "tag": "synthwave",
     "count": 36
   },
@@ -216,6 +440,10 @@
     "count": 35
   },
   {
+    "tag": "chorus",
+    "count": 35
+  },
+  {
     "tag": "coldwave",
     "count": 35
   },
@@ -225,6 +453,10 @@
   },
   {
     "tag": "darksynth",
+    "count": 35
+  },
+  {
+    "tag": "deep-bass",
     "count": 35
   },
   {
@@ -256,14 +488,6 @@
     "count": 34
   },
   {
-    "tag": "synth-rock",
-    "count": 34
-  },
-  {
-    "tag": "wah-guitar",
-    "count": 34
-  },
-  {
     "tag": "120bpm",
     "count": 33
   },
@@ -277,6 +501,10 @@
   },
   {
     "tag": "grunge",
+    "count": 33
+  },
+  {
+    "tag": "hypnotic",
     "count": 33
   },
   {
@@ -300,11 +528,19 @@
     "count": 32
   },
   {
-    "tag": "nylon-guitar",
+    "tag": "horn-stabs",
     "count": 32
   },
   {
     "tag": "overseas",
+    "count": 32
+  },
+  {
+    "tag": "rubbery-bass",
+    "count": 32
+  },
+  {
+    "tag": "walking-bass",
     "count": 32
   },
   {
@@ -321,6 +557,10 @@
   },
   {
     "tag": "body-music",
+    "count": 31
+  },
+  {
+    "tag": "brass",
     "count": 31
   },
   {
@@ -348,6 +588,10 @@
     "count": 31
   },
   {
+    "tag": "emotional",
+    "count": 31
+  },
+  {
     "tag": "french-electro",
     "count": 31
   },
@@ -372,6 +616,10 @@
     "count": 31
   },
   {
+    "tag": "accordion-color",
+    "count": 30
+  },
+  {
     "tag": "arpeggio",
     "count": 30
   },
@@ -380,7 +628,7 @@
     "count": 30
   },
   {
-    "tag": "deep-bass",
+    "tag": "clave",
     "count": 30
   },
   {
@@ -420,7 +668,7 @@
     "count": 30
   },
   {
-    "tag": "percussion",
+    "tag": "polished",
     "count": 30
   },
   {
@@ -436,11 +684,23 @@
     "count": 30
   },
   {
+    "tag": "romantic",
+    "count": 30
+  },
+  {
     "tag": "talkbox",
     "count": 30
   },
   {
+    "tag": "us",
+    "count": 30
+  },
+  {
     "tag": "104bpm",
+    "count": 29
+  },
+  {
+    "tag": "pop",
     "count": 29
   },
   {
@@ -460,6 +720,10 @@
     "count": 26
   },
   {
+    "tag": "intimate",
+    "count": 26
+  },
+  {
     "tag": "late-night",
     "count": 26
   },
@@ -468,23 +732,31 @@
     "count": 26
   },
   {
+    "tag": "strings",
+    "count": 26
+  },
+  {
     "tag": "caribbean-diaspora",
     "count": 25
   },
   {
-    "tag": "harmony",
+    "tag": "cinematic",
     "count": 25
   },
   {
-    "tag": "modal",
+    "tag": "dramatic",
+    "count": 25
+  },
+  {
+    "tag": "minimal",
+    "count": 25
+  },
+  {
+    "tag": "minor-key",
     "count": 25
   },
   {
     "tag": "offbeat",
-    "count": 25
-  },
-  {
-    "tag": "polished",
     "count": 25
   },
   {
@@ -496,7 +768,7 @@
     "count": 25
   },
   {
-    "tag": "syncopated",
+    "tag": "us-south",
     "count": 25
   },
   {
@@ -508,11 +780,7 @@
     "count": 24
   },
   {
-    "tag": "call-response",
-    "count": 24
-  },
-  {
-    "tag": "pop",
+    "tag": "sparse",
     "count": 24
   },
   {
@@ -524,11 +792,7 @@
     "count": 23
   },
   {
-    "tag": "hypnotic",
-    "count": 23
-  },
-  {
-    "tag": "piano",
+    "tag": "uplifting",
     "count": 23
   },
   {
@@ -552,23 +816,27 @@
     "count": 22
   },
   {
+    "tag": "modern",
+    "count": 22
+  },
+  {
     "tag": "odd-meter",
     "count": 22
   },
   {
-    "tag": "rubbery-bass",
+    "tag": "slow",
     "count": 22
   },
   {
-    "tag": "walking-bass",
-    "count": 22
-  },
-  {
-    "tag": "melodic-hook",
+    "tag": "group-vocals",
     "count": 21
   },
   {
-    "tag": "smooth",
+    "tag": "high-energy",
+    "count": 21
+  },
+  {
+    "tag": "melodic-hook",
     "count": 21
   },
   {
@@ -580,7 +848,15 @@
     "count": 20
   },
   {
-    "tag": "cinematic",
+    "tag": "art-rock",
+    "count": 20
+  },
+  {
+    "tag": "caribbean",
+    "count": 20
+  },
+  {
+    "tag": "caribbean-latin",
     "count": 20
   },
   {
@@ -588,11 +864,19 @@
     "count": 20
   },
   {
+    "tag": "dominican-republic",
+    "count": 20
+  },
+  {
     "tag": "europe",
     "count": 20
   },
   {
-    "tag": "minimal",
+    "tag": "heartfelt",
+    "count": 20
+  },
+  {
+    "tag": "layered-percussion",
     "count": 20
   },
   {
@@ -604,7 +888,7 @@
     "count": 20
   },
   {
-    "tag": "warm",
+    "tag": "us-gulf-coast",
     "count": 20
   },
   {
@@ -616,7 +900,7 @@
     "count": 19
   },
   {
-    "tag": "sparse",
+    "tag": "stomp",
     "count": 19
   },
   {
@@ -628,11 +912,11 @@
     "count": 18
   },
   {
-    "tag": "marimba-plucks",
+    "tag": "guitar-chops",
     "count": 18
   },
   {
-    "tag": "uplifting",
+    "tag": "marimba-plucks",
     "count": 18
   },
   {
@@ -648,15 +932,11 @@
     "count": 17
   },
   {
-    "tag": "guitar",
-    "count": 17
-  },
-  {
-    "tag": "horn-stabs",
-    "count": 17
-  },
-  {
     "tag": "retro",
+    "count": 17
+  },
+  {
+    "tag": "riff",
     "count": 17
   },
   {
@@ -672,19 +952,11 @@
     "count": 17
   },
   {
+    "tag": "ballad",
+    "count": 16
+  },
+  {
     "tag": "bass-driven",
-    "count": 16
-  },
-  {
-    "tag": "brass",
-    "count": 16
-  },
-  {
-    "tag": "bright",
-    "count": 16
-  },
-  {
-    "tag": "emotional",
     "count": 16
   },
   {
@@ -696,7 +968,7 @@
     "count": 16
   },
   {
-    "tag": "high-energy",
+    "tag": "handclaps",
     "count": 16
   },
   {
@@ -704,15 +976,15 @@
     "count": 16
   },
   {
-    "tag": "strings",
+    "tag": "west-africa",
     "count": 16
   },
   {
-    "tag": "art-rock",
+    "tag": "andes",
     "count": 15
   },
   {
-    "tag": "brazil",
+    "tag": "argentina",
     "count": 15
   },
   {
@@ -720,7 +992,7 @@
     "count": 15
   },
   {
-    "tag": "caribbean",
+    "tag": "breezy",
     "count": 15
   },
   {
@@ -733,6 +1005,10 @@
   },
   {
     "tag": "clean-hook",
+    "count": 15
+  },
+  {
+    "tag": "cuba",
     "count": 15
   },
   {
@@ -756,10 +1032,6 @@
     "count": 15
   },
   {
-    "tag": "horns",
-    "count": 15
-  },
-  {
     "tag": "hybrid-drums",
     "count": 15
   },
@@ -772,15 +1044,11 @@
     "count": 15
   },
   {
-    "tag": "minor-key",
+    "tag": "mexico",
     "count": 15
   },
   {
     "tag": "north-america",
-    "count": 15
-  },
-  {
-    "tag": "organ",
     "count": 15
   },
   {
@@ -793,6 +1061,18 @@
   },
   {
     "tag": "sound-system",
+    "count": 15
+  },
+  {
+    "tag": "spain",
+    "count": 15
+  },
+  {
+    "tag": "sunny",
+    "count": 15
+  },
+  {
+    "tag": "upbeat",
     "count": 15
   },
   {
@@ -816,7 +1096,59 @@
     "count": 14
   },
   {
+    "tag": "garage-rock",
+    "count": 14
+  },
+  {
+    "tag": "guitar-rock",
+    "count": 14
+  },
+  {
+    "tag": "live-drums",
+    "count": 14
+  },
+  {
+    "tag": "math-rock",
+    "count": 14
+  },
+  {
+    "tag": "moody",
+    "count": 14
+  },
+  {
+    "tag": "noise-rock",
+    "count": 14
+  },
+  {
     "tag": "polished-mix",
+    "count": 14
+  },
+  {
+    "tag": "pop-punk",
+    "count": 14
+  },
+  {
+    "tag": "post-hardcore",
+    "count": 14
+  },
+  {
+    "tag": "post-rock",
+    "count": 14
+  },
+  {
+    "tag": "roots",
+    "count": 14
+  },
+  {
+    "tag": "shoegaze",
+    "count": 14
+  },
+  {
+    "tag": "shuffle",
+    "count": 14
+  },
+  {
+    "tag": "slide-guitar",
     "count": 14
   },
   {
@@ -852,6 +1184,10 @@
     "count": 13
   },
   {
+    "tag": "psychedelic",
+    "count": 13
+  },
+  {
     "tag": "slow-groove",
     "count": 13
   },
@@ -864,7 +1200,7 @@
     "count": 12
   },
   {
-    "tag": "dance",
+    "tag": "dry-drums",
     "count": 12
   },
   {
@@ -880,11 +1216,11 @@
     "count": 12
   },
   {
-    "tag": "modern",
+    "tag": "piano-stabs",
     "count": 12
   },
   {
-    "tag": "riff",
+    "tag": "raw-vocal",
     "count": 12
   },
   {
@@ -892,7 +1228,7 @@
     "count": 11
   },
   {
-    "tag": "ballad",
+    "tag": "choir",
     "count": 11
   },
   {
@@ -904,7 +1240,7 @@
     "count": 11
   },
   {
-    "tag": "group-vocals",
+    "tag": "interlocking-guitars",
     "count": 11
   },
   {
@@ -920,11 +1256,19 @@
     "count": 11
   },
   {
+    "tag": "progressive-rock",
+    "count": 11
+  },
+  {
     "tag": "rhodes-keys",
     "count": 11
   },
   {
-    "tag": "west-africa",
+    "tag": "south-africa",
+    "count": 11
+  },
+  {
+    "tag": "tropical",
     "count": 11
   },
   {
@@ -932,11 +1276,19 @@
     "count": 10
   },
   {
-    "tag": "breakbeat",
+    "tag": "big-band",
     "count": 10
   },
   {
-    "tag": "chorus",
+    "tag": "bold",
+    "count": 10
+  },
+  {
+    "tag": "bouncy-bass",
+    "count": 10
+  },
+  {
+    "tag": "breakbeat",
     "count": 10
   },
   {
@@ -944,7 +1296,15 @@
     "count": 10
   },
   {
+    "tag": "colombia",
+    "count": 10
+  },
+  {
     "tag": "complex-groove",
+    "count": 10
+  },
+  {
+    "tag": "confident",
     "count": 10
   },
   {
@@ -968,7 +1328,7 @@
     "count": 10
   },
   {
-    "tag": "dramatic",
+    "tag": "dream-pop-rock",
     "count": 10
   },
   {
@@ -977,6 +1337,14 @@
   },
   {
     "tag": "dusty-drums",
+    "count": 10
+  },
+  {
+    "tag": "emotional-piano-score",
+    "count": 10
+  },
+  {
+    "tag": "extended-chords",
     "count": 10
   },
   {
@@ -992,6 +1360,10 @@
     "count": 10
   },
   {
+    "tag": "funk-soul",
+    "count": 10
+  },
+  {
     "tag": "gallop",
     "count": 10
   },
@@ -1000,7 +1372,15 @@
     "count": 10
   },
   {
+    "tag": "guiro",
+    "count": 10
+  },
+  {
     "tag": "horn-punches",
+    "count": 10
+  },
+  {
+    "tag": "horn-riffs",
     "count": 10
   },
   {
@@ -1012,23 +1392,27 @@
     "count": 10
   },
   {
+    "tag": "island",
+    "count": 10
+  },
+  {
     "tag": "jangly-guitar",
     "count": 10
   },
   {
-    "tag": "japan",
-    "count": 10
-  },
-  {
-    "tag": "latin-america",
-    "count": 10
-  },
-  {
-    "tag": "layered-percussion",
+    "tag": "jump-blues",
     "count": 10
   },
   {
     "tag": "mallet-keys",
+    "count": 10
+  },
+  {
+    "tag": "meditative",
+    "count": 10
+  },
+  {
+    "tag": "melodic-bass",
     "count": 10
   },
   {
@@ -1040,11 +1424,27 @@
     "count": 10
   },
   {
+    "tag": "neo-soul",
+    "count": 10
+  },
+  {
     "tag": "nordic-folk-pop",
     "count": 10
   },
   {
+    "tag": "north-africa",
+    "count": 10
+  },
+  {
     "tag": "northern-europe",
+    "count": 10
+  },
+  {
+    "tag": "palmas",
+    "count": 10
+  },
+  {
+    "tag": "passionate",
     "count": 10
   },
   {
@@ -1053,6 +1453,10 @@
   },
   {
     "tag": "phase-guitar",
+    "count": 10
+  },
+  {
+    "tag": "pop-hook",
     "count": 10
   },
   {
@@ -1068,7 +1472,15 @@
     "count": 10
   },
   {
+    "tag": "punchy",
+    "count": 10
+  },
+  {
     "tag": "raw-drums",
+    "count": 10
+  },
+  {
+    "tag": "relaxed",
     "count": 10
   },
   {
@@ -1077,6 +1489,10 @@
   },
   {
     "tag": "roots-reggae",
+    "count": 10
+  },
+  {
+    "tag": "second-line",
     "count": 10
   },
   {
@@ -1096,6 +1512,10 @@
     "count": 10
   },
   {
+    "tag": "soul-jazz",
+    "count": 10
+  },
+  {
     "tag": "spacious",
     "count": 10
   },
@@ -1108,11 +1528,27 @@
     "count": 10
   },
   {
-    "tag": "sunny",
+    "tag": "swing",
+    "count": 10
+  },
+  {
+    "tag": "tambourine",
+    "count": 10
+  },
+  {
+    "tag": "tremolo",
+    "count": 10
+  },
+  {
+    "tag": "triangle",
     "count": 10
   },
   {
     "tag": "trinidad-and-tobago",
+    "count": 10
+  },
+  {
+    "tag": "tumbao",
     "count": 10
   },
   {
@@ -1132,11 +1568,23 @@
     "count": 10
   },
   {
+    "tag": "us-midwest",
+    "count": 10
+  },
+  {
     "tag": "vibraphone",
     "count": 10
   },
   {
     "tag": "vocal-one-shots",
+    "count": 10
+  },
+  {
+    "tag": "wah-guitar-funk",
+    "count": 10
+  },
+  {
+    "tag": "warm-chords",
     "count": 10
   },
   {
@@ -1153,6 +1601,10 @@
   },
   {
     "tag": "a-major",
+    "count": 9
+  },
+  {
+    "tag": "acoustic-guitar",
     "count": 9
   },
   {
@@ -1192,6 +1644,10 @@
     "count": 9
   },
   {
+    "tag": "electric-guitar",
+    "count": 9
+  },
+  {
     "tag": "emo-rock",
     "count": 9
   },
@@ -1200,11 +1656,11 @@
     "count": 9
   },
   {
-    "tag": "g-major",
+    "tag": "funk-rock",
     "count": 9
   },
   {
-    "tag": "garage-rock",
+    "tag": "g-major",
     "count": 9
   },
   {
@@ -1216,7 +1672,23 @@
     "count": 9
   },
   {
-    "tag": "guitar-rock",
+    "tag": "gritty",
+    "count": 9
+  },
+  {
+    "tag": "hard-rock",
+    "count": 9
+  },
+  {
+    "tag": "house",
+    "count": 9
+  },
+  {
+    "tag": "improvisation",
+    "count": 9
+  },
+  {
+    "tag": "indie-rock",
     "count": 9
   },
   {
@@ -1228,23 +1700,11 @@
     "count": 9
   },
   {
-    "tag": "live-drums",
-    "count": 9
-  },
-  {
-    "tag": "math-rock",
-    "count": 9
-  },
-  {
-    "tag": "moody",
+    "tag": "modern-blues-rock",
     "count": 9
   },
   {
     "tag": "new-wave-rock",
-    "count": 9
-  },
-  {
-    "tag": "noise-rock",
     "count": 9
   },
   {
@@ -1256,19 +1716,15 @@
     "count": 9
   },
   {
-    "tag": "pop-punk",
-    "count": 9
-  },
-  {
     "tag": "post-grunge",
     "count": 9
   },
   {
-    "tag": "post-hardcore",
+    "tag": "psychedelic-rock",
     "count": 9
   },
   {
-    "tag": "post-rock",
+    "tag": "punk-rock",
     "count": 9
   },
   {
@@ -1280,23 +1736,11 @@
     "count": 9
   },
   {
-    "tag": "roots",
-    "count": 9
-  },
-  {
-    "tag": "shoegaze",
-    "count": 9
-  },
-  {
-    "tag": "slide-guitar",
+    "tag": "rootsy",
     "count": 9
   },
   {
     "tag": "southern-rock",
-    "count": 9
-  },
-  {
-    "tag": "stomp",
     "count": 9
   },
   {
@@ -1348,10 +1792,6 @@
     "count": 8
   },
   {
-    "tag": "guitar-chops",
-    "count": 8
-  },
-  {
     "tag": "harmonic-minor",
     "count": 8
   },
@@ -1360,11 +1800,11 @@
     "count": 8
   },
   {
-    "tag": "muscular",
+    "tag": "jazz",
     "count": 8
   },
   {
-    "tag": "psychedelic",
+    "tag": "muscular",
     "count": 8
   },
   {
@@ -1373,6 +1813,10 @@
   },
   {
     "tag": "tender-vocal",
+    "count": 8
+  },
+  {
+    "tag": "toy-pop",
     "count": 8
   },
   {
@@ -1416,10 +1860,6 @@
     "count": 7
   },
   {
-    "tag": "dry-drums",
-    "count": 7
-  },
-  {
     "tag": "elegant-mix",
     "count": 7
   },
@@ -1428,19 +1868,11 @@
     "count": 7
   },
   {
-    "tag": "fusion",
-    "count": 7
-  },
-  {
     "tag": "glossy-master",
     "count": 7
   },
   {
     "tag": "glossy-mix",
-    "count": 7
-  },
-  {
-    "tag": "hybrid",
     "count": 7
   },
   {
@@ -1468,15 +1900,7 @@
     "count": 7
   },
   {
-    "tag": "piano-stabs",
-    "count": 7
-  },
-  {
     "tag": "playful-vocal",
-    "count": 7
-  },
-  {
-    "tag": "raw-vocal",
     "count": 7
   },
   {
@@ -1497,6 +1921,10 @@
   },
   {
     "tag": "spacious-mix",
+    "count": 7
+  },
+  {
+    "tag": "storytelling",
     "count": 7
   },
   {
@@ -1540,6 +1968,10 @@
     "count": 6
   },
   {
+    "tag": "bachata",
+    "count": 6
+  },
+  {
     "tag": "blues",
     "count": 6
   },
@@ -1560,7 +1992,15 @@
     "count": 6
   },
   {
+    "tag": "dancefloor",
+    "count": 6
+  },
+  {
     "tag": "dancehall",
+    "count": 6
+  },
+  {
+    "tag": "dark-chords",
     "count": 6
   },
   {
@@ -1584,6 +2024,10 @@
     "count": 6
   },
   {
+    "tag": "festival-pop",
+    "count": 6
+  },
+  {
     "tag": "flute-lead",
     "count": 6
   },
@@ -1593,10 +2037,6 @@
   },
   {
     "tag": "glitch",
-    "count": 6
-  },
-  {
-    "tag": "handclaps",
     "count": 6
   },
   {
@@ -1612,15 +2052,15 @@
     "count": 6
   },
   {
-    "tag": "interlocking-guitars",
-    "count": 6
-  },
-  {
-    "tag": "intimate",
+    "tag": "jazz-harmony",
     "count": 6
   },
   {
     "tag": "latin-alt-pop",
+    "count": 6
+  },
+  {
+    "tag": "low-slung",
     "count": 6
   },
   {
@@ -1657,10 +2097,6 @@
   },
   {
     "tag": "progressive",
-    "count": 6
-  },
-  {
-    "tag": "progressive-rock",
     "count": 6
   },
   {
@@ -1704,10 +2140,6 @@
     "count": 6
   },
   {
-    "tag": "south-africa",
-    "count": 6
-  },
-  {
     "tag": "southeast-asian-indie-pop",
     "count": 6
   },
@@ -1721,10 +2153,6 @@
   },
   {
     "tag": "tremolo-guitar",
-    "count": 6
-  },
-  {
-    "tag": "tropical",
     "count": 6
   },
   {
@@ -1756,6 +2184,10 @@
     "count": 5
   },
   {
+    "tag": "70s-new-music",
+    "count": 5
+  },
+  {
     "tag": "76bpm",
     "count": 5
   },
@@ -1764,7 +2196,15 @@
     "count": 5
   },
   {
+    "tag": "80s-kayokyoku-pop",
+    "count": 5
+  },
+  {
     "tag": "abstract-hiphop",
+    "count": 5
+  },
+  {
+    "tag": "accordion-kayokyoku",
     "count": 5
   },
   {
@@ -1776,7 +2216,39 @@
     "count": 5
   },
   {
+    "tag": "acid-jazz-japan",
+    "count": 5
+  },
+  {
+    "tag": "acoustic-duo",
+    "count": 5
+  },
+  {
+    "tag": "acoustic-jpop",
+    "count": 5
+  },
+  {
+    "tag": "acoustic-kayokyoku",
+    "count": 5
+  },
+  {
+    "tag": "acoustic-low-end",
+    "count": 5
+  },
+  {
+    "tag": "acoustic-rap",
+    "count": 5
+  },
+  {
     "tag": "acoustic-reggae",
+    "count": 5
+  },
+  {
+    "tag": "acoustic-rock",
+    "count": 5
+  },
+  {
+    "tag": "acoustic-string",
     "count": 5
   },
   {
@@ -1789,6 +2261,14 @@
   },
   {
     "tag": "active-drums",
+    "count": 5
+  },
+  {
+    "tag": "adult-contemporary-kayokyoku",
+    "count": 5
+  },
+  {
+    "tag": "adventure-map-bgm",
     "count": 5
   },
   {
@@ -1816,7 +2296,15 @@
     "count": 5
   },
   {
+    "tag": "afro-brazilian",
+    "count": 5
+  },
+  {
     "tag": "afro-caribbean-reggae",
+    "count": 5
+  },
+  {
+    "tag": "afro-cuban-jazz",
     "count": 5
   },
   {
@@ -1832,6 +2320,10 @@
     "count": 5
   },
   {
+    "tag": "afro-soul",
+    "count": 5
+  },
+  {
     "tag": "afro-swing",
     "count": 5
   },
@@ -1844,7 +2336,27 @@
     "count": 5
   },
   {
+    "tag": "alt-rock",
+    "count": 5
+  },
+  {
     "tag": "alternate-picking",
+    "count": 5
+  },
+  {
+    "tag": "alternative-metal-japan",
+    "count": 5
+  },
+  {
+    "tag": "alternative-rnb-japan",
+    "count": 5
+  },
+  {
+    "tag": "alternative-soul",
+    "count": 5
+  },
+  {
+    "tag": "amami-island-pop",
     "count": 5
   },
   {
@@ -1860,6 +2372,10 @@
     "count": 5
   },
   {
+    "tag": "ambient-techno-japan",
+    "count": 5
+  },
+  {
     "tag": "american-folk",
     "count": 5
   },
@@ -1868,11 +2384,19 @@
     "count": 5
   },
   {
+    "tag": "analog-warmth",
+    "count": 5
+  },
+  {
+    "tag": "andean",
+    "count": 5
+  },
+  {
     "tag": "andean-folk-pop",
     "count": 5
   },
   {
-    "tag": "andes",
+    "tag": "andean-tropical-pop",
     "count": 5
   },
   {
@@ -1885,6 +2409,50 @@
   },
   {
     "tag": "angular-riffs",
+    "count": 5
+  },
+  {
+    "tag": "anime-battle-theme-rock",
+    "count": 5
+  },
+  {
+    "tag": "anime-club-pop",
+    "count": 5
+  },
+  {
+    "tag": "anime-ending-ballad",
+    "count": 5
+  },
+  {
+    "tag": "anime-fantasy-adventure",
+    "count": 5
+  },
+  {
+    "tag": "anime-idol-opening",
+    "count": 5
+  },
+  {
+    "tag": "anime-magical-girl-pop",
+    "count": 5
+  },
+  {
+    "tag": "anime-mecha-rock",
+    "count": 5
+  },
+  {
+    "tag": "anime-mystery-ending",
+    "count": 5
+  },
+  {
+    "tag": "anime-opening-pop-rock",
+    "count": 5
+  },
+  {
+    "tag": "anime-slice-of-life-pop",
+    "count": 5
+  },
+  {
+    "tag": "anime-sports-opening",
     "count": 5
   },
   {
@@ -1920,7 +2488,15 @@
     "count": 5
   },
   {
-    "tag": "argentina",
+    "tag": "arcade-cute-pop",
+    "count": 5
+  },
+  {
+    "tag": "arcade-electro",
+    "count": 5
+  },
+  {
+    "tag": "arcade-racing-theme",
     "count": 5
   },
   {
@@ -1952,6 +2528,22 @@
     "count": 5
   },
   {
+    "tag": "awa-odori-fusion",
+    "count": 5
+  },
+  {
+    "tag": "award-ceremony-bgm",
+    "count": 5
+  },
+  {
+    "tag": "bachata-urbana",
+    "count": 5
+  },
+  {
+    "tag": "baiao-fusion",
+    "count": 5
+  },
+  {
     "tag": "baile-funk-rap",
     "count": 5
   },
@@ -1980,7 +2572,23 @@
     "count": 5
   },
   {
+    "tag": "bamboo-flute-chill",
+    "count": 5
+  },
+  {
+    "tag": "band-pop",
+    "count": 5
+  },
+  {
+    "tag": "bandoneon-color",
+    "count": 5
+  },
+  {
     "tag": "baritone-texture",
+    "count": 5
+  },
+  {
+    "tag": "basement-indie-rock",
     "count": 5
   },
   {
@@ -1996,6 +2604,10 @@
     "count": 5
   },
   {
+    "tag": "bass-music-japan",
+    "count": 5
+  },
+  {
     "tag": "bayou-groove",
     "count": 5
   },
@@ -2008,15 +2620,31 @@
     "count": 5
   },
   {
+    "tag": "bedroom-rnb-japan",
+    "count": 5
+  },
+  {
+    "tag": "beginner-lesson-song",
+    "count": 5
+  },
+  {
     "tag": "berlin-minimal-techno",
     "count": 5
   },
   {
-    "tag": "big-band",
+    "tag": "big-band-funk",
     "count": 5
   },
   {
-    "tag": "big-band-funk",
+    "tag": "big-band-tv-theme",
+    "count": 5
+  },
+  {
+    "tag": "bilingual-pop-rap",
+    "count": 5
+  },
+  {
+    "tag": "bittersweet-pop",
     "count": 5
   },
   {
@@ -2032,7 +2660,63 @@
     "count": 5
   },
   {
+    "tag": "blue-hour-rock",
+    "count": 5
+  },
+  {
+    "tag": "blues-gospel-rock",
+    "count": 5
+  },
+  {
+    "tag": "bolero",
+    "count": 5
+  },
+  {
+    "tag": "bolero-son",
+    "count": 5
+  },
+  {
+    "tag": "bon-odori-groove",
+    "count": 5
+  },
+  {
+    "tag": "bongo",
+    "count": 5
+  },
+  {
+    "tag": "boogie-funk-japan",
+    "count": 5
+  },
+  {
+    "tag": "boogie-piano",
+    "count": 5
+  },
+  {
+    "tag": "boogie-woogie",
+    "count": 5
+  },
+  {
     "tag": "boom-bap",
+    "count": 5
+  },
+  {
+    "tag": "boom-bap-japan",
+    "count": 5
+  },
+  {
+    "tag": "boom-bap-storytelling",
+    "count": 5
+  },
+  {
+    "tag": "borderlands",
+    "count": 5
+  },
+  {
+    "tag": "boss-rush-electronic-rock",
+    "count": 5
+  },
+  {
+    "tag": "bossa-nova",
     "count": 5
   },
   {
@@ -2040,7 +2724,7 @@
     "count": 5
   },
   {
-    "tag": "bouncy-bass",
+    "tag": "bouncy",
     "count": 5
   },
   {
@@ -2048,7 +2732,23 @@
     "count": 5
   },
   {
+    "tag": "brass-funk-japan",
+    "count": 5
+  },
+  {
+    "tag": "brass-kayokyoku",
+    "count": 5
+  },
+  {
     "tag": "brass-punch",
+    "count": 5
+  },
+  {
+    "tag": "brass-rap",
+    "count": 5
+  },
+  {
+    "tag": "brass-rock",
     "count": 5
   },
   {
@@ -2084,11 +2784,19 @@
     "count": 5
   },
   {
-    "tag": "breezy",
+    "tag": "brazilian-soul",
+    "count": 5
+  },
+  {
+    "tag": "breakbeat-japan",
     "count": 5
   },
   {
     "tag": "bright-hook",
+    "count": 5
+  },
+  {
+    "tag": "bright-teen-pop",
     "count": 5
   },
   {
@@ -2104,7 +2812,23 @@
     "count": 5
   },
   {
+    "tag": "bubblegum-jpop",
+    "count": 5
+  },
+  {
+    "tag": "bubblegum-kawaii-pop",
+    "count": 5
+  },
+  {
     "tag": "buoyant-bass",
+    "count": 5
+  },
+  {
+    "tag": "cafe-jazz-pop",
+    "count": 5
+  },
+  {
+    "tag": "call-and-response-cute",
     "count": 5
   },
   {
@@ -2113,6 +2837,10 @@
   },
   {
     "tag": "campfire-pop",
+    "count": 5
+  },
+  {
+    "tag": "campus-folk",
     "count": 5
   },
   {
@@ -2140,6 +2868,10 @@
     "count": 5
   },
   {
+    "tag": "caribbean-soul",
+    "count": 5
+  },
+  {
     "tag": "caribbean-soul-reggae",
     "count": 5
   },
@@ -2148,7 +2880,15 @@
     "count": 5
   },
   {
+    "tag": "cassette-fusion",
+    "count": 5
+  },
+  {
     "tag": "cassette-texture",
+    "count": 5
+  },
+  {
+    "tag": "cavaquinho-color",
     "count": 5
   },
   {
@@ -2164,6 +2904,10 @@
     "count": 5
   },
   {
+    "tag": "cha-cha-cha",
+    "count": 5
+  },
+  {
     "tag": "chamber-folk",
     "count": 5
   },
@@ -2172,11 +2916,35 @@
     "count": 5
   },
   {
+    "tag": "chanson-kayokyoku",
+    "count": 5
+  },
+  {
+    "tag": "character-song-pop",
+    "count": 5
+  },
+  {
+    "tag": "charango-color",
+    "count": 5
+  },
+  {
+    "tag": "chicago-electric-blues",
+    "count": 5
+  },
+  {
     "tag": "chicago-house",
     "count": 5
   },
   {
+    "tag": "chicha",
+    "count": 5
+  },
+  {
     "tag": "chilean-dream-pop",
+    "count": 5
+  },
+  {
+    "tag": "chillhop-japan",
     "count": 5
   },
   {
@@ -2192,11 +2960,31 @@
     "count": 5
   },
   {
+    "tag": "chiptune-dance",
+    "count": 5
+  },
+  {
+    "tag": "chiptune-pop",
+    "count": 5
+  },
+  {
     "tag": "choir-orchestral",
     "count": 5
   },
   {
+    "tag": "choir-pop-idol",
+    "count": 5
+  },
+  {
     "tag": "chopped-texture",
+    "count": 5
+  },
+  {
+    "tag": "choral-harmony",
+    "count": 5
+  },
+  {
+    "tag": "chorus-heavy-rock",
     "count": 5
   },
   {
@@ -2232,6 +3020,14 @@
     "count": 5
   },
   {
+    "tag": "cinematic-soul",
+    "count": 5
+  },
+  {
+    "tag": "city-electronic",
+    "count": 5
+  },
+  {
     "tag": "city-jazz",
     "count": 5
   },
@@ -2240,7 +3036,39 @@
     "count": 5
   },
   {
+    "tag": "city-kayokyoku",
+    "count": 5
+  },
+  {
+    "tag": "city-night-rnb",
+    "count": 5
+  },
+  {
+    "tag": "city-pop-groove",
+    "count": 5
+  },
+  {
+    "tag": "city-pop-revival",
+    "count": 5
+  },
+  {
     "tag": "city-pop-rnb",
+    "count": 5
+  },
+  {
+    "tag": "city-rain-bgm",
+    "count": 5
+  },
+  {
+    "tag": "city-rnb",
+    "count": 5
+  },
+  {
+    "tag": "city-rock",
+    "count": 5
+  },
+  {
+    "tag": "city-soul-groove",
     "count": 5
   },
   {
@@ -2249,6 +3077,10 @@
   },
   {
     "tag": "classic-heavy-metal",
+    "count": 5
+  },
+  {
+    "tag": "clav",
     "count": 5
   },
   {
@@ -2316,11 +3148,19 @@
     "count": 5
   },
   {
+    "tag": "cleaning-song-pop",
+    "count": 5
+  },
+  {
     "tag": "close-harmonies",
     "count": 5
   },
   {
     "tag": "close-mic",
+    "count": 5
+  },
+  {
+    "tag": "club-bgm-loop",
     "count": 5
   },
   {
@@ -2332,7 +3172,19 @@
     "count": 5
   },
   {
+    "tag": "club-rap-japan",
+    "count": 5
+  },
+  {
     "tag": "club-rock",
+    "count": 5
+  },
+  {
+    "tag": "cm-jingle-cute",
+    "count": 5
+  },
+  {
+    "tag": "cm-pop-jingle",
     "count": 5
   },
   {
@@ -2364,7 +3216,23 @@
     "count": 5
   },
   {
+    "tag": "college-rock",
+    "count": 5
+  },
+  {
     "tag": "colombian-electro-pop",
+    "count": 5
+  },
+  {
+    "tag": "comic-opening-pop",
+    "count": 5
+  },
+  {
+    "tag": "coming-of-age-pop",
+    "count": 5
+  },
+  {
+    "tag": "communal",
     "count": 5
   },
   {
@@ -2372,15 +3240,39 @@
     "count": 5
   },
   {
-    "tag": "confident",
-    "count": 5
-  },
-  {
     "tag": "conga",
     "count": 5
   },
   {
+    "tag": "conscious-rap-japan",
+    "count": 5
+  },
+  {
     "tag": "controlled-sub",
+    "count": 5
+  },
+  {
+    "tag": "cooking-show-bgm",
+    "count": 5
+  },
+  {
+    "tag": "coro",
+    "count": 5
+  },
+  {
+    "tag": "corporate-vp-bgm",
+    "count": 5
+  },
+  {
+    "tag": "country-soul",
+    "count": 5
+  },
+  {
+    "tag": "countryside-bgm",
+    "count": 5
+  },
+  {
+    "tag": "cozy-game-bgm",
     "count": 5
   },
   {
@@ -2392,6 +3284,10 @@
     "count": 5
   },
   {
+    "tag": "cuba-and-diaspora",
+    "count": 5
+  },
+  {
     "tag": "cuban-groove",
     "count": 5
   },
@@ -2400,7 +3296,27 @@
     "count": 5
   },
   {
+    "tag": "cumbia",
+    "count": 5
+  },
+  {
+    "tag": "cumbia-colombiana",
+    "count": 5
+  },
+  {
+    "tag": "cumbia-sonidera",
+    "count": 5
+  },
+  {
     "tag": "curated",
+    "count": 5
+  },
+  {
+    "tag": "cute-rap-pop",
+    "count": 5
+  },
+  {
+    "tag": "cyber-idol-electro",
     "count": 5
   },
   {
@@ -2412,6 +3328,10 @@
     "count": 5
   },
   {
+    "tag": "cyberpunk-game-bgm",
+    "count": 5
+  },
+  {
     "tag": "cyberpunk-score",
     "count": 5
   },
@@ -2420,7 +3340,19 @@
     "count": 5
   },
   {
+    "tag": "cypher-beat-japan",
+    "count": 5
+  },
+  {
+    "tag": "daily-life-bgm",
+    "count": 5
+  },
+  {
     "tag": "dance-pop",
+    "count": 5
+  },
+  {
+    "tag": "dance-pop-idol",
     "count": 5
   },
   {
@@ -2456,6 +3388,10 @@
     "count": 5
   },
   {
+    "tag": "deep-drums",
+    "count": 5
+  },
+  {
     "tag": "deep-dub",
     "count": 5
   },
@@ -2464,11 +3400,47 @@
     "count": 5
   },
   {
+    "tag": "deep-house-japan",
+    "count": 5
+  },
+  {
+    "tag": "deep-soul-ballad",
+    "count": 5
+  },
+  {
     "tag": "delay",
     "count": 5
   },
   {
+    "tag": "delta-blues",
+    "count": 5
+  },
+  {
+    "tag": "dembow-club",
+    "count": 5
+  },
+  {
+    "tag": "dembow-inspired",
+    "count": 5
+  },
+  {
     "tag": "dembow-pop-rap",
+    "count": 5
+  },
+  {
+    "tag": "denpa-electro",
+    "count": 5
+  },
+  {
+    "tag": "denpa-pop",
+    "count": 5
+  },
+  {
+    "tag": "department-store-bgm",
+    "count": 5
+  },
+  {
+    "tag": "desert-blues-soul",
     "count": 5
   },
   {
@@ -2492,6 +3464,18 @@
     "count": 5
   },
   {
+    "tag": "detective-bgm",
+    "count": 5
+  },
+  {
+    "tag": "detective-jazz-funk",
+    "count": 5
+  },
+  {
+    "tag": "detroit-soul-pop",
+    "count": 5
+  },
+  {
     "tag": "detroit-techno",
     "count": 5
   },
@@ -2504,11 +3488,27 @@
     "count": 5
   },
   {
+    "tag": "digital-cumbia",
+    "count": 5
+  },
+  {
     "tag": "digital-percussion",
     "count": 5
   },
   {
+    "tag": "direct",
+    "count": 5
+  },
+  {
     "tag": "dirty-guitars",
+    "count": 5
+  },
+  {
+    "tag": "disco-funk-japan",
+    "count": 5
+  },
+  {
+    "tag": "disco-pop-japan",
     "count": 5
   },
   {
@@ -2528,6 +3528,10 @@
     "count": 5
   },
   {
+    "tag": "documentary-japan",
+    "count": 5
+  },
+  {
     "tag": "documentary-score",
     "count": 5
   },
@@ -2544,11 +3548,23 @@
     "count": 5
   },
   {
+    "tag": "downtempo-japan",
+    "count": 5
+  },
+  {
     "tag": "downtuned",
     "count": 5
   },
   {
-    "tag": "dream-pop-rock",
+    "tag": "drama-rock-ballad",
+    "count": 5
+  },
+  {
+    "tag": "drama-theme-pop",
+    "count": 5
+  },
+  {
+    "tag": "dreamwave-japan",
     "count": 5
   },
   {
@@ -2556,7 +3572,15 @@
     "count": 5
   },
   {
+    "tag": "drill-japan",
+    "count": 5
+  },
+  {
     "tag": "drill-rnb",
+    "count": 5
+  },
+  {
+    "tag": "driving-rock",
     "count": 5
   },
   {
@@ -2565,6 +3589,10 @@
   },
   {
     "tag": "dropouts",
+    "count": 5
+  },
+  {
+    "tag": "drum-and-bass-japan",
     "count": 5
   },
   {
@@ -2588,6 +3616,14 @@
     "count": 5
   },
   {
+    "tag": "dungeon-synth-game",
+    "count": 5
+  },
+  {
+    "tag": "dusty",
+    "count": 5
+  },
+  {
     "tag": "dynamic-shifts",
     "count": 5
   },
@@ -2608,6 +3644,18 @@
     "count": 5
   },
   {
+    "tag": "edo-street-pop",
+    "count": 5
+  },
+  {
+    "tag": "educational-kids-pop",
+    "count": 5
+  },
+  {
+    "tag": "eisa-drum-pop",
+    "count": 5
+  },
+  {
     "tag": "elastic-groove",
     "count": 5
   },
@@ -2616,11 +3664,31 @@
     "count": 5
   },
   {
+    "tag": "electric-piano-groove",
+    "count": 5
+  },
+  {
+    "tag": "electro-house-japan",
+    "count": 5
+  },
+  {
+    "tag": "electro-idol",
+    "count": 5
+  },
+  {
     "tag": "electro-jazz",
     "count": 5
   },
   {
     "tag": "electro-jazz-funk",
+    "count": 5
+  },
+  {
+    "tag": "electro-pop-chorus",
+    "count": 5
+  },
+  {
+    "tag": "electro-rap",
     "count": 5
   },
   {
@@ -2636,7 +3704,19 @@
     "count": 5
   },
   {
+    "tag": "elevator-luxury-groove",
+    "count": 5
+  },
+  {
+    "tag": "emo-rap-japan",
+    "count": 5
+  },
+  {
     "tag": "emotional-chorus",
+    "count": 5
+  },
+  {
+    "tag": "emotional-cutscene-score",
     "count": 5
   },
   {
@@ -2644,7 +3724,11 @@
     "count": 5
   },
   {
-    "tag": "emotional-piano-score",
+    "tag": "ending-credits-bgm",
+    "count": 5
+  },
+  {
+    "tag": "ending-credits-piano",
     "count": 5
   },
   {
@@ -2652,7 +3736,15 @@
     "count": 5
   },
   {
+    "tag": "enka-ballad",
+    "count": 5
+  },
+  {
     "tag": "epic-orchestral",
+    "count": 5
+  },
+  {
+    "tag": "episode-recap-bgm",
     "count": 5
   },
   {
@@ -2668,7 +3760,19 @@
     "count": 5
   },
   {
+    "tag": "ethiopia",
+    "count": 5
+  },
+  {
     "tag": "ethiopian-jazz-pop",
+    "count": 5
+  },
+  {
+    "tag": "ethiopian-soul-jazz",
+    "count": 5
+  },
+  {
+    "tag": "event-opening-bgm",
     "count": 5
   },
   {
@@ -2684,7 +3788,19 @@
     "count": 5
   },
   {
+    "tag": "family-drama-score",
+    "count": 5
+  },
+  {
+    "tag": "family-folk",
+    "count": 5
+  },
+  {
     "tag": "fantasy-orchestral",
+    "count": 5
+  },
+  {
+    "tag": "fantasy-tavern-bgm",
     "count": 5
   },
   {
@@ -2701,6 +3817,38 @@
   },
   {
     "tag": "fast-guitars",
+    "count": 5
+  },
+  {
+    "tag": "fast-percussion",
+    "count": 5
+  },
+  {
+    "tag": "festival-booth-pop",
+    "count": 5
+  },
+  {
+    "tag": "festival-drum-pop",
+    "count": 5
+  },
+  {
+    "tag": "festival-edm-pop",
+    "count": 5
+  },
+  {
+    "tag": "festival-kayokyoku",
+    "count": 5
+  },
+  {
+    "tag": "festival-rap",
+    "count": 5
+  },
+  {
+    "tag": "festival-rock",
+    "count": 5
+  },
+  {
+    "tag": "festival-scene-bgm",
     "count": 5
   },
   {
@@ -2724,6 +3872,10 @@
     "count": 5
   },
   {
+    "tag": "filter-house-japan",
+    "count": 5
+  },
+  {
     "tag": "filtered-horns",
     "count": 5
   },
@@ -2732,11 +3884,43 @@
     "count": 5
   },
   {
+    "tag": "fingerpicking",
+    "count": 5
+  },
+  {
     "tag": "flamenco-pop-acoustic",
     "count": 5
   },
   {
+    "tag": "flamenco-pop-fusion",
+    "count": 5
+  },
+  {
+    "tag": "flute-color",
+    "count": 5
+  },
+  {
+    "tag": "folk-dance-fusion",
+    "count": 5
+  },
+  {
+    "tag": "folk-guitar",
+    "count": 5
+  },
+  {
     "tag": "folk-metal-inspired",
+    "count": 5
+  },
+  {
+    "tag": "folk-rock-kayokyoku",
+    "count": 5
+  },
+  {
+    "tag": "folk-song-japan",
+    "count": 5
+  },
+  {
+    "tag": "forro-pop",
     "count": 5
   },
   {
@@ -2768,6 +3952,10 @@
     "count": 5
   },
   {
+    "tag": "friendship-pop",
+    "count": 5
+  },
+  {
     "tag": "front-bass",
     "count": 5
   },
@@ -2780,7 +3968,23 @@
     "count": 5
   },
   {
-    "tag": "funk-soul",
+    "tag": "funk-rap-japan",
+    "count": 5
+  },
+  {
+    "tag": "fusion-instrumental",
+    "count": 5
+  },
+  {
+    "tag": "future-bass-pop",
+    "count": 5
+  },
+  {
+    "tag": "future-garage-japan",
+    "count": 5
+  },
+  {
+    "tag": "future-idol-pop",
     "count": 5
   },
   {
@@ -2808,7 +4012,15 @@
     "count": 5
   },
   {
+    "tag": "gagaku-inspired-ambient",
+    "count": 5
+  },
+  {
     "tag": "galloping-bass",
+    "count": 5
+  },
+  {
+    "tag": "game-menu-cute",
     "count": 5
   },
   {
@@ -2817,6 +4029,14 @@
   },
   {
     "tag": "garage-energy",
+    "count": 5
+  },
+  {
+    "tag": "garage-rnb-japan",
+    "count": 5
+  },
+  {
+    "tag": "gentle-protest-folk",
     "count": 5
   },
   {
@@ -2836,7 +4056,15 @@
     "count": 5
   },
   {
+    "tag": "glitch-pop-japan",
+    "count": 5
+  },
+  {
     "tag": "glitter-hooks",
+    "count": 5
+  },
+  {
+    "tag": "glockenspiel-pop",
     "count": 5
   },
   {
@@ -2844,7 +4072,19 @@
     "count": 5
   },
   {
+    "tag": "gospel-ballad",
+    "count": 5
+  },
+  {
+    "tag": "gospel-choir",
+    "count": 5
+  },
+  {
     "tag": "gospel-folk-pop",
+    "count": 5
+  },
+  {
+    "tag": "gospel-house",
     "count": 5
   },
   {
@@ -2860,6 +4100,10 @@
     "count": 5
   },
   {
+    "tag": "graduation-pop",
+    "count": 5
+  },
+  {
     "tag": "granular",
     "count": 5
   },
@@ -2869,6 +4113,10 @@
   },
   {
     "tag": "greek-island-acoustic",
+    "count": 5
+  },
+  {
+    "tag": "grime-japan",
     "count": 5
   },
   {
@@ -2896,11 +4144,39 @@
     "count": 5
   },
   {
+    "tag": "group-sounds-inspired",
+    "count": 5
+  },
+  {
+    "tag": "grunge-alt",
+    "count": 5
+  },
+  {
+    "tag": "guira",
+    "count": 5
+  },
+  {
+    "tag": "guitar-arpeggios",
+    "count": 5
+  },
+  {
     "tag": "guitar-forward",
     "count": 5
   },
   {
+    "tag": "guitar-lead",
+    "count": 5
+  },
+  {
+    "tag": "guitar-led",
+    "count": 5
+  },
+  {
     "tag": "guitar-pop",
+    "count": 5
+  },
+  {
+    "tag": "haiku-spoken-ambient",
     "count": 5
   },
   {
@@ -2912,11 +4188,35 @@
     "count": 5
   },
   {
+    "tag": "handclap-cute-pop",
+    "count": 5
+  },
+  {
+    "tag": "handclap-gospel",
+    "count": 5
+  },
+  {
+    "tag": "handmade",
+    "count": 5
+  },
+  {
+    "tag": "happy-hardcore-japan",
+    "count": 5
+  },
+  {
+    "tag": "harbor-ballad",
+    "count": 5
+  },
+  {
     "tag": "hard-swing",
     "count": 5
   },
   {
     "tag": "hardcore-punk",
+    "count": 5
+  },
+  {
+    "tag": "harmony-pop",
     "count": 5
   },
   {
@@ -2936,7 +4236,7 @@
     "count": 5
   },
   {
-    "tag": "heartfelt",
+    "tag": "healing-spa-bgm",
     "count": 5
   },
   {
@@ -2972,6 +4272,10 @@
     "count": 5
   },
   {
+    "tag": "hero-transformation-theme",
+    "count": 5
+  },
+  {
     "tag": "highway-rock",
     "count": 5
   },
@@ -2980,7 +4284,11 @@
     "count": 5
   },
   {
-    "tag": "hook",
+    "tag": "historical-town-bgm",
+    "count": 5
+  },
+  {
+    "tag": "hometown-ballad",
     "count": 5
   },
   {
@@ -2988,7 +4296,11 @@
     "count": 5
   },
   {
-    "tag": "horn-riffs",
+    "tag": "horn-lead",
+    "count": 5
+  },
+  {
+    "tag": "horn-section-funk",
     "count": 5
   },
   {
@@ -2996,7 +4308,23 @@
     "count": 5
   },
   {
+    "tag": "hotel-lobby-jazz",
+    "count": 5
+  },
+  {
+    "tag": "huayno-pop-fusion",
+    "count": 5
+  },
+  {
+    "tag": "humid",
+    "count": 5
+  },
+  {
     "tag": "hybrid-trailer",
+    "count": 5
+  },
+  {
+    "tag": "hyperpop-japan",
     "count": 5
   },
   {
@@ -3013,6 +4341,26 @@
   },
   {
     "tag": "icy-keys",
+    "count": 5
+  },
+  {
+    "tag": "idol-cute-unit",
+    "count": 5
+  },
+  {
+    "tag": "idol-rap-pop",
+    "count": 5
+  },
+  {
+    "tag": "idol-unit-cool",
+    "count": 5
+  },
+  {
+    "tag": "idol-unit-cute",
+    "count": 5
+  },
+  {
+    "tag": "idol-unit-emotional",
     "count": 5
   },
   {
@@ -3033,6 +4381,10 @@
   },
   {
     "tag": "indie-folk",
+    "count": 5
+  },
+  {
+    "tag": "indie-soul",
     "count": 5
   },
   {
@@ -3072,11 +4424,11 @@
     "count": 5
   },
   {
-    "tag": "iran-persian-region",
+    "tag": "instrumental-post-rock",
     "count": 5
   },
   {
-    "tag": "island",
+    "tag": "iran-persian-region",
     "count": 5
   },
   {
@@ -3096,6 +4448,10 @@
     "count": 5
   },
   {
+    "tag": "island-sanshin-pop",
+    "count": 5
+  },
+  {
     "tag": "italian-cantautore-pop",
     "count": 5
   },
@@ -3109,6 +4465,22 @@
   },
   {
     "tag": "italy",
+    "count": 5
+  },
+  {
+    "tag": "j-core-inspired",
+    "count": 5
+  },
+  {
+    "tag": "j-electro-pop",
+    "count": 5
+  },
+  {
+    "tag": "j-pop-anthem",
+    "count": 5
+  },
+  {
+    "tag": "j-rock-anthem",
     "count": 5
   },
   {
@@ -3128,11 +4500,27 @@
     "count": 5
   },
   {
+    "tag": "japanese-cinematic",
+    "count": 5
+  },
+  {
     "tag": "japanese-city-pop",
     "count": 5
   },
   {
     "tag": "japanese-electronic-pop",
+    "count": 5
+  },
+  {
+    "tag": "japanese-emo-rock",
+    "count": 5
+  },
+  {
+    "tag": "japanese-flute-pop",
+    "count": 5
+  },
+  {
+    "tag": "japanese-fusion",
     "count": 5
   },
   {
@@ -3144,6 +4532,10 @@
     "count": 5
   },
   {
+    "tag": "japanese-rap",
+    "count": 5
+  },
+  {
     "tag": "japanese-rnb",
     "count": 5
   },
@@ -3152,7 +4544,7 @@
     "count": 5
   },
   {
-    "tag": "jazz-funk",
+    "tag": "jazz-funk-japan",
     "count": 5
   },
   {
@@ -3172,7 +4564,39 @@
     "count": 5
   },
   {
+    "tag": "jazz-kayokyoku",
+    "count": 5
+  },
+  {
     "tag": "jazz-rap",
+    "count": 5
+  },
+  {
+    "tag": "jazz-rap-japan",
+    "count": 5
+  },
+  {
+    "tag": "joyful",
+    "count": 5
+  },
+  {
+    "tag": "jrpg-airship-theme",
+    "count": 5
+  },
+  {
+    "tag": "jrpg-battle-theme",
+    "count": 5
+  },
+  {
+    "tag": "jrpg-boss-theme",
+    "count": 5
+  },
+  {
+    "tag": "jrpg-field-theme",
+    "count": 5
+  },
+  {
+    "tag": "jrpg-town-theme",
     "count": 5
   },
   {
@@ -3180,11 +4604,51 @@
     "count": 5
   },
   {
+    "tag": "jungle-pop",
+    "count": 5
+  },
+  {
+    "tag": "kabuki-inspired-rock",
+    "count": 5
+  },
+  {
+    "tag": "karaoke-ballad",
+    "count": 5
+  },
+  {
+    "tag": "karaoke-standard",
+    "count": 5
+  },
+  {
+    "tag": "kawaii-bass",
+    "count": 5
+  },
+  {
+    "tag": "kawaii-electronic",
+    "count": 5
+  },
+  {
+    "tag": "kawaii-future-bass",
+    "count": 5
+  },
+  {
     "tag": "kenyan-guitar-pop",
     "count": 5
   },
   {
+    "tag": "keyboard-hook",
+    "count": 5
+  },
+  {
+    "tag": "keyboard-solo-fusion",
+    "count": 5
+  },
+  {
     "tag": "keys",
+    "count": 5
+  },
+  {
+    "tag": "kitchen-timer-jingle",
     "count": 5
   },
   {
@@ -3220,6 +4684,14 @@
     "count": 5
   },
   {
+    "tag": "koto-ambient",
+    "count": 5
+  },
+  {
+    "tag": "koto-jazz-fusion",
+    "count": 5
+  },
+  {
     "tag": "krautrock-groove",
     "count": 5
   },
@@ -3228,7 +4700,15 @@
     "count": 5
   },
   {
+    "tag": "laid-back",
+    "count": 5
+  },
+  {
     "tag": "laid-back-bounce",
+    "count": 5
+  },
+  {
+    "tag": "laid-back-rap",
     "count": 5
   },
   {
@@ -3236,7 +4716,15 @@
     "count": 5
   },
   {
+    "tag": "late-night-bar-jazz",
+    "count": 5
+  },
+  {
     "tag": "latin-cinematic-score",
+    "count": 5
+  },
+  {
+    "tag": "latin-funk",
     "count": 5
   },
   {
@@ -3244,7 +4732,23 @@
     "count": 5
   },
   {
+    "tag": "latin-house",
+    "count": 5
+  },
+  {
+    "tag": "latin-jazz",
+    "count": 5
+  },
+  {
     "tag": "latin-jazz-funk",
+    "count": 5
+  },
+  {
+    "tag": "latin-jpop",
+    "count": 5
+  },
+  {
+    "tag": "latin-kayokyoku",
     "count": 5
   },
   {
@@ -3253,6 +4757,18 @@
   },
   {
     "tag": "latin-reggae-fusion",
+    "count": 5
+  },
+  {
+    "tag": "latin-rock",
+    "count": 5
+  },
+  {
+    "tag": "latin-soul",
+    "count": 5
+  },
+  {
+    "tag": "latin-trap-pop",
     "count": 5
   },
   {
@@ -3284,11 +4800,27 @@
     "count": 5
   },
   {
+    "tag": "lofi-electronica",
+    "count": 5
+  },
+  {
+    "tag": "lofi-rap-japan",
+    "count": 5
+  },
+  {
+    "tag": "lofi-soul-blues",
+    "count": 5
+  },
+  {
     "tag": "log-drum-texture",
     "count": 5
   },
   {
     "tag": "loose-pocket",
+    "count": 5
+  },
+  {
+    "tag": "lounge-jazz-japan",
     "count": 5
   },
   {
@@ -3304,6 +4836,10 @@
     "count": 5
   },
   {
+    "tag": "lush",
+    "count": 5
+  },
+  {
     "tag": "lyrical-guitar",
     "count": 5
   },
@@ -3312,7 +4848,19 @@
     "count": 5
   },
   {
+    "tag": "magical-toy-pop",
+    "count": 5
+  },
+  {
     "tag": "major-key",
+    "count": 5
+  },
+  {
+    "tag": "mambo",
+    "count": 5
+  },
+  {
+    "tag": "mandolin-kayokyoku",
     "count": 5
   },
   {
@@ -3320,11 +4868,27 @@
     "count": 5
   },
   {
+    "tag": "mariachi-pop-fusion",
+    "count": 5
+  },
+  {
+    "tag": "marimba-cute-pop",
+    "count": 5
+  },
+  {
     "tag": "marimba-keys",
     "count": 5
   },
   {
-    "tag": "meditative",
+    "tag": "mascot-theme",
+    "count": 5
+  },
+  {
+    "tag": "mascot-theme-pop",
+    "count": 5
+  },
+  {
+    "tag": "matsuri-beat",
     "count": 5
   },
   {
@@ -3340,6 +4904,10 @@
     "count": 5
   },
   {
+    "tag": "mellow",
+    "count": 5
+  },
+  {
     "tag": "mellow-brass",
     "count": 5
   },
@@ -3352,15 +4920,19 @@
     "count": 5
   },
   {
-    "tag": "melodic-bass",
-    "count": 5
-  },
-  {
     "tag": "melodic-extreme-metal",
     "count": 5
   },
   {
+    "tag": "melodic-punk",
+    "count": 5
+  },
+  {
     "tag": "melodic-rap",
+    "count": 5
+  },
+  {
+    "tag": "melodic-rap-japan",
     "count": 5
   },
   {
@@ -3384,6 +4956,22 @@
     "count": 5
   },
   {
+    "tag": "menu-screen-bgm",
+    "count": 5
+  },
+  {
+    "tag": "menu-screen-pop",
+    "count": 5
+  },
+  {
+    "tag": "merengue",
+    "count": 5
+  },
+  {
+    "tag": "merengue-pop",
+    "count": 5
+  },
+  {
     "tag": "metalcore",
     "count": 5
   },
@@ -3400,7 +4988,7 @@
     "count": 5
   },
   {
-    "tag": "mexico",
+    "tag": "mexico-and-us-borderlands",
     "count": 5
   },
   {
@@ -3416,6 +5004,14 @@
     "count": 5
   },
   {
+    "tag": "midnight-smooth-groove",
+    "count": 5
+  },
+  {
+    "tag": "milonga-fusion",
+    "count": 5
+  },
+  {
     "tag": "minimal-bass",
     "count": 5
   },
@@ -3424,7 +5020,27 @@
     "count": 5
   },
   {
+    "tag": "minimal-techno-tokyo",
+    "count": 5
+  },
+  {
+    "tag": "minimalist-rnb",
+    "count": 5
+  },
+  {
+    "tag": "minyo-electro",
+    "count": 5
+  },
+  {
+    "tag": "minyo-pop",
+    "count": 5
+  },
+  {
     "tag": "mixed-vocals",
+    "count": 5
+  },
+  {
+    "tag": "mobile-game-idol-pop",
     "count": 5
   },
   {
@@ -3441,6 +5057,10 @@
   },
   {
     "tag": "modern-dancehall-pop",
+    "count": 5
+  },
+  {
+    "tag": "modern-enka",
     "count": 5
   },
   {
@@ -3464,6 +5084,14 @@
     "count": 5
   },
   {
+    "tag": "montuno",
+    "count": 5
+  },
+  {
+    "tag": "mood-kayokyoku",
+    "count": 5
+  },
+  {
     "tag": "moody-keys",
     "count": 5
   },
@@ -3476,11 +5104,39 @@
     "count": 5
   },
   {
+    "tag": "morning-exercise-pop",
+    "count": 5
+  },
+  {
+    "tag": "morning-news-bed",
+    "count": 5
+  },
+  {
+    "tag": "morning-tv-pop",
+    "count": 5
+  },
+  {
     "tag": "moroccan-electro-pop",
     "count": 5
   },
   {
     "tag": "motorik-rock",
+    "count": 5
+  },
+  {
+    "tag": "mountain-village-fusion",
+    "count": 5
+  },
+  {
+    "tag": "mpb-tropical-pop",
+    "count": 5
+  },
+  {
+    "tag": "museum-audio-bgm",
+    "count": 5
+  },
+  {
+    "tag": "mystery-drama-score",
     "count": 5
   },
   {
@@ -3496,7 +5152,11 @@
     "count": 5
   },
   {
-    "tag": "neo-soul",
+    "tag": "nature-travel-bgm",
+    "count": 5
+  },
+  {
+    "tag": "neo-soul-japan",
     "count": 5
   },
   {
@@ -3508,6 +5168,10 @@
     "count": 5
   },
   {
+    "tag": "new-music",
+    "count": 5
+  },
+  {
     "tag": "new-orleans",
     "count": 5
   },
@@ -3516,11 +5180,35 @@
     "count": 5
   },
   {
+    "tag": "new-orleans-rnb",
+    "count": 5
+  },
+  {
+    "tag": "new-orleans-soul-funk",
+    "count": 5
+  },
+  {
     "tag": "nigerian-alte-pop",
     "count": 5
   },
   {
     "tag": "nigerian-electronic-alte",
+    "count": 5
+  },
+  {
+    "tag": "night-drive-electro",
+    "count": 5
+  },
+  {
+    "tag": "night-drive-fusion",
+    "count": 5
+  },
+  {
+    "tag": "night-drive-pop",
+    "count": 5
+  },
+  {
+    "tag": "noh-inspired-minimal",
     "count": 5
   },
   {
@@ -3560,7 +5248,23 @@
     "count": 5
   },
   {
-    "tag": "north-africa",
+    "tag": "norteno-pop",
+    "count": 5
+  },
+  {
+    "tag": "northern-soul",
+    "count": 5
+  },
+  {
+    "tag": "nostalgic-tv-theme",
+    "count": 5
+  },
+  {
+    "tag": "novelty-dance-pop",
+    "count": 5
+  },
+  {
+    "tag": "nu-disco-japan",
     "count": 5
   },
   {
@@ -3576,7 +5280,15 @@
     "count": 5
   },
   {
+    "tag": "nursery-electro-pop",
+    "count": 5
+  },
+  {
     "tag": "nyabinghi-inspired",
+    "count": 5
+  },
+  {
+    "tag": "obon-night-pop",
     "count": 5
   },
   {
@@ -3596,11 +5308,27 @@
     "count": 5
   },
   {
+    "tag": "okinawan-pop",
+    "count": 5
+  },
+  {
+    "tag": "old-school-hiphop-japan",
+    "count": 5
+  },
+  {
     "tag": "one-drop",
     "count": 5
   },
   {
     "tag": "one-drop-reggae",
+    "count": 5
+  },
+  {
+    "tag": "onsen-lounge",
+    "count": 5
+  },
+  {
+    "tag": "onsen-travel-bgm",
     "count": 5
   },
   {
@@ -3612,7 +5340,15 @@
     "count": 5
   },
   {
+    "tag": "opening-title-theme",
+    "count": 5
+  },
+  {
     "tag": "organ-bubble",
+    "count": 5
+  },
+  {
+    "tag": "organ-jazz-funk",
     "count": 5
   },
   {
@@ -3652,6 +5388,10 @@
     "count": 5
   },
   {
+    "tag": "pagode-pop",
+    "count": 5
+  },
+  {
     "tag": "pakistan",
     "count": 5
   },
@@ -3672,11 +5412,19 @@
     "count": 5
   },
   {
+    "tag": "pan-flute-color",
+    "count": 5
+  },
+  {
     "tag": "parade-groove",
     "count": 5
   },
   {
     "tag": "party-clean",
+    "count": 5
+  },
+  {
+    "tag": "pastel-electro-pop",
     "count": 5
   },
   {
@@ -3688,6 +5436,10 @@
     "count": 5
   },
   {
+    "tag": "percussion-breaks",
+    "count": 5
+  },
+  {
     "tag": "percussion-fusion",
     "count": 5
   },
@@ -3696,7 +5448,15 @@
     "count": 5
   },
   {
+    "tag": "period-drama-inspired",
+    "count": 5
+  },
+  {
     "tag": "persian-acoustic-pop",
+    "count": 5
+  },
+  {
+    "tag": "peru",
     "count": 5
   },
   {
@@ -3712,11 +5472,43 @@
     "count": 5
   },
   {
+    "tag": "philly-soul-inspired",
+    "count": 5
+  },
+  {
     "tag": "piano-figures",
     "count": 5
   },
   {
+    "tag": "piano-house-japan",
+    "count": 5
+  },
+  {
+    "tag": "piano-pop-ballad",
+    "count": 5
+  },
+  {
+    "tag": "piano-rap-ballad",
+    "count": 5
+  },
+  {
     "tag": "piano-riffs",
+    "count": 5
+  },
+  {
+    "tag": "piedmont-blues",
+    "count": 5
+  },
+  {
+    "tag": "pixel-mascot-theme",
+    "count": 5
+  },
+  {
+    "tag": "playful",
+    "count": 5
+  },
+  {
+    "tag": "playground-synth-pop",
     "count": 5
   },
   {
@@ -3732,6 +5524,10 @@
     "count": 5
   },
   {
+    "tag": "podcast-bed-japan",
+    "count": 5
+  },
+  {
     "tag": "polyrhythm",
     "count": 5
   },
@@ -3744,11 +5540,11 @@
     "count": 5
   },
   {
-    "tag": "pop-hook",
+    "tag": "pop-rap",
     "count": 5
   },
   {
-    "tag": "pop-rap",
+    "tag": "pop-rap-japan",
     "count": 5
   },
   {
@@ -3768,6 +5564,10 @@
     "count": 5
   },
   {
+    "tag": "power-pop-rock",
+    "count": 5
+  },
+  {
     "tag": "power-riffs",
     "count": 5
   },
@@ -3780,6 +5580,10 @@
     "count": 5
   },
   {
+    "tag": "product-demo-bgm",
+    "count": 5
+  },
+  {
     "tag": "prog-fusion",
     "count": 5
   },
@@ -3788,15 +5592,23 @@
     "count": 5
   },
   {
+    "tag": "psychedelic-cumbia",
+    "count": 5
+  },
+  {
     "tag": "psychedelic-dub",
     "count": 5
   },
   {
-    "tag": "punchy",
+    "tag": "punchy-master",
     "count": 5
   },
   {
-    "tag": "punchy-master",
+    "tag": "puzzle-game-bgm",
+    "count": 5
+  },
+  {
+    "tag": "quick-pulse",
     "count": 5
   },
   {
@@ -3805,6 +5617,30 @@
   },
   {
     "tag": "ragga-jungle-influenced",
+    "count": 5
+  },
+  {
+    "tag": "ragtime-feel",
+    "count": 5
+  },
+  {
+    "tag": "rainy-day-pop",
+    "count": 5
+  },
+  {
+    "tag": "rainy-guitar-rock",
+    "count": 5
+  },
+  {
+    "tag": "rainy-lounge",
+    "count": 5
+  },
+  {
+    "tag": "rainy-night-kayokyoku",
+    "count": 5
+  },
+  {
+    "tag": "rainy-rnb",
     "count": 5
   },
   {
@@ -3840,11 +5676,15 @@
     "count": 5
   },
   {
+    "tag": "reggaeton-pop",
+    "count": 5
+  },
+  {
     "tag": "reggaeton-rnb",
     "count": 5
   },
   {
-    "tag": "relaxed",
+    "tag": "resort-fusion",
     "count": 5
   },
   {
@@ -3856,11 +5696,51 @@
     "count": 5
   },
   {
+    "tag": "retail-store-bgm",
+    "count": 5
+  },
+  {
+    "tag": "retro-cm-song",
+    "count": 5
+  },
+  {
+    "tag": "retro-game-chiptune",
+    "count": 5
+  },
+  {
+    "tag": "retro-idol-kayokyoku",
+    "count": 5
+  },
+  {
+    "tag": "retro-kayokyoku-pop",
+    "count": 5
+  },
+  {
     "tag": "retro-modern",
     "count": 5
   },
   {
+    "tag": "retro-soul",
+    "count": 5
+  },
+  {
+    "tag": "retro-tv-opener",
+    "count": 5
+  },
+  {
     "tag": "reverb",
+    "count": 5
+  },
+  {
+    "tag": "rhodes",
+    "count": 5
+  },
+  {
+    "tag": "rhythm-game-electronic",
+    "count": 5
+  },
+  {
+    "tag": "rhythm-game-pop",
     "count": 5
   },
   {
@@ -3884,7 +5764,19 @@
     "count": 5
   },
   {
+    "tag": "rnb-pop-japan",
+    "count": 5
+  },
+  {
     "tag": "roadhouse-energy",
+    "count": 5
+  },
+  {
+    "tag": "robot-helper-pop",
+    "count": 5
+  },
+  {
+    "tag": "robotic-pop",
     "count": 5
   },
   {
@@ -3896,15 +5788,15 @@
     "count": 5
   },
   {
+    "tag": "rolling",
+    "count": 5
+  },
+  {
     "tag": "rolling-groove",
     "count": 5
   },
   {
     "tag": "rolling-snare",
-    "count": 5
-  },
-  {
-    "tag": "romantic",
     "count": 5
   },
   {
@@ -3920,7 +5812,31 @@
     "count": 5
   },
   {
+    "tag": "sake-bar-ballad",
+    "count": 5
+  },
+  {
+    "tag": "salsa-dura",
+    "count": 5
+  },
+  {
+    "tag": "salsa-house",
+    "count": 5
+  },
+  {
+    "tag": "salsa-romantica",
+    "count": 5
+  },
+  {
+    "tag": "samba",
+    "count": 5
+  },
+  {
     "tag": "samba-funk",
+    "count": 5
+  },
+  {
+    "tag": "samba-reggae",
     "count": 5
   },
   {
@@ -3928,7 +5844,39 @@
     "count": 5
   },
   {
+    "tag": "sample-free-soul-rap",
+    "count": 5
+  },
+  {
+    "tag": "samurai-cinematic",
+    "count": 5
+  },
+  {
+    "tag": "samurai-drama-score",
+    "count": 5
+  },
+  {
+    "tag": "sax-city-pop",
+    "count": 5
+  },
+  {
     "tag": "scandinavia",
+    "count": 5
+  },
+  {
+    "tag": "school-anime-chorus",
+    "count": 5
+  },
+  {
+    "tag": "school-bell-pop",
+    "count": 5
+  },
+  {
+    "tag": "school-day-bgm",
+    "count": 5
+  },
+  {
+    "tag": "school-festival-pop",
     "count": 5
   },
   {
@@ -3940,7 +5888,15 @@
     "count": 5
   },
   {
-    "tag": "second-line",
+    "tag": "seaside-city-pop",
+    "count": 5
+  },
+  {
+    "tag": "seaside-enka",
+    "count": 5
+  },
+  {
+    "tag": "seasonal-sakura-pop",
     "count": 5
   },
   {
@@ -3956,6 +5912,30 @@
     "count": 5
   },
   {
+    "tag": "shakuhachi-chill",
+    "count": 5
+  },
+  {
+    "tag": "shamisen-hiphop",
+    "count": 5
+  },
+  {
+    "tag": "shamisen-pop",
+    "count": 5
+  },
+  {
+    "tag": "shamisen-rock",
+    "count": 5
+  },
+  {
+    "tag": "shibuya-club-pop",
+    "count": 5
+  },
+  {
+    "tag": "shibuya-kei-inspired-pop",
+    "count": 5
+  },
+  {
     "tag": "shimmer-guitar",
     "count": 5
   },
@@ -3964,7 +5944,27 @@
     "count": 5
   },
   {
+    "tag": "shopping-arcade-funk",
+    "count": 5
+  },
+  {
+    "tag": "short-loop-jingle",
+    "count": 5
+  },
+  {
     "tag": "short-sections",
+    "count": 5
+  },
+  {
+    "tag": "short-stinger-fanfare",
+    "count": 5
+  },
+  {
+    "tag": "showa-kayokyoku",
+    "count": 5
+  },
+  {
+    "tag": "shrine-bell-ambient",
     "count": 5
   },
   {
@@ -3976,11 +5976,19 @@
     "count": 5
   },
   {
+    "tag": "ska-punk",
+    "count": 5
+  },
+  {
     "tag": "skippy-groove",
     "count": 5
   },
   {
     "tag": "skippy-hats",
+    "count": 5
+  },
+  {
+    "tag": "slap-bass-funk",
     "count": 5
   },
   {
@@ -3996,7 +6004,15 @@
     "count": 5
   },
   {
+    "tag": "slice-of-life-score",
+    "count": 5
+  },
+  {
     "tag": "sliding-sub",
+    "count": 5
+  },
+  {
+    "tag": "slow-dance-kayokyoku",
     "count": 5
   },
   {
@@ -4040,6 +6056,10 @@
     "count": 5
   },
   {
+    "tag": "smooth-jazz-japan",
+    "count": 5
+  },
+  {
     "tag": "smooth-rap",
     "count": 5
   },
@@ -4056,11 +6076,19 @@
     "count": 5
   },
   {
+    "tag": "snow-country-folk",
+    "count": 5
+  },
+  {
     "tag": "soaring-vocal",
     "count": 5
   },
   {
     "tag": "soca",
+    "count": 5
+  },
+  {
+    "tag": "soft",
     "count": 5
   },
   {
@@ -4076,11 +6104,35 @@
     "count": 5
   },
   {
+    "tag": "soft-rock",
+    "count": 5
+  },
+  {
+    "tag": "soft-rock-pop",
+    "count": 5
+  },
+  {
     "tag": "soft-snare",
     "count": 5
   },
   {
+    "tag": "soft-synth-pop",
+    "count": 5
+  },
+  {
     "tag": "solo-cello-score",
+    "count": 5
+  },
+  {
+    "tag": "son-cubano-inspired",
+    "count": 5
+  },
+  {
+    "tag": "sophisticated",
+    "count": 5
+  },
+  {
+    "tag": "soul-blues",
     "count": 5
   },
   {
@@ -4096,7 +6148,11 @@
     "count": 5
   },
   {
-    "tag": "soul-jazz",
+    "tag": "soulful-acoustic-ballad",
+    "count": 5
+  },
+  {
+    "tag": "soulful-rap-chorus",
     "count": 5
   },
   {
@@ -4120,11 +6176,23 @@
     "count": 5
   },
   {
+    "tag": "south-african-soul",
+    "count": 5
+  },
+  {
     "tag": "south-korea",
     "count": 5
   },
   {
+    "tag": "southern-city-soul",
+    "count": 5
+  },
+  {
     "tag": "southern-rap",
+    "count": 5
+  },
+  {
+    "tag": "southern-soul",
     "count": 5
   },
   {
@@ -4144,11 +6212,15 @@
     "count": 5
   },
   {
-    "tag": "spain",
+    "tag": "spanish-rumba-pop",
     "count": 5
   },
   {
     "tag": "sparkle",
+    "count": 5
+  },
+  {
+    "tag": "sparkling-pop",
     "count": 5
   },
   {
@@ -4160,6 +6232,10 @@
     "count": 5
   },
   {
+    "tag": "spiritual-jazz-soul",
+    "count": 5
+  },
+  {
     "tag": "spoken-verse",
     "count": 5
   },
@@ -4168,7 +6244,15 @@
     "count": 5
   },
   {
+    "tag": "spoken-word-beat",
+    "count": 5
+  },
+  {
     "tag": "sports-documentary-score",
+    "count": 5
+  },
+  {
+    "tag": "sports-highlight-funk",
     "count": 5
   },
   {
@@ -4181,6 +6265,14 @@
   },
   {
     "tag": "steady-kick",
+    "count": 5
+  },
+  {
+    "tag": "stealth-beat-japan",
+    "count": 5
+  },
+  {
+    "tag": "stealth-mission-bgm",
     "count": 5
   },
   {
@@ -4200,6 +6292,10 @@
     "count": 5
   },
   {
+    "tag": "sticker-book-pop",
+    "count": 5
+  },
+  {
     "tag": "stomping-beat",
     "count": 5
   },
@@ -4216,6 +6312,10 @@
     "count": 5
   },
   {
+    "tag": "street-night-rap",
+    "count": 5
+  },
+  {
     "tag": "string-quartet-score",
     "count": 5
   },
@@ -4228,6 +6328,14 @@
     "count": 5
   },
   {
+    "tag": "summer-idol-pop",
+    "count": 5
+  },
+  {
+    "tag": "summer-memory-score",
+    "count": 5
+  },
+  {
     "tag": "sunlit",
     "count": 5
   },
@@ -4236,7 +6344,35 @@
     "count": 5
   },
   {
+    "tag": "sunrise-city-groove",
+    "count": 5
+  },
+  {
     "tag": "surf-reggae",
+    "count": 5
+  },
+  {
+    "tag": "surf-rock-japan",
+    "count": 5
+  },
+  {
+    "tag": "suspense-tv-score",
+    "count": 5
+  },
+  {
+    "tag": "swamp-blues",
+    "count": 5
+  },
+  {
+    "tag": "swampy",
+    "count": 5
+  },
+  {
+    "tag": "sway",
+    "count": 5
+  },
+  {
+    "tag": "sweet-shop-pop",
     "count": 5
   },
   {
@@ -4280,6 +6416,10 @@
     "count": 5
   },
   {
+    "tag": "synth-pop-jpop",
+    "count": 5
+  },
+  {
     "tag": "synth-stabs",
     "count": 5
   },
@@ -4288,7 +6428,35 @@
     "count": 5
   },
   {
+    "tag": "synthetic",
+    "count": 5
+  },
+  {
+    "tag": "synthwave-japan",
+    "count": 5
+  },
+  {
+    "tag": "taiko-cinematic",
+    "count": 5
+  },
+  {
+    "tag": "taiko-edm",
+    "count": 5
+  },
+  {
     "tag": "tala-inspired",
+    "count": 5
+  },
+  {
+    "tag": "tambora",
+    "count": 5
+  },
+  {
+    "tag": "tango-kayokyoku",
+    "count": 5
+  },
+  {
+    "tag": "tango-nuevo-inspired",
     "count": 5
   },
   {
@@ -4304,6 +6472,14 @@
     "count": 5
   },
   {
+    "tag": "tea-house-acoustic",
+    "count": 5
+  },
+  {
+    "tag": "tech-house-japan",
+    "count": 5
+  },
+  {
     "tag": "technical-extreme-metal",
     "count": 5
   },
@@ -4312,7 +6488,19 @@
     "count": 5
   },
   {
+    "tag": "television-variety-theme",
+    "count": 5
+  },
+  {
+    "tag": "temple-town-ambient",
+    "count": 5
+  },
+  {
     "tag": "tender-vocals",
+    "count": 5
+  },
+  {
+    "tag": "texas-blues",
     "count": 5
   },
   {
@@ -4360,7 +6548,27 @@
     "count": 5
   },
   {
+    "tag": "tiny-choir-pop",
+    "count": 5
+  },
+  {
+    "tag": "tiny-marching-band",
+    "count": 5
+  },
+  {
+    "tag": "tokusatsu-inspired-anthem",
+    "count": 5
+  },
+  {
     "tag": "top-pick",
+    "count": 5
+  },
+  {
+    "tag": "toy-piano-pop",
+    "count": 5
+  },
+  {
+    "tag": "traditional-lullaby-fusion",
     "count": 5
   },
   {
@@ -4368,11 +6576,39 @@
     "count": 5
   },
   {
+    "tag": "train-journey-bgm",
+    "count": 5
+  },
+  {
+    "tag": "train-station-ballad",
+    "count": 5
+  },
+  {
+    "tag": "train-window-lofi",
+    "count": 5
+  },
+  {
+    "tag": "trap-electro-japan",
+    "count": 5
+  },
+  {
+    "tag": "trap-japan",
+    "count": 5
+  },
+  {
     "tag": "trap-soul",
     "count": 5
   },
   {
-    "tag": "tremolo",
+    "tag": "trap-soul-japan",
+    "count": 5
+  },
+  {
+    "tag": "travel-show-bgm",
+    "count": 5
+  },
+  {
+    "tag": "tres-like-guitar",
     "count": 5
   },
   {
@@ -4384,11 +6620,15 @@
     "count": 5
   },
   {
-    "tag": "tube-amp",
+    "tag": "trumpet-color",
     "count": 5
   },
   {
-    "tag": "tumbao",
+    "tag": "trumpet-fusion",
+    "count": 5
+  },
+  {
+    "tag": "tube-amp",
     "count": 5
   },
   {
@@ -4412,11 +6652,27 @@
     "count": 5
   },
   {
+    "tag": "tutorial-bgm",
+    "count": 5
+  },
+  {
+    "tag": "tv-variety-funk",
+    "count": 5
+  },
+  {
+    "tag": "twilight-kayokyoku",
+    "count": 5
+  },
+  {
     "tag": "twin-guitar",
     "count": 5
   },
   {
     "tag": "two-tone-inspired-ska",
+    "count": 5
+  },
+  {
+    "tag": "uk-and-us",
     "count": 5
   },
   {
@@ -4436,11 +6692,23 @@
     "count": 5
   },
   {
-    "tag": "upbeat",
+    "tag": "ukulele-cute-pop",
+    "count": 5
+  },
+  {
+    "tag": "upbeat-guitar-pop",
+    "count": 5
+  },
+  {
+    "tag": "uptempo",
     "count": 5
   },
   {
     "tag": "urban-chords",
+    "count": 5
+  },
+  {
+    "tag": "urban-night-bgm",
     "count": 5
   },
   {
@@ -4452,11 +6720,63 @@
     "count": 5
   },
   {
-    "tag": "us-gulf-coast",
+    "tag": "us-east-coast",
+    "count": 5
+  },
+  {
+    "tag": "us-southeast",
+    "count": 5
+  },
+  {
+    "tag": "us-southwest",
+    "count": 5
+  },
+  {
+    "tag": "us-west-coast",
+    "count": 5
+  },
+  {
+    "tag": "vallenato-pop",
+    "count": 5
+  },
+  {
+    "tag": "vapor-rap",
+    "count": 5
+  },
+  {
+    "tag": "vaporwave-japan",
     "count": 5
   },
   {
     "tag": "velvety-vocals",
+    "count": 5
+  },
+  {
+    "tag": "victory-fanfare-pop",
+    "count": 5
+  },
+  {
+    "tag": "vinyl-lounge",
+    "count": 5
+  },
+  {
+    "tag": "visual-kei-inspired",
+    "count": 5
+  },
+  {
+    "tag": "visual-novel-ballad",
+    "count": 5
+  },
+  {
+    "tag": "visual-novel-mystery",
+    "count": 5
+  },
+  {
+    "tag": "visual-novel-school-life",
+    "count": 5
+  },
+  {
+    "tag": "vocal",
     "count": 5
   },
   {
@@ -4472,7 +6792,19 @@
     "count": 5
   },
   {
-    "tag": "wah-guitar-funk",
+    "tag": "vocal-synth-pop",
+    "count": 5
+  },
+  {
+    "tag": "wa-lofi",
+    "count": 5
+  },
+  {
+    "tag": "wa-orchestra",
+    "count": 5
+  },
+  {
+    "tag": "wadaiko-rock",
     "count": 5
   },
   {
@@ -4484,11 +6816,11 @@
     "count": 5
   },
   {
-    "tag": "warm-chords",
+    "tag": "warm-energy",
     "count": 5
   },
   {
-    "tag": "warm-energy",
+    "tag": "warm-overdrive",
     "count": 5
   },
   {
@@ -4508,6 +6840,10 @@
     "count": 5
   },
   {
+    "tag": "wedding-pop",
+    "count": 5
+  },
+  {
     "tag": "west-african-kora-pop",
     "count": 5
   },
@@ -4516,7 +6852,19 @@
     "count": 5
   },
   {
+    "tag": "west-coast-blues",
+    "count": 5
+  },
+  {
     "tag": "west-coast-funk-rap",
+    "count": 5
+  },
+  {
+    "tag": "whistle-pop",
+    "count": 5
+  },
+  {
+    "tag": "wide",
     "count": 5
   },
   {
@@ -4532,11 +6880,43 @@
     "count": 5
   },
   {
+    "tag": "winter-ballad-pop",
+    "count": 5
+  },
+  {
+    "tag": "winter-enka",
+    "count": 5
+  },
+  {
+    "tag": "winter-town-score",
+    "count": 5
+  },
+  {
+    "tag": "wordless",
+    "count": 5
+  },
+  {
     "tag": "wordless-texture",
     "count": 5
   },
   {
     "tag": "world-cinematic-percussion",
+    "count": 5
+  },
+  {
+    "tag": "yacht-rock-city",
+    "count": 5
+  },
+  {
+    "tag": "yosakoi-pop",
+    "count": 5
+  },
+  {
+    "tag": "youth-drama-score",
+    "count": 5
+  },
+  {
+    "tag": "zen-ambient",
     "count": 5
   },
   {
@@ -4557,10 +6937,6 @@
   },
   {
     "tag": "acid-groove",
-    "count": 4
-  },
-  {
-    "tag": "acoustic-guitar",
     "count": 4
   },
   {
@@ -4688,10 +7064,6 @@
     "count": 4
   },
   {
-    "tag": "electric-guitar",
-    "count": 4
-  },
-  {
     "tag": "emo-melody",
     "count": 4
   },
@@ -4717,10 +7089,6 @@
   },
   {
     "tag": "funk-metal",
-    "count": 4
-  },
-  {
-    "tag": "funk-rock",
     "count": 4
   },
   {
@@ -4756,10 +7124,6 @@
     "count": 4
   },
   {
-    "tag": "gritty",
-    "count": 4
-  },
-  {
     "tag": "groove-laden",
     "count": 4
   },
@@ -4792,10 +7156,6 @@
     "count": 4
   },
   {
-    "tag": "hard-rock",
-    "count": 4
-  },
-  {
     "tag": "heartland-edge",
     "count": 4
   },
@@ -4816,19 +7176,7 @@
     "count": 4
   },
   {
-    "tag": "house",
-    "count": 4
-  },
-  {
     "tag": "hypnotic-rock",
-    "count": 4
-  },
-  {
-    "tag": "improvisation",
-    "count": 4
-  },
-  {
-    "tag": "indie-rock",
     "count": 4
   },
   {
@@ -4889,10 +7237,6 @@
   },
   {
     "tag": "modern-alt-rock",
-    "count": 4
-  },
-  {
-    "tag": "modern-blues-rock",
     "count": 4
   },
   {
@@ -4976,15 +7320,7 @@
     "count": 4
   },
   {
-    "tag": "psychedelic-rock",
-    "count": 4
-  },
-  {
     "tag": "pub-rock",
-    "count": 4
-  },
-  {
-    "tag": "punk-rock",
     "count": 4
   },
   {
@@ -5036,15 +7372,7 @@
     "count": 4
   },
   {
-    "tag": "rootsy",
-    "count": 4
-  },
-  {
     "tag": "shiny-master",
-    "count": 4
-  },
-  {
-    "tag": "shuffle",
     "count": 4
   },
   {
@@ -5260,10 +7588,6 @@
     "count": 3
   },
   {
-    "tag": "jazz",
-    "count": 3
-  },
-  {
     "tag": "loud-master",
     "count": 3
   },
@@ -5312,10 +7636,6 @@
     "count": 3
   },
   {
-    "tag": "score",
-    "count": 3
-  },
-  {
     "tag": "slow-club",
     "count": 3
   },
@@ -5340,10 +7660,6 @@
     "count": 3
   },
   {
-    "tag": "synth",
-    "count": 3
-  },
-  {
     "tag": "synth-strings",
     "count": 3
   },
@@ -5361,10 +7677,6 @@
   },
   {
     "tag": "toy-instruments",
-    "count": 3
-  },
-  {
-    "tag": "toy-pop",
     "count": 3
   },
   {
@@ -5788,10 +8100,6 @@
     "count": 2
   },
   {
-    "tag": "slow",
-    "count": 2
-  },
-  {
     "tag": "slow-disco",
     "count": 2
   },
@@ -5841,10 +8149,6 @@
   },
   {
     "tag": "spoken-texture",
-    "count": 2
-  },
-  {
-    "tag": "storytelling",
     "count": 2
   },
   {
@@ -6124,10 +8428,6 @@
     "count": 1
   },
   {
-    "tag": "bachata",
-    "count": 1
-  },
-  {
     "tag": "baglama-lines",
     "count": 1
   },
@@ -6141,10 +8441,6 @@
   },
   {
     "tag": "bamboo-flute",
-    "count": 1
-  },
-  {
-    "tag": "band",
     "count": 1
   },
   {
@@ -6200,10 +8496,6 @@
     "count": 1
   },
   {
-    "tag": "beat",
-    "count": 1
-  },
-  {
     "tag": "bebop",
     "count": 1
   },
@@ -6229,10 +8521,6 @@
   },
   {
     "tag": "bendir-hits",
-    "count": 1
-  },
-  {
-    "tag": "bgm",
     "count": 1
   },
   {
@@ -6464,10 +8752,6 @@
     "count": 1
   },
   {
-    "tag": "choir",
-    "count": 1
-  },
-  {
     "tag": "choir-texture",
     "count": 1
   },
@@ -6521,10 +8805,6 @@
   },
   {
     "tag": "city",
-    "count": 1
-  },
-  {
-    "tag": "city-pop",
     "count": 1
   },
   {
@@ -6740,10 +9020,6 @@
     "count": 1
   },
   {
-    "tag": "dancefloor",
-    "count": 1
-  },
-  {
     "tag": "dancefloor-loud",
     "count": 1
   },
@@ -6773,10 +9049,6 @@
   },
   {
     "tag": "dark-boogie",
-    "count": 1
-  },
-  {
-    "tag": "dark-chords",
     "count": 1
   },
   {
@@ -7048,10 +9320,6 @@
     "count": 1
   },
   {
-    "tag": "enka",
-    "count": 1
-  },
-  {
     "tag": "expansive-mix",
     "count": 1
   },
@@ -7081,10 +9349,6 @@
   },
   {
     "tag": "festival-indie",
-    "count": 1
-  },
-  {
-    "tag": "festival-pop",
     "count": 1
   },
   {
@@ -7592,10 +9856,6 @@
     "count": 1
   },
   {
-    "tag": "jazz-harmony",
-    "count": 1
-  },
-  {
     "tag": "jeepney-neon",
     "count": 1
   },
@@ -7697,10 +9957,6 @@
   },
   {
     "tag": "low-murmurs",
-    "count": 1
-  },
-  {
-    "tag": "low-slung",
     "count": 1
   },
   {
@@ -9124,10 +11380,6 @@
     "count": 1
   },
   {
-    "tag": "theme",
-    "count": 1
-  },
-  {
     "tag": "thick-bass",
     "count": 1
   },
@@ -9352,6 +11604,10 @@
     "count": 1
   },
   {
+    "tag": "vocal-synth",
+    "count": 1
+  },
+  {
     "tag": "vocal-texture",
     "count": 1
   },
@@ -9361,10 +11617,6 @@
   },
   {
     "tag": "vocal-whispers",
-    "count": 1
-  },
-  {
-    "tag": "vocaloid",
     "count": 1
   },
   {

@@ -102,5 +102,101 @@
     "description": "世界各地のReggae/Dub/Dancehall/Ska/Caribbean系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
     "prompt_count": 200,
     "bundle_path": "data/bundles/world-reggae-dub-caribbean-v04.json"
+  },
+  {
+    "id": "world-blues-soul-gospel-v04",
+    "version": "V04",
+    "label": "World Blues/Soul/Gospel",
+    "description": "世界各地のBlues/Soul/Gospel/R&B Roots系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/world-blues-soul-gospel-v04.json"
+  },
+  {
+    "id": "world-latin-tropical-v04",
+    "version": "V04",
+    "label": "World Latin/Tropical",
+    "description": "世界各地のLatin/Tropical/Salsa/Cumbia/Brazilian/Caribbean Pop系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/world-latin-tropical-v04.json"
+  },
+  {
+    "id": "japan-pop-idol-v04",
+    "version": "V04",
+    "label": "Japan Pop/Idol",
+    "description": "日本のJ-Pop/Idol/Pop Chorus系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/japan-pop-idol-v04.json"
+  },
+  {
+    "id": "japan-rock-alt-v04",
+    "version": "V04",
+    "label": "Japan Rock/Alt",
+    "description": "日本のRock/Alternative/Band Sound系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/japan-rock-alt-v04.json"
+  },
+  {
+    "id": "japan-anime-game-v04",
+    "version": "V04",
+    "label": "Japan Anime/Game",
+    "description": "日本のAnime/Game/Media Theme系語彙を、特定作品名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/japan-anime-game-v04.json"
+  },
+  {
+    "id": "japan-electronic-club-v04",
+    "version": "V04",
+    "label": "Japan Electronic/Club",
+    "description": "日本のElectronic/Club/Vocal Synth-like/Kawaii Electronic系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/japan-electronic-club-v04.json"
+  },
+  {
+    "id": "japan-kayokyoku-enka-folk-v04",
+    "version": "V04",
+    "label": "Japan Kayokyoku/Enka/Folk",
+    "description": "日本のKayokyoku/Enka/Folk/New Music系語彙を、特定歌手名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/japan-kayokyoku-enka-folk-v04.json"
+  },
+  {
+    "id": "japan-traditional-fusion-v04",
+    "version": "V04",
+    "label": "Japan Traditional Fusion",
+    "description": "日本のTraditional Instrument/Festival/Regional Fusion系語彙を、特定民謡・祭り曲名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/japan-traditional-fusion-v04.json"
+  },
+  {
+    "id": "japan-hiphop-rnb-v04",
+    "version": "V04",
+    "label": "Japan Hip-Hop/R&B",
+    "description": "日本のHip-Hop/R&B/City Night Beat系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/japan-hiphop-rnb-v04.json"
+  },
+  {
+    "id": "japan-jazz-funk-city-v04",
+    "version": "V04",
+    "label": "Japan Jazz/Funk/City",
+    "description": "日本のJazz/Funk/Fusion/City Groove系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/japan-jazz-funk-city-v04.json"
+  },
+  {
+    "id": "japan-cute-character-novelty-v04",
+    "version": "V04",
+    "label": "Japan Cute/Character/Novelty",
+    "description": "日本のCute Pop/Character Song/Novelty/Jingle系語彙を、特定キャラクター名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/japan-cute-character-novelty-v04.json"
+  },
+  {
+    "id": "japan-score-bgm-v04",
+    "version": "V04",
+    "label": "Japan Score/BGM",
+    "description": "日本のScore/BGM/Production Music系語彙を、特定作品名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/japan-score-bgm-v04.json"
   }
 ]
