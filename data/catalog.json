@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-06-22",
-  "prompt_count": 2444,
-  "total_source_count": 2444,
-  "public_safe_count": 2444,
+  "prompt_count": 2644,
+  "total_source_count": 2644,
+  "public_safe_count": 2644,
   "collections": [
     {
       "id": "starter-v01",
@@ -99,6 +99,14 @@
       "description": "世界各地のMetal/Heavy Guitar/Hardcore系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
       "prompt_count": 200,
       "bundle_path": "data/bundles/world-metal-heavy-v04.json"
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04",
+      "version": "V04",
+      "label": "World Reggae/Dub/Caribbean",
+      "description": "世界各地のReggae/Dub/Dancehall/Ska/Caribbean系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+      "prompt_count": 200,
+      "bundle_path": "data/bundles/world-reggae-dub-caribbean-v04.json"
     }
   ],
   "creators": [
@@ -438,6 +446,14 @@
       "count": 5
     },
     {
+      "id": "world-reggae-dub-caribbean-v04:acoustic-reggae",
+      "slug": "acoustic-reggae",
+      "name": "Acoustic Reggae",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:adventure-score",
       "slug": "adventure-score",
       "name": "Adventure Score",
@@ -483,6 +499,14 @@
       "name": "Afro Caribbean",
       "collection": "starter-v01",
       "collection_label": "全ジャンルスターター",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:afro-caribbean-reggae",
+      "slug": "afro-caribbean-reggae",
+      "name": "Afro Caribbean Reggae",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
       "count": 5
     },
     {
@@ -686,6 +710,14 @@
       "count": 5
     },
     {
+      "id": "world-reggae-dub-caribbean-v04:bass-heavy-sound-system",
+      "slug": "bass-heavy-sound-system",
+      "name": "Bass Heavy Sound System",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:bass-led-funk",
       "slug": "bass-led-funk",
       "name": "Bass Led Funk",
@@ -798,6 +830,14 @@
       "count": 5
     },
     {
+      "id": "world-reggae-dub-caribbean-v04:brazilian-reggae-fusion",
+      "slug": "brazilian-reggae-fusion",
+      "name": "Brazilian Reggae Fusion",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
       "id": "world-electronic-v04:breakbeat",
       "slug": "breakbeat",
       "name": "Breakbeat",
@@ -811,6 +851,14 @@
       "name": "Broken Beat Jazz",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:calypso-pop",
+      "slug": "calypso-pop",
+      "name": "Calypso Pop",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
       "count": 5
     },
     {
@@ -830,11 +878,35 @@
       "count": 5
     },
     {
+      "id": "world-reggae-dub-caribbean-v04:caribbean-funk-reggae",
+      "slug": "caribbean-funk-reggae",
+      "name": "Caribbean Funk Reggae",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:caribbean-jazz-funk",
       "slug": "caribbean-jazz-funk",
       "name": "Caribbean Jazz Funk",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:caribbean-jazz-reggae",
+      "slug": "caribbean-jazz-reggae",
+      "name": "Caribbean Jazz Reggae",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:caribbean-soul-reggae",
+      "slug": "caribbean-soul-reggae",
+      "name": "Caribbean Soul Reggae",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
       "count": 5
     },
     {
@@ -990,6 +1062,14 @@
       "count": 5
     },
     {
+      "id": "world-reggae-dub-caribbean-v04:creole-reggae-pop",
+      "slug": "creole-reggae-pop",
+      "name": "Creole Reggae Pop",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:crime-thriller-score",
       "slug": "crime-thriller-score",
       "name": "Crime Thriller Score",
@@ -1038,6 +1118,14 @@
       "count": 5
     },
     {
+      "id": "world-reggae-dub-caribbean-v04:dancehall-groove",
+      "slug": "dancehall-groove",
+      "name": "Dancehall Groove",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:dancehall-rnb",
       "slug": "dancehall-rnb",
       "name": "Dancehall Rnb",
@@ -1059,6 +1147,14 @@
       "name": "Darksynth",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:deep-dub",
+      "slug": "deep-dub",
+      "name": "Deep Dub",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
       "count": 5
     },
     {
@@ -1179,6 +1275,30 @@
       "name": "Drill Rnb",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:dub-dancehall",
+      "slug": "dub-dancehall",
+      "name": "Dub Dancehall",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:dub-poetry-spoken-word",
+      "slug": "dub-poetry-spoken-word",
+      "name": "Dub Poetry Spoken Word",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:dub-reggae",
+      "slug": "dub-reggae",
+      "name": "Dub Reggae",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
       "count": 5
     },
     {
@@ -1395,6 +1515,14 @@
       "name": "Folk Metal Inspired",
       "collection": "world-metal-heavy-v04",
       "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:french-caribbean-zouk-reggae",
+      "slug": "french-caribbean-zouk-reggae",
+      "name": "French Caribbean Zouk Reggae",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
       "count": 5
     },
     {
@@ -1726,6 +1854,14 @@
       "count": 5
     },
     {
+      "id": "world-reggae-dub-caribbean-v04:island-dub-ambient",
+      "slug": "island-dub-ambient",
+      "name": "Island Dub Ambient",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
       "id": "world-folk-acoustic-v04:island-reggae-acoustic",
       "slug": "island-reggae-acoustic",
       "name": "Island Reggae Acoustic",
@@ -1958,6 +2094,14 @@
       "count": 5
     },
     {
+      "id": "world-reggae-dub-caribbean-v04:latin-reggae-fusion",
+      "slug": "latin-reggae-fusion",
+      "name": "Latin Reggae Fusion",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:latin-trap-soul",
       "slug": "latin-trap-soul",
       "name": "Latin Trap Soul",
@@ -1990,11 +2134,27 @@
       "count": 5
     },
     {
+      "id": "world-reggae-dub-caribbean-v04:lovers-rock",
+      "slug": "lovers-rock",
+      "name": "Lovers Rock",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:magical-realism-score",
       "slug": "magical-realism-score",
       "name": "Magical Realism Score",
       "collection": "world-cinematic-score-v04",
       "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:maori-pacific-reggae",
+      "slug": "maori-pacific-reggae",
+      "name": "Maori Pacific Reggae",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
       "count": 5
     },
     {
@@ -2043,6 +2203,14 @@
       "name": "Memphis Inspired Rap",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:mento-inspired",
+      "slug": "mento-inspired",
+      "name": "Mento Inspired",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
       "count": 5
     },
     {
@@ -2115,6 +2283,22 @@
       "name": "Modal Jazz Groove",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:modern-dancehall-pop",
+      "slug": "modern-dancehall-pop",
+      "name": "Modern Dancehall Pop",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:modern-roots-reggae",
+      "slug": "modern-roots-reggae",
+      "name": "Modern Roots Reggae",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
       "count": 5
     },
     {
@@ -2302,11 +2486,27 @@
       "count": 5
     },
     {
+      "id": "world-reggae-dub-caribbean-v04:nyabinghi-inspired-roots",
+      "slug": "nyabinghi-inspired-roots",
+      "name": "Nyabinghi Inspired Roots",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:oceanic-cinematic-score",
       "slug": "oceanic-cinematic-score",
       "name": "Oceanic Cinematic Score",
       "collection": "world-cinematic-score-v04",
       "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:one-drop-reggae",
+      "slug": "one-drop-reggae",
+      "name": "One Drop Reggae",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
       "count": 5
     },
     {
@@ -2323,6 +2523,14 @@
       "name": "Outrun",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:pacific-island-reggae",
+      "slug": "pacific-island-reggae",
+      "name": "Pacific Island Reggae",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
       "count": 5
     },
     {
@@ -2446,11 +2654,43 @@
       "count": 5
     },
     {
+      "id": "world-reggae-dub-caribbean-v04:psychedelic-dub",
+      "slug": "psychedelic-dub",
+      "name": "Psychedelic Dub",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:quiet-storm-modern",
       "slug": "quiet-storm-modern",
       "name": "Quiet Storm Modern",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:ragga-jungle-influenced",
+      "slug": "ragga-jungle-influenced",
+      "name": "Ragga Jungle Influenced",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:reggae-fusion",
+      "slug": "reggae-fusion",
+      "name": "Reggae Fusion",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:reggae-rock",
+      "slug": "reggae-rock",
+      "name": "Reggae Rock",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
       "count": 5
     },
     {
@@ -2478,6 +2718,22 @@
       "count": 5
     },
     {
+      "id": "world-reggae-dub-caribbean-v04:rockers-reggae",
+      "slug": "rockers-reggae",
+      "name": "Rockers Reggae",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:rocksteady",
+      "slug": "rocksteady",
+      "name": "Rocksteady",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:romantic-drama-score",
       "slug": "romantic-drama-score",
       "name": "Romantic Drama Score",
@@ -2491,6 +2747,14 @@
       "name": "Roots Blues Acoustic",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:roots-reggae",
+      "slug": "roots-reggae",
+      "name": "Roots Reggae",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
       "count": 5
     },
     {
@@ -2515,6 +2779,14 @@
       "name": "Shoegaze Rock",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:ska",
+      "slug": "ska",
+      "name": "Ska",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
       "count": 5
     },
     {
@@ -2547,6 +2819,14 @@
       "name": "Smooth Jazz Groove",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:soca-groove",
+      "slug": "soca-groove",
+      "name": "Soca Groove",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
       "count": 5
     },
     {
@@ -2630,6 +2910,14 @@
       "count": 5
     },
     {
+      "id": "world-reggae-dub-caribbean-v04:steppers-dub-reggae",
+      "slug": "steppers-dub-reggae",
+      "name": "Steppers Dub Reggae",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:stoner-rock",
       "slug": "stoner-rock",
       "name": "Stoner Rock",
@@ -2651,6 +2939,14 @@
       "name": "String Quartet Score",
       "collection": "world-cinematic-score-v04",
       "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:surf-reggae",
+      "slug": "surf-reggae",
+      "name": "Surf Reggae",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
       "count": 5
     },
     {
@@ -2766,6 +3062,14 @@
       "count": 5
     },
     {
+      "id": "world-reggae-dub-caribbean-v04:tropical-reggae-pop",
+      "slug": "tropical-reggae-pop",
+      "name": "Tropical Reggae Pop",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
       "id": "world-folk-acoustic-v04:turkish-acoustic-pop",
       "slug": "turkish-acoustic-pop",
       "name": "Turkish Acoustic Pop",
@@ -2803,6 +3107,22 @@
       "name": "Turkish Rap Pop",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:two-tone-inspired-ska",
+      "slug": "two-tone-inspired-ska",
+      "name": "Two Tone Inspired Ska",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:uk-dub-reggae",
+      "slug": "uk-dub-reggae",
+      "name": "Uk Dub Reggae",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
       "count": 5
     },
     {
@@ -2859,6 +3179,14 @@
       "name": "West African Kora Pop",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-reggae-dub-caribbean-v04:west-african-reggae-fusion",
+      "slug": "west-african-reggae-fusion",
+      "name": "West African Reggae Fusion",
+      "collection": "world-reggae-dub-caribbean-v04",
+      "collection_label": "World Reggae/Dub/Caribbean",
       "count": 5
     },
     {
@@ -2993,7 +3321,7 @@
   "top_tags": [
     {
       "tag": "instrumental",
-      "count": 213
+      "count": 223
     },
     {
       "tag": "organic-mix",
@@ -3006,6 +3334,10 @@
     {
       "tag": "public-safe",
       "count": 200
+    },
+    {
+      "tag": "global",
+      "count": 160
     },
     {
       "tag": "film-ready",
@@ -3024,16 +3356,12 @@
       "count": 120
     },
     {
-      "tag": "global",
-      "count": 115
-    },
-    {
       "tag": "indie-dance",
       "count": 97
     },
     {
       "tag": "acoustic",
-      "count": 91
+      "count": 96
     },
     {
       "tag": "clean-guitar",
@@ -3056,6 +3384,10 @@
       "count": 66
     },
     {
+      "tag": "electric-piano",
+      "count": 62
+    },
+    {
       "tag": "syncopation",
       "count": 61
     },
@@ -3076,11 +3408,19 @@
       "count": 58
     },
     {
-      "tag": "electric-piano",
+      "tag": "melodic",
       "count": 52
     },
     {
+      "tag": "warm-bass",
+      "count": 51
+    },
+    {
       "tag": "chorus-guitar",
+      "count": 50
+    },
+    {
+      "tag": "jamaica",
       "count": 50
     },
     {
@@ -3096,16 +3436,24 @@
       "count": 46
     },
     {
+      "tag": "hand-percussion",
+      "count": 46
+    },
+    {
       "tag": "b-minor",
+      "count": 45
+    },
+    {
+      "tag": "bass-led",
+      "count": 45
+    },
+    {
+      "tag": "bassline",
       "count": 45
     },
     {
       "tag": "a-minor",
       "count": 44
-    },
-    {
-      "tag": "melodic",
-      "count": 42
     },
     {
       "tag": "124bpm",
@@ -3117,10 +3465,6 @@
     },
     {
       "tag": "112bpm",
-      "count": 40
-    },
-    {
-      "tag": "bass-led",
       "count": 40
     },
     {
@@ -3136,7 +3480,15 @@
       "count": 38
     },
     {
+      "tag": "fast",
+      "count": 38
+    },
+    {
       "tag": "g-minor",
+      "count": 38
+    },
+    {
+      "tag": "heavy",
       "count": 38
     },
     {
@@ -3165,6 +3517,10 @@
     },
     {
       "tag": "outrun",
+      "count": 36
+    },
+    {
+      "tag": "sub-bass",
       "count": 36
     },
     {
@@ -3212,6 +3568,10 @@
       "count": 35
     },
     {
+      "tag": "uk",
+      "count": 35
+    },
+    {
       "tag": "electronic-rock",
       "count": 34
     },
@@ -3240,10 +3600,6 @@
       "count": 33
     },
     {
-      "tag": "heavy",
-      "count": 33
-    },
-    {
       "tag": "retro-future",
       "count": 33
     },
@@ -3264,6 +3620,10 @@
       "count": 32
     },
     {
+      "tag": "nylon-guitar",
+      "count": 32
+    },
+    {
       "tag": "overseas",
       "count": 32
     },
@@ -3278,40 +3638,8 @@
     {
       "tag": "bloghouse",
       "count": 31
-    },
-    {
-      "tag": "body-music",
-      "count": 31
-    },
-    {
-      "tag": "cinematic-synth",
-      "count": 31
-    },
-    {
-      "tag": "cyberpunk",
-      "count": 31
-    },
-    {
-      "tag": "dark-club",
-      "count": 31
-    },
-    {
-      "tag": "dark-pop",
-      "count": 31
-    },
-    {
-      "tag": "disco-pop",
-      "count": 31
-    },
-    {
-      "tag": "electro-rock",
-      "count": 31
-    },
-    {
-      "tag": "french-electro",
-      "count": 31
     }
   ],
-  "top_pick_count": 27,
+  "top_pick_count": 35,
   "strategy": "Static JSON first. Firestore is reserved for future admin editing and publish workflows."
 }

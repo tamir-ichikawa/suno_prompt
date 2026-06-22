@@ -103,6 +103,14 @@ const COLLECTIONS = {
     source: path.join(ROOT, "data-src", "collections", "world-metal-heavy-v04.jsonl"),
     bundle: "world-metal-heavy-v04.json",
   },
+  worldReggaeDubCaribbean: {
+    id: "world-reggae-dub-caribbean-v04",
+    version: "V04",
+    label: "World Reggae/Dub/Caribbean",
+    description: "世界各地のReggae/Dub/Dancehall/Ska/Caribbean系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    source: path.join(ROOT, "data-src", "collections", "world-reggae-dub-caribbean-v04.jsonl"),
+    bundle: "world-reggae-dub-caribbean-v04.json",
+  },
 };
 
 function readJsonl(filePath) {
@@ -667,6 +675,41 @@ function normalizeWorldMetalHeavy(items) {
   });
 }
 
+function normalizeWorldReggaeDubCaribbean(items) {
+  const meta = COLLECTIONS.worldReggaeDubCaribbean;
+  return items.map((item, index) => {
+    const category = titleCase(item.subcategory || item.category || "World Reggae/Dub/Caribbean");
+    return basePrompt({
+      id: `world-reggae-dub-caribbean-v04-${pad(index + 1)}`,
+      original_id: item.id || `${item.batch_id}-${pad(index + 1)}`,
+      version: meta.version,
+      collection: meta.id,
+      collection_label: meta.label,
+      category,
+      subcategory: item.language_region || item.subcategory || "",
+      title: item.title,
+      prompt: item.prompt,
+      exclude: item.exclude,
+      bpm: toNumber(item.bpm),
+      key: item.key,
+      language: "English",
+      vocal: item.vocal || "",
+      creator: item.creator || "",
+      creator_slug: item.creator_slug || "",
+      creator_tags: item.creator_tags || [],
+      mood: item.mood || [],
+      tags: item.tags,
+      groove_score: item.groove_score ?? null,
+      energy: item.energy || "",
+      energy_score: item.energy_score ?? null,
+      rights_status: item.rights_status || "ai_generated_original",
+      source_note: "Codexで生成した世界各地のReggae/Dub/Dancehall/Ska/Caribbean系Sunoプロンプトを公開用に検査・整理。",
+      is_top_pick: Boolean(item.is_top_pick),
+      public_safe: item.public_safe !== false,
+    });
+  });
+}
+
 function summarizeCollections(prompts) {
   return Object.values(COLLECTIONS).map((collection) => {
     const collectionPrompts = prompts.filter((prompt) => prompt.collection === collection.id);
@@ -750,6 +793,7 @@ function build() {
   const worldJazzFunk = normalizeWorldJazzFunk(readJsonl(COLLECTIONS.worldJazzFunk.source));
   const worldCinematicScore = normalizeWorldCinematicScore(readJsonl(COLLECTIONS.worldCinematicScore.source));
   const worldMetalHeavy = normalizeWorldMetalHeavy(readJsonl(COLLECTIONS.worldMetalHeavy.source));
+  const worldReggaeDubCaribbean = normalizeWorldReggaeDubCaribbean(readJsonl(COLLECTIONS.worldReggaeDubCaribbean.source));
   const prompts = [
     ...v01,
     ...rock,
@@ -763,6 +807,7 @@ function build() {
     ...worldJazzFunk,
     ...worldCinematicScore,
     ...worldMetalHeavy,
+    ...worldReggaeDubCaribbean,
   ];
   const publicPrompts = prompts.filter((prompt) => prompt.public_safe);
   const collections = summarizeCollections(publicPrompts);
@@ -803,6 +848,7 @@ function build() {
   writeBundle(COLLECTIONS.worldJazzFunk.bundle, worldJazzFunk.filter((prompt) => prompt.public_safe));
   writeBundle(COLLECTIONS.worldCinematicScore.bundle, worldCinematicScore.filter((prompt) => prompt.public_safe));
   writeBundle(COLLECTIONS.worldMetalHeavy.bundle, worldMetalHeavy.filter((prompt) => prompt.public_safe));
+  writeBundle(COLLECTIONS.worldReggaeDubCaribbean.bundle, worldReggaeDubCaribbean.filter((prompt) => prompt.public_safe));
   writeBundle("top-picks.json", topPicks);
 
   console.log(`Generated ${publicPrompts.length} public prompts`);

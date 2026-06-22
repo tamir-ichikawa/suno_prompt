@@ -94,5 +94,13 @@
     "description": "世界各地のMetal/Heavy Guitar/Hardcore系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
     "prompt_count": 200,
     "bundle_path": "data/bundles/world-metal-heavy-v04.json"
+  },
+  {
+    "id": "world-reggae-dub-caribbean-v04",
+    "version": "V04",
+    "label": "World Reggae/Dub/Caribbean",
+    "description": "世界各地のReggae/Dub/Dancehall/Ska/Caribbean系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+    "prompt_count": 200,
+    "bundle_path": "data/bundles/world-reggae-dub-caribbean-v04.json"
   }
 ]

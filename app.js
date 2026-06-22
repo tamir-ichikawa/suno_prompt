@@ -483,16 +483,27 @@ function composeWithExclude(prompt) {
 }
 
 async function copyText(text, message) {
+  let fallbackSucceeded = false;
+  try {
+    fallbackSucceeded = fallbackCopy(text);
+  } catch (error) {
+    fallbackSucceeded = false;
+  }
+
   try {
     if (navigator.clipboard?.writeText) {
       await navigator.clipboard.writeText(text);
-    } else {
-      fallbackCopy(text);
+      showToast(message);
+      return;
     }
+    if (!fallbackSucceeded) throw new Error("Clipboard API is unavailable");
     showToast(message);
   } catch (error) {
-    fallbackCopy(text);
-    showToast(message);
+    if (fallbackSucceeded) {
+      showToast(message);
+      return;
+    }
+    showToast("コピーに失敗しました。手動で選択してください。");
   }
 }
 
@@ -501,11 +512,19 @@ function fallbackCopy(text) {
   textarea.value = text;
   textarea.setAttribute("readonly", "");
   textarea.style.position = "fixed";
-  textarea.style.top = "-1000px";
+  textarea.style.top = "0";
+  textarea.style.left = "0";
+  textarea.style.width = "1px";
+  textarea.style.height = "1px";
+  textarea.style.opacity = "0";
+  textarea.style.pointerEvents = "none";
   document.body.appendChild(textarea);
+  textarea.focus({ preventScroll: true });
   textarea.select();
-  document.execCommand("copy");
+  textarea.setSelectionRange(0, textarea.value.length);
+  const succeeded = document.execCommand("copy");
   textarea.remove();
+  return succeeded;
 }
 
 function showToast(message) {
