@@ -29,7 +29,7 @@ Use one JSON object per line.
 
 ## Field Notes
 
-- `source_type`: `chatgpt_generated`, `manual_original`, or `external_normalized`.
+- `source_type`: `chatgpt_generated`, `codex_generated`, `manual_original`, or `external_normalized`.
 - `batch_id`: stable batch identifier, usually date + topic + sequence.
 - `collection`: future collection slug, such as `world-pop-v04`.
 - `language_region`: `global`, `west-africa`, `brazil`, `japan`, `uk`, etc.

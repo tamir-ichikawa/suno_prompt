@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-06-22",
-  "prompt_count": 2244,
-  "total_source_count": 2244,
-  "public_safe_count": 2244,
+  "prompt_count": 2444,
+  "total_source_count": 2444,
+  "public_safe_count": 2444,
   "collections": [
     {
       "id": "starter-v01",
@@ -91,6 +91,14 @@
       "description": "世界各地のCinematic/Score/Ambient/Hybrid Orchestra系語彙を、特定作品名なしで整理したSunoプロンプト。",
       "prompt_count": 200,
       "bundle_path": "data/bundles/world-cinematic-score-v04.json"
+    },
+    {
+      "id": "world-metal-heavy-v04",
+      "version": "V04",
+      "label": "World Metal/Heavy",
+      "description": "世界各地のMetal/Heavy Guitar/Hardcore系語彙を、特定アーティスト名なしで整理したSunoプロンプト。",
+      "prompt_count": 200,
+      "bundle_path": "data/bundles/world-metal-heavy-v04.json"
     }
   ],
   "creators": [
@@ -446,6 +454,14 @@
       "count": 5
     },
     {
+      "id": "world-metal-heavy-v04:african-metal-fusion",
+      "slug": "african-metal-fusion",
+      "name": "African Metal Fusion",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:african-soul-rap",
       "slug": "african-soul-rap",
       "name": "African Soul Rap",
@@ -499,6 +515,14 @@
       "name": "Alternative Metal",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:alternative-metal",
+      "slug": "alternative-metal",
+      "name": "Alternative Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
       "count": 5
     },
     {
@@ -611,6 +635,14 @@
       "name": "Art Rock",
       "collection": "world-rock-v04",
       "collection_label": "World Rock",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:atmospheric-blackened-metal",
+      "slug": "atmospheric-blackened-metal",
+      "name": "Atmospheric Blackened Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
       "count": 5
     },
     {
@@ -731,6 +763,14 @@
       "name": "Brazilian Funk Pop",
       "collection": "world-pop-v04",
       "collection_label": "World Pop",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:brazilian-heavy-metal",
+      "slug": "brazilian-heavy-metal",
+      "name": "Brazilian Heavy Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
       "count": 5
     },
     {
@@ -886,6 +926,14 @@
       "count": 5
     },
     {
+      "id": "world-metal-heavy-v04:cinematic-metal",
+      "slug": "cinematic-metal",
+      "name": "Cinematic Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:city-jazz-pop",
       "slug": "city-jazz-pop",
       "name": "City Jazz Pop",
@@ -899,6 +947,14 @@
       "name": "City Pop Rnb",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:classic-heavy-metal",
+      "slug": "classic-heavy-metal",
+      "name": "Classic Heavy Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
       "count": 5
     },
     {
@@ -947,6 +1003,14 @@
       "name": "Cuban Jazz Groove",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:cyber-metal",
+      "slug": "cyber-metal",
+      "name": "Cyber Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
       "count": 5
     },
     {
@@ -1030,6 +1094,22 @@
       "count": 5
     },
     {
+      "id": "world-metal-heavy-v04:desert-fuzz-metal",
+      "slug": "desert-fuzz-metal",
+      "name": "Desert Fuzz Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:desert-metal",
+      "slug": "desert-metal",
+      "name": "Desert Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:desert-rock",
       "slug": "desert-rock",
       "name": "Desert Rock",
@@ -1054,11 +1134,27 @@
       "count": 5
     },
     {
+      "id": "world-metal-heavy-v04:djent-groove-metal",
+      "slug": "djent-groove-metal",
+      "name": "Djent Groove Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:documentary-score",
       "slug": "documentary-score",
       "name": "Documentary Score",
       "collection": "world-cinematic-score-v04",
       "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:double-kick-metal",
+      "slug": "double-kick-metal",
+      "name": "Double Kick Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
       "count": 5
     },
     {
@@ -1206,6 +1302,14 @@
       "count": 5
     },
     {
+      "id": "world-metal-heavy-v04:extreme-metal-groove",
+      "slug": "extreme-metal-groove",
+      "name": "Extreme Metal Groove",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
       "id": "world-folk-acoustic-v04:fado-inspired-pop",
       "slug": "fado-inspired-pop",
       "name": "Fado Inspired Pop",
@@ -1283,6 +1387,14 @@
       "name": "Flamenco Pop Acoustic",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:folk-metal-inspired",
+      "slug": "folk-metal-inspired",
+      "name": "Folk Metal Inspired",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
       "count": 5
     },
     {
@@ -1390,6 +1502,14 @@
       "count": 5
     },
     {
+      "id": "world-metal-heavy-v04:gothic-metal",
+      "slug": "gothic-metal",
+      "name": "Gothic Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:gothic-rock",
       "slug": "gothic-rock",
       "name": "Gothic Rock",
@@ -1414,6 +1534,14 @@
       "count": 5
     },
     {
+      "id": "world-metal-heavy-v04:groove-metal",
+      "slug": "groove-metal",
+      "name": "Groove Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:grunge",
       "slug": "grunge",
       "name": "Grunge",
@@ -1435,6 +1563,14 @@
       "name": "Hawaiian Acoustic Pop",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:heavy-metal",
+      "slug": "heavy-metal",
+      "name": "Heavy Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
       "count": 5
     },
     {
@@ -1502,6 +1638,14 @@
       "count": 5
     },
     {
+      "id": "world-metal-heavy-v04:indian-metal-fusion",
+      "slug": "indian-metal-fusion",
+      "name": "Indian Metal Fusion",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
       "id": "world-folk-acoustic-v04:indie-folk",
       "slug": "indie-folk",
       "name": "Indie Folk",
@@ -1563,6 +1707,22 @@
       "name": "Industrial Dance",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:industrial-metal",
+      "slug": "industrial-metal",
+      "name": "Industrial Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:instrumental-metal",
+      "slug": "instrumental-metal",
+      "name": "Instrumental Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
       "count": 5
     },
     {
@@ -1635,6 +1795,14 @@
       "name": "Japanese Electronic Pop",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:japanese-heavy-rock",
+      "slug": "japanese-heavy-rock",
+      "name": "Japanese Heavy Rock",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
       "count": 5
     },
     {
@@ -1742,6 +1910,14 @@
       "count": 5
     },
     {
+      "id": "world-metal-heavy-v04:korean-metalcore",
+      "slug": "korean-metalcore",
+      "name": "Korean Metalcore",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:korean-rnb",
       "slug": "korean-rnb",
       "name": "Korean Rnb",
@@ -1771,6 +1947,14 @@
       "name": "Latin Jazz Funk",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:latin-metal",
+      "slug": "latin-metal",
+      "name": "Latin Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
       "count": 5
     },
     {
@@ -1838,11 +2022,35 @@
       "count": 5
     },
     {
+      "id": "world-metal-heavy-v04:melodic-extreme-metal",
+      "slug": "melodic-extreme-metal",
+      "name": "Melodic Extreme Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:melodic-thrash-metal",
+      "slug": "melodic-thrash-metal",
+      "name": "Melodic Thrash Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:memphis-inspired-rap",
       "slug": "memphis-inspired-rap",
       "name": "Memphis Inspired Rap",
       "collection": "world-hiphop-rnb-v04",
       "collection_label": "World Hip-Hop/R&B",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:metalcore",
+      "slug": "metalcore",
+      "name": "Metalcore",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
       "count": 5
     },
     {
@@ -1875,6 +2083,14 @@
       "name": "Middle Eastern Cinematic Score",
       "collection": "world-cinematic-score-v04",
       "collection_label": "World Cinematic Score",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:middle-eastern-metal",
+      "slug": "middle-eastern-metal",
+      "name": "Middle Eastern Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
       "count": 5
     },
     {
@@ -2030,6 +2246,14 @@
       "count": 5
     },
     {
+      "id": "world-metal-heavy-v04:nordic-heavy-metal",
+      "slug": "nordic-heavy-metal",
+      "name": "Nordic Heavy Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:nordic-jazz-groove",
       "slug": "nordic-jazz-groove",
       "name": "Nordic Jazz Groove",
@@ -2059,6 +2283,14 @@
       "name": "Nu Jazz",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:nu-metal-groove",
+      "slug": "nu-metal-groove",
+      "name": "Nu Metal Groove",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
       "count": 5
     },
     {
@@ -2158,6 +2390,22 @@
       "count": 5
     },
     {
+      "id": "world-metal-heavy-v04:post-hardcore-metal",
+      "slug": "post-hardcore-metal",
+      "name": "Post Hardcore Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:post-metal",
+      "slug": "post-metal",
+      "name": "Post Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
       "id": "world-rock-v04:post-punk",
       "slug": "post-punk",
       "name": "Post Punk",
@@ -2174,11 +2422,27 @@
       "count": 5
     },
     {
+      "id": "world-metal-heavy-v04:power-metal",
+      "slug": "power-metal",
+      "name": "Power Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:prog-fusion",
       "slug": "prog-fusion",
       "name": "Prog Fusion",
       "collection": "world-jazz-funk-v04",
       "collection_label": "World Jazz/Funk",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:progressive-metal",
+      "slug": "progressive-metal",
+      "name": "Progressive Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
       "count": 5
     },
     {
@@ -2262,6 +2526,22 @@
       "count": 5
     },
     {
+      "id": "world-metal-heavy-v04:slow-monolith-metal",
+      "slug": "slow-monolith-metal",
+      "name": "Slow Monolith Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:sludge-metal",
+      "slug": "sludge-metal",
+      "name": "Sludge Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:smooth-jazz-groove",
       "slug": "smooth-jazz-groove",
       "name": "Smooth Jazz Groove",
@@ -2334,6 +2614,14 @@
       "count": 5
     },
     {
+      "id": "world-metal-heavy-v04:speed-metal",
+      "slug": "speed-metal",
+      "name": "Speed Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
       "id": "world-cinematic-score-v04:sports-documentary-score",
       "slug": "sports-documentary-score",
       "name": "Sports Documentary Score",
@@ -2374,6 +2662,14 @@
       "count": 5
     },
     {
+      "id": "world-metal-heavy-v04:symphonic-metal",
+      "slug": "symphonic-metal",
+      "name": "Symphonic Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
       "id": "world-jazz-funk-v04:synth-fusion",
       "slug": "synth-fusion",
       "name": "Synth Fusion",
@@ -2387,6 +2683,22 @@
       "name": "Synthwave",
       "collection": "world-electronic-v04",
       "collection_label": "World Electronic",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:technical-extreme-metal",
+      "slug": "technical-extreme-metal",
+      "name": "Technical Extreme Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:technical-metal",
+      "slug": "technical-metal",
+      "name": "Technical Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
       "count": 5
     },
     {
@@ -2438,6 +2750,14 @@
       "count": 5
     },
     {
+      "id": "world-metal-heavy-v04:thrash-metal",
+      "slug": "thrash-metal",
+      "name": "Thrash Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
+      "count": 5
+    },
+    {
       "id": "world-hiphop-rnb-v04:trap-soul",
       "slug": "trap-soul",
       "name": "Trap Soul",
@@ -2451,6 +2771,14 @@
       "name": "Turkish Acoustic Pop",
       "collection": "world-folk-acoustic-v04",
       "collection_label": "World Folk/Acoustic",
+      "count": 5
+    },
+    {
+      "id": "world-metal-heavy-v04:turkish-metal",
+      "slug": "turkish-metal",
+      "name": "Turkish Metal",
+      "collection": "world-metal-heavy-v04",
+      "collection_label": "World Metal/Heavy",
       "count": 5
     },
     {
@@ -2665,7 +2993,7 @@
   "top_tags": [
     {
       "tag": "instrumental",
-      "count": 203
+      "count": 213
     },
     {
       "tag": "organic-mix",
@@ -2694,6 +3022,10 @@
     {
       "tag": "warm-vocals",
       "count": 120
+    },
+    {
+      "tag": "global",
+      "count": 115
     },
     {
       "tag": "indie-dance",
@@ -2772,6 +3104,10 @@
       "count": 44
     },
     {
+      "tag": "melodic",
+      "count": 42
+    },
+    {
       "tag": "124bpm",
       "count": 41
     },
@@ -2812,6 +3148,10 @@
       "count": 36
     },
     {
+      "tag": "distorted-synth",
+      "count": 36
+    },
+    {
       "tag": "filter-house",
       "count": 36
     },
@@ -2849,6 +3189,10 @@
     },
     {
       "tag": "darksynth",
+      "count": 35
+    },
+    {
+      "tag": "heavy-groove",
       "count": 35
     },
     {
@@ -2893,6 +3237,10 @@
     },
     {
       "tag": "grunge",
+      "count": 33
+    },
+    {
+      "tag": "heavy",
       "count": 33
     },
     {
@@ -2956,34 +3304,14 @@
       "count": 31
     },
     {
-      "tag": "distorted-synth",
-      "count": 31
-    },
-    {
       "tag": "electro-rock",
       "count": 31
     },
     {
       "tag": "french-electro",
       "count": 31
-    },
-    {
-      "tag": "machine-groove",
-      "count": 31
-    },
-    {
-      "tag": "moody-electronic",
-      "count": 31
-    },
-    {
-      "tag": "neon-noir",
-      "count": 31
-    },
-    {
-      "tag": "retrowave",
-      "count": 31
     }
   ],
-  "top_pick_count": 17,
+  "top_pick_count": 27,
   "strategy": "Static JSON first. Firestore is reserved for future admin editing and publish workflows."
 }

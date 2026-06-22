@@ -5,8 +5,8 @@ Goal: collect many Suno prompt candidates from around the world while keeping th
 ## Recommended Order
 
 1. Build a genre map.
-2. Generate ChatGPT batches by genre, region, BPM range, vocal type, and use case.
-3. Store raw ChatGPT output in `incoming/chatgpt/*.raw.md` and machine-readable output in `incoming/chatgpt/*.jsonl`.
+2. Generate ChatGPT or Codex batches by genre, region, BPM range, vocal type, and use case.
+3. Store raw ChatGPT output in `incoming/chatgpt/*.raw.md` and machine-readable output in `incoming/chatgpt/*.jsonl`; store Codex-generated machine-readable batches in `incoming/codex/*.jsonl`.
 4. Validate JSONL with `tools/validate-prompt-jsonl.js`.
 5. Review unsafe wording manually.
 6. Promote reviewed JSONL into `data-src/collections/`.
@@ -23,6 +23,7 @@ ChatGPT is best for:
 
 Codex is best for:
 
+- direct batch generation when the project needs repo-ready JSONL immediately
 - storing files in the repo
 - validating JSONL
 - normalizing data

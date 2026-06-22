@@ -19,7 +19,7 @@ const REQUIRED_FIELDS = [
   "needs_review",
 ];
 
-const ALLOWED_SOURCE_TYPES = new Set(["chatgpt_generated", "manual_original", "external_normalized"]);
+const ALLOWED_SOURCE_TYPES = new Set(["chatgpt_generated", "codex_generated", "manual_original", "external_normalized"]);
 const ALLOWED_RIGHTS = new Set(["ai_generated_original", "original_normalized", "cc0_source_based"]);
 const PROMPT_TARGET_MIN = 650;
 const PROMPT_HARD_MAX = 1000;
