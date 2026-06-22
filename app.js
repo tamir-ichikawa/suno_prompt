@@ -52,6 +52,7 @@ function cacheElements() {
     "topOnly",
     "sortSelect",
     "clearFilters",
+    "clearFiltersTop",
     "resultTitle",
     "activeChips",
     "collectionTabs",
@@ -85,6 +86,7 @@ function bindEvents() {
   });
 
   els.clearFilters.addEventListener("click", clearFilters);
+  els.clearFiltersTop.addEventListener("click", clearFilters);
   els.loadMore.addEventListener("click", () => {
     state.visibleCount += PAGE_SIZE;
     renderPromptGrid();

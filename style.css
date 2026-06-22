@@ -19,11 +19,16 @@
 
 html {
   min-width: 320px;
+  height: 100%;
 }
 
 body {
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+  height: 100vh;
   min-height: 100vh;
   margin: 0;
+  overflow: hidden;
   background: var(--bg);
   color: var(--ink);
   font-family:
@@ -119,21 +124,41 @@ h3 {
   grid-template-columns: minmax(260px, 320px) minmax(0, 1fr);
   gap: 20px;
   width: min(1500px, 100%);
+  height: 100%;
+  min-height: 0;
   margin: 0 auto;
+  overflow: hidden;
   padding: 20px clamp(16px, 4vw, 48px) 40px;
 }
 
 .filter-panel {
-  position: sticky;
-  top: 16px;
-  align-self: start;
-  max-height: calc(100vh - 32px);
+  height: 100%;
+  min-height: 0;
   overflow: auto;
+  overscroll-behavior: contain;
   padding: 16px;
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--surface);
   box-shadow: var(--shadow);
+}
+
+.filter-panel-header {
+  position: sticky;
+  top: -16px;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin: -16px -16px 14px;
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.96);
+}
+
+.filter-panel-header .eyebrow {
+  margin: 0;
 }
 
 .filter-section {
@@ -246,8 +271,20 @@ button:focus-visible {
   background: #e4f0eb;
 }
 
+.compact-button {
+  width: auto;
+  min-height: 32px;
+  padding: 5px 10px;
+  font-size: 12px;
+}
+
 .library-panel {
   min-width: 0;
+  min-height: 0;
+  overflow: auto;
+  overscroll-behavior: contain;
+  padding-right: 4px;
+  scrollbar-gutter: stable;
 }
 
 .toolbar {
@@ -508,6 +545,16 @@ button:focus-visible {
 }
 
 @media (max-width: 920px) {
+  html {
+    height: auto;
+  }
+
+  body {
+    display: block;
+    height: auto;
+    overflow: auto;
+  }
+
   .app-header {
     align-items: stretch;
     flex-direction: column;
@@ -515,12 +562,26 @@ button:focus-visible {
 
   .app-shell {
     grid-template-columns: 1fr;
+    height: auto;
+    overflow: visible;
   }
 
   .filter-panel {
     position: static;
+    height: auto;
     max-height: none;
     overflow: visible;
+    overscroll-behavior: auto;
+  }
+
+  .filter-panel-header {
+    position: static;
+  }
+
+  .library-panel {
+    overflow: visible;
+    padding-right: 0;
+    overscroll-behavior: auto;
   }
 
   .toolbar {
