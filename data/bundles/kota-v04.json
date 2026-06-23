@@ -34,6 +34,10 @@
       "funk-groove",
       "keys"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -80,6 +84,10 @@
       "microtonal",
       "syncopation",
       "funk-groove"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -128,6 +136,10 @@
       "syncopation",
       "funk-groove"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -172,6 +184,11 @@
       "microtonal",
       "syncopation",
       "male-vocal"
+    ],
+    "era_tags": [
+      "1980s",
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -219,6 +236,10 @@
       "jazz-influenced",
       "funk-groove"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -264,6 +285,10 @@
       "microtonal",
       "syncopation"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -308,6 +333,10 @@
       "industrial",
       "microtonal",
       "syncopation"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -355,6 +384,10 @@
       "jazz-influenced",
       "funk-groove"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -398,6 +431,10 @@
       "dissonance",
       "microtonal",
       "syncopation"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -446,6 +483,10 @@
       "female-vocal",
       "male-vocal"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -493,6 +534,10 @@
       "jazz-influenced",
       "funk-groove"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -536,6 +581,10 @@
       "dissonance",
       "syncopation",
       "funk-groove"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -583,6 +632,10 @@
       "rap-rock",
       "funk-groove"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -627,6 +680,10 @@
       "industrial",
       "syncopation"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -669,6 +726,10 @@
       "detuned-guitar",
       "dissonance",
       "syncopation"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -715,6 +776,10 @@
       "syncopation",
       "funk-groove"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -760,6 +825,10 @@
       "syncopation",
       "funk-groove"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -804,6 +873,10 @@
       "microtonal",
       "syncopation",
       "funk-groove"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -851,6 +924,10 @@
       "synth-bass",
       "progressive"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -892,6 +969,10 @@
       "offbeat",
       "detuned-guitar",
       "dissonance"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -935,6 +1016,10 @@
       "guitar-rock",
       "duet"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -976,6 +1061,10 @@
       "downer-rock",
       "guitar-rock",
       "funk-groove"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1021,6 +1110,10 @@
       "strings",
       "cinematic"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1063,6 +1156,10 @@
       "guitar-rock",
       "male-vocal",
       "funk-groove"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1111,6 +1208,10 @@
       "dissonance",
       "strings"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1158,6 +1259,10 @@
       "strings",
       "keys"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1202,6 +1307,10 @@
       "dissonance",
       "funk-groove",
       "grunge"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1248,6 +1357,10 @@
       "dissonance",
       "funk-groove",
       "synth-bass"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1296,6 +1409,10 @@
       "ballad",
       "progressive"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1339,6 +1456,10 @@
       "rap-rock",
       "funk-groove",
       "ballad"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1387,6 +1508,10 @@
       "strings",
       "keys"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1429,6 +1554,10 @@
       "guitar-rock",
       "syncopation",
       "funk-groove"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1473,6 +1602,10 @@
       "syncopation",
       "funk-groove",
       "ballad"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1520,6 +1653,10 @@
       "rap-rock",
       "funk-groove"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1563,6 +1700,10 @@
       "syncopation",
       "dissonance",
       "ballad"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1611,6 +1752,11 @@
       "grunge",
       "cinematic"
     ],
+    "era_tags": [
+      "1970s",
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1658,6 +1804,10 @@
       "funk-groove",
       "strings"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1700,6 +1850,9 @@
       "heavy-groove",
       "dissonance",
       "funk-groove"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1744,6 +1897,9 @@
       "syncopation",
       "rap-rock"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1787,6 +1943,9 @@
       "microtonal",
       "rap-rock",
       "funk-groove"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1835,6 +1994,9 @@
       "male-vocal",
       "funk-groove"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1877,6 +2039,7 @@
       "hybrid-rock",
       "funk-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1919,6 +2082,7 @@
       "hybrid-rock",
       "funk-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1963,6 +2127,7 @@
       "duet",
       "funk-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2010,6 +2175,7 @@
       "male-vocal",
       "funk-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2053,6 +2219,9 @@
       "rap-rock",
       "funk-groove",
       "synth-bass"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -2100,6 +2269,7 @@
       "keys",
       "synth-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2146,6 +2316,7 @@
       "keys",
       "synth-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2192,6 +2363,7 @@
       "funk-groove",
       "synth-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2235,6 +2407,7 @@
       "industrial",
       "funk-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2279,6 +2452,7 @@
       "dissonance",
       "rap-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2323,6 +2497,7 @@
       "dissonance",
       "rap-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2369,6 +2544,7 @@
       "funk-groove",
       "synth-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2410,6 +2586,7 @@
       "underscore",
       "strings"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",

@@ -20,6 +20,7 @@ Use one JSON object per line.
   "exclude": "specific artist references, copyrighted melodies, EDM drop, harsh distortion, overcompressed vocals",
   "bpm": 104,
   "key": "A minor",
+  "era_tags": ["2010s"],
   "tags": ["afro-pop", "percussion", "sunny", "groove"],
   "public_safe": true,
   "rights_status": "ai_generated_original",
@@ -40,6 +41,7 @@ Use one JSON object per line.
 - `exclude`: separate negative instructions.
 - `bpm`: number from 40 to 220.
 - `key`: musical key if known.
+- `era_tags`: optional decade or era influence tags. Use lowercase values from `1950s`, `1960s`, `1970s`, `1980s`, `1990s`, `2000s`, `2010s`, `2020s`, and `retro`. Treat these as production-era influence tags, not claims about a real release date.
 - `tags`: lowercase kebab-case strings.
 - `public_safe`: must be `true` for public candidates.
 - `rights_status`: `ai_generated_original`, `original_normalized`, or `cc0_source_based`.

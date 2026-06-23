@@ -32,6 +32,7 @@
       "roots",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -77,6 +78,7 @@
       "roots",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -122,6 +124,7 @@
       "roots",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -167,6 +170,7 @@
       "roots",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -212,6 +216,7 @@
       "roots",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -257,6 +262,7 @@
       "acoustic",
       "us-southeast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -302,6 +308,7 @@
       "acoustic",
       "us-southeast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -347,6 +354,7 @@
       "acoustic",
       "us-southeast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -392,6 +400,7 @@
       "acoustic",
       "us-southeast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -437,6 +446,7 @@
       "acoustic",
       "us-southeast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -482,6 +492,7 @@
       "gritty",
       "us-midwest"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -527,6 +538,7 @@
       "gritty",
       "us-midwest"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -572,6 +584,7 @@
       "gritty",
       "us-midwest"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -617,6 +630,7 @@
       "gritty",
       "us-midwest"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -662,6 +676,7 @@
       "gritty",
       "us-midwest"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -707,6 +722,7 @@
       "confident",
       "us-southwest"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -752,6 +768,7 @@
       "confident",
       "us-southwest"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -797,6 +814,7 @@
       "confident",
       "us-southwest"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -842,6 +860,7 @@
       "confident",
       "us-southwest"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -887,6 +906,7 @@
       "confident",
       "us-southwest"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -932,6 +952,7 @@
       "walking-bass",
       "us-west-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -977,6 +998,7 @@
       "walking-bass",
       "us-west-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1022,6 +1044,7 @@
       "walking-bass",
       "us-west-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1067,6 +1090,7 @@
       "walking-bass",
       "us-west-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1112,6 +1136,7 @@
       "walking-bass",
       "us-west-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1156,6 +1181,10 @@
       "boogie-piano",
       "upbeat",
       "us"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -1202,6 +1231,10 @@
       "upbeat",
       "us"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1246,6 +1279,10 @@
       "boogie-piano",
       "upbeat",
       "us"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1292,6 +1329,10 @@
       "upbeat",
       "us"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1336,6 +1377,10 @@
       "boogie-piano",
       "upbeat",
       "us"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1382,6 +1427,10 @@
       "rolling",
       "us"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -1426,6 +1475,10 @@
       "dance",
       "rolling",
       "us"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1472,6 +1525,10 @@
       "rolling",
       "us"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1516,6 +1573,10 @@
       "dance",
       "rolling",
       "us"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1562,6 +1623,10 @@
       "rolling",
       "us"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1607,6 +1672,7 @@
       "humid",
       "us-gulf-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1652,6 +1718,7 @@
       "humid",
       "us-gulf-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1697,6 +1764,7 @@
       "humid",
       "us-gulf-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1742,6 +1810,7 @@
       "humid",
       "us-gulf-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1787,6 +1856,7 @@
       "humid",
       "us-gulf-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1832,6 +1902,7 @@
       "vocal",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1877,6 +1948,7 @@
       "vocal",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1922,6 +1994,7 @@
       "vocal",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1967,6 +2040,7 @@
       "vocal",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2012,6 +2086,7 @@
       "vocal",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2057,6 +2132,7 @@
       "punchy",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2102,6 +2178,7 @@
       "punchy",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2147,6 +2224,7 @@
       "punchy",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2192,6 +2270,7 @@
       "punchy",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2237,6 +2316,7 @@
       "punchy",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2282,6 +2362,7 @@
       "warm",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2327,6 +2408,7 @@
       "warm",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2372,6 +2454,7 @@
       "warm",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2417,6 +2500,7 @@
       "warm",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2462,6 +2546,7 @@
       "warm",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2507,6 +2592,7 @@
       "bright",
       "uk-and-us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -2552,6 +2638,7 @@
       "bright",
       "uk-and-us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2597,6 +2684,7 @@
       "bright",
       "uk-and-us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2642,6 +2730,7 @@
       "bright",
       "uk-and-us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2687,6 +2776,7 @@
       "bright",
       "uk-and-us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2732,6 +2822,7 @@
       "harmony",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2777,6 +2868,7 @@
       "harmony",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2822,6 +2914,7 @@
       "harmony",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2867,6 +2960,7 @@
       "harmony",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2912,6 +3006,7 @@
       "harmony",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2957,6 +3052,7 @@
       "direct",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3002,6 +3098,7 @@
       "direct",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3047,6 +3144,7 @@
       "direct",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3092,6 +3190,7 @@
       "direct",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3137,6 +3236,7 @@
       "direct",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3182,6 +3282,7 @@
       "harmony",
       "us-midwest"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3227,6 +3328,7 @@
       "harmony",
       "us-midwest"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3272,6 +3374,7 @@
       "harmony",
       "us-midwest"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3317,6 +3420,7 @@
       "harmony",
       "us-midwest"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3362,6 +3466,7 @@
       "harmony",
       "us-midwest"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3406,6 +3511,10 @@
       "smooth",
       "romantic",
       "us-east-coast"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -3452,6 +3561,10 @@
       "romantic",
       "us-east-coast"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3496,6 +3609,10 @@
       "smooth",
       "romantic",
       "us-east-coast"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3542,6 +3659,10 @@
       "romantic",
       "us-east-coast"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3586,6 +3707,10 @@
       "smooth",
       "romantic",
       "us-east-coast"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3632,6 +3757,7 @@
       "smooth",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3677,6 +3803,7 @@
       "smooth",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3722,6 +3849,7 @@
       "smooth",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3767,6 +3895,7 @@
       "smooth",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3812,6 +3941,7 @@
       "smooth",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3857,6 +3987,7 @@
       "intimate",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3902,6 +4033,7 @@
       "intimate",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3947,6 +4079,7 @@
       "intimate",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3992,6 +4125,7 @@
       "intimate",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4037,6 +4171,7 @@
       "intimate",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4082,6 +4217,7 @@
       "handmade",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4127,6 +4263,7 @@
       "handmade",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4172,6 +4309,7 @@
       "handmade",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4217,6 +4355,7 @@
       "handmade",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4262,6 +4401,7 @@
       "handmade",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4306,6 +4446,9 @@
       "guitar-chops",
       "bold",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -4352,6 +4495,9 @@
       "bold",
       "global"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4396,6 +4542,9 @@
       "guitar-chops",
       "bold",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4442,6 +4591,9 @@
       "bold",
       "global"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4486,6 +4638,9 @@
       "guitar-chops",
       "bold",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4532,6 +4687,7 @@
       "choir",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4577,6 +4733,7 @@
       "choir",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4622,6 +4779,7 @@
       "choir",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4667,6 +4825,7 @@
       "choir",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4712,6 +4871,7 @@
       "choir",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4757,6 +4917,7 @@
       "joyful",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4802,6 +4963,7 @@
       "joyful",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4847,6 +5009,7 @@
       "joyful",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4892,6 +5055,7 @@
       "joyful",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4937,6 +5101,7 @@
       "joyful",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4982,6 +5147,7 @@
       "emotional",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5027,6 +5193,7 @@
       "emotional",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5072,6 +5239,7 @@
       "emotional",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5117,6 +5285,7 @@
       "emotional",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5162,6 +5331,7 @@
       "emotional",
       "us"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5207,6 +5377,7 @@
       "dance",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -5252,6 +5423,7 @@
       "dance",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5297,6 +5469,7 @@
       "dance",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5342,6 +5515,7 @@
       "dance",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5387,6 +5561,7 @@
       "dance",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5432,6 +5607,7 @@
       "syncopated",
       "us-gulf-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5477,6 +5653,7 @@
       "syncopated",
       "us-gulf-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5522,6 +5699,7 @@
       "syncopated",
       "us-gulf-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5567,6 +5745,7 @@
       "syncopated",
       "us-gulf-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5612,6 +5791,7 @@
       "syncopated",
       "us-gulf-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5657,6 +5837,7 @@
       "syncopated",
       "us-gulf-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -5702,6 +5883,7 @@
       "syncopated",
       "us-gulf-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5747,6 +5929,7 @@
       "syncopated",
       "us-gulf-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5792,6 +5975,7 @@
       "syncopated",
       "us-gulf-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5837,6 +6021,7 @@
       "syncopated",
       "us-gulf-coast"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5882,6 +6067,7 @@
       "dance",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -5927,6 +6113,7 @@
       "dance",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5972,6 +6159,7 @@
       "dance",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6017,6 +6205,7 @@
       "dance",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6062,6 +6251,7 @@
       "dance",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6107,6 +6297,7 @@
       "warm",
       "west-africa"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6152,6 +6343,7 @@
       "warm",
       "west-africa"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6197,6 +6389,7 @@
       "warm",
       "west-africa"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6242,6 +6435,7 @@
       "warm",
       "west-africa"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6287,6 +6481,7 @@
       "warm",
       "west-africa"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6332,6 +6527,7 @@
       "smooth",
       "south-africa"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6377,6 +6573,7 @@
       "smooth",
       "south-africa"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6422,6 +6619,7 @@
       "smooth",
       "south-africa"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6467,6 +6665,7 @@
       "smooth",
       "south-africa"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6512,6 +6711,7 @@
       "smooth",
       "south-africa"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6557,6 +6757,7 @@
       "minor-key",
       "ethiopia"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6602,6 +6803,7 @@
       "minor-key",
       "ethiopia"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6647,6 +6849,7 @@
       "minor-key",
       "ethiopia"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6692,6 +6895,7 @@
       "minor-key",
       "ethiopia"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6737,6 +6941,7 @@
       "minor-key",
       "ethiopia"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6782,6 +6987,7 @@
       "passionate",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6827,6 +7033,7 @@
       "passionate",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6872,6 +7079,7 @@
       "passionate",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6917,6 +7125,7 @@
       "passionate",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6962,6 +7171,7 @@
       "passionate",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7007,6 +7217,7 @@
       "breezy",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7052,6 +7263,7 @@
       "breezy",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7097,6 +7309,7 @@
       "breezy",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7142,6 +7355,7 @@
       "breezy",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7187,6 +7401,7 @@
       "breezy",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7232,6 +7447,7 @@
       "harmony",
       "caribbean"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7277,6 +7493,7 @@
       "harmony",
       "caribbean"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7322,6 +7539,7 @@
       "harmony",
       "caribbean"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7367,6 +7585,7 @@
       "harmony",
       "caribbean"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7412,6 +7631,7 @@
       "harmony",
       "caribbean"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7457,6 +7677,7 @@
       "guitar",
       "north-africa"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7502,6 +7723,7 @@
       "guitar",
       "north-africa"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7547,6 +7769,7 @@
       "guitar",
       "north-africa"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7592,6 +7815,7 @@
       "guitar",
       "north-africa"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7637,6 +7861,7 @@
       "guitar",
       "north-africa"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7682,6 +7907,7 @@
       "heartfelt",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7727,6 +7953,7 @@
       "heartfelt",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7772,6 +7999,7 @@
       "heartfelt",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7817,6 +8045,7 @@
       "heartfelt",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7862,6 +8091,7 @@
       "heartfelt",
       "us-south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7907,6 +8137,7 @@
       "rootsy",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7952,6 +8183,7 @@
       "rootsy",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7997,6 +8229,7 @@
       "rootsy",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8042,6 +8275,7 @@
       "rootsy",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8087,6 +8321,7 @@
       "rootsy",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8132,6 +8367,7 @@
       "wide",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8177,6 +8413,7 @@
       "wide",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8222,6 +8459,7 @@
       "wide",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8267,6 +8505,7 @@
       "wide",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8312,6 +8551,7 @@
       "wide",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8357,6 +8597,7 @@
       "intimate",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8402,6 +8643,7 @@
       "intimate",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8447,6 +8689,7 @@
       "intimate",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8492,6 +8735,7 @@
       "intimate",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8537,6 +8781,7 @@
       "intimate",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8582,6 +8827,7 @@
       "wordless",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8627,6 +8873,7 @@
       "wordless",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8672,6 +8919,7 @@
       "wordless",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8717,6 +8965,7 @@
       "wordless",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8762,6 +9011,7 @@
       "wordless",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8807,6 +9057,7 @@
       "warm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8852,6 +9103,7 @@
       "warm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8897,6 +9149,7 @@
       "warm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8942,6 +9195,7 @@
       "warm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8987,6 +9241,7 @@
       "warm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",

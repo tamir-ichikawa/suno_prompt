@@ -26,6 +26,9 @@
       "bass-driven",
       "overseas-rock"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 10,
     "energy": 10,
@@ -64,6 +67,9 @@
       "riff-rock",
       "bass-driven",
       "overseas-rock"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -104,6 +110,9 @@
       "bass-driven",
       "overseas-rock"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 10,
     "energy": 10,
@@ -142,6 +151,9 @@
       "riff-rock",
       "bass-driven",
       "overseas-rock"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -182,6 +194,11 @@
       "groove",
       "guitar-stabs"
     ],
+    "era_tags": [
+      "1970s",
+      "2000s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 10,
     "energy": 10,
@@ -220,6 +237,11 @@
       "slap-bass",
       "groove",
       "guitar-stabs"
+    ],
+    "era_tags": [
+      "1970s",
+      "2000s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -260,6 +282,11 @@
       "groove",
       "guitar-stabs"
     ],
+    "era_tags": [
+      "1970s",
+      "2000s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 10,
     "energy": 10,
@@ -299,6 +326,11 @@
       "groove",
       "guitar-stabs"
     ],
+    "era_tags": [
+      "1970s",
+      "2000s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 10,
     "energy": 10,
@@ -336,6 +368,11 @@
       "wah-guitar",
       "groove-rock",
       "funk-blues",
+      "retro"
+    ],
+    "era_tags": [
+      "1970s",
+      "2000s",
       "retro"
     ],
     "use_case": [],
@@ -377,6 +414,11 @@
       "funk-blues",
       "retro"
     ],
+    "era_tags": [
+      "1970s",
+      "2000s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 10,
     "energy": 10,
@@ -416,6 +458,11 @@
       "funk-blues",
       "retro"
     ],
+    "era_tags": [
+      "1970s",
+      "2000s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 10,
     "energy": 10,
@@ -453,6 +500,11 @@
       "wah-guitar",
       "groove-rock",
       "funk-blues",
+      "retro"
+    ],
+    "era_tags": [
+      "1970s",
+      "2000s",
       "retro"
     ],
     "use_case": [],
@@ -499,6 +551,10 @@
       "top-pick",
       "118bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "best first tests"
@@ -547,6 +603,9 @@
       "124bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "best first tests"
     ],
@@ -594,6 +653,7 @@
       "nepali-indie-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -639,6 +699,7 @@
       "south-asian-jazz-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -684,6 +745,7 @@
       "mandarin-acoustic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -729,6 +791,7 @@
       "plucked-string-ambient",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -774,6 +837,7 @@
       "hmong-folk-fusion",
       "southeast-asia-and-oceania"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -819,6 +883,7 @@
       "coastal-night-pop",
       "southeast-asia-and-oceania"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -863,6 +928,7 @@
       "folk",
       "romanian-dance-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -907,6 +973,7 @@
       "folk",
       "european-festival-waltz"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -952,6 +1019,7 @@
       "abstract-hiphop-beat",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -996,6 +1064,9 @@
       "texture",
       "abstract-outro-cue",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -1042,6 +1113,7 @@
       "stream-outro",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -1087,6 +1159,7 @@
       "finance-explainer-bed",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -1132,6 +1205,7 @@
       "snow-town-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -1177,6 +1251,7 @@
       "achievement-unlock",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -1222,6 +1297,7 @@
       "ocean-learning-song",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -1267,6 +1343,7 @@
       "field-trip-song",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -1312,6 +1389,7 @@
       "team-victory-chant",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -1357,6 +1435,7 @@
       "closing-credits-event",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -1401,6 +1480,10 @@
       "top-pick",
       "112bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "best first tests"
@@ -1449,6 +1532,10 @@
       "104bpm",
       "c-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "best first tests"
     ],
@@ -1495,6 +1582,7 @@
       "groove",
       "gqom-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1539,6 +1627,7 @@
       "groove",
       "fuji-percussion-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1583,6 +1672,7 @@
       "groove",
       "afro-soul"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1627,6 +1717,7 @@
       "groove",
       "kuduro-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1671,6 +1762,7 @@
       "groove",
       "afro-jazz-funk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1715,6 +1807,7 @@
       "groove",
       "afro-electronic-chill"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1761,6 +1854,7 @@
       "middle-east-and-central-asia",
       "desert"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1807,6 +1901,7 @@
       "middle-east-and-central-asia",
       "desert"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1853,6 +1948,7 @@
       "middle-east-and-central-asia",
       "desert"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1899,6 +1995,7 @@
       "middle-east-and-central-asia",
       "desert"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1944,6 +2041,7 @@
       "dhol-club-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1989,6 +2087,7 @@
       "hindustani-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -2034,6 +2133,7 @@
       "south-asian-rnb",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -2079,6 +2179,7 @@
       "tabla-breakbeat",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",

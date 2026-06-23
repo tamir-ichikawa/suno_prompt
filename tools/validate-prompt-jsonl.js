@@ -21,6 +21,7 @@ const REQUIRED_FIELDS = [
 
 const ALLOWED_SOURCE_TYPES = new Set(["chatgpt_generated", "codex_generated", "manual_original", "external_normalized"]);
 const ALLOWED_RIGHTS = new Set(["ai_generated_original", "original_normalized", "cc0_source_based"]);
+const ALLOWED_ERA_TAGS = new Set(["1950s", "1960s", "1970s", "1980s", "1990s", "2000s", "2010s", "2020s", "retro"]);
 const PROMPT_TARGET_MIN = 650;
 const PROMPT_HARD_MAX = 1000;
 
@@ -111,6 +112,16 @@ function validateRecord(record, lineNumber) {
     record.tags.forEach((tag) => {
       if (typeof tag !== "string" || !isKebabTag(tag)) errors.push(`invalid tag: ${tag}`);
     });
+  }
+
+  if ("era_tags" in record) {
+    if (!Array.isArray(record.era_tags)) {
+      errors.push("era_tags must be an array when present");
+    } else {
+      record.era_tags.forEach((tag) => {
+        if (!ALLOWED_ERA_TAGS.has(tag)) errors.push(`invalid era_tag: ${tag}`);
+      });
+    }
   }
 
   const publicText = [record.title, record.prompt, record.exclude].filter(Boolean).join("\n");

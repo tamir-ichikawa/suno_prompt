@@ -32,6 +32,10 @@
       "118bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "best first tests"
     ],
@@ -78,6 +82,10 @@
       "top-pick",
       "96bpm",
       "a-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "best first tests"
@@ -126,6 +134,9 @@
       "124bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "best first tests"
     ],
@@ -172,6 +183,10 @@
       "top-pick",
       "112bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "best first tests"
@@ -220,6 +235,10 @@
       "104bpm",
       "c-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "best first tests"
     ],
@@ -266,6 +285,10 @@
       "groove",
       "124bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "instrumental cue"
@@ -314,6 +337,10 @@
       "112bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -360,6 +387,10 @@
       "groove",
       "122bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -408,6 +439,10 @@
       "120bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -454,6 +489,10 @@
       "groove",
       "118bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -502,6 +541,10 @@
       "126bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -548,6 +591,10 @@
       "groove",
       "124bpm",
       "a-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "chorus-first seed"
@@ -596,6 +643,10 @@
       "118bpm",
       "c-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -642,6 +693,10 @@
       "groove",
       "126bpm",
       "c-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -690,6 +745,10 @@
       "122bpm",
       "a-major"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -736,6 +795,10 @@
       "groove",
       "126bpm",
       "c-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "chorus-first seed"
@@ -784,6 +847,11 @@
       "124bpm",
       "f-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -830,6 +898,10 @@
       "groove",
       "112bpm",
       "c-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -878,6 +950,10 @@
       "112bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -924,6 +1000,10 @@
       "groove",
       "126bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -972,6 +1052,10 @@
       "124bpm",
       "d-major"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -1018,6 +1102,10 @@
       "groove",
       "126bpm",
       "d-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -1066,6 +1154,11 @@
       "120bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -1112,6 +1205,11 @@
       "groove",
       "112bpm",
       "d-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -1160,6 +1258,10 @@
       "128bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -1206,6 +1308,10 @@
       "groove",
       "118bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -1254,6 +1360,10 @@
       "128bpm",
       "a-major"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -1300,6 +1410,10 @@
       "groove",
       "124bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -1348,6 +1462,10 @@
       "118bpm",
       "c-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -1394,6 +1512,10 @@
       "groove",
       "124bpm",
       "a-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -1442,6 +1564,10 @@
       "126bpm",
       "a-major"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -1488,6 +1614,10 @@
       "groove",
       "112bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -1536,6 +1666,10 @@
       "124bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -1582,6 +1716,10 @@
       "groove",
       "126bpm",
       "c-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -1630,6 +1768,10 @@
       "124bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -1676,6 +1818,10 @@
       "bassline",
       "110bpm",
       "f-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "instrumental cue"
@@ -1724,6 +1870,10 @@
       "110bpm",
       "e-dorian"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -1770,6 +1920,10 @@
       "bassline",
       "110bpm",
       "d-dorian"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -1818,6 +1972,10 @@
       "118bpm",
       "g-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -1864,6 +2022,10 @@
       "bassline",
       "110bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "chorus-first seed"
@@ -1912,6 +2074,10 @@
       "118bpm",
       "f-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -1958,6 +2124,10 @@
       "bassline",
       "116bpm",
       "e-dorian"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -2006,6 +2176,10 @@
       "118bpm",
       "c-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -2052,6 +2226,10 @@
       "bassline",
       "110bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -2100,6 +2278,10 @@
       "112bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -2146,6 +2328,10 @@
       "bassline",
       "120bpm",
       "c-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "instrumental cue"
@@ -2194,6 +2380,10 @@
       "118bpm",
       "f-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -2240,6 +2430,10 @@
       "bassline",
       "110bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -2288,6 +2482,10 @@
       "108bpm",
       "f-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -2334,6 +2532,10 @@
       "bassline",
       "118bpm",
       "d-dorian"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "chorus-first seed"
@@ -2382,6 +2584,10 @@
       "118bpm",
       "b-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -2428,6 +2634,10 @@
       "bassline",
       "104bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -2476,6 +2686,10 @@
       "120bpm",
       "d-dorian"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -2522,6 +2736,11 @@
       "bassline",
       "116bpm",
       "d-dorian"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -2570,6 +2789,10 @@
       "120bpm",
       "c-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -2616,6 +2839,10 @@
       "bassline",
       "108bpm",
       "a-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -2664,6 +2891,10 @@
       "116bpm",
       "f-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -2710,6 +2941,10 @@
       "bassline",
       "114bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -2758,6 +2993,10 @@
       "114bpm",
       "e-dorian"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -2804,6 +3043,10 @@
       "bassline",
       "118bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -2852,6 +3095,10 @@
       "120bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -2898,6 +3145,10 @@
       "bassline",
       "110bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -2946,6 +3197,10 @@
       "112bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -2992,6 +3247,10 @@
       "bassline",
       "104bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -3040,6 +3299,10 @@
       "118bpm",
       "b-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -3086,6 +3349,10 @@
       "clean-guitar",
       "112bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -3134,6 +3401,10 @@
       "112bpm",
       "b-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -3180,6 +3451,10 @@
       "clean-guitar",
       "118bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -3228,6 +3503,11 @@
       "112bpm",
       "c-major"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -3274,6 +3554,10 @@
       "clean-guitar",
       "108bpm",
       "g-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "chorus-first seed"
@@ -3322,6 +3606,10 @@
       "114bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -3368,6 +3656,10 @@
       "clean-guitar",
       "106bpm",
       "c-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "instrumental cue"
@@ -3416,6 +3708,10 @@
       "106bpm",
       "bb-major"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -3462,6 +3758,10 @@
       "clean-guitar",
       "112bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -3510,6 +3810,10 @@
       "114bpm",
       "c-major"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -3556,6 +3860,10 @@
       "clean-guitar",
       "112bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -3604,6 +3912,10 @@
       "114bpm",
       "b-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -3650,6 +3962,11 @@
       "clean-guitar",
       "114bpm",
       "d-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -3698,6 +4015,11 @@
       "118bpm",
       "bb-major"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -3744,6 +4066,10 @@
       "clean-guitar",
       "120bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -3792,6 +4118,10 @@
       "120bpm",
       "g-major"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -3838,6 +4168,10 @@
       "clean-guitar",
       "108bpm",
       "a-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -3886,6 +4220,11 @@
       "108bpm",
       "b-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -3932,6 +4271,10 @@
       "clean-guitar",
       "118bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "chorus-first seed"
@@ -3980,6 +4323,11 @@
       "108bpm",
       "c-major"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -4026,6 +4374,10 @@
       "clean-guitar",
       "112bpm",
       "a-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -4074,6 +4426,11 @@
       "106bpm",
       "b-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -4120,6 +4477,10 @@
       "clean-guitar",
       "120bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -4168,6 +4529,10 @@
       "116bpm",
       "c-major"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -4214,6 +4579,11 @@
       "clean-guitar",
       "120bpm",
       "g-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -4262,6 +4632,10 @@
       "112bpm",
       "bb-major"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "instrumental cue"
     ],
@@ -4308,6 +4682,10 @@
       "clean-guitar",
       "114bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -4356,6 +4734,10 @@
       "108bpm",
       "bb-major"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -4402,6 +4784,10 @@
       "clean-guitar",
       "114bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -4450,6 +4836,10 @@
       "112bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -4496,6 +4886,10 @@
       "analog-synth",
       "100bpm",
       "d-major"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -4544,6 +4938,10 @@
       "112bpm",
       "f-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -4590,6 +4988,10 @@
       "analog-synth",
       "108bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -4638,6 +5040,10 @@
       "118bpm",
       "d-major"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -4684,6 +5090,10 @@
       "analog-synth",
       "88bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -4732,6 +5142,10 @@
       "112bpm",
       "b-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "instrumental cue"
     ],
@@ -4778,6 +5192,10 @@
       "analog-synth",
       "128bpm",
       "f-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -4826,6 +5244,10 @@
       "128bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "instrumental cue"
     ],
@@ -4872,6 +5294,10 @@
       "analog-synth",
       "84bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -4920,6 +5346,10 @@
       "112bpm",
       "b-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -4966,6 +5396,10 @@
       "analog-synth",
       "96bpm",
       "d-major"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -5014,6 +5448,10 @@
       "108bpm",
       "g-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -5060,6 +5498,10 @@
       "analog-synth",
       "96bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -5108,6 +5550,10 @@
       "112bpm",
       "d-major"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -5154,6 +5600,10 @@
       "analog-synth",
       "88bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -5202,6 +5652,10 @@
       "112bpm",
       "g-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -5248,6 +5702,10 @@
       "analog-synth",
       "112bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -5296,6 +5754,10 @@
       "108bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -5342,6 +5804,10 @@
       "analog-synth",
       "108bpm",
       "f-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -5390,6 +5856,10 @@
       "84bpm",
       "d-major"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -5436,6 +5906,10 @@
       "analog-synth",
       "96bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -5484,6 +5958,10 @@
       "88bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -5530,6 +6008,10 @@
       "analog-synth",
       "108bpm",
       "a-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -5578,6 +6060,10 @@
       "100bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -5624,6 +6110,10 @@
       "analog-synth",
       "104bpm",
       "a-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -5672,6 +6162,10 @@
       "96bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -5718,6 +6212,10 @@
       "analog-synth",
       "108bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "instrumental cue"
@@ -5766,6 +6264,10 @@
       "92bpm",
       "g-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -5812,6 +6314,10 @@
       "analog-synth",
       "108bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "chorus-first seed"
@@ -5860,6 +6366,10 @@
       "92bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -5906,6 +6416,10 @@
       "dark-pop",
       "76bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -5954,6 +6468,10 @@
       "104bpm",
       "f-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -6000,6 +6518,10 @@
       "dark-pop",
       "104bpm",
       "c-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -6048,6 +6570,10 @@
       "104bpm",
       "b-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -6094,6 +6620,10 @@
       "dark-pop",
       "92bpm",
       "a-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "chorus-first seed"
@@ -6142,6 +6672,10 @@
       "80bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -6188,6 +6722,10 @@
       "dark-pop",
       "84bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -6236,6 +6774,10 @@
       "88bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -6282,6 +6824,10 @@
       "dark-pop",
       "96bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "instrumental cue"
@@ -6330,6 +6876,10 @@
       "100bpm",
       "f-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -6376,6 +6926,10 @@
       "dark-pop",
       "80bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "instrumental cue"
@@ -6424,6 +6978,10 @@
       "92bpm",
       "bb-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -6470,6 +7028,10 @@
       "dark-pop",
       "88bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -6518,6 +7080,10 @@
       "104bpm",
       "b-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -6564,6 +7130,10 @@
       "dark-pop",
       "104bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -6612,6 +7182,10 @@
       "104bpm",
       "bb-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -6658,6 +7232,10 @@
       "dark-pop",
       "100bpm",
       "bb-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -6706,6 +7284,10 @@
       "76bpm",
       "c-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -6752,6 +7334,10 @@
       "dark-pop",
       "104bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "instrumental cue"
@@ -6800,6 +7386,10 @@
       "88bpm",
       "c-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -6846,6 +7436,10 @@
       "dark-pop",
       "104bpm",
       "c-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -6894,6 +7488,10 @@
       "88bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -6940,6 +7538,10 @@
       "dark-pop",
       "76bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -6988,6 +7590,10 @@
       "104bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "instrumental cue"
     ],
@@ -7034,6 +7640,10 @@
       "dark-pop",
       "84bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -7082,6 +7692,10 @@
       "104bpm",
       "c-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -7128,6 +7742,10 @@
       "dark-pop",
       "88bpm",
       "bb-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -7176,6 +7794,10 @@
       "76bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -7222,6 +7844,10 @@
       "dark-pop",
       "92bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -7270,6 +7896,10 @@
       "76bpm",
       "b-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "instrumental cue"
     ],
@@ -7317,6 +7947,7 @@
       "118bpm",
       "c-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -7364,6 +7995,7 @@
       "124bpm",
       "c-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "full song seed"
     ],
@@ -7411,6 +8043,7 @@
       "96bpm",
       "g-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "chorus-first seed"
     ],
@@ -7458,6 +8091,7 @@
       "128bpm",
       "g-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "instrumental cue"
     ],
@@ -7505,6 +8139,7 @@
       "108bpm",
       "g-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "chorus-first seed"
     ],
@@ -7552,6 +8187,7 @@
       "108bpm",
       "f-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "chorus-first seed"
     ],
@@ -7598,6 +8234,10 @@
       "distorted-bass",
       "104bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -7646,6 +8286,7 @@
       "92bpm",
       "eb-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -7693,6 +8334,7 @@
       "104bpm",
       "c-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "full song seed"
     ],
@@ -7740,6 +8382,7 @@
       "124bpm",
       "d-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "instrumental cue"
     ],
@@ -7787,6 +8430,7 @@
       "128bpm",
       "eb-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "club-rock seed"
     ],
@@ -7834,6 +8478,7 @@
       "92bpm",
       "c-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "chorus-first seed"
     ],
@@ -7881,6 +8526,7 @@
       "108bpm",
       "f-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "full song seed"
     ],
@@ -7928,6 +8574,7 @@
       "104bpm",
       "c-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "instrumental cue"
     ],
@@ -7975,6 +8622,7 @@
       "92bpm",
       "e-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "full song seed"
     ],
@@ -8022,6 +8670,7 @@
       "108bpm",
       "d-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "night-drive cue"
     ],
@@ -8069,6 +8718,7 @@
       "100bpm",
       "b-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "chorus-first seed"
     ],
@@ -8116,6 +8766,7 @@
       "104bpm",
       "c-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -8163,6 +8814,7 @@
       "108bpm",
       "c-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "chorus-first seed"
     ],
@@ -8210,6 +8862,7 @@
       "124bpm",
       "c-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "club-rock seed"
     ],
@@ -8257,6 +8910,7 @@
       "104bpm",
       "eb-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "instrumental cue"
     ],
@@ -8304,6 +8958,7 @@
       "96bpm",
       "g-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "vocal pop seed"
     ],
@@ -8351,6 +9006,7 @@
       "128bpm",
       "f-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "instrumental cue"
     ],
@@ -8398,6 +9054,7 @@
       "104bpm",
       "e-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "night-drive cue"
     ],
@@ -8445,6 +9102,7 @@
       "112bpm",
       "e-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "club-rock seed"
     ],
@@ -8492,6 +9150,7 @@
       "104bpm",
       "f-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "vocal pop seed"
     ],
@@ -8539,6 +9198,7 @@
       "100bpm",
       "d-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "full song seed"
     ],
@@ -8586,6 +9246,7 @@
       "118bpm",
       "d-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "night-drive cue"
     ],
@@ -8633,6 +9294,7 @@
       "96bpm",
       "c-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "night-drive cue"
     ],
@@ -8680,6 +9342,7 @@
       "92bpm",
       "c-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "night-drive cue"
     ],
@@ -8726,6 +9389,9 @@
       "distorted-synth",
       "130bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [
       "vocal pop seed"
@@ -8774,6 +9440,9 @@
       "120bpm",
       "f-minor"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -8820,6 +9489,9 @@
       "distorted-synth",
       "130bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [
       "night-drive cue"
@@ -8868,6 +9540,9 @@
       "132bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "instrumental cue"
     ],
@@ -8914,6 +9589,9 @@
       "distorted-synth",
       "132bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [
       "night-drive cue"
@@ -8962,6 +9640,9 @@
       "124bpm",
       "g-minor"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -9008,6 +9689,9 @@
       "distorted-synth",
       "126bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -9056,6 +9740,9 @@
       "130bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -9102,6 +9789,9 @@
       "distorted-synth",
       "124bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [
       "club-rock seed"
@@ -9150,6 +9840,9 @@
       "120bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -9196,6 +9889,9 @@
       "distorted-synth",
       "128bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [
       "night-drive cue"
@@ -9244,6 +9940,9 @@
       "128bpm",
       "c-minor"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -9290,6 +9989,9 @@
       "distorted-synth",
       "130bpm",
       "e-phrygian"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -9338,6 +10040,9 @@
       "128bpm",
       "c-minor"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -9384,6 +10089,9 @@
       "distorted-synth",
       "118bpm",
       "f-minor"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [
       "chorus-first seed"
@@ -9432,6 +10140,9 @@
       "124bpm",
       "e-phrygian"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -9478,6 +10189,9 @@
       "distorted-synth",
       "120bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [
       "club-rock seed"
@@ -9526,6 +10240,9 @@
       "126bpm",
       "e-phrygian"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -9572,6 +10289,9 @@
       "distorted-synth",
       "128bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [
       "chorus-first seed"
@@ -9620,6 +10340,9 @@
       "128bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -9666,6 +10389,9 @@
       "distorted-synth",
       "130bpm",
       "c-minor"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -9714,6 +10440,9 @@
       "132bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -9760,6 +10489,9 @@
       "distorted-synth",
       "126bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [
       "vocal pop seed"
@@ -9808,6 +10540,9 @@
       "122bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -9854,6 +10589,11 @@
       "distorted-synth",
       "124bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "2000s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -9902,6 +10642,9 @@
       "132bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -9948,6 +10691,11 @@
       "distorted-synth",
       "124bpm",
       "f-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "2000s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -9996,6 +10744,9 @@
       "128bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -10042,6 +10793,9 @@
       "distorted-synth",
       "124bpm",
       "a-minor"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [
       "chorus-first seed"
@@ -10090,6 +10844,9 @@
       "124bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -10136,6 +10893,10 @@
       "retro-synth",
       "126bpm",
       "a-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -10184,6 +10945,10 @@
       "116bpm",
       "g-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -10230,6 +10995,10 @@
       "retro-synth",
       "108bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -10278,6 +11047,11 @@
       "124bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -10324,6 +11098,10 @@
       "retro-synth",
       "120bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -10372,6 +11150,11 @@
       "126bpm",
       "c-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -10418,6 +11201,10 @@
       "retro-synth",
       "128bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -10466,6 +11253,11 @@
       "108bpm",
       "g-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "instrumental cue"
     ],
@@ -10512,6 +11304,10 @@
       "retro-synth",
       "120bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -10560,6 +11356,10 @@
       "124bpm",
       "a-major"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -10606,6 +11406,11 @@
       "retro-synth",
       "116bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -10654,6 +11459,11 @@
       "120bpm",
       "b-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -10700,6 +11510,11 @@
       "retro-synth",
       "132bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -10748,6 +11563,11 @@
       "126bpm",
       "f-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -10794,6 +11614,11 @@
       "retro-synth",
       "108bpm",
       "a-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "instrumental cue"
@@ -10842,6 +11667,11 @@
       "124bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -10888,6 +11718,10 @@
       "retro-synth",
       "108bpm",
       "a-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -10936,6 +11770,10 @@
       "128bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -10982,6 +11820,10 @@
       "retro-synth",
       "116bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -11030,6 +11872,10 @@
       "116bpm",
       "g-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -11076,6 +11922,10 @@
       "retro-synth",
       "116bpm",
       "c-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -11124,6 +11974,10 @@
       "124bpm",
       "b-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -11170,6 +12024,10 @@
       "retro-synth",
       "124bpm",
       "a-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -11218,6 +12076,10 @@
       "126bpm",
       "a-major"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -11264,6 +12126,10 @@
       "retro-synth",
       "128bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -11312,6 +12178,11 @@
       "128bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -11358,6 +12229,11 @@
       "retro-synth",
       "108bpm",
       "c-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -11406,6 +12282,11 @@
       "120bpm",
       "a-major"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -11452,6 +12333,11 @@
       "retro-synth",
       "124bpm",
       "a-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -11500,6 +12386,10 @@
       "128bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "instrumental cue"
     ],
@@ -11546,6 +12436,10 @@
       "chorus-guitar",
       "124bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -11594,6 +12488,10 @@
       "124bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -11640,6 +12538,10 @@
       "chorus-guitar",
       "100bpm",
       "a-dorian"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -11688,6 +12590,10 @@
       "112bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -11734,6 +12640,10 @@
       "chorus-guitar",
       "96bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "chorus-first seed"
@@ -11782,6 +12692,10 @@
       "88bpm",
       "c-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -11828,6 +12742,10 @@
       "chorus-guitar",
       "100bpm",
       "c-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -11876,6 +12794,10 @@
       "104bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -11922,6 +12844,10 @@
       "chorus-guitar",
       "100bpm",
       "c-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "chorus-first seed"
@@ -11970,6 +12896,10 @@
       "100bpm",
       "g-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -12016,6 +12946,10 @@
       "chorus-guitar",
       "108bpm",
       "f-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -12064,6 +12998,10 @@
       "112bpm",
       "b-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "instrumental cue"
     ],
@@ -12110,6 +13048,10 @@
       "chorus-guitar",
       "96bpm",
       "c-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "chorus-first seed"
@@ -12158,6 +13100,10 @@
       "108bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -12204,6 +13150,10 @@
       "chorus-guitar",
       "88bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "chorus-first seed"
@@ -12252,6 +13202,10 @@
       "104bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -12298,6 +13252,10 @@
       "chorus-guitar",
       "118bpm",
       "f-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "instrumental cue"
@@ -12346,6 +13304,10 @@
       "124bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "instrumental cue"
     ],
@@ -12392,6 +13354,10 @@
       "chorus-guitar",
       "100bpm",
       "a-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "chorus-first seed"
@@ -12440,6 +13406,10 @@
       "96bpm",
       "f-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -12486,6 +13456,10 @@
       "chorus-guitar",
       "118bpm",
       "c-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -12534,6 +13508,10 @@
       "118bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -12580,6 +13558,10 @@
       "chorus-guitar",
       "92bpm",
       "f-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -12628,6 +13610,10 @@
       "104bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -12674,6 +13660,10 @@
       "chorus-guitar",
       "124bpm",
       "c-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -12722,6 +13712,10 @@
       "100bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -12768,6 +13762,10 @@
       "chorus-guitar",
       "88bpm",
       "a-dorian"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -12816,6 +13814,10 @@
       "88bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -12862,6 +13864,10 @@
       "chorus-guitar",
       "124bpm",
       "c-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "instrumental cue"
@@ -12910,6 +13916,10 @@
       "96bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -12956,6 +13966,11 @@
       "angular-guitar",
       "132bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "1990s",
+      "2000s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -13004,6 +14019,9 @@
       "126bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -13050,6 +14068,12 @@
       "angular-guitar",
       "124bpm",
       "a-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "1990s",
+      "2000s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -13098,6 +14122,13 @@
       "128bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "1990s",
+      "2000s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -13144,6 +14175,12 @@
       "angular-guitar",
       "112bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "1990s",
+      "2000s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -13192,6 +14229,12 @@
       "118bpm",
       "d-dorian"
     ],
+    "era_tags": [
+      "1970s",
+      "1990s",
+      "2000s",
+      "retro"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -13238,6 +14281,9 @@
       "angular-guitar",
       "120bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [
       "chorus-first seed"
@@ -13286,6 +14332,9 @@
       "112bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -13332,6 +14381,12 @@
       "angular-guitar",
       "128bpm",
       "a-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "1990s",
+      "2000s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -13380,6 +14435,11 @@
       "120bpm",
       "a-dorian"
     ],
+    "era_tags": [
+      "1980s",
+      "2000s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -13426,6 +14486,12 @@
       "angular-guitar",
       "128bpm",
       "a-dorian"
+    ],
+    "era_tags": [
+      "1970s",
+      "1990s",
+      "2000s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -13474,6 +14540,11 @@
       "126bpm",
       "a-dorian"
     ],
+    "era_tags": [
+      "1980s",
+      "2000s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -13520,6 +14591,11 @@
       "angular-guitar",
       "132bpm",
       "d-dorian"
+    ],
+    "era_tags": [
+      "1980s",
+      "2000s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -13568,6 +14644,11 @@
       "128bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "2000s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -13614,6 +14695,11 @@
       "angular-guitar",
       "112bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "1990s",
+      "2000s",
+      "retro"
     ],
     "use_case": [
       "instrumental cue"
@@ -13662,6 +14748,12 @@
       "128bpm",
       "a-dorian"
     ],
+    "era_tags": [
+      "1980s",
+      "1990s",
+      "2000s",
+      "retro"
+    ],
     "use_case": [
       "instrumental cue"
     ],
@@ -13708,6 +14800,9 @@
       "angular-guitar",
       "126bpm",
       "f-minor"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [
       "instrumental cue"
@@ -13756,6 +14851,12 @@
       "112bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "1990s",
+      "2000s",
+      "retro"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -13802,6 +14903,13 @@
       "angular-guitar",
       "128bpm",
       "a-dorian"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "1990s",
+      "2000s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -13850,6 +14958,11 @@
       "116bpm",
       "b-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "2000s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -13896,6 +15009,9 @@
       "angular-guitar",
       "122bpm",
       "a-dorian"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [
       "full song seed"
@@ -13944,6 +15060,13 @@
       "112bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "1990s",
+      "2000s",
+      "retro"
+    ],
     "use_case": [
       "instrumental cue"
     ],
@@ -13990,6 +15113,11 @@
       "angular-guitar",
       "132bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "1990s",
+      "2000s",
+      "retro"
     ],
     "use_case": [
       "chorus-first seed"
@@ -14038,6 +15166,11 @@
       "132bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "1990s",
+      "2000s",
+      "retro"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -14084,6 +15217,11 @@
       "angular-guitar",
       "112bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "2000s",
+      "retro"
     ],
     "use_case": [
       "instrumental cue"
@@ -14132,6 +15270,11 @@
       "132bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1990s",
+      "2000s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -14178,6 +15321,9 @@
       "angular-guitar",
       "126bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [
       "full song seed"
@@ -14226,6 +15372,12 @@
       "120bpm",
       "d-dorian"
     ],
+    "era_tags": [
+      "1980s",
+      "1990s",
+      "2000s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -14272,6 +15424,11 @@
       "angular-guitar",
       "132bpm",
       "d-dorian"
+    ],
+    "era_tags": [
+      "1970s",
+      "2000s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -14320,6 +15477,11 @@
       "124bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "2000s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -14366,6 +15528,10 @@
       "retro-synth",
       "88bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "chorus-first seed"
@@ -14414,6 +15580,9 @@
       "96bpm",
       "c-major"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -14460,6 +15629,9 @@
       "retro-synth",
       "108bpm",
       "a-minor"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -14508,6 +15680,10 @@
       "112bpm",
       "c-major"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -14554,6 +15730,10 @@
       "retro-synth",
       "124bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -14602,6 +15782,9 @@
       "112bpm",
       "f-minor"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -14648,6 +15831,10 @@
       "retro-synth",
       "96bpm",
       "f-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -14696,6 +15883,10 @@
       "92bpm",
       "g-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -14742,6 +15933,10 @@
       "retro-synth",
       "108bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [
       "chorus-first seed"
@@ -14790,6 +15985,10 @@
       "108bpm",
       "c-major"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -14836,6 +16035,9 @@
       "retro-synth",
       "92bpm",
       "c-major"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -14884,6 +16086,10 @@
       "104bpm",
       "g-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -14930,6 +16136,11 @@
       "retro-synth",
       "118bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "1990s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -14978,6 +16189,10 @@
       "124bpm",
       "c-major"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [
       "instrumental cue"
     ],
@@ -15024,6 +16239,11 @@
       "retro-synth",
       "118bpm",
       "g-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "1990s",
+      "retro"
     ],
     "use_case": [
       "instrumental cue"
@@ -15072,6 +16292,10 @@
       "96bpm",
       "c-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "instrumental cue"
     ],
@@ -15118,6 +16342,9 @@
       "retro-synth",
       "88bpm",
       "a-minor"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -15166,6 +16393,10 @@
       "112bpm",
       "f-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -15212,6 +16443,9 @@
       "retro-synth",
       "112bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -15260,6 +16494,9 @@
       "92bpm",
       "f-minor"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -15306,6 +16543,10 @@
       "retro-synth",
       "100bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -15354,6 +16595,10 @@
       "100bpm",
       "c-major"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -15400,6 +16645,9 @@
       "retro-synth",
       "108bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -15448,6 +16696,10 @@
       "124bpm",
       "c-major"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -15494,6 +16746,10 @@
       "retro-synth",
       "104bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -15542,6 +16798,10 @@
       "108bpm",
       "c-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "instrumental cue"
     ],
@@ -15588,6 +16848,9 @@
       "retro-synth",
       "104bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"
@@ -15636,6 +16899,10 @@
       "104bpm",
       "c-major"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -15682,6 +16949,10 @@
       "retro-synth",
       "104bpm",
       "f-minor"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [
       "instrumental cue"
@@ -15730,6 +17001,10 @@
       "108bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -15777,6 +17052,7 @@
       "122bpm",
       "e-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "chorus-first seed"
     ],
@@ -15824,6 +17100,7 @@
       "124bpm",
       "f-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "vocal pop seed"
     ],
@@ -15871,6 +17148,7 @@
       "132bpm",
       "a-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "full song seed"
     ],
@@ -15918,6 +17196,7 @@
       "128bpm",
       "b-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "instrumental cue"
     ],
@@ -15965,6 +17244,7 @@
       "130bpm",
       "e-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "full song seed"
     ],
@@ -16012,6 +17292,7 @@
       "126bpm",
       "b-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "full song seed"
     ],
@@ -16059,6 +17340,7 @@
       "130bpm",
       "g-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "instrumental cue"
     ],
@@ -16106,6 +17388,7 @@
       "124bpm",
       "b-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -16153,6 +17436,7 @@
       "116bpm",
       "f-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "chorus-first seed"
     ],
@@ -16200,6 +17484,7 @@
       "132bpm",
       "e-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "vocal pop seed"
     ],
@@ -16247,6 +17532,7 @@
       "126bpm",
       "f-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "instrumental cue"
     ],
@@ -16294,6 +17580,7 @@
       "124bpm",
       "b-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "vocal pop seed"
     ],
@@ -16341,6 +17628,7 @@
       "122bpm",
       "d-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "vocal pop seed"
     ],
@@ -16388,6 +17676,7 @@
       "124bpm",
       "f-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "club-rock seed"
     ],
@@ -16435,6 +17724,7 @@
       "126bpm",
       "f-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "club-rock seed"
     ],
@@ -16482,6 +17772,7 @@
       "116bpm",
       "b-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -16529,6 +17820,7 @@
       "124bpm",
       "f-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "club-rock seed"
     ],
@@ -16576,6 +17868,7 @@
       "120bpm",
       "e-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "club-rock seed"
     ],
@@ -16623,6 +17916,7 @@
       "126bpm",
       "f-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "vocal pop seed"
     ],
@@ -16670,6 +17964,7 @@
       "116bpm",
       "a-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "instrumental cue"
     ],
@@ -16717,6 +18012,7 @@
       "126bpm",
       "f-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "club-rock seed"
     ],
@@ -16764,6 +18060,7 @@
       "128bpm",
       "f-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "vocal pop seed"
     ],
@@ -16810,6 +18107,10 @@
       "machine-groove",
       "122bpm",
       "b-minor"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -16858,6 +18159,7 @@
       "120bpm",
       "g-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "vocal pop seed"
     ],
@@ -16905,6 +18207,7 @@
       "124bpm",
       "f-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "intro-heavy seed"
     ],
@@ -16952,6 +18255,7 @@
       "112bpm",
       "d-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "vocal pop seed"
     ],
@@ -16999,6 +18303,7 @@
       "120bpm",
       "b-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "instrumental cue"
     ],
@@ -17046,6 +18351,7 @@
       "116bpm",
       "c-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "night-drive cue"
     ],
@@ -17093,6 +18399,7 @@
       "120bpm",
       "g-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "vocal pop seed"
     ],
@@ -17140,6 +18447,7 @@
       "112bpm",
       "d-minor"
     ],
+    "era_tags": [],
     "use_case": [
       "instrumental cue"
     ],
@@ -17186,6 +18494,10 @@
       "relaxed-dance",
       "120bpm",
       "f-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "instrumental cue"
@@ -17234,6 +18546,10 @@
       "108bpm",
       "b-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -17280,6 +18596,10 @@
       "relaxed-dance",
       "116bpm",
       "g-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -17328,6 +18648,10 @@
       "120bpm",
       "d-major"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "club-rock seed"
     ],
@@ -17374,6 +18698,11 @@
       "relaxed-dance",
       "96bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -17422,6 +18751,10 @@
       "120bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -17468,6 +18801,10 @@
       "relaxed-dance",
       "100bpm",
       "d-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -17516,6 +18853,11 @@
       "112bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "instrumental cue"
     ],
@@ -17562,6 +18904,10 @@
       "relaxed-dance",
       "100bpm",
       "f-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -17610,6 +18956,11 @@
       "96bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -17656,6 +19007,10 @@
       "relaxed-dance",
       "120bpm",
       "g-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -17704,6 +19059,10 @@
       "120bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -17750,6 +19109,10 @@
       "relaxed-dance",
       "112bpm",
       "a-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -17798,6 +19161,11 @@
       "116bpm",
       "e-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -17844,6 +19212,11 @@
       "relaxed-dance",
       "108bpm",
       "d-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "intro-heavy seed"
@@ -17892,6 +19265,10 @@
       "92bpm",
       "d-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "full song seed"
     ],
@@ -17938,6 +19315,10 @@
       "relaxed-dance",
       "96bpm",
       "d-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "full song seed"
@@ -17986,6 +19367,10 @@
       "120bpm",
       "g-major"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -18032,6 +19417,10 @@
       "relaxed-dance",
       "116bpm",
       "f-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "club-rock seed"
@@ -18080,6 +19469,11 @@
       "112bpm",
       "c-major"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -18126,6 +19520,11 @@
       "relaxed-dance",
       "100bpm",
       "g-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -18174,6 +19573,10 @@
       "116bpm",
       "f-major"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -18220,6 +19623,10 @@
       "relaxed-dance",
       "108bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "instrumental cue"
@@ -18268,6 +19675,11 @@
       "116bpm",
       "d-major"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [
       "night-drive cue"
     ],
@@ -18314,6 +19726,10 @@
       "relaxed-dance",
       "120bpm",
       "f-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -18362,6 +19778,10 @@
       "100bpm",
       "g-major"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "vocal pop seed"
     ],
@@ -18408,6 +19828,10 @@
       "relaxed-dance",
       "116bpm",
       "e-minor"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [
       "night-drive cue"
@@ -18456,6 +19880,10 @@
       "120bpm",
       "g-major"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -18503,6 +19931,10 @@
       "120bpm",
       "a-minor"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [
       "chorus-first seed"
     ],
@@ -18549,6 +19981,11 @@
       "relaxed-dance",
       "100bpm",
       "f-major"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [
       "vocal pop seed"

@@ -32,6 +32,7 @@
       "anime-opening-pop-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -77,6 +78,7 @@
       "anime-opening-pop-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -122,6 +124,7 @@
       "anime-opening-pop-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -167,6 +170,7 @@
       "anime-opening-pop-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -212,6 +216,7 @@
       "anime-opening-pop-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -257,6 +262,7 @@
       "anime-ending-ballad",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -302,6 +308,7 @@
       "anime-ending-ballad",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -347,6 +354,7 @@
       "anime-ending-ballad",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -392,6 +400,7 @@
       "anime-ending-ballad",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -437,6 +446,7 @@
       "anime-ending-ballad",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -482,6 +492,7 @@
       "anime-battle-theme-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -527,6 +538,7 @@
       "anime-battle-theme-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -572,6 +584,7 @@
       "anime-battle-theme-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -617,6 +630,7 @@
       "anime-battle-theme-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -662,6 +676,7 @@
       "anime-battle-theme-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -707,6 +722,7 @@
       "anime-idol-opening",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -752,6 +768,7 @@
       "anime-idol-opening",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -797,6 +814,7 @@
       "anime-idol-opening",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -842,6 +860,7 @@
       "anime-idol-opening",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -887,6 +906,7 @@
       "anime-idol-opening",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -932,6 +952,7 @@
       "anime-slice-of-life-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -977,6 +998,7 @@
       "anime-slice-of-life-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1022,6 +1044,7 @@
       "anime-slice-of-life-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1067,6 +1090,7 @@
       "anime-slice-of-life-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1112,6 +1136,7 @@
       "anime-slice-of-life-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1157,6 +1182,7 @@
       "anime-fantasy-adventure",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1202,6 +1228,7 @@
       "anime-fantasy-adventure",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1247,6 +1274,7 @@
       "anime-fantasy-adventure",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1292,6 +1320,7 @@
       "anime-fantasy-adventure",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1337,6 +1366,7 @@
       "anime-fantasy-adventure",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1382,6 +1412,7 @@
       "anime-sports-opening",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1427,6 +1458,7 @@
       "anime-sports-opening",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1472,6 +1504,7 @@
       "anime-sports-opening",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1517,6 +1550,7 @@
       "anime-sports-opening",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1562,6 +1596,7 @@
       "anime-sports-opening",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1607,6 +1642,7 @@
       "anime-magical-girl-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1652,6 +1688,7 @@
       "anime-magical-girl-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1697,6 +1734,7 @@
       "anime-magical-girl-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1742,6 +1780,7 @@
       "anime-magical-girl-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1787,6 +1826,7 @@
       "anime-magical-girl-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1832,6 +1872,7 @@
       "anime-mecha-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1877,6 +1918,7 @@
       "anime-mecha-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1922,6 +1964,7 @@
       "anime-mecha-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1967,6 +2010,7 @@
       "anime-mecha-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2012,6 +2056,7 @@
       "anime-mecha-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2057,6 +2102,7 @@
       "anime-mystery-ending",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2102,6 +2148,7 @@
       "anime-mystery-ending",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2147,6 +2194,7 @@
       "anime-mystery-ending",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2192,6 +2240,7 @@
       "anime-mystery-ending",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2237,6 +2286,7 @@
       "anime-mystery-ending",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2282,6 +2332,7 @@
       "visual-novel-ballad",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2327,6 +2378,7 @@
       "visual-novel-ballad",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2372,6 +2424,7 @@
       "visual-novel-ballad",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2417,6 +2470,7 @@
       "visual-novel-ballad",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2462,6 +2516,7 @@
       "visual-novel-ballad",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2507,6 +2562,7 @@
       "visual-novel-school-life",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2552,6 +2608,7 @@
       "visual-novel-school-life",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2597,6 +2654,7 @@
       "visual-novel-school-life",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2642,6 +2700,7 @@
       "visual-novel-school-life",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2687,6 +2746,7 @@
       "visual-novel-school-life",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2732,6 +2792,7 @@
       "visual-novel-mystery",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2777,6 +2838,7 @@
       "visual-novel-mystery",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2822,6 +2884,7 @@
       "visual-novel-mystery",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2867,6 +2930,7 @@
       "visual-novel-mystery",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2912,6 +2976,7 @@
       "visual-novel-mystery",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2957,6 +3022,7 @@
       "rhythm-game-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3002,6 +3068,7 @@
       "rhythm-game-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3047,6 +3114,7 @@
       "rhythm-game-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3092,6 +3160,7 @@
       "rhythm-game-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3137,6 +3206,7 @@
       "rhythm-game-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3182,6 +3252,7 @@
       "rhythm-game-electronic",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3227,6 +3298,7 @@
       "rhythm-game-electronic",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3272,6 +3344,7 @@
       "rhythm-game-electronic",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3317,6 +3390,7 @@
       "rhythm-game-electronic",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3362,6 +3436,7 @@
       "rhythm-game-electronic",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3407,6 +3482,7 @@
       "jrpg-battle-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3452,6 +3528,7 @@
       "jrpg-battle-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3497,6 +3574,7 @@
       "jrpg-battle-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3542,6 +3620,7 @@
       "jrpg-battle-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3587,6 +3666,7 @@
       "jrpg-battle-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3632,6 +3712,7 @@
       "jrpg-field-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3677,6 +3758,7 @@
       "jrpg-field-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3722,6 +3804,7 @@
       "jrpg-field-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3767,6 +3850,7 @@
       "jrpg-field-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3812,6 +3896,7 @@
       "jrpg-field-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3857,6 +3942,7 @@
       "jrpg-town-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3902,6 +3988,7 @@
       "jrpg-town-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3947,6 +4034,7 @@
       "jrpg-town-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3992,6 +4080,7 @@
       "jrpg-town-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4037,6 +4126,7 @@
       "jrpg-town-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4082,6 +4172,7 @@
       "jrpg-boss-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4127,6 +4218,7 @@
       "jrpg-boss-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4172,6 +4264,7 @@
       "jrpg-boss-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4217,6 +4310,7 @@
       "jrpg-boss-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4262,6 +4356,7 @@
       "jrpg-boss-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4307,6 +4402,7 @@
       "jrpg-airship-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4352,6 +4448,7 @@
       "jrpg-airship-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4397,6 +4494,7 @@
       "jrpg-airship-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4442,6 +4540,7 @@
       "jrpg-airship-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4487,6 +4586,7 @@
       "jrpg-airship-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4531,6 +4631,9 @@
       "theme",
       "retro-game-chiptune",
       "japan-media-inspired"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -4577,6 +4680,9 @@
       "retro-game-chiptune",
       "japan-media-inspired"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4621,6 +4727,9 @@
       "theme",
       "retro-game-chiptune",
       "japan-media-inspired"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4667,6 +4776,9 @@
       "retro-game-chiptune",
       "japan-media-inspired"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4711,6 +4823,9 @@
       "theme",
       "retro-game-chiptune",
       "japan-media-inspired"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4757,6 +4872,7 @@
       "arcade-racing-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4802,6 +4918,7 @@
       "arcade-racing-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4847,6 +4964,7 @@
       "arcade-racing-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4892,6 +5010,7 @@
       "arcade-racing-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4937,6 +5056,7 @@
       "arcade-racing-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4982,6 +5102,7 @@
       "puzzle-game-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5027,6 +5148,7 @@
       "puzzle-game-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5072,6 +5194,7 @@
       "puzzle-game-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5117,6 +5240,7 @@
       "puzzle-game-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5162,6 +5286,7 @@
       "puzzle-game-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5207,6 +5332,7 @@
       "cozy-game-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5252,6 +5378,7 @@
       "cozy-game-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5297,6 +5424,7 @@
       "cozy-game-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5342,6 +5470,7 @@
       "cozy-game-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5387,6 +5516,7 @@
       "cozy-game-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5432,6 +5562,7 @@
       "dungeon-synth-game",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5477,6 +5608,7 @@
       "dungeon-synth-game",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5522,6 +5654,7 @@
       "dungeon-synth-game",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5567,6 +5700,7 @@
       "dungeon-synth-game",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5612,6 +5746,7 @@
       "dungeon-synth-game",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5657,6 +5792,7 @@
       "fantasy-tavern-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5702,6 +5838,7 @@
       "fantasy-tavern-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5747,6 +5884,7 @@
       "fantasy-tavern-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5792,6 +5930,7 @@
       "fantasy-tavern-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5837,6 +5976,7 @@
       "fantasy-tavern-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5882,6 +6022,7 @@
       "cyberpunk-game-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5927,6 +6068,7 @@
       "cyberpunk-game-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5972,6 +6114,7 @@
       "cyberpunk-game-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6017,6 +6160,7 @@
       "cyberpunk-game-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6062,6 +6206,7 @@
       "cyberpunk-game-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6107,6 +6252,7 @@
       "mobile-game-idol-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6152,6 +6298,7 @@
       "mobile-game-idol-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6197,6 +6344,7 @@
       "mobile-game-idol-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6242,6 +6390,7 @@
       "mobile-game-idol-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6287,6 +6436,7 @@
       "mobile-game-idol-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6332,6 +6482,7 @@
       "menu-screen-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6377,6 +6528,7 @@
       "menu-screen-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6422,6 +6574,7 @@
       "menu-screen-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6467,6 +6620,7 @@
       "menu-screen-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6512,6 +6666,7 @@
       "menu-screen-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6557,6 +6712,7 @@
       "hero-transformation-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6602,6 +6758,7 @@
       "hero-transformation-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6647,6 +6804,7 @@
       "hero-transformation-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6692,6 +6850,7 @@
       "hero-transformation-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6737,6 +6896,7 @@
       "hero-transformation-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6782,6 +6942,7 @@
       "tokusatsu-inspired-anthem",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6827,6 +6988,7 @@
       "tokusatsu-inspired-anthem",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6872,6 +7034,7 @@
       "tokusatsu-inspired-anthem",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6917,6 +7080,7 @@
       "tokusatsu-inspired-anthem",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6962,6 +7126,7 @@
       "tokusatsu-inspired-anthem",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7007,6 +7172,7 @@
       "school-anime-chorus",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7052,6 +7218,7 @@
       "school-anime-chorus",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7097,6 +7264,7 @@
       "school-anime-chorus",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7142,6 +7310,7 @@
       "school-anime-chorus",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7187,6 +7356,7 @@
       "school-anime-chorus",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7232,6 +7402,7 @@
       "ending-credits-piano",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7277,6 +7448,7 @@
       "ending-credits-piano",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7322,6 +7494,7 @@
       "ending-credits-piano",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7367,6 +7540,7 @@
       "ending-credits-piano",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7412,6 +7586,7 @@
       "ending-credits-piano",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7457,6 +7632,7 @@
       "mascot-theme-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7502,6 +7678,7 @@
       "mascot-theme-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7547,6 +7724,7 @@
       "mascot-theme-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7592,6 +7770,7 @@
       "mascot-theme-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7637,6 +7816,7 @@
       "mascot-theme-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7682,6 +7862,7 @@
       "boss-rush-electronic-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7727,6 +7908,7 @@
       "boss-rush-electronic-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7772,6 +7954,7 @@
       "boss-rush-electronic-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7817,6 +8000,7 @@
       "boss-rush-electronic-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7862,6 +8046,7 @@
       "boss-rush-electronic-rock",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7907,6 +8092,7 @@
       "adventure-map-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7952,6 +8138,7 @@
       "adventure-map-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7997,6 +8184,7 @@
       "adventure-map-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8042,6 +8230,7 @@
       "adventure-map-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8087,6 +8276,7 @@
       "adventure-map-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8132,6 +8322,7 @@
       "stealth-mission-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8177,6 +8368,7 @@
       "stealth-mission-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8222,6 +8414,7 @@
       "stealth-mission-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8267,6 +8460,7 @@
       "stealth-mission-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8312,6 +8506,7 @@
       "stealth-mission-bgm",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8357,6 +8552,7 @@
       "victory-fanfare-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8402,6 +8598,7 @@
       "victory-fanfare-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8447,6 +8644,7 @@
       "victory-fanfare-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8492,6 +8690,7 @@
       "victory-fanfare-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8537,6 +8736,7 @@
       "victory-fanfare-pop",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8582,6 +8782,7 @@
       "emotional-cutscene-score",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8627,6 +8828,7 @@
       "emotional-cutscene-score",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8672,6 +8874,7 @@
       "emotional-cutscene-score",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8717,6 +8920,7 @@
       "emotional-cutscene-score",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8762,6 +8966,7 @@
       "emotional-cutscene-score",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8807,6 +9012,7 @@
       "opening-title-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8852,6 +9058,7 @@
       "opening-title-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8897,6 +9104,7 @@
       "opening-title-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8942,6 +9150,7 @@
       "opening-title-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8987,6 +9196,7 @@
       "opening-title-theme",
       "japan-media-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",

@@ -32,6 +32,7 @@
       "korean-pop-chorus",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -77,6 +78,7 @@
       "korean-pop-chorus",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -122,6 +124,7 @@
       "korean-pop-chorus",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -167,6 +170,7 @@
       "korean-pop-chorus",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -212,6 +216,7 @@
       "korean-pop-chorus",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -257,6 +262,7 @@
       "korean-rnb",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -302,6 +308,7 @@
       "korean-rnb",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -347,6 +354,7 @@
       "korean-rnb",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -392,6 +400,7 @@
       "korean-rnb",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -437,6 +446,7 @@
       "korean-rnb",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -482,6 +492,7 @@
       "korean-indie-band",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -527,6 +538,7 @@
       "korean-indie-band",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -572,6 +584,7 @@
       "korean-indie-band",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -617,6 +630,7 @@
       "korean-indie-band",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -662,6 +676,7 @@
       "korean-indie-band",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -706,6 +721,10 @@
       "fusion",
       "korean-city-pop",
       "east"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -752,6 +771,10 @@
       "korean-city-pop",
       "east"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -796,6 +819,10 @@
       "fusion",
       "korean-city-pop",
       "east"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -842,6 +869,10 @@
       "korean-city-pop",
       "east"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -886,6 +917,10 @@
       "fusion",
       "korean-city-pop",
       "east"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -932,6 +967,7 @@
       "korean-trot-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -977,6 +1013,7 @@
       "korean-trot-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -1022,6 +1059,7 @@
       "korean-trot-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1067,6 +1105,7 @@
       "korean-trot-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1112,6 +1151,7 @@
       "korean-trot-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1157,6 +1197,7 @@
       "korean-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -1202,6 +1243,7 @@
       "korean-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1247,6 +1289,7 @@
       "korean-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1292,6 +1335,7 @@
       "korean-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1337,6 +1381,7 @@
       "korean-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1382,6 +1427,7 @@
       "korean-electronic-club",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1427,6 +1473,7 @@
       "korean-electronic-club",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1472,6 +1519,7 @@
       "korean-electronic-club",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1517,6 +1565,7 @@
       "korean-electronic-club",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1562,6 +1611,7 @@
       "korean-electronic-club",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1607,6 +1657,7 @@
       "mandopop-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1652,6 +1703,7 @@
       "mandopop-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1697,6 +1749,7 @@
       "mandopop-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1742,6 +1795,7 @@
       "mandopop-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1787,6 +1841,7 @@
       "mandopop-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1832,6 +1887,7 @@
       "mandopop-dance",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1877,6 +1933,7 @@
       "mandopop-dance",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1922,6 +1979,7 @@
       "mandopop-dance",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1967,6 +2025,7 @@
       "mandopop-dance",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -2012,6 +2071,7 @@
       "mandopop-dance",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2057,6 +2117,7 @@
       "taiwan-indie-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2102,6 +2163,7 @@
       "taiwan-indie-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -2147,6 +2209,7 @@
       "taiwan-indie-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -2192,6 +2255,7 @@
       "taiwan-indie-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2237,6 +2301,7 @@
       "taiwan-indie-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2282,6 +2347,7 @@
       "cantopop-groove",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -2327,6 +2393,7 @@
       "cantopop-groove",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -2372,6 +2439,7 @@
       "cantopop-groove",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2417,6 +2485,7 @@
       "cantopop-groove",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2462,6 +2531,7 @@
       "cantopop-groove",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -2506,6 +2576,10 @@
       "fusion",
       "hong-kong-city-pop",
       "east"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -2552,6 +2626,10 @@
       "hong-kong-city-pop",
       "east"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2596,6 +2674,10 @@
       "fusion",
       "hong-kong-city-pop",
       "east"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2642,6 +2724,10 @@
       "hong-kong-city-pop",
       "east"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -2686,6 +2772,10 @@
       "fusion",
       "hong-kong-city-pop",
       "east"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -2732,6 +2822,7 @@
       "chinese-folk-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2777,6 +2868,7 @@
       "chinese-folk-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2822,6 +2914,7 @@
       "chinese-folk-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -2867,6 +2960,7 @@
       "chinese-folk-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -2912,6 +3006,7 @@
       "chinese-folk-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2957,6 +3052,7 @@
       "chinese-rock-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3002,6 +3098,7 @@
       "chinese-rock-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -3047,6 +3144,7 @@
       "chinese-rock-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -3092,6 +3190,7 @@
       "chinese-rock-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -3137,6 +3236,7 @@
       "chinese-rock-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3182,6 +3282,7 @@
       "chinese-electronic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -3227,6 +3328,7 @@
       "chinese-electronic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -3272,6 +3374,7 @@
       "chinese-electronic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -3317,6 +3420,7 @@
       "chinese-electronic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3362,6 +3466,7 @@
       "chinese-electronic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3407,6 +3512,7 @@
       "erhu-cinematic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -3452,6 +3558,7 @@
       "erhu-cinematic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -3497,6 +3604,7 @@
       "erhu-cinematic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3542,6 +3650,7 @@
       "erhu-cinematic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3587,6 +3696,7 @@
       "erhu-cinematic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -3632,6 +3742,7 @@
       "guzheng-lofi",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -3677,6 +3788,7 @@
       "guzheng-lofi",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3722,6 +3834,7 @@
       "guzheng-lofi",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3767,6 +3880,7 @@
       "guzheng-lofi",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -3812,6 +3926,7 @@
       "guzheng-lofi",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -3856,6 +3971,9 @@
       "fusion",
       "zither-trap",
       "east"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3902,6 +4020,9 @@
       "zither-trap",
       "east"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3946,6 +4067,9 @@
       "fusion",
       "zither-trap",
       "east"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -3992,6 +4116,9 @@
       "zither-trap",
       "east"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4036,6 +4163,9 @@
       "fusion",
       "zither-trap",
       "east"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4082,6 +4212,7 @@
       "taiwan-math-rock",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -4127,6 +4258,7 @@
       "taiwan-math-rock",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -4172,6 +4304,7 @@
       "taiwan-math-rock",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4217,6 +4350,7 @@
       "taiwan-math-rock",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4262,6 +4396,7 @@
       "taiwan-math-rock",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4307,6 +4442,7 @@
       "mandarin-acoustic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -4352,6 +4488,7 @@
       "mandarin-acoustic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4397,6 +4534,7 @@
       "mandarin-acoustic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4442,6 +4580,7 @@
       "mandarin-acoustic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4487,6 +4626,7 @@
       "mandarin-acoustic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4532,6 +4672,7 @@
       "korean-hiphop-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4577,6 +4718,7 @@
       "korean-hiphop-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4622,6 +4764,7 @@
       "korean-hiphop-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4667,6 +4810,7 @@
       "korean-hiphop-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4712,6 +4856,7 @@
       "korean-hiphop-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -4756,6 +4901,9 @@
       "fusion",
       "korean-trap-rnb",
       "east"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4802,6 +4950,9 @@
       "korean-trap-rnb",
       "east"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4846,6 +4997,9 @@
       "fusion",
       "korean-trap-rnb",
       "east"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -4892,6 +5046,9 @@
       "korean-trap-rnb",
       "east"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -4936,6 +5093,9 @@
       "fusion",
       "korean-trap-rnb",
       "east"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4982,6 +5142,10 @@
       "korean-synthwave",
       "east"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5026,6 +5190,10 @@
       "fusion",
       "korean-synthwave",
       "east"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -5072,6 +5240,10 @@
       "korean-synthwave",
       "east"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -5116,6 +5288,10 @@
       "fusion",
       "korean-synthwave",
       "east"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5162,6 +5338,10 @@
       "korean-synthwave",
       "east"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5207,6 +5387,7 @@
       "korean-drama-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -5252,6 +5433,7 @@
       "korean-drama-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -5297,6 +5479,7 @@
       "korean-drama-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -5342,6 +5525,7 @@
       "korean-drama-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5387,6 +5571,7 @@
       "korean-drama-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -5432,6 +5617,7 @@
       "cafe-acoustic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -5477,6 +5663,7 @@
       "cafe-acoustic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -5522,6 +5709,7 @@
       "cafe-acoustic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5567,6 +5755,7 @@
       "cafe-acoustic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -5612,6 +5801,7 @@
       "cafe-acoustic-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -5657,6 +5847,7 @@
       "east-asian-jazz-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -5702,6 +5893,7 @@
       "east-asian-jazz-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5747,6 +5939,7 @@
       "east-asian-jazz-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -5792,6 +5985,7 @@
       "east-asian-jazz-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -5837,6 +6031,7 @@
       "east-asian-jazz-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5881,6 +6076,9 @@
       "fusion",
       "east-asian-future-bass",
       "east"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -5927,6 +6125,9 @@
       "east-asian-future-bass",
       "east"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -5971,6 +6172,9 @@
       "fusion",
       "east-asian-future-bass",
       "east"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 7,
@@ -6017,6 +6221,9 @@
       "east-asian-future-bass",
       "east"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6061,6 +6268,9 @@
       "fusion",
       "east-asian-future-bass",
       "east"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -6107,6 +6317,7 @@
       "east-asian-house-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6152,6 +6363,7 @@
       "east-asian-house-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6197,6 +6409,7 @@
       "east-asian-house-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6242,6 +6455,7 @@
       "east-asian-house-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6287,6 +6501,7 @@
       "east-asian-house-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6332,6 +6547,7 @@
       "east-asian-idol-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6377,6 +6593,7 @@
       "east-asian-idol-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6422,6 +6639,7 @@
       "east-asian-idol-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6467,6 +6685,7 @@
       "east-asian-idol-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6512,6 +6731,7 @@
       "east-asian-idol-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -6557,6 +6777,7 @@
       "girl-group-style-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6602,6 +6823,7 @@
       "girl-group-style-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6647,6 +6869,7 @@
       "girl-group-style-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6692,6 +6915,7 @@
       "girl-group-style-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -6737,6 +6961,7 @@
       "girl-group-style-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6782,6 +7007,7 @@
       "boy-group-style-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6827,6 +7053,7 @@
       "boy-group-style-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6872,6 +7099,7 @@
       "boy-group-style-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -6917,6 +7145,7 @@
       "boy-group-style-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6962,6 +7191,7 @@
       "boy-group-style-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7007,6 +7237,7 @@
       "mongolian-folk-rock",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -7052,6 +7283,7 @@
       "mongolian-folk-rock",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7097,6 +7329,7 @@
       "mongolian-folk-rock",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7142,6 +7375,7 @@
       "mongolian-folk-rock",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7187,6 +7421,7 @@
       "mongolian-folk-rock",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7232,6 +7467,7 @@
       "throat-singing-fusion",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7277,6 +7513,7 @@
       "throat-singing-fusion",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7322,6 +7559,7 @@
       "throat-singing-fusion",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7367,6 +7605,7 @@
       "throat-singing-fusion",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7412,6 +7651,7 @@
       "throat-singing-fusion",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7457,6 +7697,7 @@
       "steppe-cinematic-score",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7502,6 +7743,7 @@
       "steppe-cinematic-score",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7547,6 +7789,7 @@
       "steppe-cinematic-score",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7592,6 +7835,7 @@
       "steppe-cinematic-score",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7637,6 +7881,7 @@
       "steppe-cinematic-score",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7682,6 +7927,7 @@
       "lunar-new-year-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7727,6 +7973,7 @@
       "lunar-new-year-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7772,6 +8019,7 @@
       "lunar-new-year-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7817,6 +8065,7 @@
       "lunar-new-year-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7862,6 +8111,7 @@
       "lunar-new-year-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -7907,6 +8157,7 @@
       "city-night-rnb",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7952,6 +8203,7 @@
       "city-night-rnb",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7997,6 +8249,7 @@
       "city-night-rnb",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8042,6 +8295,7 @@
       "city-night-rnb",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8087,6 +8341,7 @@
       "city-night-rnb",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8132,6 +8387,7 @@
       "rainy-piano-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -8177,6 +8433,7 @@
       "rainy-piano-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8222,6 +8479,7 @@
       "rainy-piano-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8267,6 +8525,7 @@
       "rainy-piano-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8312,6 +8571,7 @@
       "rainy-piano-ballad",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8357,6 +8617,7 @@
       "school-youth-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8402,6 +8663,7 @@
       "school-youth-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8447,6 +8709,7 @@
       "school-youth-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8492,6 +8755,7 @@
       "school-youth-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8537,6 +8801,7 @@
       "school-youth-pop",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8581,6 +8846,10 @@
       "fusion",
       "retro-synth-pop",
       "east"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -8627,6 +8896,10 @@
       "retro-synth-pop",
       "east"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8671,6 +8944,10 @@
       "fusion",
       "retro-synth-pop",
       "east"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 7,
@@ -8717,6 +8994,10 @@
       "retro-synth-pop",
       "east"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8761,6 +9042,10 @@
       "fusion",
       "retro-synth-pop",
       "east"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -8807,6 +9092,7 @@
       "plucked-string-ambient",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8852,6 +9138,7 @@
       "plucked-string-ambient",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8897,6 +9184,7 @@
       "plucked-string-ambient",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8942,6 +9230,7 @@
       "plucked-string-ambient",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8987,6 +9276,7 @@
       "plucked-string-ambient",
       "east"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",

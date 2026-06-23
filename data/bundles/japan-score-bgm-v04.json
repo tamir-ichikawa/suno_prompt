@@ -32,6 +32,7 @@
       "daily-life-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -77,6 +78,7 @@
       "daily-life-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -122,6 +124,7 @@
       "daily-life-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -167,6 +170,7 @@
       "daily-life-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -212,6 +216,7 @@
       "daily-life-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -257,6 +262,7 @@
       "slice-of-life-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -302,6 +308,7 @@
       "slice-of-life-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -347,6 +354,7 @@
       "slice-of-life-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -392,6 +400,7 @@
       "slice-of-life-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -437,6 +446,7 @@
       "slice-of-life-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -482,6 +492,7 @@
       "japanese-cinematic",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -527,6 +538,7 @@
       "japanese-cinematic",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -572,6 +584,7 @@
       "japanese-cinematic",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -617,6 +630,7 @@
       "japanese-cinematic",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -662,6 +676,7 @@
       "japanese-cinematic",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -707,6 +722,7 @@
       "youth-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -752,6 +768,7 @@
       "youth-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -797,6 +814,7 @@
       "youth-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -842,6 +860,7 @@
       "youth-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -887,6 +906,7 @@
       "youth-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -932,6 +952,7 @@
       "mystery-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -977,6 +998,7 @@
       "mystery-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1022,6 +1044,7 @@
       "mystery-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1067,6 +1090,7 @@
       "mystery-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1112,6 +1136,7 @@
       "mystery-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1157,6 +1182,7 @@
       "period-drama-inspired",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1202,6 +1228,7 @@
       "period-drama-inspired",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1247,6 +1274,7 @@
       "period-drama-inspired",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1292,6 +1320,7 @@
       "period-drama-inspired",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1337,6 +1366,7 @@
       "period-drama-inspired",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1382,6 +1412,7 @@
       "travel-show-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1427,6 +1458,7 @@
       "travel-show-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1472,6 +1504,7 @@
       "travel-show-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1517,6 +1550,7 @@
       "travel-show-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1562,6 +1596,7 @@
       "travel-show-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1607,6 +1642,7 @@
       "corporate-vp-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1652,6 +1688,7 @@
       "corporate-vp-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1697,6 +1734,7 @@
       "corporate-vp-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1742,6 +1780,7 @@
       "corporate-vp-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1787,6 +1826,7 @@
       "corporate-vp-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1832,6 +1872,7 @@
       "cooking-show-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1877,6 +1918,7 @@
       "cooking-show-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1922,6 +1964,7 @@
       "cooking-show-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1967,6 +2010,7 @@
       "cooking-show-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2012,6 +2056,7 @@
       "cooking-show-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2057,6 +2102,7 @@
       "morning-news-bed",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2102,6 +2148,7 @@
       "morning-news-bed",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2147,6 +2194,7 @@
       "morning-news-bed",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2192,6 +2240,7 @@
       "morning-news-bed",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2237,6 +2286,7 @@
       "morning-news-bed",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2282,6 +2332,7 @@
       "documentary-japan",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2327,6 +2378,7 @@
       "documentary-japan",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2372,6 +2424,7 @@
       "documentary-japan",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2417,6 +2470,7 @@
       "documentary-japan",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2462,6 +2516,7 @@
       "documentary-japan",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2507,6 +2562,7 @@
       "nature-travel-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2552,6 +2608,7 @@
       "nature-travel-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2597,6 +2654,7 @@
       "nature-travel-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2642,6 +2700,7 @@
       "nature-travel-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2687,6 +2746,7 @@
       "nature-travel-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2732,6 +2792,7 @@
       "temple-town-ambient",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2777,6 +2838,7 @@
       "temple-town-ambient",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2822,6 +2884,7 @@
       "temple-town-ambient",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2867,6 +2930,7 @@
       "temple-town-ambient",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2912,6 +2976,7 @@
       "temple-town-ambient",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2957,6 +3022,7 @@
       "city-rain-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3002,6 +3068,7 @@
       "city-rain-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3047,6 +3114,7 @@
       "city-rain-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3092,6 +3160,7 @@
       "city-rain-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3137,6 +3206,7 @@
       "city-rain-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3182,6 +3252,7 @@
       "school-day-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3227,6 +3298,7 @@
       "school-day-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3272,6 +3344,7 @@
       "school-day-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3317,6 +3390,7 @@
       "school-day-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3362,6 +3436,7 @@
       "school-day-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3407,6 +3482,7 @@
       "summer-memory-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3452,6 +3528,7 @@
       "summer-memory-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3497,6 +3574,7 @@
       "summer-memory-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3542,6 +3620,7 @@
       "summer-memory-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3587,6 +3666,7 @@
       "summer-memory-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3632,6 +3712,7 @@
       "winter-town-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3677,6 +3758,7 @@
       "winter-town-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3722,6 +3804,7 @@
       "winter-town-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3767,6 +3850,7 @@
       "winter-town-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3812,6 +3896,7 @@
       "winter-town-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3857,6 +3942,7 @@
       "emotional-piano-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3902,6 +3988,7 @@
       "emotional-piano-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3947,6 +4034,7 @@
       "emotional-piano-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3992,6 +4080,7 @@
       "emotional-piano-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4037,6 +4126,7 @@
       "emotional-piano-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4082,6 +4172,7 @@
       "family-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4127,6 +4218,7 @@
       "family-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4172,6 +4264,7 @@
       "family-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4217,6 +4310,7 @@
       "family-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4262,6 +4356,7 @@
       "family-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4307,6 +4402,7 @@
       "suspense-tv-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4352,6 +4448,7 @@
       "suspense-tv-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4397,6 +4494,7 @@
       "suspense-tv-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4442,6 +4540,7 @@
       "suspense-tv-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4487,6 +4586,7 @@
       "suspense-tv-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4532,6 +4632,7 @@
       "detective-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4577,6 +4678,7 @@
       "detective-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4622,6 +4724,7 @@
       "detective-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4667,6 +4770,7 @@
       "detective-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4712,6 +4816,7 @@
       "detective-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4757,6 +4862,7 @@
       "historical-town-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4802,6 +4908,7 @@
       "historical-town-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4847,6 +4954,7 @@
       "historical-town-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4892,6 +5000,7 @@
       "historical-town-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4937,6 +5046,7 @@
       "historical-town-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4982,6 +5092,7 @@
       "samurai-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5027,6 +5138,7 @@
       "samurai-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5072,6 +5184,7 @@
       "samurai-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5117,6 +5230,7 @@
       "samurai-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5162,6 +5276,7 @@
       "samurai-drama-score",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5207,6 +5322,7 @@
       "festival-scene-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5252,6 +5368,7 @@
       "festival-scene-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5297,6 +5414,7 @@
       "festival-scene-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5342,6 +5460,7 @@
       "festival-scene-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5387,6 +5506,7 @@
       "festival-scene-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5432,6 +5552,7 @@
       "onsen-travel-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5477,6 +5598,7 @@
       "onsen-travel-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5522,6 +5644,7 @@
       "onsen-travel-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5567,6 +5690,7 @@
       "onsen-travel-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5612,6 +5736,7 @@
       "onsen-travel-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5657,6 +5782,7 @@
       "train-journey-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5702,6 +5828,7 @@
       "train-journey-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5747,6 +5874,7 @@
       "train-journey-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5792,6 +5920,7 @@
       "train-journey-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5837,6 +5966,7 @@
       "train-journey-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5882,6 +6012,7 @@
       "countryside-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5927,6 +6058,7 @@
       "countryside-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5972,6 +6104,7 @@
       "countryside-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6017,6 +6150,7 @@
       "countryside-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6062,6 +6196,7 @@
       "countryside-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6107,6 +6242,7 @@
       "urban-night-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6152,6 +6288,7 @@
       "urban-night-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6197,6 +6334,7 @@
       "urban-night-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6242,6 +6380,7 @@
       "urban-night-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6287,6 +6426,7 @@
       "urban-night-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6332,6 +6472,7 @@
       "product-demo-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6377,6 +6518,7 @@
       "product-demo-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6422,6 +6564,7 @@
       "product-demo-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6467,6 +6610,7 @@
       "product-demo-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6512,6 +6656,7 @@
       "product-demo-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6557,6 +6702,7 @@
       "tutorial-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6602,6 +6748,7 @@
       "tutorial-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6647,6 +6794,7 @@
       "tutorial-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6692,6 +6840,7 @@
       "tutorial-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6737,6 +6886,7 @@
       "tutorial-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6782,6 +6932,7 @@
       "podcast-bed-japan",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6827,6 +6978,7 @@
       "podcast-bed-japan",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6872,6 +7024,7 @@
       "podcast-bed-japan",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6917,6 +7070,7 @@
       "podcast-bed-japan",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6962,6 +7116,7 @@
       "podcast-bed-japan",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7007,6 +7162,7 @@
       "event-opening-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7052,6 +7208,7 @@
       "event-opening-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7097,6 +7254,7 @@
       "event-opening-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7142,6 +7300,7 @@
       "event-opening-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7187,6 +7346,7 @@
       "event-opening-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7232,6 +7392,7 @@
       "award-ceremony-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7277,6 +7438,7 @@
       "award-ceremony-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7322,6 +7484,7 @@
       "award-ceremony-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7367,6 +7530,7 @@
       "award-ceremony-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7412,6 +7576,7 @@
       "award-ceremony-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7457,6 +7622,7 @@
       "museum-audio-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7502,6 +7668,7 @@
       "museum-audio-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7547,6 +7714,7 @@
       "museum-audio-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7592,6 +7760,7 @@
       "museum-audio-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7637,6 +7806,7 @@
       "museum-audio-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7682,6 +7852,7 @@
       "healing-spa-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7727,6 +7898,7 @@
       "healing-spa-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7772,6 +7944,7 @@
       "healing-spa-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7817,6 +7990,7 @@
       "healing-spa-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7862,6 +8036,7 @@
       "healing-spa-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7907,6 +8082,7 @@
       "retail-store-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7952,6 +8128,7 @@
       "retail-store-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7997,6 +8174,7 @@
       "retail-store-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8042,6 +8220,7 @@
       "retail-store-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8087,6 +8266,7 @@
       "retail-store-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8132,6 +8312,7 @@
       "menu-screen-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8177,6 +8358,7 @@
       "menu-screen-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8222,6 +8404,7 @@
       "menu-screen-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8267,6 +8450,7 @@
       "menu-screen-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8312,6 +8496,7 @@
       "menu-screen-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8357,6 +8542,7 @@
       "episode-recap-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8402,6 +8588,7 @@
       "episode-recap-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8447,6 +8634,7 @@
       "episode-recap-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8492,6 +8680,7 @@
       "episode-recap-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8537,6 +8726,7 @@
       "episode-recap-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8582,6 +8772,7 @@
       "ending-credits-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8627,6 +8818,7 @@
       "ending-credits-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8672,6 +8864,7 @@
       "ending-credits-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8717,6 +8910,7 @@
       "ending-credits-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8762,6 +8956,7 @@
       "ending-credits-bgm",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8807,6 +9002,7 @@
       "short-stinger-fanfare",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8852,6 +9048,7 @@
       "short-stinger-fanfare",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8897,6 +9094,7 @@
       "short-stinger-fanfare",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8942,6 +9140,7 @@
       "short-stinger-fanfare",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8987,6 +9186,7 @@
       "short-stinger-fanfare",
       "japan-production-music"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",

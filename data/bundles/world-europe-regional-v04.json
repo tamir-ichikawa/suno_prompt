@@ -31,6 +31,7 @@
       "folk",
       "celtic-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -75,6 +76,7 @@
       "folk",
       "celtic-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -119,6 +121,7 @@
       "folk",
       "celtic-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -163,6 +166,7 @@
       "folk",
       "celtic-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -207,6 +211,7 @@
       "folk",
       "celtic-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -251,6 +256,7 @@
       "folk",
       "irish-pub-folk-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -295,6 +301,7 @@
       "folk",
       "irish-pub-folk-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -339,6 +346,7 @@
       "folk",
       "irish-pub-folk-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -383,6 +391,7 @@
       "folk",
       "irish-pub-folk-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -427,6 +436,7 @@
       "folk",
       "irish-pub-folk-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -471,6 +481,7 @@
       "folk",
       "scottish-cinematic-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -515,6 +526,7 @@
       "folk",
       "scottish-cinematic-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -559,6 +571,7 @@
       "folk",
       "scottish-cinematic-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -603,6 +616,7 @@
       "folk",
       "scottish-cinematic-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -647,6 +661,7 @@
       "folk",
       "scottish-cinematic-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -691,6 +706,7 @@
       "folk",
       "nordic-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -735,6 +751,7 @@
       "folk",
       "nordic-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -779,6 +796,7 @@
       "folk",
       "nordic-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -823,6 +841,7 @@
       "folk",
       "nordic-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -867,6 +886,7 @@
       "folk",
       "nordic-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -911,6 +931,7 @@
       "folk",
       "nordic-dark-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -955,6 +976,7 @@
       "folk",
       "nordic-dark-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -999,6 +1021,7 @@
       "folk",
       "nordic-dark-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1043,6 +1066,7 @@
       "folk",
       "nordic-dark-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1087,6 +1111,7 @@
       "folk",
       "nordic-dark-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1131,6 +1156,7 @@
       "folk",
       "swedish-schlager-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -1175,6 +1201,7 @@
       "folk",
       "swedish-schlager-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1219,6 +1246,7 @@
       "folk",
       "swedish-schlager-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1263,6 +1291,7 @@
       "folk",
       "swedish-schlager-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1307,6 +1336,7 @@
       "folk",
       "swedish-schlager-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1351,6 +1381,7 @@
       "folk",
       "finnish-tango-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1395,6 +1426,7 @@
       "folk",
       "finnish-tango-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1439,6 +1471,7 @@
       "folk",
       "finnish-tango-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1483,6 +1516,7 @@
       "folk",
       "finnish-tango-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1527,6 +1561,7 @@
       "folk",
       "finnish-tango-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1571,6 +1606,7 @@
       "folk",
       "icelandic-ambient-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1615,6 +1651,7 @@
       "folk",
       "icelandic-ambient-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1659,6 +1696,7 @@
       "folk",
       "icelandic-ambient-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1703,6 +1741,7 @@
       "folk",
       "icelandic-ambient-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1747,6 +1786,7 @@
       "folk",
       "icelandic-ambient-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1791,6 +1831,7 @@
       "folk",
       "fado-inspired-ballad"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1835,6 +1876,7 @@
       "folk",
       "fado-inspired-ballad"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1879,6 +1921,7 @@
       "folk",
       "fado-inspired-ballad"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1923,6 +1966,7 @@
       "folk",
       "fado-inspired-ballad"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1967,6 +2011,7 @@
       "folk",
       "fado-inspired-ballad"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2011,6 +2056,7 @@
       "folk",
       "flamenco-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2055,6 +2101,7 @@
       "folk",
       "flamenco-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -2099,6 +2146,7 @@
       "folk",
       "flamenco-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -2143,6 +2191,7 @@
       "folk",
       "flamenco-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2187,6 +2236,7 @@
       "folk",
       "flamenco-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2231,6 +2281,7 @@
       "folk",
       "rumba-catalana"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -2275,6 +2326,7 @@
       "folk",
       "rumba-catalana"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -2319,6 +2371,7 @@
       "folk",
       "rumba-catalana"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2363,6 +2416,7 @@
       "folk",
       "rumba-catalana"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2407,6 +2461,7 @@
       "folk",
       "rumba-catalana"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -2451,6 +2506,7 @@
       "folk",
       "french-chanson-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -2495,6 +2551,7 @@
       "folk",
       "french-chanson-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2539,6 +2596,7 @@
       "folk",
       "french-chanson-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2583,6 +2641,7 @@
       "folk",
       "french-chanson-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -2627,6 +2686,7 @@
       "folk",
       "french-chanson-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -2671,6 +2731,7 @@
       "folk",
       "italian-canzone-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2715,6 +2776,7 @@
       "folk",
       "italian-canzone-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2759,6 +2821,7 @@
       "folk",
       "italian-canzone-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -2803,6 +2866,7 @@
       "folk",
       "italian-canzone-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -2847,6 +2911,7 @@
       "folk",
       "italian-canzone-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2891,6 +2956,7 @@
       "folk",
       "sicilian-folk-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2935,6 +3001,7 @@
       "folk",
       "sicilian-folk-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -2979,6 +3046,7 @@
       "folk",
       "sicilian-folk-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -3023,6 +3091,7 @@
       "folk",
       "sicilian-folk-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -3067,6 +3136,7 @@
       "folk",
       "sicilian-folk-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3111,6 +3181,7 @@
       "folk",
       "balkan-brass-dance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -3155,6 +3226,7 @@
       "folk",
       "balkan-brass-dance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -3199,6 +3271,7 @@
       "folk",
       "balkan-brass-dance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -3243,6 +3316,7 @@
       "folk",
       "balkan-brass-dance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3287,6 +3361,7 @@
       "folk",
       "balkan-brass-dance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3331,6 +3406,7 @@
       "folk",
       "serbian-turbo-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -3375,6 +3451,7 @@
       "folk",
       "serbian-turbo-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -3419,6 +3496,7 @@
       "folk",
       "serbian-turbo-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3463,6 +3541,7 @@
       "folk",
       "serbian-turbo-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3507,6 +3586,7 @@
       "folk",
       "serbian-turbo-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -3551,6 +3631,7 @@
       "folk",
       "bulgarian-choir-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -3595,6 +3676,7 @@
       "folk",
       "bulgarian-choir-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3639,6 +3721,7 @@
       "folk",
       "bulgarian-choir-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3683,6 +3766,7 @@
       "folk",
       "bulgarian-choir-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -3727,6 +3811,7 @@
       "folk",
       "bulgarian-choir-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -3771,6 +3856,7 @@
       "folk",
       "greek-laiko-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3815,6 +3901,7 @@
       "folk",
       "greek-laiko-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3859,6 +3946,7 @@
       "folk",
       "greek-laiko-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -3903,6 +3991,7 @@
       "folk",
       "greek-laiko-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -3947,6 +4036,7 @@
       "folk",
       "greek-laiko-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3991,6 +4081,7 @@
       "folk",
       "rebetiko-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -4035,6 +4126,7 @@
       "folk",
       "rebetiko-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -4079,6 +4171,7 @@
       "folk",
       "rebetiko-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4123,6 +4216,7 @@
       "folk",
       "rebetiko-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4167,6 +4261,7 @@
       "folk",
       "rebetiko-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4211,6 +4306,7 @@
       "folk",
       "romanian-dance-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -4255,6 +4351,7 @@
       "folk",
       "romanian-dance-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4299,6 +4396,7 @@
       "folk",
       "romanian-dance-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4343,6 +4441,7 @@
       "folk",
       "romanian-dance-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4387,6 +4486,7 @@
       "folk",
       "romanian-dance-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4431,6 +4531,7 @@
       "folk",
       "roma-brass-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4475,6 +4576,7 @@
       "folk",
       "roma-brass-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4519,6 +4621,7 @@
       "folk",
       "roma-brass-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4563,6 +4666,7 @@
       "folk",
       "roma-brass-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4607,6 +4711,7 @@
       "folk",
       "roma-brass-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -4651,6 +4756,7 @@
       "folk",
       "klezmer-jazz-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4695,6 +4801,7 @@
       "folk",
       "klezmer-jazz-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4739,6 +4846,7 @@
       "folk",
       "klezmer-jazz-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4783,6 +4891,7 @@
       "folk",
       "klezmer-jazz-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -4827,6 +4936,7 @@
       "folk",
       "klezmer-jazz-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -4871,6 +4981,7 @@
       "folk",
       "polish-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4915,6 +5026,7 @@
       "folk",
       "polish-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4959,6 +5071,7 @@
       "folk",
       "polish-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -5003,6 +5116,7 @@
       "folk",
       "polish-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -5047,6 +5161,7 @@
       "folk",
       "polish-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5091,6 +5206,7 @@
       "folk",
       "czech-indie-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -5135,6 +5251,7 @@
       "folk",
       "czech-indie-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -5179,6 +5296,7 @@
       "folk",
       "czech-indie-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -5223,6 +5341,7 @@
       "folk",
       "czech-indie-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5267,6 +5386,7 @@
       "folk",
       "czech-indie-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -5311,6 +5431,7 @@
       "folk",
       "slovak-mountain-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -5355,6 +5476,7 @@
       "folk",
       "slovak-mountain-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -5399,6 +5521,7 @@
       "folk",
       "slovak-mountain-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5443,6 +5566,7 @@
       "folk",
       "slovak-mountain-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -5487,6 +5611,7 @@
       "folk",
       "slovak-mountain-folk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -5531,6 +5656,7 @@
       "folk",
       "hungarian-folk-dance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -5575,6 +5701,7 @@
       "folk",
       "hungarian-folk-dance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5619,6 +5746,7 @@
       "folk",
       "hungarian-folk-dance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -5663,6 +5791,7 @@
       "folk",
       "hungarian-folk-dance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -5707,6 +5836,7 @@
       "folk",
       "hungarian-folk-dance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5751,6 +5881,7 @@
       "folk",
       "austrian-alpine-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5795,6 +5926,7 @@
       "folk",
       "austrian-alpine-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -5839,6 +5971,7 @@
       "folk",
       "austrian-alpine-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -5883,6 +6016,7 @@
       "folk",
       "austrian-alpine-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5927,6 +6061,7 @@
       "folk",
       "austrian-alpine-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -5971,6 +6106,7 @@
       "folk",
       "german-schlager-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6015,6 +6151,7 @@
       "folk",
       "german-schlager-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6059,6 +6196,7 @@
       "folk",
       "german-schlager-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6103,6 +6241,7 @@
       "folk",
       "german-schlager-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6147,6 +6286,7 @@
       "folk",
       "german-schlager-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6191,6 +6331,7 @@
       "folk",
       "dutch-indie-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6235,6 +6376,7 @@
       "folk",
       "dutch-indie-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6279,6 +6421,7 @@
       "folk",
       "dutch-indie-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6323,6 +6466,7 @@
       "folk",
       "dutch-indie-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6367,6 +6511,7 @@
       "folk",
       "dutch-indie-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -6411,6 +6556,7 @@
       "folk",
       "belgian-electro-chanson"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6455,6 +6601,7 @@
       "folk",
       "belgian-electro-chanson"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6499,6 +6646,7 @@
       "folk",
       "belgian-electro-chanson"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6543,6 +6691,7 @@
       "folk",
       "belgian-electro-chanson"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -6587,6 +6736,7 @@
       "folk",
       "belgian-electro-chanson"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6631,6 +6781,7 @@
       "folk",
       "swiss-alpine-ambient"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6675,6 +6826,7 @@
       "folk",
       "swiss-alpine-ambient"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6719,6 +6871,7 @@
       "folk",
       "swiss-alpine-ambient"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -6763,6 +6916,7 @@
       "folk",
       "swiss-alpine-ambient"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6807,6 +6961,7 @@
       "folk",
       "swiss-alpine-ambient"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -6851,6 +7006,7 @@
       "folk",
       "basque-trikitixa-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6895,6 +7051,7 @@
       "folk",
       "basque-trikitixa-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -6939,6 +7096,7 @@
       "folk",
       "basque-trikitixa-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6983,6 +7141,7 @@
       "folk",
       "basque-trikitixa-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7027,6 +7186,7 @@
       "folk",
       "basque-trikitixa-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7071,6 +7231,7 @@
       "folk",
       "galician-folk-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7115,6 +7276,7 @@
       "folk",
       "galician-folk-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7159,6 +7321,7 @@
       "folk",
       "galician-folk-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7203,6 +7366,7 @@
       "folk",
       "galician-folk-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7247,6 +7411,7 @@
       "folk",
       "galician-folk-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7291,6 +7456,7 @@
       "folk",
       "brittany-folk-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7335,6 +7501,7 @@
       "folk",
       "brittany-folk-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7379,6 +7546,7 @@
       "folk",
       "brittany-folk-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7423,6 +7591,7 @@
       "folk",
       "brittany-folk-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7467,6 +7636,7 @@
       "folk",
       "brittany-folk-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7511,6 +7681,7 @@
       "folk",
       "baltic-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7555,6 +7726,7 @@
       "folk",
       "baltic-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7599,6 +7771,7 @@
       "folk",
       "baltic-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7643,6 +7816,7 @@
       "folk",
       "baltic-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7687,6 +7861,7 @@
       "folk",
       "baltic-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -7731,6 +7906,7 @@
       "folk",
       "ukrainian-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7775,6 +7951,7 @@
       "folk",
       "ukrainian-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7819,6 +7996,7 @@
       "folk",
       "ukrainian-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7863,6 +8041,7 @@
       "folk",
       "ukrainian-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -7907,6 +8086,7 @@
       "folk",
       "ukrainian-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -7951,6 +8131,7 @@
       "folk",
       "eastern-european-darkwave"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7995,6 +8176,7 @@
       "folk",
       "eastern-european-darkwave"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8039,6 +8221,7 @@
       "folk",
       "eastern-european-darkwave"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8083,6 +8266,7 @@
       "folk",
       "eastern-european-darkwave"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8127,6 +8311,7 @@
       "folk",
       "eastern-european-darkwave"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8171,6 +8356,7 @@
       "folk",
       "mediterranean-acoustic-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8215,6 +8401,7 @@
       "folk",
       "mediterranean-acoustic-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8259,6 +8446,7 @@
       "folk",
       "mediterranean-acoustic-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8303,6 +8491,7 @@
       "folk",
       "mediterranean-acoustic-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8347,6 +8536,7 @@
       "folk",
       "mediterranean-acoustic-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8390,6 +8580,10 @@
       "world",
       "folk",
       "euro-disco-regional"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -8435,6 +8629,10 @@
       "folk",
       "euro-disco-regional"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8478,6 +8676,10 @@
       "world",
       "folk",
       "euro-disco-regional"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 7,
@@ -8523,6 +8725,10 @@
       "folk",
       "euro-disco-regional"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8566,6 +8772,10 @@
       "world",
       "folk",
       "euro-disco-regional"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -8611,6 +8821,7 @@
       "folk",
       "european-festival-waltz"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8655,6 +8866,7 @@
       "folk",
       "european-festival-waltz"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8699,6 +8911,7 @@
       "folk",
       "european-festival-waltz"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8743,6 +8956,7 @@
       "folk",
       "european-festival-waltz"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8787,6 +9001,7 @@
       "folk",
       "european-festival-waltz"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",

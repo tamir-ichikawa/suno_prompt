@@ -187,6 +187,18 @@ const GENRE_GROUPS = [
   },
 ];
 
+const ERA_GROUPS = [
+  { id: "1950s", label: "1950s / 50年代" },
+  { id: "1960s", label: "1960s / 60年代" },
+  { id: "1970s", label: "1970s / 70年代" },
+  { id: "1980s", label: "1980s / 80年代" },
+  { id: "1990s", label: "1990s / 90年代" },
+  { id: "2000s", label: "2000s / 00年代" },
+  { id: "2010s", label: "2010s / 10年代" },
+  { id: "2020s", label: "2020s / 20年代" },
+  { id: "retro", label: "Retro / レトロ" },
+];
+
 const state = {
   catalog: null,
   prompts: [],
@@ -225,6 +237,7 @@ function cacheElements() {
     "searchInput",
     "collectionFilter",
     "genreFilter",
+    "eraFilter",
     "categoryFilter",
     "creatorFilter",
     "tagFilter",
@@ -258,6 +271,7 @@ function bindEvents() {
     "searchInput",
     "collectionFilter",
     "genreFilter",
+    "eraFilter",
     "categoryFilter",
     "creatorFilter",
     "tagFilter",
@@ -326,13 +340,14 @@ function renderCollectionTabs() {
 }
 
 function syncFacetOptions() {
-  for (let pass = 0; pass < 4; pass += 1) {
+  for (let pass = 0; pass < 6; pass += 1) {
     const collectionChanged = updateCollectionOptions();
     const genreChanged = updateGenreOptions();
+    const eraChanged = updateEraOptions();
     const categoryChanged = updateCategoryOptions();
     const creatorChanged = updateCreatorOptions();
     const tagChanged = updateTagOptions();
-    const changed = collectionChanged || genreChanged || categoryChanged || creatorChanged || tagChanged;
+    const changed = collectionChanged || genreChanged || eraChanged || categoryChanged || creatorChanged || tagChanged;
     if (!changed) break;
   }
   renderCollectionTabs();
@@ -377,6 +392,27 @@ function updateGenreOptions() {
   ];
 
   return setSelectOptions(els.genreFilter, options, selected);
+}
+
+function updateEraOptions() {
+  const selected = els.eraFilter.value || "all";
+  const filters = readFilters();
+  const scoped = promptsForFacet(filters, "era");
+  const counts = new Map();
+  scoped.forEach((prompt) => {
+    getPromptEras(prompt).forEach((eraId) => counts.set(eraId, (counts.get(eraId) || 0) + 1));
+  });
+
+  const options = [
+    { value: "all", label: "すべて", count: scoped.length },
+    ...ERA_GROUPS.filter((era) => counts.has(era.id)).map((era) => ({
+      value: era.id,
+      label: era.label,
+      count: counts.get(era.id),
+    })),
+  ];
+
+  return setSelectOptions(els.eraFilter, options, selected);
 }
 
 function updateCategoryOptions() {
@@ -495,6 +531,17 @@ function genreLabel(genreId) {
   return GENRE_GROUPS.find((genre) => genre.id === genreId)?.label || "Other";
 }
 
+function getPromptEras(prompt) {
+  if (prompt._era_ids) return prompt._era_ids;
+  const raw = new Set(Array.isArray(prompt.era_tags) ? prompt.era_tags : []);
+  prompt._era_ids = ERA_GROUPS.filter((era) => raw.has(era.id)).map((era) => era.id);
+  return prompt._era_ids;
+}
+
+function eraLabel(eraId) {
+  return ERA_GROUPS.find((era) => era.id === eraId)?.label || eraId;
+}
+
 function normalizeFacetText(value) {
   return ` ${String(value || "")
     .toLowerCase()
@@ -522,6 +569,7 @@ function readFilters() {
     query: els.searchInput.value.trim().toLowerCase(),
     collection: els.collectionFilter.value || "all",
     genre: els.genreFilter.value || "all",
+    era: els.eraFilter.value || "all",
     category: els.categoryFilter.value || "all",
     creator: els.creatorFilter.value || "all",
     tag: els.tagFilter.value || "all",
@@ -541,6 +589,7 @@ function matchesFilters(prompt, filters, options = {}) {
   if (filters.topOnly && !prompt.is_top_pick) return false;
   if (!ignored.has("collection") && filters.collection !== "all" && prompt.collection !== filters.collection) return false;
   if (!ignored.has("genre") && filters.genre !== "all" && !getPromptGenres(prompt).includes(filters.genre)) return false;
+  if (!ignored.has("era") && filters.era !== "all" && !getPromptEras(prompt).includes(filters.era)) return false;
   if (!ignored.has("creator") && filters.creator !== "all" && prompt.creator_slug !== filters.creator) return false;
 
   if (!ignored.has("category") && filters.category !== "all") {
@@ -564,6 +613,9 @@ function matchesFilters(prompt, filters, options = {}) {
       prompt.creator_slug,
       getPromptGenres(prompt)
         .map((genreId) => genreLabel(genreId))
+        .join(" "),
+      getPromptEras(prompt)
+        .map((eraId) => eraLabel(eraId))
         .join(" "),
       prompt.prompt,
       prompt.exclude,
@@ -616,9 +668,13 @@ function renderPromptGrid() {
 
 function renderPromptCard(prompt) {
   const tags = prompt.tags.slice(0, 5).map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("");
+  const eraText = getPromptEras(prompt)
+    .map((eraId) => eraLabel(eraId))
+    .join(" / ");
   const metrics = [
     prompt.bpm ? `BPM ${prompt.bpm}` : "",
     prompt.key ? prompt.key : "",
+    eraText ? `Era ${eraText}` : "",
     prompt.creator ? `Creator ${prompt.creator}` : "",
     prompt.groove_score !== null ? `Groove ${prompt.groove_score}` : "",
     prompt.energy_score !== null ? `Energy ${prompt.energy_score}` : "",
@@ -651,6 +707,7 @@ function renderActiveChips(filters) {
   const collection = state.catalog.collections.find((item) => item.id === filters.collection);
   if (collection) chips.push(collection.label);
   if (filters.genre !== "all") chips.push(`ジャンル: ${genreLabel(filters.genre)}`);
+  if (filters.era !== "all") chips.push(`年代: ${eraLabel(filters.era)}`);
   if (filters.category !== "all") {
     const category = state.catalog.categories.find((item) => item.id === filters.category);
     if (category) chips.push(category.name);
@@ -705,6 +762,7 @@ function openDialog(prompt) {
         ${[
           prompt.category,
           prompt.subcategory,
+          getPromptEras(prompt).length ? `Era ${getPromptEras(prompt).map((eraId) => eraLabel(eraId)).join(" / ")}` : "",
           prompt.creator ? `Creator ${prompt.creator}` : "",
           prompt.bpm ? `BPM ${prompt.bpm}` : "",
           prompt.key,
@@ -816,6 +874,7 @@ function clearFilters() {
   els.searchInput.value = "";
   els.collectionFilter.value = "all";
   els.genreFilter.value = "all";
+  els.eraFilter.value = "all";
   els.categoryFilter.value = "all";
   els.creatorFilter.value = "all";
   els.tagFilter.value = "all";

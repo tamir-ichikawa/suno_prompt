@@ -28,6 +28,10 @@
       "sample-feel",
       "warm-bass"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -68,6 +72,10 @@
       "clean-rap",
       "sample-feel",
       "warm-bass"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -110,6 +118,10 @@
       "sample-feel",
       "warm-bass"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -150,6 +162,10 @@
       "clean-rap",
       "sample-feel",
       "warm-bass"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -192,6 +208,10 @@
       "sample-feel",
       "warm-bass"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -233,6 +253,7 @@
       "brushed-drums",
       "mellow-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -274,6 +295,7 @@
       "brushed-drums",
       "mellow-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -315,6 +337,7 @@
       "brushed-drums",
       "mellow-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -356,6 +379,7 @@
       "brushed-drums",
       "mellow-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -397,6 +421,7 @@
       "brushed-drums",
       "mellow-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -437,6 +462,10 @@
       "granular",
       "sub-pulses",
       "experimental"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -479,6 +508,10 @@
       "sub-pulses",
       "experimental"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -519,6 +552,10 @@
       "granular",
       "sub-pulses",
       "experimental"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -561,6 +598,10 @@
       "sub-pulses",
       "experimental"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -601,6 +642,10 @@
       "granular",
       "sub-pulses",
       "experimental"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -643,6 +688,9 @@
       "tape-warmth",
       "sleepy-bass"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -683,6 +731,9 @@
       "soft-swing",
       "tape-warmth",
       "sleepy-bass"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -725,6 +776,9 @@
       "tape-warmth",
       "sleepy-bass"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -765,6 +819,9 @@
       "soft-swing",
       "tape-warmth",
       "sleepy-bass"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -807,6 +864,9 @@
       "tape-warmth",
       "sleepy-bass"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -847,6 +907,9 @@
       "moody-rnb",
       "airy-vocals",
       "clean-emotion"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -889,6 +952,9 @@
       "airy-vocals",
       "clean-emotion"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -929,6 +995,9 @@
       "moody-rnb",
       "airy-vocals",
       "clean-emotion"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -971,6 +1040,9 @@
       "airy-vocals",
       "clean-emotion"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1011,6 +1083,9 @@
       "moody-rnb",
       "airy-vocals",
       "clean-emotion"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1053,6 +1128,7 @@
       "clean-party",
       "heavy-swing"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1094,6 +1170,7 @@
       "clean-party",
       "heavy-swing"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1135,6 +1212,7 @@
       "clean-party",
       "heavy-swing"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1176,6 +1254,7 @@
       "clean-party",
       "heavy-swing"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1217,6 +1296,7 @@
       "clean-party",
       "heavy-swing"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1257,6 +1337,10 @@
       "cold-bells",
       "clean-rap",
       "low-sub"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1299,6 +1383,10 @@
       "clean-rap",
       "low-sub"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1339,6 +1427,10 @@
       "cold-bells",
       "clean-rap",
       "low-sub"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1381,6 +1473,10 @@
       "clean-rap",
       "low-sub"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1421,6 +1517,10 @@
       "cold-bells",
       "clean-rap",
       "low-sub"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1463,6 +1563,7 @@
       "analog-lead",
       "melodic-hook"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1504,6 +1605,7 @@
       "analog-lead",
       "melodic-hook"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1545,6 +1647,7 @@
       "analog-lead",
       "melodic-hook"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1586,6 +1689,7 @@
       "analog-lead",
       "melodic-hook"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1627,6 +1731,7 @@
       "analog-lead",
       "melodic-hook"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1667,6 +1772,10 @@
       "hard-swing",
       "clean-storytelling",
       "dark-bass"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1709,6 +1818,10 @@
       "clean-storytelling",
       "dark-bass"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1749,6 +1862,10 @@
       "hard-swing",
       "clean-storytelling",
       "dark-bass"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1791,6 +1908,10 @@
       "clean-storytelling",
       "dark-bass"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1831,6 +1952,10 @@
       "hard-swing",
       "clean-storytelling",
       "dark-bass"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1873,6 +1998,7 @@
       "clean-flow",
       "club-pressure"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1914,6 +2040,7 @@
       "clean-flow",
       "club-pressure"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1955,6 +2082,7 @@
       "clean-flow",
       "club-pressure"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1996,6 +2124,7 @@
       "clean-flow",
       "club-pressure"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2037,6 +2166,7 @@
       "clean-flow",
       "club-pressure"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2078,6 +2208,7 @@
       "electric-piano",
       "swung-hats"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2119,6 +2250,7 @@
       "electric-piano",
       "swung-hats"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2160,6 +2292,7 @@
       "electric-piano",
       "swung-hats"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2201,6 +2334,7 @@
       "electric-piano",
       "swung-hats"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2242,6 +2376,7 @@
       "electric-piano",
       "swung-hats"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2283,6 +2418,7 @@
       "digital-bass",
       "clean-hook"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2324,6 +2460,7 @@
       "digital-bass",
       "clean-hook"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2365,6 +2502,7 @@
       "digital-bass",
       "clean-hook"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2406,6 +2544,7 @@
       "digital-bass",
       "clean-hook"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2447,6 +2586,7 @@
       "digital-bass",
       "clean-hook"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2487,6 +2627,9 @@
       "melodic-vocals",
       "dark-smooth",
       "clean-rap"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -2529,6 +2672,9 @@
       "dark-smooth",
       "clean-rap"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2569,6 +2715,9 @@
       "melodic-vocals",
       "dark-smooth",
       "clean-rap"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -2611,6 +2760,9 @@
       "dark-smooth",
       "clean-rap"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2651,6 +2803,9 @@
       "melodic-vocals",
       "dark-smooth",
       "clean-rap"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -2693,6 +2848,7 @@
       "smooth-hook",
       "warm-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2734,6 +2890,7 @@
       "smooth-hook",
       "warm-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2775,6 +2932,7 @@
       "smooth-hook",
       "warm-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2816,6 +2974,7 @@
       "smooth-hook",
       "warm-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2857,6 +3016,7 @@
       "smooth-hook",
       "warm-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2897,6 +3057,9 @@
       "electric-piano",
       "late-night",
       "smooth-bounce"
+    ],
+    "era_tags": [
+      "2020s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -2939,6 +3102,9 @@
       "late-night",
       "smooth-bounce"
     ],
+    "era_tags": [
+      "2020s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2979,6 +3145,9 @@
       "electric-piano",
       "late-night",
       "smooth-bounce"
+    ],
+    "era_tags": [
+      "2020s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -3021,6 +3190,9 @@
       "late-night",
       "smooth-bounce"
     ],
+    "era_tags": [
+      "2020s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3061,6 +3233,9 @@
       "electric-piano",
       "late-night",
       "smooth-bounce"
+    ],
+    "era_tags": [
+      "2020s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -3103,6 +3278,7 @@
       "warm-bass",
       "clean-romance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3144,6 +3320,7 @@
       "warm-bass",
       "clean-romance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3185,6 +3362,7 @@
       "warm-bass",
       "clean-romance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3226,6 +3404,7 @@
       "warm-bass",
       "clean-romance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3267,6 +3446,7 @@
       "warm-bass",
       "clean-romance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3308,6 +3488,7 @@
       "melodic-vocals",
       "warm-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3349,6 +3530,7 @@
       "melodic-vocals",
       "warm-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3390,6 +3572,7 @@
       "melodic-vocals",
       "warm-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3431,6 +3614,7 @@
       "melodic-vocals",
       "warm-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3472,6 +3656,7 @@
       "melodic-vocals",
       "warm-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3513,6 +3698,7 @@
       "percussive-bass",
       "clean-hook"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3554,6 +3740,7 @@
       "percussive-bass",
       "clean-hook"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3595,6 +3782,7 @@
       "percussive-bass",
       "clean-hook"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3636,6 +3824,7 @@
       "percussive-bass",
       "clean-hook"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3677,6 +3866,7 @@
       "percussive-bass",
       "clean-hook"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3718,6 +3908,7 @@
       "club-bounce",
       "clean-party"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3759,6 +3950,7 @@
       "club-bounce",
       "clean-party"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3800,6 +3992,7 @@
       "club-bounce",
       "clean-party"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3841,6 +4034,7 @@
       "club-bounce",
       "clean-party"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3882,6 +4076,7 @@
       "club-bounce",
       "clean-party"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3922,6 +4117,9 @@
       "gentle-sub",
       "melodic-vocals",
       "clean-longing"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -3964,6 +4162,9 @@
       "melodic-vocals",
       "clean-longing"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4004,6 +4205,9 @@
       "gentle-sub",
       "melodic-vocals",
       "clean-longing"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -4046,6 +4250,9 @@
       "melodic-vocals",
       "clean-longing"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4086,6 +4293,9 @@
       "gentle-sub",
       "melodic-vocals",
       "clean-longing"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -4128,6 +4338,7 @@
       "rhodes-keys",
       "melodic-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4169,6 +4380,7 @@
       "rhodes-keys",
       "melodic-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4210,6 +4422,7 @@
       "rhodes-keys",
       "melodic-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4251,6 +4464,7 @@
       "rhodes-keys",
       "melodic-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4292,6 +4506,7 @@
       "rhodes-keys",
       "melodic-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4333,6 +4548,7 @@
       "elastic-groove",
       "lush-pads"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4374,6 +4590,7 @@
       "elastic-groove",
       "lush-pads"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4415,6 +4632,7 @@
       "elastic-groove",
       "lush-pads"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4456,6 +4674,7 @@
       "elastic-groove",
       "lush-pads"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4497,6 +4716,7 @@
       "elastic-groove",
       "lush-pads"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4538,6 +4758,7 @@
       "minimal-bass",
       "atmospheric"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4579,6 +4800,7 @@
       "minimal-bass",
       "atmospheric"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4620,6 +4842,7 @@
       "minimal-bass",
       "atmospheric"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4661,6 +4884,7 @@
       "minimal-bass",
       "atmospheric"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4702,6 +4926,7 @@
       "minimal-bass",
       "atmospheric"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4743,6 +4968,7 @@
       "tender-vocals",
       "warm-room"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4784,6 +5010,7 @@
       "tender-vocals",
       "warm-room"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4825,6 +5052,7 @@
       "tender-vocals",
       "warm-room"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4866,6 +5094,7 @@
       "tender-vocals",
       "warm-room"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4907,6 +5136,7 @@
       "tender-vocals",
       "warm-room"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4948,6 +5178,7 @@
       "warm-guitar",
       "elegant-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4989,6 +5220,7 @@
       "warm-guitar",
       "elegant-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5030,6 +5262,7 @@
       "warm-guitar",
       "elegant-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5071,6 +5304,7 @@
       "warm-guitar",
       "elegant-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5112,6 +5346,7 @@
       "warm-guitar",
       "elegant-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5153,6 +5388,7 @@
       "soul-harmonies",
       "positive"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5194,6 +5430,7 @@
       "soul-harmonies",
       "positive"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5235,6 +5472,7 @@
       "soul-harmonies",
       "positive"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5276,6 +5514,7 @@
       "soul-harmonies",
       "positive"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5317,6 +5556,7 @@
       "soul-harmonies",
       "positive"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5358,6 +5598,7 @@
       "call-response",
       "tight-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5399,6 +5640,7 @@
       "call-response",
       "tight-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5440,6 +5682,7 @@
       "call-response",
       "tight-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5481,6 +5724,7 @@
       "call-response",
       "tight-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5522,6 +5766,7 @@
       "call-response",
       "tight-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5562,6 +5807,10 @@
       "guitar-chops",
       "silky-vocals",
       "dance-warmth"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -5604,6 +5853,10 @@
       "silky-vocals",
       "dance-warmth"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5644,6 +5897,10 @@
       "guitar-chops",
       "silky-vocals",
       "dance-warmth"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -5686,6 +5943,10 @@
       "silky-vocals",
       "dance-warmth"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5726,6 +5987,10 @@
       "guitar-chops",
       "silky-vocals",
       "dance-warmth"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -5768,6 +6033,10 @@
       "smooth-vocals",
       "polished-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5808,6 +6077,10 @@
       "funk-guitar",
       "smooth-vocals",
       "polished-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -5850,6 +6123,10 @@
       "smooth-vocals",
       "polished-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5890,6 +6167,10 @@
       "funk-guitar",
       "smooth-vocals",
       "polished-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -5932,6 +6213,10 @@
       "smooth-vocals",
       "polished-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -5972,6 +6257,10 @@
       "synth-brass",
       "rnb-hooks",
       "party-clean"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -6014,6 +6303,10 @@
       "rnb-hooks",
       "party-clean"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6054,6 +6347,10 @@
       "synth-brass",
       "rnb-hooks",
       "party-clean"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -6096,6 +6393,10 @@
       "rnb-hooks",
       "party-clean"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6136,6 +6437,10 @@
       "synth-brass",
       "rnb-hooks",
       "party-clean"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -6178,6 +6483,10 @@
       "soft-bounce",
       "polished-mix"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6218,6 +6527,10 @@
       "chorus-guitar",
       "soft-bounce",
       "polished-mix"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -6260,6 +6573,10 @@
       "soft-bounce",
       "polished-mix"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6300,6 +6617,10 @@
       "chorus-guitar",
       "soft-bounce",
       "polished-mix"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -6342,6 +6663,10 @@
       "soft-bounce",
       "polished-mix"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6383,6 +6708,7 @@
       "airy-doubles",
       "refined-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6424,6 +6750,7 @@
       "airy-doubles",
       "refined-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6465,6 +6792,7 @@
       "airy-doubles",
       "refined-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6506,6 +6834,7 @@
       "airy-doubles",
       "refined-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6547,6 +6876,7 @@
       "airy-doubles",
       "refined-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6588,6 +6918,7 @@
       "electric-piano",
       "warm-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6629,6 +6960,7 @@
       "electric-piano",
       "warm-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6670,6 +7002,7 @@
       "electric-piano",
       "warm-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6711,6 +7044,7 @@
       "electric-piano",
       "warm-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6752,6 +7086,7 @@
       "electric-piano",
       "warm-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6793,6 +7128,7 @@
       "intimate-vocals",
       "soft-polish"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6834,6 +7170,7 @@
       "intimate-vocals",
       "soft-polish"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6875,6 +7212,7 @@
       "intimate-vocals",
       "soft-polish"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6916,6 +7254,7 @@
       "intimate-vocals",
       "soft-polish"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6957,6 +7296,7 @@
       "intimate-vocals",
       "soft-polish"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -6998,6 +7338,7 @@
       "close-harmonies",
       "smooth-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7039,6 +7380,7 @@
       "close-harmonies",
       "smooth-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7080,6 +7422,7 @@
       "close-harmonies",
       "smooth-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7121,6 +7464,7 @@
       "close-harmonies",
       "smooth-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7162,6 +7506,7 @@
       "close-harmonies",
       "smooth-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7203,6 +7548,7 @@
       "late-night",
       "restrained-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7244,6 +7590,7 @@
       "late-night",
       "restrained-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7285,6 +7632,7 @@
       "late-night",
       "restrained-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7326,6 +7674,7 @@
       "late-night",
       "restrained-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7367,6 +7716,7 @@
       "late-night",
       "restrained-bass"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7407,6 +7757,9 @@
       "soft-snare",
       "icy-bells",
       "controlled-sub"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -7449,6 +7802,9 @@
       "icy-bells",
       "controlled-sub"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7489,6 +7845,9 @@
       "soft-snare",
       "icy-bells",
       "controlled-sub"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -7531,6 +7890,9 @@
       "icy-bells",
       "controlled-sub"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7571,6 +7933,9 @@
       "soft-snare",
       "icy-bells",
       "controlled-sub"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -7613,6 +7978,7 @@
       "smooth-groove",
       "warm-soul"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7654,6 +8020,7 @@
       "smooth-groove",
       "warm-soul"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7695,6 +8062,7 @@
       "smooth-groove",
       "warm-soul"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7736,6 +8104,7 @@
       "smooth-groove",
       "warm-soul"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7777,6 +8146,7 @@
       "smooth-groove",
       "warm-soul"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7818,6 +8188,7 @@
       "clean-rap",
       "polished-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7859,6 +8230,7 @@
       "clean-rap",
       "polished-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7900,6 +8272,7 @@
       "clean-rap",
       "polished-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7941,6 +8314,7 @@
       "clean-rap",
       "polished-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -7982,6 +8356,7 @@
       "clean-rap",
       "polished-mix"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -8023,6 +8398,7 @@
       "warm-bass",
       "positive"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -8064,6 +8440,7 @@
       "warm-bass",
       "positive"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -8105,6 +8482,7 @@
       "warm-bass",
       "positive"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -8146,6 +8524,7 @@
       "warm-bass",
       "positive"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -8187,6 +8566,7 @@
       "warm-bass",
       "positive"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",

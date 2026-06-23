@@ -32,6 +32,7 @@
       "japanese-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -76,6 +77,9 @@
       "beat",
       "japanese-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -122,6 +126,7 @@
       "japanese-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -166,6 +171,9 @@
       "beat",
       "japanese-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -212,6 +220,9 @@
       "japanese-rap",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -256,6 +267,11 @@
       "beat",
       "boom-bap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "1990s",
+      "2010s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -302,6 +318,11 @@
       "boom-bap-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "1990s",
+      "2010s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -346,6 +367,10 @@
       "beat",
       "boom-bap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -392,6 +417,10 @@
       "boom-bap-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -436,6 +465,11 @@
       "beat",
       "boom-bap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "1990s",
+      "2010s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -482,6 +516,7 @@
       "jazz-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -526,6 +561,9 @@
       "beat",
       "jazz-rap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -572,6 +610,7 @@
       "jazz-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -617,6 +656,7 @@
       "jazz-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -661,6 +701,9 @@
       "beat",
       "jazz-rap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -707,6 +750,7 @@
       "lofi-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -751,6 +795,9 @@
       "beat",
       "lofi-rap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -797,6 +844,9 @@
       "lofi-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -842,6 +892,7 @@
       "lofi-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -886,6 +937,9 @@
       "beat",
       "lofi-rap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -932,6 +986,9 @@
       "trap-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -976,6 +1033,9 @@
       "beat",
       "trap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1022,6 +1082,9 @@
       "trap-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1066,6 +1129,9 @@
       "beat",
       "trap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1112,6 +1178,9 @@
       "trap-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1156,6 +1225,9 @@
       "beat",
       "melodic-rap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -1202,6 +1274,9 @@
       "melodic-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1247,6 +1322,7 @@
       "melodic-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1292,6 +1368,7 @@
       "melodic-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1336,6 +1413,9 @@
       "beat",
       "melodic-rap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1382,6 +1462,7 @@
       "city-rnb",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1426,6 +1507,9 @@
       "beat",
       "city-rnb",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1472,6 +1556,7 @@
       "city-rnb",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1517,6 +1602,7 @@
       "city-rnb",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1561,6 +1647,9 @@
       "beat",
       "city-rnb",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1607,6 +1696,7 @@
       "neo-soul-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1651,6 +1741,9 @@
       "beat",
       "neo-soul-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1697,6 +1790,9 @@
       "neo-soul-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1742,6 +1838,7 @@
       "neo-soul-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1786,6 +1883,9 @@
       "beat",
       "neo-soul-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1832,6 +1932,7 @@
       "bedroom-rnb-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1876,6 +1977,9 @@
       "beat",
       "bedroom-rnb-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1922,6 +2026,7 @@
       "bedroom-rnb-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1966,6 +2071,9 @@
       "beat",
       "bedroom-rnb-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2012,6 +2120,9 @@
       "bedroom-rnb-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2056,6 +2167,9 @@
       "beat",
       "alternative-rnb-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -2102,6 +2216,9 @@
       "alternative-rnb-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2147,6 +2264,7 @@
       "alternative-rnb-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2192,6 +2310,7 @@
       "alternative-rnb-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2236,6 +2355,9 @@
       "beat",
       "alternative-rnb-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2282,6 +2404,9 @@
       "drill-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2326,6 +2451,9 @@
       "beat",
       "drill-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2372,6 +2500,9 @@
       "drill-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2416,6 +2547,9 @@
       "beat",
       "drill-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2462,6 +2596,9 @@
       "drill-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2507,6 +2644,7 @@
       "grime-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2551,6 +2689,9 @@
       "beat",
       "grime-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2597,6 +2738,9 @@
       "grime-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2642,6 +2786,7 @@
       "grime-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2686,6 +2831,9 @@
       "beat",
       "grime-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2732,6 +2880,7 @@
       "conscious-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2776,6 +2925,9 @@
       "beat",
       "conscious-rap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2822,6 +2974,7 @@
       "conscious-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2866,6 +3019,9 @@
       "beat",
       "conscious-rap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2912,6 +3068,9 @@
       "conscious-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2956,6 +3115,9 @@
       "beat",
       "spoken-word-beat",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -3002,6 +3164,9 @@
       "spoken-word-beat",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3047,6 +3212,7 @@
       "spoken-word-beat",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3092,6 +3258,7 @@
       "spoken-word-beat",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3136,6 +3303,9 @@
       "beat",
       "spoken-word-beat",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3182,6 +3352,7 @@
       "cypher-beat-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3226,6 +3397,9 @@
       "beat",
       "cypher-beat-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3272,6 +3446,7 @@
       "cypher-beat-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3317,6 +3492,7 @@
       "cypher-beat-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3361,6 +3537,9 @@
       "beat",
       "cypher-beat-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3407,6 +3586,7 @@
       "club-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3451,6 +3631,9 @@
       "beat",
       "club-rap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3497,6 +3680,9 @@
       "club-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3542,6 +3728,7 @@
       "club-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3586,6 +3773,9 @@
       "beat",
       "club-rap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3632,6 +3822,7 @@
       "pop-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3676,6 +3867,9 @@
       "beat",
       "pop-rap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3722,6 +3916,7 @@
       "pop-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3766,6 +3961,9 @@
       "beat",
       "pop-rap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3812,6 +4010,9 @@
       "pop-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3856,6 +4057,9 @@
       "beat",
       "emo-rap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -3902,6 +4106,9 @@
       "emo-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3947,6 +4154,7 @@
       "emo-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3992,6 +4200,7 @@
       "emo-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4036,6 +4245,9 @@
       "beat",
       "emo-rap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4082,6 +4294,7 @@
       "laid-back-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4126,6 +4339,9 @@
       "beat",
       "laid-back-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4172,6 +4388,7 @@
       "laid-back-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4217,6 +4434,7 @@
       "laid-back-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4261,6 +4479,9 @@
       "beat",
       "laid-back-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4307,6 +4528,9 @@
       "old-school-hiphop-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4351,6 +4575,10 @@
       "beat",
       "old-school-hiphop-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4397,6 +4625,10 @@
       "old-school-hiphop-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4441,6 +4673,9 @@
       "beat",
       "old-school-hiphop-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4487,6 +4722,10 @@
       "old-school-hiphop-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4532,6 +4771,7 @@
       "sample-free-soul-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4576,6 +4816,9 @@
       "beat",
       "sample-free-soul-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4622,6 +4865,7 @@
       "sample-free-soul-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4666,6 +4910,9 @@
       "beat",
       "sample-free-soul-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4712,6 +4959,9 @@
       "sample-free-soul-rap",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4756,6 +5006,9 @@
       "beat",
       "street-night-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -4802,6 +5055,9 @@
       "street-night-rap",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4847,6 +5103,7 @@
       "street-night-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4892,6 +5149,7 @@
       "street-night-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4936,6 +5194,9 @@
       "beat",
       "street-night-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4982,6 +5243,7 @@
       "train-window-lofi",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5026,6 +5288,9 @@
       "beat",
       "train-window-lofi",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5072,6 +5337,7 @@
       "train-window-lofi",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5117,6 +5383,7 @@
       "train-window-lofi",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5161,6 +5428,9 @@
       "beat",
       "train-window-lofi",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5207,6 +5477,7 @@
       "rainy-rnb",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5251,6 +5522,9 @@
       "beat",
       "rainy-rnb",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5297,6 +5571,9 @@
       "rainy-rnb",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5342,6 +5619,7 @@
       "rainy-rnb",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5386,6 +5664,9 @@
       "beat",
       "rainy-rnb",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5432,6 +5713,7 @@
       "bilingual-pop-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5476,6 +5758,9 @@
       "beat",
       "bilingual-pop-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5522,6 +5807,7 @@
       "bilingual-pop-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5566,6 +5852,9 @@
       "beat",
       "bilingual-pop-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5612,6 +5901,9 @@
       "bilingual-pop-rap",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5656,6 +5948,9 @@
       "beat",
       "city-night-rnb",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -5702,6 +5997,9 @@
       "city-night-rnb",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5747,6 +6045,7 @@
       "city-night-rnb",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5792,6 +6091,7 @@
       "city-night-rnb",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5836,6 +6136,9 @@
       "beat",
       "city-night-rnb",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5882,6 +6185,7 @@
       "funk-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5926,6 +6230,9 @@
       "beat",
       "funk-rap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5972,6 +6279,7 @@
       "funk-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6017,6 +6325,7 @@
       "funk-rap-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6061,6 +6370,9 @@
       "beat",
       "funk-rap-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6107,6 +6419,9 @@
       "trap-soul-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6151,6 +6466,9 @@
       "beat",
       "trap-soul-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6197,6 +6515,9 @@
       "trap-soul-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6241,6 +6562,9 @@
       "beat",
       "trap-soul-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6287,6 +6611,9 @@
       "trap-soul-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6331,6 +6658,10 @@
       "beat",
       "boom-bap-storytelling",
       "japan-urban"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -6377,6 +6708,11 @@
       "boom-bap-storytelling",
       "japan-urban"
     ],
+    "era_tags": [
+      "1990s",
+      "2010s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6421,6 +6757,10 @@
       "beat",
       "boom-bap-storytelling",
       "japan-urban"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6467,6 +6807,11 @@
       "boom-bap-storytelling",
       "japan-urban"
     ],
+    "era_tags": [
+      "1990s",
+      "2010s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6511,6 +6856,11 @@
       "beat",
       "boom-bap-storytelling",
       "japan-urban"
+    ],
+    "era_tags": [
+      "1990s",
+      "2010s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6557,6 +6907,9 @@
       "festival-rap",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6601,6 +6954,9 @@
       "beat",
       "festival-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6647,6 +7003,7 @@
       "festival-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6692,6 +7049,7 @@
       "festival-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6736,6 +7094,9 @@
       "beat",
       "festival-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6782,6 +7143,7 @@
       "idol-rap-pop",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6826,6 +7188,9 @@
       "beat",
       "idol-rap-pop",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6872,6 +7237,7 @@
       "idol-rap-pop",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6917,6 +7283,7 @@
       "idol-rap-pop",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6961,6 +7328,9 @@
       "beat",
       "idol-rap-pop",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7007,6 +7377,7 @@
       "electro-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7051,6 +7422,9 @@
       "beat",
       "electro-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7097,6 +7471,9 @@
       "electro-rap",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7142,6 +7519,7 @@
       "electro-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7186,6 +7564,9 @@
       "beat",
       "electro-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7232,6 +7613,7 @@
       "garage-rnb-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7276,6 +7658,9 @@
       "beat",
       "garage-rnb-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7322,6 +7707,7 @@
       "garage-rnb-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7366,6 +7752,9 @@
       "beat",
       "garage-rnb-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7412,6 +7801,9 @@
       "garage-rnb-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7456,6 +7848,9 @@
       "beat",
       "chillhop-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -7502,6 +7897,9 @@
       "chillhop-japan",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7547,6 +7945,7 @@
       "chillhop-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7592,6 +7991,7 @@
       "chillhop-japan",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7636,6 +8036,9 @@
       "beat",
       "chillhop-japan",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7682,6 +8085,7 @@
       "piano-rap-ballad",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7726,6 +8130,9 @@
       "beat",
       "piano-rap-ballad",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7772,6 +8179,7 @@
       "piano-rap-ballad",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7817,6 +8225,7 @@
       "piano-rap-ballad",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7861,6 +8270,9 @@
       "beat",
       "piano-rap-ballad",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7907,6 +8319,7 @@
       "acoustic-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7951,6 +8364,9 @@
       "beat",
       "acoustic-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7997,6 +8413,9 @@
       "acoustic-rap",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8042,6 +8461,7 @@
       "acoustic-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8086,6 +8506,9 @@
       "beat",
       "acoustic-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8132,6 +8555,7 @@
       "brass-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8176,6 +8600,9 @@
       "beat",
       "brass-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8222,6 +8649,7 @@
       "brass-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8266,6 +8694,9 @@
       "beat",
       "brass-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8312,6 +8743,9 @@
       "brass-rap",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8356,6 +8790,9 @@
       "beat",
       "vapor-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -8402,6 +8839,9 @@
       "vapor-rap",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8447,6 +8887,7 @@
       "vapor-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8492,6 +8933,7 @@
       "vapor-rap",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8536,6 +8978,9 @@
       "beat",
       "vapor-rap",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8582,6 +9027,7 @@
       "minimalist-rnb",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8626,6 +9072,9 @@
       "beat",
       "minimalist-rnb",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8672,6 +9121,7 @@
       "minimalist-rnb",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8717,6 +9167,7 @@
       "minimalist-rnb",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8761,6 +9212,9 @@
       "beat",
       "minimalist-rnb",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8807,6 +9261,7 @@
       "soulful-rap-chorus",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8851,6 +9306,9 @@
       "beat",
       "soulful-rap-chorus",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8897,6 +9355,9 @@
       "soulful-rap-chorus",
       "japan-urban"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8942,6 +9403,7 @@
       "soulful-rap-chorus",
       "japan-urban"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8986,6 +9448,9 @@
       "beat",
       "soulful-rap-chorus",
       "japan-urban"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,

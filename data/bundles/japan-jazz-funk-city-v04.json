@@ -32,6 +32,10 @@
       "city-pop-groove",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -76,6 +80,10 @@
       "japan",
       "city-pop-groove",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -122,6 +130,10 @@
       "city-pop-groove",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -166,6 +178,10 @@
       "japan",
       "city-pop-groove",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -212,6 +228,10 @@
       "city-pop-groove",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -256,6 +276,10 @@
       "japan",
       "japanese-fusion",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -302,6 +326,10 @@
       "japanese-fusion",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -346,6 +374,10 @@
       "japan",
       "japanese-fusion",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -392,6 +424,10 @@
       "japanese-fusion",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -436,6 +472,10 @@
       "japan",
       "japanese-fusion",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -482,6 +522,10 @@
       "jazz-funk-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -526,6 +570,10 @@
       "japan",
       "jazz-funk-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -572,6 +620,10 @@
       "jazz-funk-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -616,6 +668,10 @@
       "japan",
       "jazz-funk-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -662,6 +718,10 @@
       "jazz-funk-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -706,6 +766,10 @@
       "japan",
       "brass-funk-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -752,6 +816,10 @@
       "brass-funk-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -796,6 +864,10 @@
       "japan",
       "brass-funk-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -842,6 +914,10 @@
       "brass-funk-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -886,6 +962,10 @@
       "japan",
       "brass-funk-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -932,6 +1012,10 @@
       "lounge-jazz-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -976,6 +1060,10 @@
       "japan",
       "lounge-jazz-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1022,6 +1110,10 @@
       "lounge-jazz-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1066,6 +1158,10 @@
       "japan",
       "lounge-jazz-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1112,6 +1208,10 @@
       "lounge-jazz-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1156,6 +1256,10 @@
       "japan",
       "electric-piano-groove",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -1202,6 +1306,10 @@
       "electric-piano-groove",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1246,6 +1354,10 @@
       "japan",
       "electric-piano-groove",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1292,6 +1404,10 @@
       "electric-piano-groove",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1336,6 +1452,10 @@
       "japan",
       "electric-piano-groove",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1382,6 +1502,10 @@
       "night-drive-fusion",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1426,6 +1550,10 @@
       "japan",
       "night-drive-fusion",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1472,6 +1600,10 @@
       "night-drive-fusion",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1516,6 +1648,10 @@
       "japan",
       "night-drive-fusion",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1562,6 +1698,10 @@
       "night-drive-fusion",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1606,6 +1746,10 @@
       "japan",
       "tv-variety-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -1652,6 +1796,10 @@
       "tv-variety-funk",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1696,6 +1844,10 @@
       "japan",
       "tv-variety-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1742,6 +1894,10 @@
       "tv-variety-funk",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1786,6 +1942,10 @@
       "japan",
       "tv-variety-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1832,6 +1992,10 @@
       "late-night-bar-jazz",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1876,6 +2040,10 @@
       "japan",
       "late-night-bar-jazz",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1922,6 +2090,10 @@
       "late-night-bar-jazz",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1966,6 +2138,10 @@
       "japan",
       "late-night-bar-jazz",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2012,6 +2188,10 @@
       "late-night-bar-jazz",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2056,6 +2236,10 @@
       "japan",
       "cafe-jazz-pop",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -2102,6 +2286,10 @@
       "cafe-jazz-pop",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2146,6 +2334,10 @@
       "japan",
       "cafe-jazz-pop",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2192,6 +2384,10 @@
       "cafe-jazz-pop",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2236,6 +2432,10 @@
       "japan",
       "cafe-jazz-pop",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2282,6 +2482,10 @@
       "smooth-jazz-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2326,6 +2530,10 @@
       "japan",
       "smooth-jazz-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2372,6 +2580,10 @@
       "smooth-jazz-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2416,6 +2628,10 @@
       "japan",
       "smooth-jazz-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2462,6 +2678,10 @@
       "smooth-jazz-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2506,6 +2726,11 @@
       "japan",
       "acid-jazz-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -2552,6 +2777,11 @@
       "acid-jazz-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2596,6 +2826,11 @@
       "japan",
       "acid-jazz-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2642,6 +2877,11 @@
       "acid-jazz-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2686,6 +2926,11 @@
       "japan",
       "acid-jazz-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2732,6 +2977,11 @@
       "boogie-funk-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2776,6 +3026,11 @@
       "japan",
       "boogie-funk-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2822,6 +3077,11 @@
       "boogie-funk-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2866,6 +3126,11 @@
       "japan",
       "boogie-funk-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2912,6 +3177,11 @@
       "boogie-funk-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2956,6 +3226,11 @@
       "japan",
       "disco-funk-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -3002,6 +3277,11 @@
       "disco-funk-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3046,6 +3326,11 @@
       "japan",
       "disco-funk-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3092,6 +3377,11 @@
       "disco-funk-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3136,6 +3426,11 @@
       "japan",
       "disco-funk-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3182,6 +3477,10 @@
       "yacht-rock-city",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3226,6 +3525,10 @@
       "japan",
       "yacht-rock-city",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3272,6 +3575,10 @@
       "yacht-rock-city",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3316,6 +3623,10 @@
       "japan",
       "yacht-rock-city",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3362,6 +3673,10 @@
       "yacht-rock-city",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3406,6 +3721,10 @@
       "japan",
       "sax-city-pop",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -3452,6 +3771,10 @@
       "sax-city-pop",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3496,6 +3819,10 @@
       "japan",
       "sax-city-pop",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3542,6 +3869,10 @@
       "sax-city-pop",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3586,6 +3917,10 @@
       "japan",
       "sax-city-pop",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3632,6 +3967,10 @@
       "trumpet-fusion",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3676,6 +4015,10 @@
       "japan",
       "trumpet-fusion",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3722,6 +4065,10 @@
       "trumpet-fusion",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3766,6 +4113,10 @@
       "japan",
       "trumpet-fusion",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3812,6 +4163,10 @@
       "trumpet-fusion",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3856,6 +4211,10 @@
       "japan",
       "slap-bass-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -3902,6 +4261,10 @@
       "slap-bass-funk",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3946,6 +4309,10 @@
       "japan",
       "slap-bass-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3992,6 +4359,10 @@
       "slap-bass-funk",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4036,6 +4407,10 @@
       "japan",
       "slap-bass-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4082,6 +4457,10 @@
       "organ-jazz-funk",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4126,6 +4505,10 @@
       "japan",
       "organ-jazz-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4172,6 +4555,10 @@
       "organ-jazz-funk",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4216,6 +4603,10 @@
       "japan",
       "organ-jazz-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4262,6 +4653,10 @@
       "organ-jazz-funk",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4306,6 +4701,10 @@
       "japan",
       "wah-guitar-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -4352,6 +4751,10 @@
       "wah-guitar-funk",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4396,6 +4799,10 @@
       "japan",
       "wah-guitar-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4442,6 +4849,10 @@
       "wah-guitar-funk",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4486,6 +4897,10 @@
       "japan",
       "wah-guitar-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4532,6 +4947,10 @@
       "big-band-tv-theme",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4576,6 +4995,10 @@
       "japan",
       "big-band-tv-theme",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4622,6 +5045,10 @@
       "big-band-tv-theme",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4666,6 +5093,10 @@
       "japan",
       "big-band-tv-theme",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4712,6 +5143,10 @@
       "big-band-tv-theme",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4756,6 +5191,10 @@
       "japan",
       "detective-jazz-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -4802,6 +5241,10 @@
       "detective-jazz-funk",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4846,6 +5289,10 @@
       "japan",
       "detective-jazz-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4892,6 +5339,10 @@
       "detective-jazz-funk",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4936,6 +5387,10 @@
       "japan",
       "detective-jazz-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4982,6 +5437,10 @@
       "sports-highlight-funk",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5026,6 +5485,10 @@
       "japan",
       "sports-highlight-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5072,6 +5535,10 @@
       "sports-highlight-funk",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5116,6 +5583,10 @@
       "japan",
       "sports-highlight-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5162,6 +5633,10 @@
       "sports-highlight-funk",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5206,6 +5681,10 @@
       "japan",
       "resort-fusion",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -5252,6 +5731,10 @@
       "resort-fusion",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5296,6 +5779,10 @@
       "japan",
       "resort-fusion",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5342,6 +5829,10 @@
       "resort-fusion",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5386,6 +5877,10 @@
       "japan",
       "resort-fusion",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5432,6 +5927,10 @@
       "seaside-city-pop",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5476,6 +5975,10 @@
       "japan",
       "seaside-city-pop",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5522,6 +6025,10 @@
       "seaside-city-pop",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5566,6 +6073,10 @@
       "japan",
       "seaside-city-pop",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5612,6 +6123,10 @@
       "seaside-city-pop",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5656,6 +6171,10 @@
       "japan",
       "rainy-lounge",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -5702,6 +6221,10 @@
       "rainy-lounge",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5746,6 +6269,10 @@
       "japan",
       "rainy-lounge",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5792,6 +6319,10 @@
       "rainy-lounge",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5836,6 +6367,10 @@
       "japan",
       "rainy-lounge",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5882,6 +6417,10 @@
       "elevator-luxury-groove",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5926,6 +6465,10 @@
       "japan",
       "elevator-luxury-groove",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5972,6 +6515,10 @@
       "elevator-luxury-groove",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6016,6 +6563,10 @@
       "japan",
       "elevator-luxury-groove",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6062,6 +6613,10 @@
       "elevator-luxury-groove",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6106,6 +6661,10 @@
       "japan",
       "department-store-bgm",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -6152,6 +6711,10 @@
       "department-store-bgm",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6196,6 +6759,10 @@
       "japan",
       "department-store-bgm",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6242,6 +6809,10 @@
       "department-store-bgm",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6286,6 +6857,10 @@
       "japan",
       "department-store-bgm",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6332,6 +6907,10 @@
       "hotel-lobby-jazz",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6376,6 +6955,10 @@
       "japan",
       "hotel-lobby-jazz",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6422,6 +7005,10 @@
       "hotel-lobby-jazz",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6466,6 +7053,10 @@
       "japan",
       "hotel-lobby-jazz",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6512,6 +7103,10 @@
       "hotel-lobby-jazz",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6556,6 +7151,10 @@
       "japan",
       "shopping-arcade-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -6602,6 +7201,10 @@
       "shopping-arcade-funk",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6646,6 +7249,10 @@
       "japan",
       "shopping-arcade-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6692,6 +7299,10 @@
       "shopping-arcade-funk",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6736,6 +7347,10 @@
       "japan",
       "shopping-arcade-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6782,6 +7397,10 @@
       "retro-tv-opener",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6826,6 +7445,10 @@
       "japan",
       "retro-tv-opener",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6872,6 +7495,10 @@
       "retro-tv-opener",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6916,6 +7543,10 @@
       "japan",
       "retro-tv-opener",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6962,6 +7593,10 @@
       "retro-tv-opener",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7006,6 +7641,10 @@
       "japan",
       "fusion-instrumental",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -7052,6 +7691,10 @@
       "fusion-instrumental",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7096,6 +7739,10 @@
       "japan",
       "fusion-instrumental",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7142,6 +7789,10 @@
       "fusion-instrumental",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7186,6 +7837,10 @@
       "japan",
       "fusion-instrumental",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7232,6 +7887,10 @@
       "keyboard-solo-fusion",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7276,6 +7935,10 @@
       "japan",
       "keyboard-solo-fusion",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7322,6 +7985,10 @@
       "keyboard-solo-fusion",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7366,6 +8033,10 @@
       "japan",
       "keyboard-solo-fusion",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7412,6 +8083,10 @@
       "keyboard-solo-fusion",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7456,6 +8131,10 @@
       "japan",
       "horn-section-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -7502,6 +8181,10 @@
       "horn-section-funk",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7546,6 +8229,10 @@
       "japan",
       "horn-section-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7592,6 +8279,10 @@
       "horn-section-funk",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7636,6 +8327,10 @@
       "japan",
       "horn-section-funk",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7682,6 +8377,10 @@
       "city-soul-groove",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7726,6 +8425,10 @@
       "japan",
       "city-soul-groove",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7772,6 +8475,10 @@
       "city-soul-groove",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7816,6 +8523,10 @@
       "japan",
       "city-soul-groove",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7862,6 +8573,10 @@
       "city-soul-groove",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7906,6 +8621,11 @@
       "japan",
       "disco-pop-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -7952,6 +8672,11 @@
       "disco-pop-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7996,6 +8721,11 @@
       "japan",
       "disco-pop-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8042,6 +8772,11 @@
       "disco-pop-japan",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8086,6 +8821,11 @@
       "japan",
       "disco-pop-japan",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1970s",
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8132,6 +8872,10 @@
       "midnight-smooth-groove",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8176,6 +8920,10 @@
       "japan",
       "midnight-smooth-groove",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8222,6 +8970,10 @@
       "midnight-smooth-groove",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8266,6 +9018,10 @@
       "japan",
       "midnight-smooth-groove",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8312,6 +9068,10 @@
       "midnight-smooth-groove",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8356,6 +9116,10 @@
       "japan",
       "cassette-fusion",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -8402,6 +9166,10 @@
       "cassette-fusion",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8446,6 +9214,10 @@
       "japan",
       "cassette-fusion",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8492,6 +9264,10 @@
       "cassette-fusion",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8536,6 +9312,10 @@
       "japan",
       "cassette-fusion",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8582,6 +9362,10 @@
       "vinyl-lounge",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8626,6 +9410,10 @@
       "japan",
       "vinyl-lounge",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8672,6 +9460,10 @@
       "vinyl-lounge",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8716,6 +9508,10 @@
       "japan",
       "vinyl-lounge",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8762,6 +9558,10 @@
       "vinyl-lounge",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8806,6 +9606,10 @@
       "japan",
       "sunrise-city-groove",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -8852,6 +9656,10 @@
       "sunrise-city-groove",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8896,6 +9704,10 @@
       "japan",
       "sunrise-city-groove",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8942,6 +9754,10 @@
       "sunrise-city-groove",
       "japan-city-groove"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8986,6 +9802,10 @@
       "japan",
       "sunrise-city-groove",
       "japan-city-groove"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,

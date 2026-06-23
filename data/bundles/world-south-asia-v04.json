@@ -32,6 +32,7 @@
       "hindi-film-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -77,6 +78,7 @@
       "hindi-film-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -122,6 +124,7 @@
       "hindi-film-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -167,6 +170,7 @@
       "hindi-film-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -212,6 +216,7 @@
       "hindi-film-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -257,6 +262,7 @@
       "punjabi-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -302,6 +308,7 @@
       "punjabi-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -347,6 +354,7 @@
       "punjabi-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -392,6 +400,7 @@
       "punjabi-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -437,6 +446,7 @@
       "punjabi-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -482,6 +492,7 @@
       "bhangra-dance",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -527,6 +538,7 @@
       "bhangra-dance",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -572,6 +584,7 @@
       "bhangra-dance",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -617,6 +630,7 @@
       "bhangra-dance",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -662,6 +676,7 @@
       "bhangra-dance",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -707,6 +722,7 @@
       "dhol-club-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -752,6 +768,7 @@
       "dhol-club-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -797,6 +814,7 @@
       "dhol-club-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -842,6 +860,7 @@
       "dhol-club-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -887,6 +906,7 @@
       "dhol-club-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -932,6 +952,7 @@
       "sufi-rock",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -977,6 +998,7 @@
       "sufi-rock",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -1022,6 +1044,7 @@
       "sufi-rock",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1067,6 +1090,7 @@
       "sufi-rock",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1112,6 +1136,7 @@
       "sufi-rock",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1157,6 +1182,7 @@
       "qawwali-inspired-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -1202,6 +1228,7 @@
       "qawwali-inspired-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1247,6 +1274,7 @@
       "qawwali-inspired-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1292,6 +1320,7 @@
       "qawwali-inspired-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1337,6 +1366,7 @@
       "qawwali-inspired-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1382,6 +1412,7 @@
       "ghazal-pop-ballad",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1427,6 +1458,7 @@
       "ghazal-pop-ballad",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1472,6 +1504,7 @@
       "ghazal-pop-ballad",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1517,6 +1550,7 @@
       "ghazal-pop-ballad",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1562,6 +1596,7 @@
       "ghazal-pop-ballad",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1607,6 +1642,7 @@
       "hindustani-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1652,6 +1688,7 @@
       "hindustani-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1697,6 +1734,7 @@
       "hindustani-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1742,6 +1780,7 @@
       "hindustani-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1787,6 +1826,7 @@
       "hindustani-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1832,6 +1872,7 @@
       "carnatic-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1877,6 +1918,7 @@
       "carnatic-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1922,6 +1964,7 @@
       "carnatic-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1967,6 +2010,7 @@
       "carnatic-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -2012,6 +2056,7 @@
       "carnatic-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -2057,6 +2102,7 @@
       "tamil-kuthu-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2102,6 +2148,7 @@
       "tamil-kuthu-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -2147,6 +2194,7 @@
       "tamil-kuthu-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -2192,6 +2240,7 @@
       "tamil-kuthu-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -2237,6 +2286,7 @@
       "tamil-kuthu-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2282,6 +2332,7 @@
       "tamil-electronic-dance",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -2327,6 +2378,7 @@
       "tamil-electronic-dance",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -2372,6 +2424,7 @@
       "tamil-electronic-dance",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -2417,6 +2470,7 @@
       "tamil-electronic-dance",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2462,6 +2516,7 @@
       "tamil-electronic-dance",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -2507,6 +2562,7 @@
       "telugu-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -2552,6 +2608,7 @@
       "telugu-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -2597,6 +2654,7 @@
       "telugu-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2642,6 +2700,7 @@
       "telugu-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -2687,6 +2746,7 @@
       "telugu-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -2732,6 +2792,7 @@
       "malayalam-acoustic-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -2777,6 +2838,7 @@
       "malayalam-acoustic-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2822,6 +2884,7 @@
       "malayalam-acoustic-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -2867,6 +2930,7 @@
       "malayalam-acoustic-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -2912,6 +2976,7 @@
       "malayalam-acoustic-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2957,6 +3022,7 @@
       "bengali-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3002,6 +3068,7 @@
       "bengali-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -3047,6 +3114,7 @@
       "bengali-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -3092,6 +3160,7 @@
       "bengali-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -3137,6 +3206,7 @@
       "bengali-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3182,6 +3252,7 @@
       "baul-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -3227,6 +3298,7 @@
       "baul-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -3272,6 +3344,7 @@
       "baul-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -3317,6 +3390,7 @@
       "baul-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3362,6 +3436,7 @@
       "baul-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3407,6 +3482,7 @@
       "marathi-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -3452,6 +3528,7 @@
       "marathi-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -3497,6 +3574,7 @@
       "marathi-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3542,6 +3620,7 @@
       "marathi-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3587,6 +3666,7 @@
       "marathi-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -3632,6 +3712,7 @@
       "gujarati-garba-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -3677,6 +3758,7 @@
       "gujarati-garba-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3722,6 +3804,7 @@
       "gujarati-garba-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3767,6 +3850,7 @@
       "gujarati-garba-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -3812,6 +3896,7 @@
       "gujarati-garba-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -3857,6 +3942,7 @@
       "rajasthani-desert-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3902,6 +3988,7 @@
       "rajasthani-desert-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3947,6 +4034,7 @@
       "rajasthani-desert-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -3992,6 +4080,7 @@
       "rajasthani-desert-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4037,6 +4126,7 @@
       "rajasthani-desert-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4082,6 +4172,7 @@
       "kashmiri-folk-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -4127,6 +4218,7 @@
       "kashmiri-folk-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -4172,6 +4264,7 @@
       "kashmiri-folk-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4217,6 +4310,7 @@
       "kashmiri-folk-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4262,6 +4356,7 @@
       "kashmiri-folk-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -4307,6 +4402,7 @@
       "nepali-indie-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -4352,6 +4448,7 @@
       "nepali-indie-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4397,6 +4494,7 @@
       "nepali-indie-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4442,6 +4540,7 @@
       "nepali-indie-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -4487,6 +4586,7 @@
       "nepali-indie-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4532,6 +4632,7 @@
       "sri-lankan-baila-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4577,6 +4678,7 @@
       "sri-lankan-baila-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4622,6 +4724,7 @@
       "sri-lankan-baila-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -4667,6 +4770,7 @@
       "sri-lankan-baila-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4712,6 +4816,7 @@
       "sri-lankan-baila-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -4757,6 +4862,7 @@
       "pakistani-indie-rock",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4802,6 +4908,7 @@
       "pakistani-indie-rock",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -4847,6 +4954,7 @@
       "pakistani-indie-rock",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4892,6 +5000,7 @@
       "pakistani-indie-rock",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -4937,6 +5046,7 @@
       "pakistani-indie-rock",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -4982,6 +5092,7 @@
       "urdu-pop-ballad",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -5027,6 +5138,7 @@
       "urdu-pop-ballad",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -5072,6 +5184,7 @@
       "urdu-pop-ballad",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -5117,6 +5230,7 @@
       "urdu-pop-ballad",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -5162,6 +5276,7 @@
       "urdu-pop-ballad",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5207,6 +5322,7 @@
       "south-asian-rnb",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -5252,6 +5368,7 @@
       "south-asian-rnb",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -5297,6 +5414,7 @@
       "south-asian-rnb",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -5342,6 +5460,7 @@
       "south-asian-rnb",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5387,6 +5506,7 @@
       "south-asian-rnb",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -5432,6 +5552,7 @@
       "desi-hiphop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -5477,6 +5598,7 @@
       "desi-hiphop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -5522,6 +5644,7 @@
       "desi-hiphop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5567,6 +5690,7 @@
       "desi-hiphop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -5612,6 +5736,7 @@
       "desi-hiphop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -5656,6 +5781,9 @@
       "melody",
       "south-asian-trap",
       "south"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5702,6 +5830,9 @@
       "south-asian-trap",
       "south"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5746,6 +5877,9 @@
       "melody",
       "south-asian-trap",
       "south"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -5792,6 +5926,9 @@
       "south-asian-trap",
       "south"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -5836,6 +5973,9 @@
       "melody",
       "south-asian-trap",
       "south"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5882,6 +6022,7 @@
       "sitar-lofi",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5927,6 +6068,7 @@
       "sitar-lofi",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -5972,6 +6114,7 @@
       "sitar-lofi",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6017,6 +6160,7 @@
       "sitar-lofi",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6062,6 +6206,7 @@
       "sitar-lofi",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6107,6 +6252,7 @@
       "tabla-breakbeat",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -6152,6 +6298,7 @@
       "tabla-breakbeat",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6197,6 +6344,7 @@
       "tabla-breakbeat",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6242,6 +6390,7 @@
       "tabla-breakbeat",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6287,6 +6436,7 @@
       "tabla-breakbeat",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6332,6 +6482,7 @@
       "monsoon-ballad",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6377,6 +6528,7 @@
       "monsoon-ballad",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6422,6 +6574,7 @@
       "monsoon-ballad",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6467,6 +6620,7 @@
       "monsoon-ballad",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6512,6 +6666,7 @@
       "monsoon-ballad",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6557,6 +6712,7 @@
       "wedding-dance-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6602,6 +6758,7 @@
       "wedding-dance-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6647,6 +6804,7 @@
       "wedding-dance-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6692,6 +6850,7 @@
       "wedding-dance-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6737,6 +6896,7 @@
       "wedding-dance-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6782,6 +6942,7 @@
       "festival-procession-groove",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6827,6 +6988,7 @@
       "festival-procession-groove",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6872,6 +7034,7 @@
       "festival-procession-groove",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6917,6 +7080,7 @@
       "festival-procession-groove",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6962,6 +7126,7 @@
       "festival-procession-groove",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7007,6 +7172,7 @@
       "classical-raga-ambient",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -7052,6 +7218,7 @@
       "classical-raga-ambient",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -7097,6 +7264,7 @@
       "classical-raga-ambient",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7142,6 +7310,7 @@
       "classical-raga-ambient",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7187,6 +7356,7 @@
       "classical-raga-ambient",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7232,6 +7402,7 @@
       "bansuri-chill",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -7277,6 +7448,7 @@
       "bansuri-chill",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7322,6 +7494,7 @@
       "bansuri-chill",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7367,6 +7540,7 @@
       "bansuri-chill",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7412,6 +7586,7 @@
       "bansuri-chill",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7457,6 +7632,7 @@
       "harmonium-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7502,6 +7678,7 @@
       "harmonium-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7547,6 +7724,7 @@
       "harmonium-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7592,6 +7770,7 @@
       "harmonium-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7637,6 +7816,7 @@
       "harmonium-folk-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7682,6 +7862,7 @@
       "bol-dance-rhythm",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7727,6 +7908,7 @@
       "bol-dance-rhythm",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7772,6 +7954,7 @@
       "bol-dance-rhythm",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7817,6 +8000,7 @@
       "bol-dance-rhythm",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7862,6 +8046,7 @@
       "bol-dance-rhythm",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -7907,6 +8092,7 @@
       "cinematic-palace-score",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7952,6 +8138,7 @@
       "cinematic-palace-score",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7997,6 +8184,7 @@
       "cinematic-palace-score",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8042,6 +8230,7 @@
       "cinematic-palace-score",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8087,6 +8276,7 @@
       "cinematic-palace-score",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8132,6 +8322,7 @@
       "village-acoustic-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -8177,6 +8368,7 @@
       "village-acoustic-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8222,6 +8414,7 @@
       "village-acoustic-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8267,6 +8460,7 @@
       "village-acoustic-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8312,6 +8506,7 @@
       "village-acoustic-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8357,6 +8552,7 @@
       "urban-night-desi-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8402,6 +8598,7 @@
       "urban-night-desi-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8447,6 +8644,7 @@
       "urban-night-desi-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8492,6 +8690,7 @@
       "urban-night-desi-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8537,6 +8736,7 @@
       "urban-night-desi-pop",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8582,6 +8782,7 @@
       "devotional-pop-groove",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8627,6 +8828,7 @@
       "devotional-pop-groove",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8672,6 +8874,7 @@
       "devotional-pop-groove",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8717,6 +8920,7 @@
       "devotional-pop-groove",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8762,6 +8966,7 @@
       "devotional-pop-groove",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8807,6 +9012,7 @@
       "south-asian-jazz-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8852,6 +9058,7 @@
       "south-asian-jazz-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8897,6 +9104,7 @@
       "south-asian-jazz-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8942,6 +9150,7 @@
       "south-asian-jazz-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8987,6 +9196,7 @@
       "south-asian-jazz-fusion",
       "south"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",

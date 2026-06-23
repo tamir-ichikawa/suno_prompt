@@ -32,6 +32,7 @@
       "main-menu-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -77,6 +78,7 @@
       "main-menu-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -122,6 +124,7 @@
       "main-menu-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -167,6 +170,7 @@
       "main-menu-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -212,6 +216,7 @@
       "main-menu-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -257,6 +262,7 @@
       "pause-menu-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -302,6 +308,7 @@
       "pause-menu-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -347,6 +354,7 @@
       "pause-menu-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -392,6 +400,7 @@
       "pause-menu-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -437,6 +446,7 @@
       "pause-menu-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -482,6 +492,7 @@
       "shop-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -527,6 +538,7 @@
       "shop-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -572,6 +584,7 @@
       "shop-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -617,6 +630,7 @@
       "shop-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -662,6 +676,7 @@
       "shop-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -707,6 +722,7 @@
       "inventory-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -752,6 +768,7 @@
       "inventory-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -797,6 +814,7 @@
       "inventory-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -842,6 +860,7 @@
       "inventory-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -887,6 +906,7 @@
       "inventory-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -932,6 +952,7 @@
       "cozy-village-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -977,6 +998,7 @@
       "cozy-village-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -1022,6 +1044,7 @@
       "cozy-village-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1067,6 +1090,7 @@
       "cozy-village-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1112,6 +1136,7 @@
       "cozy-village-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1157,6 +1182,7 @@
       "farming-sim-morning",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -1202,6 +1228,7 @@
       "farming-sim-morning",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1247,6 +1274,7 @@
       "farming-sim-morning",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1292,6 +1320,7 @@
       "farming-sim-morning",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1337,6 +1366,7 @@
       "farming-sim-morning",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1382,6 +1412,7 @@
       "crafting-table-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1427,6 +1458,7 @@
       "crafting-table-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1472,6 +1504,7 @@
       "crafting-table-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1517,6 +1550,7 @@
       "crafting-table-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1562,6 +1596,7 @@
       "crafting-table-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1607,6 +1642,7 @@
       "puzzle-calm-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1652,6 +1688,7 @@
       "puzzle-calm-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1697,6 +1734,7 @@
       "puzzle-calm-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1742,6 +1780,7 @@
       "puzzle-calm-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1787,6 +1826,7 @@
       "puzzle-calm-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -1832,6 +1872,7 @@
       "arcade-stage-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1877,6 +1918,7 @@
       "arcade-stage-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1922,6 +1964,7 @@
       "arcade-stage-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1967,6 +2010,7 @@
       "arcade-stage-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -2012,6 +2056,7 @@
       "arcade-stage-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2056,6 +2101,9 @@
       "bgm",
       "retro-platformer-loop",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2102,6 +2150,9 @@
       "retro-platformer-loop",
       "global"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -2146,6 +2197,9 @@
       "bgm",
       "retro-platformer-loop",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -2192,6 +2246,9 @@
       "retro-platformer-loop",
       "global"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2236,6 +2293,9 @@
       "bgm",
       "retro-platformer-loop",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2282,6 +2342,7 @@
       "boss-battle-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -2327,6 +2388,7 @@
       "boss-battle-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -2372,6 +2434,7 @@
       "boss-battle-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2417,6 +2480,7 @@
       "boss-battle-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2462,6 +2526,7 @@
       "boss-battle-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -2507,6 +2572,7 @@
       "mini-boss-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -2552,6 +2618,7 @@
       "mini-boss-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2597,6 +2664,7 @@
       "mini-boss-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2642,6 +2710,7 @@
       "mini-boss-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -2687,6 +2756,7 @@
       "mini-boss-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -2732,6 +2802,7 @@
       "victory-fanfare",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2777,6 +2848,7 @@
       "victory-fanfare",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2822,6 +2894,7 @@
       "victory-fanfare",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -2867,6 +2940,7 @@
       "victory-fanfare",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -2912,6 +2986,7 @@
       "victory-fanfare",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -2957,6 +3032,7 @@
       "defeat-sting",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3002,6 +3078,7 @@
       "defeat-sting",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -3047,6 +3124,7 @@
       "defeat-sting",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -3092,6 +3170,7 @@
       "defeat-sting",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -3137,6 +3216,7 @@
       "defeat-sting",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3182,6 +3262,7 @@
       "level-up-sting",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -3227,6 +3308,7 @@
       "level-up-sting",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -3272,6 +3354,7 @@
       "level-up-sting",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -3317,6 +3400,7 @@
       "level-up-sting",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3362,6 +3446,7 @@
       "level-up-sting",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3407,6 +3492,7 @@
       "quest-accepted-cue",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -3452,6 +3538,7 @@
       "quest-accepted-cue",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -3497,6 +3584,7 @@
       "quest-accepted-cue",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3542,6 +3630,7 @@
       "quest-accepted-cue",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3587,6 +3676,7 @@
       "quest-accepted-cue",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -3632,6 +3722,7 @@
       "quest-complete-cue",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -3677,6 +3768,7 @@
       "quest-complete-cue",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3722,6 +3814,7 @@
       "quest-complete-cue",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3767,6 +3860,7 @@
       "quest-complete-cue",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -3812,6 +3906,7 @@
       "quest-complete-cue",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -3857,6 +3952,7 @@
       "dungeon-ambience",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3902,6 +3998,7 @@
       "dungeon-ambience",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3947,6 +4044,7 @@
       "dungeon-ambience",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -3992,6 +4090,7 @@
       "dungeon-ambience",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4037,6 +4136,7 @@
       "dungeon-ambience",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -4082,6 +4182,7 @@
       "forest-exploration",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -4127,6 +4228,7 @@
       "forest-exploration",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -4172,6 +4274,7 @@
       "forest-exploration",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4217,6 +4320,7 @@
       "forest-exploration",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -4262,6 +4366,7 @@
       "forest-exploration",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4307,6 +4412,7 @@
       "snow-town-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -4352,6 +4458,7 @@
       "snow-town-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4397,6 +4504,7 @@
       "snow-town-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -4442,6 +4550,7 @@
       "snow-town-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4487,6 +4596,7 @@
       "snow-town-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4532,6 +4642,7 @@
       "desert-map-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4577,6 +4688,7 @@
       "desert-map-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -4622,6 +4734,7 @@
       "desert-map-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4667,6 +4780,7 @@
       "desert-map-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4712,6 +4826,7 @@
       "desert-map-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -4757,6 +4872,7 @@
       "space-station-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -4802,6 +4918,7 @@
       "space-station-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4847,6 +4964,7 @@
       "space-station-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4892,6 +5010,7 @@
       "space-station-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -4937,6 +5056,7 @@
       "space-station-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -4982,6 +5102,7 @@
       "cyberpunk-city-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5027,6 +5148,7 @@
       "cyberpunk-city-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -5072,6 +5194,7 @@
       "cyberpunk-city-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -5117,6 +5240,7 @@
       "cyberpunk-city-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -5162,6 +5286,7 @@
       "cyberpunk-city-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -5207,6 +5332,7 @@
       "racing-menu-bed",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -5252,6 +5378,7 @@
       "racing-menu-bed",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -5297,6 +5424,7 @@
       "racing-menu-bed",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -5342,6 +5470,7 @@
       "racing-menu-bed",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -5387,6 +5516,7 @@
       "racing-menu-bed",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -5432,6 +5562,7 @@
       "sports-game-menu",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -5477,6 +5608,7 @@
       "sports-game-menu",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -5522,6 +5654,7 @@
       "sports-game-menu",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -5567,6 +5700,7 @@
       "sports-game-menu",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -5612,6 +5746,7 @@
       "sports-game-menu",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -5657,6 +5792,7 @@
       "horror-safe-room",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -5702,6 +5838,7 @@
       "horror-safe-room",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -5747,6 +5884,7 @@
       "horror-safe-room",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -5792,6 +5930,7 @@
       "horror-safe-room",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -5837,6 +5976,7 @@
       "horror-safe-room",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5882,6 +6022,7 @@
       "stealth-mission-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -5927,6 +6068,7 @@
       "stealth-mission-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -5972,6 +6114,7 @@
       "stealth-mission-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6017,6 +6160,7 @@
       "stealth-mission-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6062,6 +6206,7 @@
       "stealth-mission-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6107,6 +6252,7 @@
       "detective-office-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6152,6 +6298,7 @@
       "detective-office-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6197,6 +6344,7 @@
       "detective-office-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6242,6 +6390,7 @@
       "detective-office-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6287,6 +6436,7 @@
       "detective-office-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -6332,6 +6482,7 @@
       "visual-novel-daily-life",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6377,6 +6528,7 @@
       "visual-novel-daily-life",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6422,6 +6574,7 @@
       "visual-novel-daily-life",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6467,6 +6620,7 @@
       "visual-novel-daily-life",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -6512,6 +6666,7 @@
       "visual-novel-daily-life",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -6557,6 +6712,7 @@
       "visual-novel-tension",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6602,6 +6758,7 @@
       "visual-novel-tension",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6647,6 +6804,7 @@
       "visual-novel-tension",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -6692,6 +6850,7 @@
       "visual-novel-tension",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -6737,6 +6896,7 @@
       "visual-novel-tension",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6782,6 +6942,7 @@
       "card-battle-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6827,6 +6988,7 @@
       "card-battle-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -6872,6 +7034,7 @@
       "card-battle-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -6917,6 +7080,7 @@
       "card-battle-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6962,6 +7126,7 @@
       "card-battle-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7007,6 +7172,7 @@
       "tower-defense-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7052,6 +7218,7 @@
       "tower-defense-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7097,6 +7264,7 @@
       "tower-defense-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7142,6 +7310,7 @@
       "tower-defense-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7187,6 +7356,7 @@
       "tower-defense-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7232,6 +7402,7 @@
       "rpg-overworld",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7277,6 +7448,7 @@
       "rpg-overworld",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7322,6 +7494,7 @@
       "rpg-overworld",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7367,6 +7540,7 @@
       "rpg-overworld",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7412,6 +7586,7 @@
       "rpg-overworld",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -7457,6 +7632,7 @@
       "rpg-airship",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7502,6 +7678,7 @@
       "rpg-airship",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7547,6 +7724,7 @@
       "rpg-airship",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7592,6 +7770,7 @@
       "rpg-airship",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -7637,6 +7816,7 @@
       "rpg-airship",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7682,6 +7862,7 @@
       "stream-starting-soon",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7727,6 +7908,7 @@
       "stream-starting-soon",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7772,6 +7954,7 @@
       "stream-starting-soon",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -7817,6 +8000,7 @@
       "stream-starting-soon",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7862,6 +8046,7 @@
       "stream-starting-soon",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -7907,6 +8092,7 @@
       "stream-brb-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7952,6 +8138,7 @@
       "stream-brb-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -7997,6 +8184,7 @@
       "stream-brb-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8042,6 +8230,7 @@
       "stream-brb-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8087,6 +8276,7 @@
       "stream-brb-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8132,6 +8322,7 @@
       "stream-chatting-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8177,6 +8368,7 @@
       "stream-chatting-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8222,6 +8414,7 @@
       "stream-chatting-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8267,6 +8460,7 @@
       "stream-chatting-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8312,6 +8506,7 @@
       "stream-chatting-bgm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8357,6 +8552,7 @@
       "stream-ending-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8402,6 +8598,7 @@
       "stream-ending-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8447,6 +8644,7 @@
       "stream-ending-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8492,6 +8690,7 @@
       "stream-ending-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8537,6 +8736,7 @@
       "stream-ending-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -8582,6 +8782,7 @@
       "esports-highlight-bed",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8627,6 +8828,7 @@
       "esports-highlight-bed",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8672,6 +8874,7 @@
       "esports-highlight-bed",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8717,6 +8920,7 @@
       "esports-highlight-bed",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -8762,6 +8966,7 @@
       "esports-highlight-bed",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8807,6 +9012,7 @@
       "achievement-unlock",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8852,6 +9058,7 @@
       "achievement-unlock",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8897,6 +9104,7 @@
       "achievement-unlock",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -8942,6 +9150,7 @@
       "achievement-unlock",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8987,6 +9196,7 @@
       "achievement-unlock",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",

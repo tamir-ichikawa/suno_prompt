@@ -31,6 +31,7 @@
       "groove",
       "afrobeats-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -75,6 +76,7 @@
       "groove",
       "afrobeats-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -119,6 +121,7 @@
       "groove",
       "afrobeats-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -163,6 +166,7 @@
       "groove",
       "afrobeats-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -207,6 +211,7 @@
       "groove",
       "afrobeats-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -251,6 +256,7 @@
       "groove",
       "afro-house"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -295,6 +301,7 @@
       "groove",
       "afro-house"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -339,6 +346,7 @@
       "groove",
       "afro-house"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -383,6 +391,7 @@
       "groove",
       "afro-house"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -427,6 +436,7 @@
       "groove",
       "afro-house"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -470,6 +480,9 @@
       "regional",
       "groove",
       "amapiano-groove"
+    ],
+    "era_tags": [
+      "2020s"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -515,6 +528,9 @@
       "groove",
       "amapiano-groove"
     ],
+    "era_tags": [
+      "2020s"
+    ],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -558,6 +574,9 @@
       "regional",
       "groove",
       "amapiano-groove"
+    ],
+    "era_tags": [
+      "2020s"
     ],
     "use_case": [],
     "groove_score": 7,
@@ -603,6 +622,9 @@
       "groove",
       "amapiano-groove"
     ],
+    "era_tags": [
+      "2020s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -646,6 +668,9 @@
       "regional",
       "groove",
       "amapiano-groove"
+    ],
+    "era_tags": [
+      "2020s"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -691,6 +716,7 @@
       "groove",
       "gqom-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -735,6 +761,7 @@
       "groove",
       "gqom-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -779,6 +806,7 @@
       "groove",
       "gqom-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -823,6 +851,7 @@
       "groove",
       "gqom-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -867,6 +896,7 @@
       "groove",
       "gqom-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -911,6 +941,7 @@
       "groove",
       "highlife-guitar-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -955,6 +986,7 @@
       "groove",
       "highlife-guitar-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -999,6 +1031,7 @@
       "groove",
       "highlife-guitar-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1043,6 +1076,7 @@
       "groove",
       "highlife-guitar-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1087,6 +1121,7 @@
       "groove",
       "highlife-guitar-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1131,6 +1166,7 @@
       "groove",
       "palm-wine-acoustic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1175,6 +1211,7 @@
       "groove",
       "palm-wine-acoustic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1219,6 +1256,7 @@
       "groove",
       "palm-wine-acoustic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1263,6 +1301,7 @@
       "groove",
       "palm-wine-acoustic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1307,6 +1346,7 @@
       "groove",
       "palm-wine-acoustic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1351,6 +1391,7 @@
       "groove",
       "juju-guitar-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1395,6 +1436,7 @@
       "groove",
       "juju-guitar-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1439,6 +1481,7 @@
       "groove",
       "juju-guitar-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1483,6 +1526,7 @@
       "groove",
       "juju-guitar-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1527,6 +1571,7 @@
       "groove",
       "juju-guitar-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1571,6 +1616,7 @@
       "groove",
       "fuji-percussion-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -1615,6 +1661,7 @@
       "groove",
       "fuji-percussion-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1659,6 +1706,7 @@
       "groove",
       "fuji-percussion-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1703,6 +1751,7 @@
       "groove",
       "fuji-percussion-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1747,6 +1796,7 @@
       "groove",
       "fuji-percussion-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1791,6 +1841,7 @@
       "groove",
       "soukous-guitar-dance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1835,6 +1886,7 @@
       "groove",
       "soukous-guitar-dance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1879,6 +1931,7 @@
       "groove",
       "soukous-guitar-dance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1923,6 +1976,7 @@
       "groove",
       "soukous-guitar-dance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1967,6 +2021,7 @@
       "groove",
       "soukous-guitar-dance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -2011,6 +2066,7 @@
       "groove",
       "ndombolo-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2055,6 +2111,7 @@
       "groove",
       "ndombolo-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2099,6 +2156,7 @@
       "groove",
       "ndombolo-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -2143,6 +2201,7 @@
       "groove",
       "ndombolo-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -2187,6 +2246,7 @@
       "groove",
       "ndombolo-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2231,6 +2291,7 @@
       "groove",
       "makossa-funk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2275,6 +2336,7 @@
       "groove",
       "makossa-funk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -2319,6 +2381,7 @@
       "groove",
       "makossa-funk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -2363,6 +2426,7 @@
       "groove",
       "makossa-funk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2407,6 +2471,7 @@
       "groove",
       "makossa-funk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -2451,6 +2516,7 @@
       "groove",
       "mbalax-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -2495,6 +2561,7 @@
       "groove",
       "mbalax-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -2539,6 +2606,7 @@
       "groove",
       "mbalax-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2583,6 +2651,7 @@
       "groove",
       "mbalax-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -2627,6 +2696,7 @@
       "groove",
       "mbalax-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -2671,6 +2741,7 @@
       "groove",
       "desert-blues"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -2715,6 +2786,7 @@
       "groove",
       "desert-blues"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2759,6 +2831,7 @@
       "groove",
       "desert-blues"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -2803,6 +2876,7 @@
       "groove",
       "desert-blues"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -2847,6 +2921,7 @@
       "groove",
       "desert-blues"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2891,6 +2966,7 @@
       "groove",
       "tuareg-guitar-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2935,6 +3011,7 @@
       "groove",
       "tuareg-guitar-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -2979,6 +3056,7 @@
       "groove",
       "tuareg-guitar-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -3023,6 +3101,7 @@
       "groove",
       "tuareg-guitar-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -3067,6 +3146,7 @@
       "groove",
       "tuareg-guitar-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3111,6 +3191,7 @@
       "groove",
       "gnawa-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3155,6 +3236,7 @@
       "groove",
       "gnawa-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -3199,6 +3281,7 @@
       "groove",
       "gnawa-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -3243,6 +3326,7 @@
       "groove",
       "gnawa-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3287,6 +3371,7 @@
       "groove",
       "gnawa-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3331,6 +3416,7 @@
       "groove",
       "ethiopian-jazz-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -3375,6 +3461,7 @@
       "groove",
       "ethiopian-jazz-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -3419,6 +3506,7 @@
       "groove",
       "ethiopian-jazz-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3463,6 +3551,7 @@
       "groove",
       "ethiopian-jazz-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3507,6 +3596,7 @@
       "groove",
       "ethiopian-jazz-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -3551,6 +3641,7 @@
       "groove",
       "ethio-funk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -3595,6 +3686,7 @@
       "groove",
       "ethio-funk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3639,6 +3731,7 @@
       "groove",
       "ethio-funk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3683,6 +3776,7 @@
       "groove",
       "ethio-funk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -3727,6 +3821,7 @@
       "groove",
       "ethio-funk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -3771,6 +3866,7 @@
       "groove",
       "benga-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3815,6 +3911,7 @@
       "groove",
       "benga-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -3859,6 +3956,7 @@
       "groove",
       "benga-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -3903,6 +4001,7 @@
       "groove",
       "benga-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -3947,6 +4046,7 @@
       "groove",
       "benga-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3991,6 +4091,7 @@
       "groove",
       "taarab-orchestral-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -4035,6 +4136,7 @@
       "groove",
       "taarab-orchestral-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4079,6 +4181,7 @@
       "groove",
       "taarab-orchestral-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -4123,6 +4226,7 @@
       "groove",
       "taarab-orchestral-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4167,6 +4271,7 @@
       "groove",
       "taarab-orchestral-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -4211,6 +4316,7 @@
       "groove",
       "afro-soul"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4255,6 +4361,7 @@
       "groove",
       "afro-soul"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -4299,6 +4406,7 @@
       "groove",
       "afro-soul"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4343,6 +4451,7 @@
       "groove",
       "afro-soul"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -4387,6 +4496,7 @@
       "groove",
       "afro-soul"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4431,6 +4541,7 @@
       "groove",
       "afro-gospel-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -4475,6 +4586,7 @@
       "groove",
       "afro-gospel-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4519,6 +4631,7 @@
       "groove",
       "afro-gospel-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -4563,6 +4676,7 @@
       "groove",
       "afro-gospel-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4607,6 +4721,7 @@
       "groove",
       "afro-gospel-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -4651,6 +4766,7 @@
       "groove",
       "south-african-house"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4695,6 +4811,7 @@
       "groove",
       "south-african-house"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -4739,6 +4856,7 @@
       "groove",
       "south-african-house"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4783,6 +4901,7 @@
       "groove",
       "south-african-house"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -4827,6 +4946,7 @@
       "groove",
       "south-african-house"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4871,6 +4991,7 @@
       "groove",
       "kwaito-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -4915,6 +5036,7 @@
       "groove",
       "kwaito-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4959,6 +5081,7 @@
       "groove",
       "kwaito-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -5003,6 +5126,7 @@
       "groove",
       "kwaito-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5047,6 +5171,7 @@
       "groove",
       "kwaito-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5091,6 +5216,7 @@
       "groove",
       "kuduro-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -5135,6 +5261,7 @@
       "groove",
       "kuduro-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -5179,6 +5306,7 @@
       "groove",
       "kuduro-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5223,6 +5351,7 @@
       "groove",
       "kuduro-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5267,6 +5396,7 @@
       "groove",
       "kuduro-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -5311,6 +5441,7 @@
       "groove",
       "azonto-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -5355,6 +5486,7 @@
       "groove",
       "azonto-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5399,6 +5531,7 @@
       "groove",
       "azonto-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5443,6 +5576,7 @@
       "groove",
       "azonto-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -5487,6 +5621,7 @@
       "groove",
       "azonto-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -5530,6 +5665,9 @@
       "regional",
       "groove",
       "afro-trap"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5575,6 +5713,9 @@
       "groove",
       "afro-trap"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5618,6 +5759,9 @@
       "regional",
       "groove",
       "afro-trap"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -5663,6 +5807,9 @@
       "groove",
       "afro-trap"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -5706,6 +5853,9 @@
       "regional",
       "groove",
       "afro-trap"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5751,6 +5901,7 @@
       "groove",
       "afro-swing"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5795,6 +5946,7 @@
       "groove",
       "afro-swing"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -5839,6 +5991,7 @@
       "groove",
       "afro-swing"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -5883,6 +6036,7 @@
       "groove",
       "afro-swing"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5927,6 +6081,7 @@
       "groove",
       "afro-swing"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5971,6 +6126,7 @@
       "groove",
       "afro-jazz-funk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -6015,6 +6171,7 @@
       "groove",
       "afro-jazz-funk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6059,6 +6216,7 @@
       "groove",
       "afro-jazz-funk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6103,6 +6261,7 @@
       "groove",
       "afro-jazz-funk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6147,6 +6306,7 @@
       "groove",
       "afro-jazz-funk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6191,6 +6351,7 @@
       "groove",
       "afro-acoustic-ballad"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6235,6 +6396,7 @@
       "groove",
       "afro-acoustic-ballad"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6279,6 +6441,7 @@
       "groove",
       "afro-acoustic-ballad"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6323,6 +6486,7 @@
       "groove",
       "afro-acoustic-ballad"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6367,6 +6531,7 @@
       "groove",
       "afro-acoustic-ballad"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6411,6 +6576,7 @@
       "groove",
       "sahel-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6455,6 +6621,7 @@
       "groove",
       "sahel-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6499,6 +6666,7 @@
       "groove",
       "sahel-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6543,6 +6711,7 @@
       "groove",
       "sahel-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6587,6 +6756,7 @@
       "groove",
       "sahel-folk-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6631,6 +6801,7 @@
       "groove",
       "east-african-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6675,6 +6846,7 @@
       "groove",
       "east-african-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6719,6 +6891,7 @@
       "groove",
       "east-african-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6763,6 +6936,7 @@
       "groove",
       "east-african-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6807,6 +6981,7 @@
       "groove",
       "east-african-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -6851,6 +7026,7 @@
       "groove",
       "west-african-kora-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6895,6 +7071,7 @@
       "groove",
       "west-african-kora-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6939,6 +7116,7 @@
       "groove",
       "west-african-kora-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6983,6 +7161,7 @@
       "groove",
       "west-african-kora-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -7027,6 +7206,7 @@
       "groove",
       "west-african-kora-pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -7071,6 +7251,7 @@
       "groove",
       "central-african-rumba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -7115,6 +7296,7 @@
       "groove",
       "central-african-rumba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7159,6 +7341,7 @@
       "groove",
       "central-african-rumba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -7203,6 +7386,7 @@
       "groove",
       "central-african-rumba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -7247,6 +7431,7 @@
       "groove",
       "central-african-rumba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7291,6 +7476,7 @@
       "groove",
       "north-african-pop-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7335,6 +7521,7 @@
       "groove",
       "north-african-pop-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -7379,6 +7566,7 @@
       "groove",
       "north-african-pop-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -7423,6 +7611,7 @@
       "groove",
       "north-african-pop-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7467,6 +7656,7 @@
       "groove",
       "north-african-pop-groove"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7511,6 +7701,7 @@
       "groove",
       "afro-latin-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -7555,6 +7746,7 @@
       "groove",
       "afro-latin-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -7599,6 +7791,7 @@
       "groove",
       "afro-latin-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7643,6 +7836,7 @@
       "groove",
       "afro-latin-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7687,6 +7881,7 @@
       "groove",
       "afro-latin-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -7731,6 +7926,7 @@
       "groove",
       "afro-cinematic-percussion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -7775,6 +7971,7 @@
       "groove",
       "afro-cinematic-percussion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7819,6 +8016,7 @@
       "groove",
       "afro-cinematic-percussion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7863,6 +8061,7 @@
       "groove",
       "afro-cinematic-percussion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -7907,6 +8106,7 @@
       "groove",
       "afro-cinematic-percussion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -7951,6 +8151,7 @@
       "groove",
       "afro-lofi-beat"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7995,6 +8196,7 @@
       "groove",
       "afro-lofi-beat"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8039,6 +8241,7 @@
       "groove",
       "afro-lofi-beat"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8083,6 +8286,7 @@
       "groove",
       "afro-lofi-beat"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -8127,6 +8331,7 @@
       "groove",
       "afro-lofi-beat"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -8171,6 +8376,7 @@
       "groove",
       "afro-dancehall-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8215,6 +8421,7 @@
       "groove",
       "afro-dancehall-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8259,6 +8466,7 @@
       "groove",
       "afro-dancehall-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -8303,6 +8511,7 @@
       "groove",
       "afro-dancehall-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -8347,6 +8556,7 @@
       "groove",
       "afro-dancehall-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8391,6 +8601,7 @@
       "groove",
       "afro-brass-parade"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8435,6 +8646,7 @@
       "groove",
       "afro-brass-parade"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -8479,6 +8691,7 @@
       "groove",
       "afro-brass-parade"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -8523,6 +8736,7 @@
       "groove",
       "afro-brass-parade"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8567,6 +8781,7 @@
       "groove",
       "afro-brass-parade"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8611,6 +8826,7 @@
       "groove",
       "afro-electronic-chill"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -8655,6 +8871,7 @@
       "groove",
       "afro-electronic-chill"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -8699,6 +8916,7 @@
       "groove",
       "afro-electronic-chill"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8743,6 +8961,7 @@
       "groove",
       "afro-electronic-chill"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8787,6 +9006,7 @@
       "groove",
       "afro-electronic-chill"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",

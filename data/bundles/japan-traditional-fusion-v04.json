@@ -32,6 +32,7 @@
       "shamisen-rock",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -77,6 +78,7 @@
       "shamisen-rock",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -122,6 +124,7 @@
       "shamisen-rock",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -167,6 +170,7 @@
       "shamisen-rock",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -212,6 +216,7 @@
       "shamisen-rock",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -257,6 +262,7 @@
       "shamisen-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -302,6 +308,7 @@
       "shamisen-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -347,6 +354,7 @@
       "shamisen-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -392,6 +400,7 @@
       "shamisen-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -437,6 +446,7 @@
       "shamisen-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -482,6 +492,7 @@
       "koto-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -527,6 +538,7 @@
       "koto-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -572,6 +584,7 @@
       "koto-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -617,6 +630,7 @@
       "koto-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -662,6 +676,7 @@
       "koto-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -707,6 +722,7 @@
       "shakuhachi-chill",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -752,6 +768,7 @@
       "shakuhachi-chill",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -797,6 +814,7 @@
       "shakuhachi-chill",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -842,6 +860,7 @@
       "shakuhachi-chill",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -887,6 +906,7 @@
       "shakuhachi-chill",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -932,6 +952,7 @@
       "taiko-cinematic",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -977,6 +998,7 @@
       "taiko-cinematic",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1022,6 +1044,7 @@
       "taiko-cinematic",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1067,6 +1090,7 @@
       "taiko-cinematic",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1112,6 +1136,7 @@
       "taiko-cinematic",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1157,6 +1182,7 @@
       "matsuri-beat",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1202,6 +1228,7 @@
       "matsuri-beat",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1247,6 +1274,7 @@
       "matsuri-beat",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1292,6 +1320,7 @@
       "matsuri-beat",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1337,6 +1366,7 @@
       "matsuri-beat",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1382,6 +1412,7 @@
       "minyo-electro",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1427,6 +1458,7 @@
       "minyo-electro",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1472,6 +1504,7 @@
       "minyo-electro",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1517,6 +1550,7 @@
       "minyo-electro",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1562,6 +1596,7 @@
       "minyo-electro",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1607,6 +1642,7 @@
       "okinawan-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1652,6 +1688,7 @@
       "okinawan-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1697,6 +1734,7 @@
       "okinawan-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1742,6 +1780,7 @@
       "okinawan-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1787,6 +1826,7 @@
       "okinawan-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1832,6 +1872,7 @@
       "amami-island-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1877,6 +1918,7 @@
       "amami-island-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1922,6 +1964,7 @@
       "amami-island-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1967,6 +2010,7 @@
       "amami-island-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2012,6 +2056,7 @@
       "amami-island-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2057,6 +2102,7 @@
       "bon-odori-groove",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2102,6 +2148,7 @@
       "bon-odori-groove",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2147,6 +2194,7 @@
       "bon-odori-groove",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2192,6 +2240,7 @@
       "bon-odori-groove",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2237,6 +2286,7 @@
       "bon-odori-groove",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2282,6 +2332,7 @@
       "yosakoi-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2327,6 +2378,7 @@
       "yosakoi-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2372,6 +2424,7 @@
       "yosakoi-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2417,6 +2470,7 @@
       "yosakoi-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2462,6 +2516,7 @@
       "yosakoi-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2507,6 +2562,7 @@
       "festival-drum-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2552,6 +2608,7 @@
       "festival-drum-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2597,6 +2654,7 @@
       "festival-drum-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2642,6 +2700,7 @@
       "festival-drum-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2687,6 +2746,7 @@
       "festival-drum-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2732,6 +2792,7 @@
       "gagaku-inspired-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2777,6 +2838,7 @@
       "gagaku-inspired-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2822,6 +2884,7 @@
       "gagaku-inspired-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2867,6 +2930,7 @@
       "gagaku-inspired-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2912,6 +2976,7 @@
       "gagaku-inspired-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2957,6 +3022,7 @@
       "noh-inspired-minimal",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3002,6 +3068,7 @@
       "noh-inspired-minimal",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3047,6 +3114,7 @@
       "noh-inspired-minimal",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3092,6 +3160,7 @@
       "noh-inspired-minimal",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3137,6 +3206,7 @@
       "noh-inspired-minimal",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3182,6 +3252,7 @@
       "kabuki-inspired-rock",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3227,6 +3298,7 @@
       "kabuki-inspired-rock",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3272,6 +3344,7 @@
       "kabuki-inspired-rock",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3317,6 +3390,7 @@
       "kabuki-inspired-rock",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3362,6 +3436,7 @@
       "kabuki-inspired-rock",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3407,6 +3482,7 @@
       "wa-orchestra",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3452,6 +3528,7 @@
       "wa-orchestra",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3497,6 +3574,7 @@
       "wa-orchestra",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3542,6 +3620,7 @@
       "wa-orchestra",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3587,6 +3666,7 @@
       "wa-orchestra",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3632,6 +3712,7 @@
       "japanese-flute-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3677,6 +3758,7 @@
       "japanese-flute-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3722,6 +3804,7 @@
       "japanese-flute-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3767,6 +3850,7 @@
       "japanese-flute-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3812,6 +3896,7 @@
       "japanese-flute-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3857,6 +3942,7 @@
       "koto-jazz-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3902,6 +3988,7 @@
       "koto-jazz-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3947,6 +4034,7 @@
       "koto-jazz-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3992,6 +4080,7 @@
       "koto-jazz-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4037,6 +4126,7 @@
       "koto-jazz-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4082,6 +4172,7 @@
       "shamisen-hiphop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4127,6 +4218,7 @@
       "shamisen-hiphop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4172,6 +4264,7 @@
       "shamisen-hiphop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4217,6 +4310,7 @@
       "shamisen-hiphop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4262,6 +4356,7 @@
       "shamisen-hiphop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4307,6 +4402,7 @@
       "taiko-edm",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4352,6 +4448,7 @@
       "taiko-edm",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4397,6 +4494,7 @@
       "taiko-edm",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4442,6 +4540,7 @@
       "taiko-edm",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4487,6 +4586,7 @@
       "taiko-edm",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4532,6 +4632,7 @@
       "folk-dance-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4577,6 +4678,7 @@
       "folk-dance-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4622,6 +4724,7 @@
       "folk-dance-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4667,6 +4770,7 @@
       "folk-dance-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4712,6 +4816,7 @@
       "folk-dance-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4757,6 +4862,7 @@
       "shrine-bell-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4802,6 +4908,7 @@
       "shrine-bell-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4847,6 +4954,7 @@
       "shrine-bell-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4892,6 +5000,7 @@
       "shrine-bell-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4937,6 +5046,7 @@
       "shrine-bell-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4982,6 +5092,7 @@
       "edo-street-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5027,6 +5138,7 @@
       "edo-street-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5072,6 +5184,7 @@
       "edo-street-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5117,6 +5230,7 @@
       "edo-street-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5162,6 +5276,7 @@
       "edo-street-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5207,6 +5322,7 @@
       "samurai-cinematic",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5252,6 +5368,7 @@
       "samurai-cinematic",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5297,6 +5414,7 @@
       "samurai-cinematic",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5342,6 +5460,7 @@
       "samurai-cinematic",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5387,6 +5506,7 @@
       "samurai-cinematic",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5432,6 +5552,7 @@
       "stealth-beat-japan",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5477,6 +5598,7 @@
       "stealth-beat-japan",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5522,6 +5644,7 @@
       "stealth-beat-japan",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5567,6 +5690,7 @@
       "stealth-beat-japan",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5612,6 +5736,7 @@
       "stealth-beat-japan",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5657,6 +5782,7 @@
       "onsen-lounge",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5702,6 +5828,7 @@
       "onsen-lounge",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5747,6 +5874,7 @@
       "onsen-lounge",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5792,6 +5920,7 @@
       "onsen-lounge",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5837,6 +5966,7 @@
       "onsen-lounge",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5882,6 +6012,7 @@
       "tea-house-acoustic",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5927,6 +6058,7 @@
       "tea-house-acoustic",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5972,6 +6104,7 @@
       "tea-house-acoustic",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6017,6 +6150,7 @@
       "tea-house-acoustic",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6062,6 +6196,7 @@
       "tea-house-acoustic",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6107,6 +6242,7 @@
       "bamboo-flute-chill",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6152,6 +6288,7 @@
       "bamboo-flute-chill",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6197,6 +6334,7 @@
       "bamboo-flute-chill",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6242,6 +6380,7 @@
       "bamboo-flute-chill",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6287,6 +6426,7 @@
       "bamboo-flute-chill",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6332,6 +6472,7 @@
       "island-sanshin-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6377,6 +6518,7 @@
       "island-sanshin-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6422,6 +6564,7 @@
       "island-sanshin-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6467,6 +6610,7 @@
       "island-sanshin-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6512,6 +6656,7 @@
       "island-sanshin-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6557,6 +6702,7 @@
       "awa-odori-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6602,6 +6748,7 @@
       "awa-odori-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6647,6 +6794,7 @@
       "awa-odori-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6692,6 +6840,7 @@
       "awa-odori-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6737,6 +6886,7 @@
       "awa-odori-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6782,6 +6932,7 @@
       "eisa-drum-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6827,6 +6978,7 @@
       "eisa-drum-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6872,6 +7024,7 @@
       "eisa-drum-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6917,6 +7070,7 @@
       "eisa-drum-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6962,6 +7116,7 @@
       "eisa-drum-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7007,6 +7162,7 @@
       "obon-night-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7052,6 +7208,7 @@
       "obon-night-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7097,6 +7254,7 @@
       "obon-night-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7142,6 +7300,7 @@
       "obon-night-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7187,6 +7346,7 @@
       "obon-night-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7232,6 +7392,7 @@
       "wadaiko-rock",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7277,6 +7438,7 @@
       "wadaiko-rock",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7322,6 +7484,7 @@
       "wadaiko-rock",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7367,6 +7530,7 @@
       "wadaiko-rock",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7412,6 +7576,7 @@
       "wadaiko-rock",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7457,6 +7622,7 @@
       "traditional-lullaby-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7502,6 +7668,7 @@
       "traditional-lullaby-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7547,6 +7714,7 @@
       "traditional-lullaby-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7592,6 +7760,7 @@
       "traditional-lullaby-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7637,6 +7806,7 @@
       "traditional-lullaby-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7682,6 +7852,7 @@
       "wa-lofi",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7727,6 +7898,7 @@
       "wa-lofi",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7772,6 +7944,7 @@
       "wa-lofi",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7817,6 +7990,7 @@
       "wa-lofi",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7862,6 +8036,7 @@
       "wa-lofi",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7907,6 +8082,7 @@
       "zen-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7952,6 +8128,7 @@
       "zen-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7997,6 +8174,7 @@
       "zen-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8042,6 +8220,7 @@
       "zen-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8087,6 +8266,7 @@
       "zen-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8132,6 +8312,7 @@
       "haiku-spoken-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8177,6 +8358,7 @@
       "haiku-spoken-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8222,6 +8404,7 @@
       "haiku-spoken-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8267,6 +8450,7 @@
       "haiku-spoken-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8312,6 +8496,7 @@
       "haiku-spoken-ambient",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8357,6 +8542,7 @@
       "seasonal-sakura-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8402,6 +8588,7 @@
       "seasonal-sakura-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8447,6 +8634,7 @@
       "seasonal-sakura-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8492,6 +8680,7 @@
       "seasonal-sakura-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8537,6 +8726,7 @@
       "seasonal-sakura-pop",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8582,6 +8772,7 @@
       "snow-country-folk",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8627,6 +8818,7 @@
       "snow-country-folk",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8672,6 +8864,7 @@
       "snow-country-folk",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8717,6 +8910,7 @@
       "snow-country-folk",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8762,6 +8956,7 @@
       "snow-country-folk",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8807,6 +9002,7 @@
       "mountain-village-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8852,6 +9048,7 @@
       "mountain-village-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8897,6 +9094,7 @@
       "mountain-village-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8942,6 +9140,7 @@
       "mountain-village-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8987,6 +9186,7 @@
       "mountain-village-fusion",
       "japan-regional-fusion"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",

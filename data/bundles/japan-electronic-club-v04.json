@@ -32,6 +32,7 @@
       "j-electro-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -77,6 +78,7 @@
       "j-electro-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -121,6 +123,9 @@
       "synth",
       "j-electro-pop",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -167,6 +172,7 @@
       "j-electro-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -212,6 +218,7 @@
       "j-electro-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -257,6 +264,7 @@
       "kawaii-electronic",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -302,6 +310,7 @@
       "kawaii-electronic",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -346,6 +355,9 @@
       "synth",
       "kawaii-electronic",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -392,6 +404,7 @@
       "kawaii-electronic",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -437,6 +450,7 @@
       "kawaii-electronic",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -481,6 +495,9 @@
       "synth",
       "future-bass-pop",
       "japan-club"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -527,6 +544,9 @@
       "future-bass-pop",
       "japan-club"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -571,6 +591,10 @@
       "synth",
       "future-bass-pop",
       "japan-club"
+    ],
+    "era_tags": [
+      "2010s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -617,6 +641,9 @@
       "future-bass-pop",
       "japan-club"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -661,6 +688,9 @@
       "synth",
       "future-bass-pop",
       "japan-club"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -707,6 +737,10 @@
       "vocal-synth-pop",
       "japan-club"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -751,6 +785,10 @@
       "synth",
       "vocal-synth-pop",
       "japan-club"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -797,6 +835,10 @@
       "vocal-synth-pop",
       "japan-club"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -841,6 +883,10 @@
       "synth",
       "vocal-synth-pop",
       "japan-club"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -887,6 +933,10 @@
       "vocal-synth-pop",
       "japan-club"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -932,6 +982,7 @@
       "j-core-inspired",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -977,6 +1028,7 @@
       "j-core-inspired",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1021,6 +1073,9 @@
       "synth",
       "j-core-inspired",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1067,6 +1122,7 @@
       "j-core-inspired",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1112,6 +1168,7 @@
       "j-core-inspired",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1157,6 +1214,7 @@
       "happy-hardcore-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1202,6 +1260,7 @@
       "happy-hardcore-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1246,6 +1305,9 @@
       "synth",
       "happy-hardcore-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1292,6 +1354,7 @@
       "happy-hardcore-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1337,6 +1400,7 @@
       "happy-hardcore-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1382,6 +1446,7 @@
       "denpa-electro",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1427,6 +1492,7 @@
       "denpa-electro",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1471,6 +1537,9 @@
       "synth",
       "denpa-electro",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1517,6 +1586,7 @@
       "denpa-electro",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1562,6 +1632,7 @@
       "denpa-electro",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1607,6 +1678,7 @@
       "city-electronic",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1652,6 +1724,7 @@
       "city-electronic",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1696,6 +1769,9 @@
       "synth",
       "city-electronic",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1742,6 +1818,7 @@
       "city-electronic",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1787,6 +1864,7 @@
       "city-electronic",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1832,6 +1910,7 @@
       "anime-club-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1877,6 +1956,7 @@
       "anime-club-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1921,6 +2001,9 @@
       "synth",
       "anime-club-pop",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1967,6 +2050,7 @@
       "anime-club-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2012,6 +2096,7 @@
       "anime-club-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2057,6 +2142,7 @@
       "electro-idol",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2102,6 +2188,7 @@
       "electro-idol",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2146,6 +2233,9 @@
       "synth",
       "electro-idol",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2192,6 +2282,7 @@
       "electro-idol",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2237,6 +2328,7 @@
       "electro-idol",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2281,6 +2373,10 @@
       "synth",
       "synthwave-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -2327,6 +2423,10 @@
       "synthwave-japan",
       "japan-club"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2371,6 +2471,10 @@
       "synth",
       "synthwave-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2417,6 +2521,10 @@
       "synthwave-japan",
       "japan-club"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2461,6 +2569,10 @@
       "synth",
       "synthwave-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2507,6 +2619,7 @@
       "night-drive-electro",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2552,6 +2665,7 @@
       "night-drive-electro",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2596,6 +2710,9 @@
       "synth",
       "night-drive-electro",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2642,6 +2759,7 @@
       "night-drive-electro",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2687,6 +2805,7 @@
       "night-drive-electro",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2732,6 +2851,7 @@
       "ambient-techno-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2777,6 +2897,7 @@
       "ambient-techno-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2821,6 +2942,9 @@
       "synth",
       "ambient-techno-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2867,6 +2991,7 @@
       "ambient-techno-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2912,6 +3037,7 @@
       "ambient-techno-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2957,6 +3083,7 @@
       "minimal-techno-tokyo",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3002,6 +3129,7 @@
       "minimal-techno-tokyo",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3046,6 +3174,9 @@
       "synth",
       "minimal-techno-tokyo",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3092,6 +3223,7 @@
       "minimal-techno-tokyo",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3137,6 +3269,7 @@
       "minimal-techno-tokyo",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3182,6 +3315,7 @@
       "shibuya-club-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3227,6 +3361,7 @@
       "shibuya-club-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3271,6 +3406,9 @@
       "synth",
       "shibuya-club-pop",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3317,6 +3455,7 @@
       "shibuya-club-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3362,6 +3501,7 @@
       "shibuya-club-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3407,6 +3547,7 @@
       "breakbeat-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3452,6 +3593,7 @@
       "breakbeat-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3496,6 +3638,9 @@
       "synth",
       "breakbeat-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3542,6 +3687,7 @@
       "breakbeat-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3587,6 +3733,7 @@
       "breakbeat-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3631,6 +3778,10 @@
       "synth",
       "drum-and-bass-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -3677,6 +3828,10 @@
       "drum-and-bass-japan",
       "japan-club"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3721,6 +3876,10 @@
       "synth",
       "drum-and-bass-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3767,6 +3926,10 @@
       "drum-and-bass-japan",
       "japan-club"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3811,6 +3974,10 @@
       "synth",
       "drum-and-bass-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3857,6 +4024,10 @@
       "jungle-pop",
       "japan-club"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3901,6 +4072,10 @@
       "synth",
       "jungle-pop",
       "japan-club"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3947,6 +4122,10 @@
       "jungle-pop",
       "japan-club"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3991,6 +4170,10 @@
       "synth",
       "jungle-pop",
       "japan-club"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4037,6 +4220,10 @@
       "jungle-pop",
       "japan-club"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4082,6 +4269,7 @@
       "electro-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4127,6 +4315,7 @@
       "electro-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4171,6 +4360,9 @@
       "synth",
       "electro-house-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4217,6 +4409,7 @@
       "electro-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4262,6 +4455,7 @@
       "electro-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4307,6 +4501,7 @@
       "tech-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4352,6 +4547,7 @@
       "tech-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4396,6 +4592,9 @@
       "synth",
       "tech-house-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4442,6 +4641,7 @@
       "tech-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4487,6 +4687,7 @@
       "tech-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4532,6 +4733,7 @@
       "deep-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4577,6 +4779,7 @@
       "deep-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4621,6 +4824,9 @@
       "synth",
       "deep-house-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4667,6 +4873,7 @@
       "deep-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4712,6 +4919,7 @@
       "deep-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4756,6 +4964,10 @@
       "synth",
       "nu-disco-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -4802,6 +5014,10 @@
       "nu-disco-japan",
       "japan-club"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4846,6 +5062,10 @@
       "synth",
       "nu-disco-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4892,6 +5112,10 @@
       "nu-disco-japan",
       "japan-club"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4936,6 +5160,10 @@
       "synth",
       "nu-disco-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4982,6 +5210,7 @@
       "filter-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5027,6 +5256,7 @@
       "filter-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5071,6 +5301,9 @@
       "synth",
       "filter-house-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5117,6 +5350,7 @@
       "filter-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5162,6 +5396,7 @@
       "filter-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5207,6 +5442,7 @@
       "chiptune-dance",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5252,6 +5488,7 @@
       "chiptune-dance",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5296,6 +5533,9 @@
       "synth",
       "chiptune-dance",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5342,6 +5582,7 @@
       "chiptune-dance",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5387,6 +5628,7 @@
       "chiptune-dance",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5432,6 +5674,7 @@
       "arcade-electro",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5477,6 +5720,7 @@
       "arcade-electro",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5521,6 +5765,9 @@
       "synth",
       "arcade-electro",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5567,6 +5814,7 @@
       "arcade-electro",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5612,6 +5860,7 @@
       "arcade-electro",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5656,6 +5905,9 @@
       "synth",
       "hyperpop-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "2020s"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -5702,6 +5954,9 @@
       "hyperpop-japan",
       "japan-club"
     ],
+    "era_tags": [
+      "2020s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5746,6 +6001,10 @@
       "synth",
       "hyperpop-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "2020s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5792,6 +6051,9 @@
       "hyperpop-japan",
       "japan-club"
     ],
+    "era_tags": [
+      "2020s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5836,6 +6098,9 @@
       "synth",
       "hyperpop-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "2020s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5882,6 +6147,7 @@
       "glitch-pop-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5927,6 +6193,7 @@
       "glitch-pop-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5971,6 +6238,9 @@
       "synth",
       "glitch-pop-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6017,6 +6287,7 @@
       "glitch-pop-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6062,6 +6333,7 @@
       "glitch-pop-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6107,6 +6379,7 @@
       "bass-music-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6152,6 +6425,7 @@
       "bass-music-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6196,6 +6470,9 @@
       "synth",
       "bass-music-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6242,6 +6519,7 @@
       "bass-music-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6287,6 +6565,7 @@
       "bass-music-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6331,6 +6610,9 @@
       "synth",
       "trap-electro-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -6377,6 +6659,9 @@
       "trap-electro-japan",
       "japan-club"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6421,6 +6706,10 @@
       "synth",
       "trap-electro-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "2010s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6467,6 +6756,9 @@
       "trap-electro-japan",
       "japan-club"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6511,6 +6803,9 @@
       "synth",
       "trap-electro-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6557,6 +6852,7 @@
       "future-garage-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6602,6 +6898,7 @@
       "future-garage-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6646,6 +6943,9 @@
       "synth",
       "future-garage-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6692,6 +6992,7 @@
       "future-garage-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6737,6 +7038,7 @@
       "future-garage-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6782,6 +7084,7 @@
       "lofi-electronica",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6827,6 +7130,7 @@
       "lofi-electronica",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6871,6 +7175,9 @@
       "synth",
       "lofi-electronica",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6917,6 +7224,7 @@
       "lofi-electronica",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6962,6 +7270,7 @@
       "lofi-electronica",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7007,6 +7316,7 @@
       "downtempo-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7052,6 +7362,7 @@
       "downtempo-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7096,6 +7407,9 @@
       "synth",
       "downtempo-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7142,6 +7456,7 @@
       "downtempo-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7187,6 +7502,7 @@
       "downtempo-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7231,6 +7547,9 @@
       "synth",
       "vaporwave-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -7277,6 +7596,9 @@
       "vaporwave-japan",
       "japan-club"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7321,6 +7643,10 @@
       "synth",
       "vaporwave-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "2010s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7367,6 +7693,9 @@
       "vaporwave-japan",
       "japan-club"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7411,6 +7740,9 @@
       "synth",
       "vaporwave-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7457,6 +7789,7 @@
       "dreamwave-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7502,6 +7835,7 @@
       "dreamwave-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7546,6 +7880,9 @@
       "synth",
       "dreamwave-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7592,6 +7929,7 @@
       "dreamwave-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7637,6 +7975,7 @@
       "dreamwave-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7682,6 +8021,7 @@
       "cyber-idol-electro",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7727,6 +8067,7 @@
       "cyber-idol-electro",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7771,6 +8112,9 @@
       "synth",
       "cyber-idol-electro",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7817,6 +8161,7 @@
       "cyber-idol-electro",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7862,6 +8207,7 @@
       "cyber-idol-electro",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7907,6 +8253,7 @@
       "festival-edm-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7952,6 +8299,7 @@
       "festival-edm-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7996,6 +8344,9 @@
       "synth",
       "festival-edm-pop",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8042,6 +8393,7 @@
       "festival-edm-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8087,6 +8439,7 @@
       "festival-edm-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8132,6 +8485,7 @@
       "club-bgm-loop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8177,6 +8531,7 @@
       "club-bgm-loop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8221,6 +8576,9 @@
       "synth",
       "club-bgm-loop",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8267,6 +8625,7 @@
       "club-bgm-loop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8312,6 +8671,7 @@
       "club-bgm-loop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8357,6 +8717,7 @@
       "piano-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8402,6 +8763,7 @@
       "piano-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8446,6 +8808,9 @@
       "synth",
       "piano-house-japan",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8492,6 +8857,7 @@
       "piano-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8537,6 +8903,7 @@
       "piano-house-japan",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8582,6 +8949,7 @@
       "robotic-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8627,6 +8995,7 @@
       "robotic-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8671,6 +9040,9 @@
       "synth",
       "robotic-pop",
       "japan-club"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8717,6 +9089,7 @@
       "robotic-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8762,6 +9135,7 @@
       "robotic-pop",
       "japan-club"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8806,6 +9180,10 @@
       "synth",
       "soft-synth-pop",
       "japan-club"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -8852,6 +9230,10 @@
       "soft-synth-pop",
       "japan-club"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8896,6 +9278,10 @@
       "synth",
       "soft-synth-pop",
       "japan-club"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8942,6 +9328,10 @@
       "soft-synth-pop",
       "japan-club"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8986,6 +9376,10 @@
       "synth",
       "soft-synth-pop",
       "japan-club"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,

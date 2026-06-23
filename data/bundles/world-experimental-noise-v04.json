@@ -32,6 +32,9 @@
       "glitch-collage",
       "global"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -77,6 +80,7 @@
       "glitch-collage",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -122,6 +126,7 @@
       "glitch-collage",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -166,6 +171,9 @@
       "texture",
       "glitch-collage",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -212,6 +220,7 @@
       "glitch-collage",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -257,6 +266,7 @@
       "microsound-ambient",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -302,6 +312,7 @@
       "microsound-ambient",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -346,6 +357,9 @@
       "texture",
       "microsound-ambient",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -392,6 +406,7 @@
       "microsound-ambient",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -437,6 +452,7 @@
       "microsound-ambient",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -482,6 +498,7 @@
       "prepared-piano-texture",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -526,6 +543,9 @@
       "texture",
       "prepared-piano-texture",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -572,6 +592,7 @@
       "prepared-piano-texture",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -617,6 +638,7 @@
       "prepared-piano-texture",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -661,6 +683,9 @@
       "texture",
       "prepared-piano-texture",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -707,6 +732,9 @@
       "tape-loop-experiment",
       "global"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -752,6 +780,7 @@
       "tape-loop-experiment",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -797,6 +826,7 @@
       "tape-loop-experiment",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -841,6 +871,9 @@
       "texture",
       "tape-loop-experiment",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -887,6 +920,7 @@
       "tape-loop-experiment",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -932,6 +966,7 @@
       "noise-pop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -977,6 +1012,7 @@
       "noise-pop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -1021,6 +1057,9 @@
       "texture",
       "noise-pop",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -1067,6 +1106,7 @@
       "noise-pop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1112,6 +1152,7 @@
       "noise-pop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1157,6 +1198,7 @@
       "harsh-noise-controlled",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -1201,6 +1243,9 @@
       "texture",
       "harsh-noise-controlled",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -1247,6 +1292,7 @@
       "harsh-noise-controlled",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1292,6 +1338,7 @@
       "harsh-noise-controlled",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1336,6 +1383,9 @@
       "texture",
       "harsh-noise-controlled",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1382,6 +1432,9 @@
       "industrial-noise-bed",
       "global"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1427,6 +1480,7 @@
       "industrial-noise-bed",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1472,6 +1526,7 @@
       "industrial-noise-bed",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1516,6 +1571,9 @@
       "texture",
       "industrial-noise-bed",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1562,6 +1620,7 @@
       "industrial-noise-bed",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1607,6 +1666,7 @@
       "electroacoustic-miniature",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -1652,6 +1712,7 @@
       "electroacoustic-miniature",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1696,6 +1757,9 @@
       "texture",
       "electroacoustic-miniature",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1742,6 +1806,7 @@
       "electroacoustic-miniature",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1787,6 +1852,7 @@
       "electroacoustic-miniature",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -1832,6 +1898,7 @@
       "modular-bleep-study",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -1876,6 +1943,9 @@
       "texture",
       "modular-bleep-study",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1922,6 +1992,7 @@
       "modular-bleep-study",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -1967,6 +2038,7 @@
       "modular-bleep-study",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -2011,6 +2083,9 @@
       "texture",
       "modular-bleep-study",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 7,
@@ -2057,6 +2132,9 @@
       "cut-up-percussion",
       "global"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2102,6 +2180,7 @@
       "cut-up-percussion",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -2147,6 +2226,7 @@
       "cut-up-percussion",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -2191,6 +2271,9 @@
       "texture",
       "cut-up-percussion",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 7,
@@ -2237,6 +2320,7 @@
       "cut-up-percussion",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2282,6 +2366,7 @@
       "granular-vocal-texture",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -2327,6 +2412,7 @@
       "granular-vocal-texture",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -2371,6 +2457,9 @@
       "texture",
       "granular-vocal-texture",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 7,
@@ -2417,6 +2506,7 @@
       "granular-vocal-texture",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2462,6 +2552,7 @@
       "granular-vocal-texture",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -2507,6 +2598,7 @@
       "found-sound-rhythm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -2551,6 +2643,9 @@
       "texture",
       "found-sound-rhythm",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 7,
@@ -2597,6 +2692,7 @@
       "found-sound-rhythm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2642,6 +2738,7 @@
       "found-sound-rhythm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -2686,6 +2783,9 @@
       "texture",
       "found-sound-rhythm",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -2732,6 +2832,9 @@
       "concrete-sound-collage",
       "global"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -2777,6 +2880,7 @@
       "concrete-sound-collage",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2822,6 +2926,7 @@
       "concrete-sound-collage",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -2866,6 +2971,9 @@
       "texture",
       "concrete-sound-collage",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -2912,6 +3020,7 @@
       "concrete-sound-collage",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -2957,6 +3066,7 @@
       "microtonal-drone",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3002,6 +3112,7 @@
       "microtonal-drone",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -3046,6 +3157,9 @@
       "texture",
       "microtonal-drone",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -3092,6 +3206,7 @@
       "microtonal-drone",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -3137,6 +3252,7 @@
       "microtonal-drone",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3182,6 +3298,7 @@
       "atonal-chamber-texture",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -3226,6 +3343,9 @@
       "texture",
       "atonal-chamber-texture",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -3272,6 +3392,7 @@
       "atonal-chamber-texture",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -3317,6 +3438,7 @@
       "atonal-chamber-texture",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3361,6 +3483,9 @@
       "texture",
       "atonal-chamber-texture",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -3407,6 +3532,9 @@
       "free-jazz-noise",
       "global"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -3452,6 +3580,7 @@
       "free-jazz-noise",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -3497,6 +3626,7 @@
       "free-jazz-noise",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3541,6 +3671,9 @@
       "texture",
       "free-jazz-noise",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -3587,6 +3720,7 @@
       "free-jazz-noise",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -3632,6 +3766,7 @@
       "avant-rock-fragment",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -3677,6 +3812,7 @@
       "avant-rock-fragment",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3721,6 +3857,9 @@
       "texture",
       "avant-rock-fragment",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -3767,6 +3906,7 @@
       "avant-rock-fragment",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -3812,6 +3952,7 @@
       "avant-rock-fragment",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -3857,6 +3998,7 @@
       "deconstructed-club",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3901,6 +4043,9 @@
       "texture",
       "deconstructed-club",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -3947,6 +4092,7 @@
       "deconstructed-club",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -3992,6 +4138,7 @@
       "deconstructed-club",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4036,6 +4183,9 @@
       "texture",
       "deconstructed-club",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4082,6 +4232,9 @@
       "broken-beat-experiment",
       "global"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -4127,6 +4280,7 @@
       "broken-beat-experiment",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -4172,6 +4326,7 @@
       "broken-beat-experiment",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4216,6 +4371,9 @@
       "texture",
       "broken-beat-experiment",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4262,6 +4420,7 @@
       "broken-beat-experiment",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4307,6 +4466,7 @@
       "abstract-hiphop-beat",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -4352,6 +4512,7 @@
       "abstract-hiphop-beat",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4396,6 +4557,9 @@
       "texture",
       "abstract-hiphop-beat",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4442,6 +4606,7 @@
       "abstract-hiphop-beat",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4487,6 +4652,7 @@
       "abstract-hiphop-beat",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4532,6 +4698,7 @@
       "drone-metal-texture",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -4576,6 +4743,9 @@
       "texture",
       "drone-metal-texture",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4622,6 +4792,7 @@
       "drone-metal-texture",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4667,6 +4838,7 @@
       "drone-metal-texture",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4711,6 +4883,9 @@
       "texture",
       "drone-metal-texture",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 7,
@@ -4757,6 +4932,9 @@
       "dark-ritual-noise",
       "global"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -4802,6 +4980,7 @@
       "dark-ritual-noise",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4847,6 +5026,7 @@
       "dark-ritual-noise",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -4891,6 +5071,9 @@
       "texture",
       "dark-ritual-noise",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 7,
@@ -4937,6 +5120,7 @@
       "dark-ritual-noise",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -4982,6 +5166,7 @@
       "feedback-guitar-study",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5027,6 +5212,7 @@
       "feedback-guitar-study",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -5071,6 +5257,9 @@
       "texture",
       "feedback-guitar-study",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 7,
@@ -5117,6 +5306,7 @@
       "feedback-guitar-study",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -5162,6 +5352,7 @@
       "feedback-guitar-study",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -5207,6 +5398,7 @@
       "prepared-drum-kit",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",
@@ -5251,6 +5443,9 @@
       "texture",
       "prepared-drum-kit",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 7,
@@ -5297,6 +5492,7 @@
       "prepared-drum-kit",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -5342,6 +5538,7 @@
       "prepared-drum-kit",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -5386,6 +5583,9 @@
       "texture",
       "prepared-drum-kit",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -5432,6 +5632,10 @@
       "lofi-cassette-experiment",
       "global"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 7,
     "energy": "high",
@@ -5476,6 +5680,10 @@
       "texture",
       "lofi-cassette-experiment",
       "global"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5522,6 +5730,10 @@
       "lofi-cassette-experiment",
       "global"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -5566,6 +5778,10 @@
       "texture",
       "lofi-cassette-experiment",
       "global"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -5612,6 +5828,10 @@
       "lofi-cassette-experiment",
       "global"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -5657,6 +5877,7 @@
       "shortwave-radio-texture",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -5702,6 +5923,7 @@
       "shortwave-radio-texture",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -5746,6 +5968,9 @@
       "texture",
       "shortwave-radio-texture",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -5792,6 +6017,7 @@
       "shortwave-radio-texture",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -5837,6 +6063,7 @@
       "shortwave-radio-texture",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5882,6 +6109,7 @@
       "mechanical-rhythm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -5926,6 +6154,9 @@
       "texture",
       "mechanical-rhythm",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -5972,6 +6203,7 @@
       "mechanical-rhythm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6017,6 +6249,7 @@
       "mechanical-rhythm",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6061,6 +6294,9 @@
       "texture",
       "mechanical-rhythm",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -6107,6 +6343,9 @@
       "algorithmic-synth-pulse",
       "global"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium",
@@ -6152,6 +6391,7 @@
       "algorithmic-synth-pulse",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6197,6 +6437,7 @@
       "algorithmic-synth-pulse",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6241,6 +6482,9 @@
       "texture",
       "algorithmic-synth-pulse",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -6287,6 +6531,7 @@
       "algorithmic-synth-pulse",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -6332,6 +6577,7 @@
       "minimal-click-track",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium-high",
@@ -6377,6 +6623,7 @@
       "minimal-click-track",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6421,6 +6668,9 @@
       "texture",
       "minimal-click-track",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -6467,6 +6717,7 @@
       "minimal-click-track",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -6512,6 +6763,7 @@
       "minimal-click-track",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -6557,6 +6809,7 @@
       "maximal-texture-wall",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6601,6 +6854,9 @@
       "texture",
       "maximal-texture-wall",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -6647,6 +6903,7 @@
       "maximal-texture-wall",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -6692,6 +6949,7 @@
       "maximal-texture-wall",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -6736,6 +6994,9 @@
       "texture",
       "maximal-texture-wall",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6782,6 +7043,9 @@
       "sound-art-loop",
       "global"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "low-medium",
@@ -6827,6 +7091,7 @@
       "sound-art-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -6872,6 +7137,7 @@
       "sound-art-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -6916,6 +7182,9 @@
       "texture",
       "sound-art-loop",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6962,6 +7231,7 @@
       "sound-art-loop",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7007,6 +7277,7 @@
       "gallery-installation-bed",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7052,6 +7323,7 @@
       "gallery-installation-bed",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7096,6 +7368,9 @@
       "texture",
       "gallery-installation-bed",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7142,6 +7417,7 @@
       "gallery-installation-bed",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7187,6 +7463,7 @@
       "gallery-installation-bed",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7232,6 +7509,7 @@
       "cinematic-tension-noise",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "medium",
@@ -7276,6 +7554,9 @@
       "texture",
       "cinematic-tension-noise",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7322,6 +7603,7 @@
       "cinematic-tension-noise",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7367,6 +7649,7 @@
       "cinematic-tension-noise",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7411,6 +7694,9 @@
       "texture",
       "cinematic-tension-noise",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 7,
@@ -7457,6 +7743,9 @@
       "horror-texture-design",
       "global"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7502,6 +7791,7 @@
       "horror-texture-design",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7547,6 +7837,7 @@
       "horror-texture-design",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7591,6 +7882,9 @@
       "texture",
       "horror-texture-design",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 7,
@@ -7637,6 +7931,7 @@
       "horror-texture-design",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7682,6 +7977,7 @@
       "sci-fi-interface-noise",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -7727,6 +8023,7 @@
       "sci-fi-interface-noise",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7771,6 +8068,9 @@
       "texture",
       "sci-fi-interface-noise",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 7,
@@ -7817,6 +8117,7 @@
       "sci-fi-interface-noise",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7862,6 +8163,7 @@
       "sci-fi-interface-noise",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -7907,6 +8209,7 @@
       "underwater-experimental",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "low-medium",
@@ -7951,6 +8254,9 @@
       "texture",
       "underwater-experimental",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 7,
@@ -7997,6 +8303,7 @@
       "underwater-experimental",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8042,6 +8349,7 @@
       "underwater-experimental",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8086,6 +8394,9 @@
       "texture",
       "underwater-experimental",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -8132,6 +8443,9 @@
       "glitch-lullaby",
       "global"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8177,6 +8491,7 @@
       "glitch-lullaby",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8222,6 +8537,7 @@
       "glitch-lullaby",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8266,6 +8582,9 @@
       "texture",
       "glitch-lullaby",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -8312,6 +8631,7 @@
       "glitch-lullaby",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8357,6 +8677,7 @@
       "broken-choir-pad",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8402,6 +8723,7 @@
       "broken-choir-pad",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8446,6 +8768,9 @@
       "texture",
       "broken-choir-pad",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -8492,6 +8817,7 @@
       "broken-choir-pad",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8537,6 +8863,7 @@
       "broken-choir-pad",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -8582,6 +8909,7 @@
       "polyrhythmic-noise",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -8626,6 +8954,9 @@
       "texture",
       "polyrhythmic-noise",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 10,
@@ -8672,6 +9003,7 @@
       "polyrhythmic-noise",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8717,6 +9049,7 @@
       "polyrhythmic-noise",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -8761,6 +9094,9 @@
       "texture",
       "polyrhythmic-noise",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -8807,6 +9143,9 @@
       "abstract-outro-cue",
       "global"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 10,
     "energy": "high",
@@ -8852,6 +9191,7 @@
       "abstract-outro-cue",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 7,
     "energy": "low-medium",
@@ -8897,6 +9237,7 @@
       "abstract-outro-cue",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "low-medium",
@@ -8941,6 +9282,9 @@
       "texture",
       "abstract-outro-cue",
       "global"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -8987,6 +9331,7 @@
       "abstract-outro-cue",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 10,
     "energy": "medium-high",

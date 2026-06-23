@@ -31,6 +31,7 @@
       "japan",
       "j-rock-anthem"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -74,6 +75,10 @@
       "band",
       "japan",
       "j-rock-anthem"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -119,6 +124,7 @@
       "japan",
       "j-rock-anthem"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -162,6 +168,10 @@
       "band",
       "japan",
       "j-rock-anthem"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -207,6 +217,7 @@
       "japan",
       "j-rock-anthem"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -250,6 +261,10 @@
       "band",
       "japan",
       "guitar-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -295,6 +310,7 @@
       "japan",
       "guitar-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -338,6 +354,10 @@
       "band",
       "japan",
       "guitar-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -383,6 +403,7 @@
       "japan",
       "guitar-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -426,6 +447,10 @@
       "band",
       "japan",
       "guitar-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -471,6 +496,7 @@
       "japan",
       "alt-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -514,6 +540,10 @@
       "band",
       "japan",
       "alt-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -559,6 +589,7 @@
       "japan",
       "alt-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -602,6 +633,10 @@
       "band",
       "japan",
       "alt-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -647,6 +682,7 @@
       "japan",
       "alt-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -690,6 +726,10 @@
       "band",
       "japan",
       "visual-kei-inspired"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -735,6 +775,7 @@
       "japan",
       "visual-kei-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -778,6 +819,10 @@
       "band",
       "japan",
       "visual-kei-inspired"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -823,6 +868,7 @@
       "japan",
       "visual-kei-inspired"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -866,6 +912,10 @@
       "band",
       "japan",
       "visual-kei-inspired"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -911,6 +961,7 @@
       "japan",
       "melodic-punk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -954,6 +1005,10 @@
       "band",
       "japan",
       "melodic-punk"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -999,6 +1054,7 @@
       "japan",
       "melodic-punk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1042,6 +1098,10 @@
       "band",
       "japan",
       "melodic-punk"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1087,6 +1147,7 @@
       "japan",
       "melodic-punk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1130,6 +1191,10 @@
       "band",
       "japan",
       "japanese-emo-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -1175,6 +1240,7 @@
       "japan",
       "japanese-emo-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1218,6 +1284,10 @@
       "band",
       "japan",
       "japanese-emo-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1263,6 +1333,7 @@
       "japan",
       "japanese-emo-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1306,6 +1377,10 @@
       "band",
       "japan",
       "japanese-emo-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1351,6 +1426,7 @@
       "japan",
       "math-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1394,6 +1470,10 @@
       "band",
       "japan",
       "math-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1439,6 +1519,7 @@
       "japan",
       "math-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1482,6 +1563,10 @@
       "band",
       "japan",
       "math-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1527,6 +1612,7 @@
       "japan",
       "math-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1570,6 +1656,10 @@
       "band",
       "japan",
       "post-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -1615,6 +1705,7 @@
       "japan",
       "post-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1658,6 +1749,10 @@
       "band",
       "japan",
       "post-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1703,6 +1798,7 @@
       "japan",
       "post-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -1746,6 +1842,10 @@
       "band",
       "japan",
       "post-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1791,6 +1891,10 @@
       "japan",
       "shoegaze"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1834,6 +1938,10 @@
       "band",
       "japan",
       "shoegaze"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1879,6 +1987,10 @@
       "japan",
       "shoegaze"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1922,6 +2034,10 @@
       "band",
       "japan",
       "shoegaze"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -1967,6 +2083,10 @@
       "japan",
       "shoegaze"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2010,6 +2130,11 @@
       "band",
       "japan",
       "garage-rock"
+    ],
+    "era_tags": [
+      "1960s",
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -2055,6 +2180,10 @@
       "japan",
       "garage-rock"
     ],
+    "era_tags": [
+      "1960s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2098,6 +2227,11 @@
       "band",
       "japan",
       "garage-rock"
+    ],
+    "era_tags": [
+      "1960s",
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2143,6 +2277,10 @@
       "japan",
       "garage-rock"
     ],
+    "era_tags": [
+      "1960s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2186,6 +2324,11 @@
       "band",
       "japan",
       "garage-rock"
+    ],
+    "era_tags": [
+      "1960s",
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2231,6 +2374,7 @@
       "japan",
       "punk-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2274,6 +2418,10 @@
       "band",
       "japan",
       "punk-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2319,6 +2467,7 @@
       "japan",
       "punk-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2362,6 +2511,10 @@
       "band",
       "japan",
       "punk-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2407,6 +2560,7 @@
       "japan",
       "punk-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2450,6 +2604,11 @@
       "band",
       "japan",
       "pop-punk"
+    ],
+    "era_tags": [
+      "1990s",
+      "2000s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -2495,6 +2654,9 @@
       "japan",
       "pop-punk"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2538,6 +2700,11 @@
       "band",
       "japan",
       "pop-punk"
+    ],
+    "era_tags": [
+      "1990s",
+      "2000s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2583,6 +2750,9 @@
       "japan",
       "pop-punk"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2626,6 +2796,11 @@
       "band",
       "japan",
       "pop-punk"
+    ],
+    "era_tags": [
+      "1990s",
+      "2000s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2671,6 +2846,9 @@
       "japan",
       "post-hardcore"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2714,6 +2892,11 @@
       "band",
       "japan",
       "post-hardcore"
+    ],
+    "era_tags": [
+      "1990s",
+      "2000s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2759,6 +2942,9 @@
       "japan",
       "post-hardcore"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2802,6 +2988,11 @@
       "band",
       "japan",
       "post-hardcore"
+    ],
+    "era_tags": [
+      "1990s",
+      "2000s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -2847,6 +3038,9 @@
       "japan",
       "post-hardcore"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -2890,6 +3084,10 @@
       "band",
       "japan",
       "indie-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -2935,6 +3133,7 @@
       "japan",
       "indie-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2978,6 +3177,10 @@
       "band",
       "japan",
       "indie-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3023,6 +3226,7 @@
       "japan",
       "indie-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3066,6 +3270,10 @@
       "band",
       "japan",
       "indie-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3111,6 +3319,7 @@
       "japan",
       "art-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3154,6 +3363,10 @@
       "band",
       "japan",
       "art-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3199,6 +3412,7 @@
       "japan",
       "art-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3242,6 +3456,10 @@
       "band",
       "japan",
       "art-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3287,6 +3505,7 @@
       "japan",
       "art-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3330,6 +3549,10 @@
       "band",
       "japan",
       "noise-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -3375,6 +3598,7 @@
       "japan",
       "noise-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3418,6 +3642,10 @@
       "band",
       "japan",
       "noise-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3463,6 +3691,7 @@
       "japan",
       "noise-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3506,6 +3735,10 @@
       "band",
       "japan",
       "noise-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3551,6 +3784,10 @@
       "japan",
       "grunge-alt"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3594,6 +3831,10 @@
       "band",
       "japan",
       "grunge-alt"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3639,6 +3880,10 @@
       "japan",
       "grunge-alt"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3682,6 +3927,10 @@
       "band",
       "japan",
       "grunge-alt"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3727,6 +3976,10 @@
       "japan",
       "grunge-alt"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3770,6 +4023,10 @@
       "band",
       "japan",
       "hard-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -3815,6 +4072,7 @@
       "japan",
       "hard-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3858,6 +4116,10 @@
       "band",
       "japan",
       "hard-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3903,6 +4165,7 @@
       "japan",
       "hard-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3946,6 +4209,10 @@
       "band",
       "japan",
       "hard-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -3991,6 +4258,7 @@
       "japan",
       "funk-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4034,6 +4302,10 @@
       "band",
       "japan",
       "funk-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4079,6 +4351,7 @@
       "japan",
       "funk-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4122,6 +4395,10 @@
       "band",
       "japan",
       "funk-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4167,6 +4444,7 @@
       "japan",
       "funk-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4210,6 +4488,11 @@
       "band",
       "japan",
       "surf-rock-japan"
+    ],
+    "era_tags": [
+      "1960s",
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -4255,6 +4538,10 @@
       "japan",
       "surf-rock-japan"
     ],
+    "era_tags": [
+      "1960s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4298,6 +4585,11 @@
       "band",
       "japan",
       "surf-rock-japan"
+    ],
+    "era_tags": [
+      "1960s",
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4343,6 +4635,10 @@
       "japan",
       "surf-rock-japan"
     ],
+    "era_tags": [
+      "1960s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4386,6 +4682,11 @@
       "band",
       "japan",
       "surf-rock-japan"
+    ],
+    "era_tags": [
+      "1960s",
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4431,6 +4732,7 @@
       "japan",
       "city-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4474,6 +4776,10 @@
       "band",
       "japan",
       "city-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4519,6 +4825,7 @@
       "japan",
       "city-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4562,6 +4869,10 @@
       "band",
       "japan",
       "city-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4607,6 +4918,7 @@
       "japan",
       "city-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4650,6 +4962,10 @@
       "band",
       "japan",
       "soft-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -4695,6 +5011,7 @@
       "japan",
       "soft-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4738,6 +5055,10 @@
       "band",
       "japan",
       "soft-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4783,6 +5104,7 @@
       "japan",
       "soft-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -4826,6 +5148,10 @@
       "band",
       "japan",
       "soft-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4871,6 +5197,7 @@
       "japan",
       "alternative-metal-japan"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4914,6 +5241,10 @@
       "band",
       "japan",
       "alternative-metal-japan"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -4959,6 +5290,7 @@
       "japan",
       "alternative-metal-japan"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5002,6 +5334,10 @@
       "band",
       "japan",
       "alternative-metal-japan"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5047,6 +5383,7 @@
       "japan",
       "alternative-metal-japan"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5090,6 +5427,11 @@
       "band",
       "japan",
       "progressive-rock"
+    ],
+    "era_tags": [
+      "1970s",
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -5135,6 +5477,10 @@
       "japan",
       "progressive-rock"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5178,6 +5524,11 @@
       "band",
       "japan",
       "progressive-rock"
+    ],
+    "era_tags": [
+      "1970s",
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5223,6 +5574,10 @@
       "japan",
       "progressive-rock"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5266,6 +5621,11 @@
       "band",
       "japan",
       "progressive-rock"
+    ],
+    "era_tags": [
+      "1970s",
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5311,6 +5671,10 @@
       "japan",
       "psychedelic-rock"
     ],
+    "era_tags": [
+      "1960s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5354,6 +5718,11 @@
       "band",
       "japan",
       "psychedelic-rock"
+    ],
+    "era_tags": [
+      "1960s",
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5399,6 +5768,10 @@
       "japan",
       "psychedelic-rock"
     ],
+    "era_tags": [
+      "1960s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5442,6 +5815,11 @@
       "band",
       "japan",
       "psychedelic-rock"
+    ],
+    "era_tags": [
+      "1960s",
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5487,6 +5865,10 @@
       "japan",
       "psychedelic-rock"
     ],
+    "era_tags": [
+      "1960s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5530,6 +5912,10 @@
       "band",
       "japan",
       "ska-punk"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -5575,6 +5961,7 @@
       "japan",
       "ska-punk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5618,6 +6005,10 @@
       "band",
       "japan",
       "ska-punk"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5663,6 +6054,7 @@
       "japan",
       "ska-punk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5706,6 +6098,10 @@
       "band",
       "japan",
       "ska-punk"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5751,6 +6147,7 @@
       "japan",
       "brass-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5794,6 +6191,10 @@
       "band",
       "japan",
       "brass-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5839,6 +6240,7 @@
       "japan",
       "brass-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5882,6 +6284,10 @@
       "band",
       "japan",
       "brass-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -5927,6 +6333,7 @@
       "japan",
       "brass-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5970,6 +6377,10 @@
       "band",
       "japan",
       "acoustic-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -6015,6 +6426,7 @@
       "japan",
       "acoustic-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6058,6 +6470,10 @@
       "band",
       "japan",
       "acoustic-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6103,6 +6519,7 @@
       "japan",
       "acoustic-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6146,6 +6563,10 @@
       "band",
       "japan",
       "acoustic-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6191,6 +6612,7 @@
       "japan",
       "power-pop-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6234,6 +6656,10 @@
       "band",
       "japan",
       "power-pop-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6279,6 +6705,7 @@
       "japan",
       "power-pop-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6322,6 +6749,10 @@
       "band",
       "japan",
       "power-pop-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6367,6 +6798,7 @@
       "japan",
       "power-pop-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6410,6 +6842,10 @@
       "band",
       "japan",
       "drama-rock-ballad"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -6455,6 +6891,7 @@
       "japan",
       "drama-rock-ballad"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6498,6 +6935,10 @@
       "band",
       "japan",
       "drama-rock-ballad"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6543,6 +6984,7 @@
       "japan",
       "drama-rock-ballad"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6586,6 +7028,10 @@
       "band",
       "japan",
       "drama-rock-ballad"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6631,6 +7077,7 @@
       "japan",
       "festival-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6674,6 +7121,10 @@
       "band",
       "japan",
       "festival-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6719,6 +7170,7 @@
       "japan",
       "festival-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6762,6 +7214,10 @@
       "band",
       "japan",
       "festival-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6807,6 +7263,7 @@
       "japan",
       "festival-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6850,6 +7307,10 @@
       "band",
       "japan",
       "basement-indie-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -6895,6 +7356,7 @@
       "japan",
       "basement-indie-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6938,6 +7400,10 @@
       "band",
       "japan",
       "basement-indie-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6983,6 +7449,7 @@
       "japan",
       "basement-indie-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7026,6 +7493,10 @@
       "band",
       "japan",
       "basement-indie-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7071,6 +7542,7 @@
       "japan",
       "college-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7114,6 +7586,10 @@
       "band",
       "japan",
       "college-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7159,6 +7635,7 @@
       "japan",
       "college-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7202,6 +7679,10 @@
       "band",
       "japan",
       "college-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7247,6 +7728,7 @@
       "japan",
       "college-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7290,6 +7772,10 @@
       "band",
       "japan",
       "synth-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -7335,6 +7821,7 @@
       "japan",
       "synth-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7378,6 +7865,10 @@
       "band",
       "japan",
       "synth-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7423,6 +7914,7 @@
       "japan",
       "synth-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7466,6 +7958,10 @@
       "band",
       "japan",
       "synth-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7511,6 +8007,7 @@
       "japan",
       "dream-pop-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7554,6 +8051,10 @@
       "band",
       "japan",
       "dream-pop-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7599,6 +8100,7 @@
       "japan",
       "dream-pop-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7642,6 +8144,10 @@
       "band",
       "japan",
       "dream-pop-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7687,6 +8193,7 @@
       "japan",
       "dream-pop-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7730,6 +8237,10 @@
       "band",
       "japan",
       "blue-hour-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -7775,6 +8286,7 @@
       "japan",
       "blue-hour-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7818,6 +8330,10 @@
       "band",
       "japan",
       "blue-hour-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7863,6 +8379,7 @@
       "japan",
       "blue-hour-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -7906,6 +8423,10 @@
       "band",
       "japan",
       "blue-hour-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -7951,6 +8472,7 @@
       "japan",
       "rainy-guitar-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7994,6 +8516,10 @@
       "band",
       "japan",
       "rainy-guitar-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8039,6 +8565,7 @@
       "japan",
       "rainy-guitar-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8082,6 +8609,10 @@
       "band",
       "japan",
       "rainy-guitar-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8127,6 +8658,7 @@
       "japan",
       "rainy-guitar-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8170,6 +8702,10 @@
       "band",
       "japan",
       "driving-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -8215,6 +8751,7 @@
       "japan",
       "driving-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8258,6 +8795,10 @@
       "band",
       "japan",
       "driving-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8303,6 +8844,7 @@
       "japan",
       "driving-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8346,6 +8888,10 @@
       "band",
       "japan",
       "driving-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8391,6 +8937,7 @@
       "japan",
       "chorus-heavy-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8434,6 +8981,10 @@
       "band",
       "japan",
       "chorus-heavy-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8479,6 +9030,7 @@
       "japan",
       "chorus-heavy-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8522,6 +9074,10 @@
       "band",
       "japan",
       "chorus-heavy-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8567,6 +9123,7 @@
       "japan",
       "chorus-heavy-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8610,6 +9167,10 @@
       "band",
       "japan",
       "instrumental-post-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -8655,6 +9216,7 @@
       "japan",
       "instrumental-post-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8698,6 +9260,10 @@
       "band",
       "japan",
       "instrumental-post-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -8743,6 +9309,7 @@
       "japan",
       "instrumental-post-rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8786,6 +9353,10 @@
       "band",
       "japan",
       "instrumental-post-rock"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": 8,

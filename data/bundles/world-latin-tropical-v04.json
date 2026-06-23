@@ -32,6 +32,7 @@
       "dance",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -77,6 +78,7 @@
       "dance",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -122,6 +124,7 @@
       "dance",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -167,6 +170,7 @@
       "dance",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -212,6 +216,7 @@
       "dance",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -257,6 +262,7 @@
       "coro",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -302,6 +308,7 @@
       "coro",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -347,6 +354,7 @@
       "coro",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -392,6 +400,7 @@
       "coro",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -437,6 +446,7 @@
       "coro",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -482,6 +492,7 @@
       "warm",
       "cuba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -527,6 +538,7 @@
       "warm",
       "cuba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -572,6 +584,7 @@
       "warm",
       "cuba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -617,6 +630,7 @@
       "warm",
       "cuba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -662,6 +676,7 @@
       "warm",
       "cuba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -707,6 +722,7 @@
       "dance",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -752,6 +768,7 @@
       "dance",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -797,6 +814,7 @@
       "dance",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -842,6 +860,7 @@
       "dance",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -887,6 +906,7 @@
       "dance",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -932,6 +952,7 @@
       "dance",
       "cuba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -977,6 +998,7 @@
       "dance",
       "cuba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1022,6 +1044,7 @@
       "dance",
       "cuba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1067,6 +1090,7 @@
       "dance",
       "cuba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1112,6 +1136,7 @@
       "dance",
       "cuba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1157,6 +1182,7 @@
       "intimate",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1202,6 +1228,7 @@
       "intimate",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1247,6 +1274,7 @@
       "intimate",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1292,6 +1320,7 @@
       "intimate",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1337,6 +1366,7 @@
       "intimate",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1382,6 +1412,7 @@
       "call-response",
       "cuba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1427,6 +1458,7 @@
       "call-response",
       "cuba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1472,6 +1504,7 @@
       "call-response",
       "cuba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1517,6 +1550,7 @@
       "call-response",
       "cuba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1562,6 +1596,7 @@
       "call-response",
       "cuba"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1607,6 +1642,7 @@
       "relaxed",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1652,6 +1688,7 @@
       "relaxed",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1697,6 +1734,7 @@
       "relaxed",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1742,6 +1780,7 @@
       "relaxed",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1787,6 +1826,7 @@
       "relaxed",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1832,6 +1872,7 @@
       "bright",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -1877,6 +1918,7 @@
       "bright",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -1922,6 +1964,7 @@
       "bright",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -1967,6 +2010,7 @@
       "bright",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2012,6 +2056,7 @@
       "bright",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2057,6 +2102,7 @@
       "communal",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2102,6 +2148,7 @@
       "communal",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2147,6 +2194,7 @@
       "communal",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2192,6 +2240,7 @@
       "communal",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2237,6 +2286,7 @@
       "communal",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2282,6 +2332,7 @@
       "chorus",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2327,6 +2378,7 @@
       "chorus",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2372,6 +2424,7 @@
       "chorus",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2417,6 +2470,7 @@
       "chorus",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2462,6 +2516,7 @@
       "chorus",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2507,6 +2562,7 @@
       "bright",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2552,6 +2608,7 @@
       "bright",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2597,6 +2654,7 @@
       "bright",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2642,6 +2700,7 @@
       "bright",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2687,6 +2746,7 @@
       "bright",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2732,6 +2792,7 @@
       "fusion",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -2777,6 +2838,7 @@
       "fusion",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -2822,6 +2884,7 @@
       "fusion",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2867,6 +2930,7 @@
       "fusion",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2912,6 +2976,7 @@
       "fusion",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -2957,6 +3022,7 @@
       "breezy",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3002,6 +3068,7 @@
       "breezy",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3047,6 +3114,7 @@
       "breezy",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3092,6 +3160,7 @@
       "breezy",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3137,6 +3206,7 @@
       "breezy",
       "brazil"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3182,6 +3252,7 @@
       "cinematic",
       "argentina"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3227,6 +3298,7 @@
       "cinematic",
       "argentina"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3272,6 +3344,7 @@
       "cinematic",
       "argentina"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3317,6 +3390,7 @@
       "cinematic",
       "argentina"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3362,6 +3436,7 @@
       "cinematic",
       "argentina"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -3406,6 +3481,7 @@
       "syncopated",
       "argentina"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3450,6 +3526,7 @@
       "syncopated",
       "argentina"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3494,6 +3571,7 @@
       "syncopated",
       "argentina"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3538,6 +3616,7 @@
       "syncopated",
       "argentina"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3582,6 +3661,7 @@
       "syncopated",
       "argentina"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3627,6 +3707,7 @@
       "dance",
       "colombia"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3672,6 +3753,7 @@
       "dance",
       "colombia"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3717,6 +3799,7 @@
       "dance",
       "colombia"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3762,6 +3845,7 @@
       "dance",
       "colombia"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3807,6 +3891,7 @@
       "dance",
       "colombia"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3852,6 +3937,7 @@
       "bright",
       "mexico"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -3897,6 +3983,7 @@
       "bright",
       "mexico"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -3942,6 +4029,7 @@
       "bright",
       "mexico"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -3987,6 +4075,7 @@
       "bright",
       "mexico"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4032,6 +4121,7 @@
       "bright",
       "mexico"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4077,6 +4167,7 @@
       "cumbia",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4122,6 +4213,7 @@
       "cumbia",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4167,6 +4259,7 @@
       "cumbia",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4212,6 +4305,7 @@
       "cumbia",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4257,6 +4351,7 @@
       "cumbia",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4301,6 +4396,7 @@
       "hypnotic",
       "peru"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4345,6 +4441,7 @@
       "hypnotic",
       "peru"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4389,6 +4486,7 @@
       "hypnotic",
       "peru"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4433,6 +4531,7 @@
       "hypnotic",
       "peru"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4477,6 +4576,7 @@
       "hypnotic",
       "peru"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4522,6 +4622,7 @@
       "chorus",
       "colombia"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4567,6 +4668,7 @@
       "chorus",
       "colombia"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4612,6 +4714,7 @@
       "chorus",
       "colombia"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4657,6 +4760,7 @@
       "chorus",
       "colombia"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4702,6 +4806,7 @@
       "chorus",
       "colombia"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4747,6 +4852,7 @@
       "romantic",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -4792,6 +4898,7 @@
       "romantic",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -4837,6 +4944,7 @@
       "romantic",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4882,6 +4990,7 @@
       "romantic",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4927,6 +5036,7 @@
       "romantic",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -4972,6 +5082,7 @@
       "pop-hook",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5017,6 +5128,7 @@
       "pop-hook",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5062,6 +5174,7 @@
       "pop-hook",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5107,6 +5220,7 @@
       "pop-hook",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5152,6 +5266,7 @@
       "pop-hook",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5197,6 +5312,7 @@
       "dance",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -5242,6 +5358,7 @@
       "dance",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5287,6 +5404,7 @@
       "dance",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5332,6 +5450,7 @@
       "dance",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5377,6 +5496,7 @@
       "dance",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5422,6 +5542,7 @@
       "chorus",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -5467,6 +5588,7 @@
       "chorus",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5512,6 +5634,7 @@
       "chorus",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5557,6 +5680,7 @@
       "chorus",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5602,6 +5726,7 @@
       "chorus",
       "dominican-republic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -5647,6 +5772,7 @@
       "hook",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -5692,6 +5818,7 @@
       "hook",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5737,6 +5864,7 @@
       "hook",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5782,6 +5910,7 @@
       "hook",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5827,6 +5956,7 @@
       "hook",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -5871,6 +6001,9 @@
       "dark-chords",
       "melodic",
       "latin-america"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 9,
@@ -5917,6 +6050,9 @@
       "melodic",
       "latin-america"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -5961,6 +6097,9 @@
       "dark-chords",
       "melodic",
       "latin-america"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6007,6 +6146,9 @@
       "melodic",
       "latin-america"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6051,6 +6193,9 @@
       "dark-chords",
       "melodic",
       "latin-america"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": 8,
@@ -6097,6 +6242,7 @@
       "high-energy",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6142,6 +6288,7 @@
       "high-energy",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6187,6 +6334,7 @@
       "high-energy",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6232,6 +6380,7 @@
       "high-energy",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6277,6 +6426,7 @@
       "high-energy",
       "caribbean-latin"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6322,6 +6472,7 @@
       "dance",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium-high",
@@ -6367,6 +6518,7 @@
       "dance",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6412,6 +6564,7 @@
       "dance",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6457,6 +6610,7 @@
       "dance",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6502,6 +6656,7 @@
       "dance",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6547,6 +6702,7 @@
       "horns",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -6592,6 +6748,7 @@
       "horns",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6637,6 +6794,7 @@
       "horns",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6682,6 +6840,7 @@
       "horns",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6727,6 +6886,7 @@
       "horns",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -6772,6 +6932,7 @@
       "improvisation",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -6817,6 +6978,7 @@
       "improvisation",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -6862,6 +7024,7 @@
       "improvisation",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6907,6 +7070,7 @@
       "improvisation",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6952,6 +7116,7 @@
       "improvisation",
       "global"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -6997,6 +7162,7 @@
       "jazz",
       "cuba-and-diaspora"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7042,6 +7208,7 @@
       "jazz",
       "cuba-and-diaspora"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7087,6 +7254,7 @@
       "jazz",
       "cuba-and-diaspora"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7132,6 +7300,7 @@
       "jazz",
       "cuba-and-diaspora"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7177,6 +7346,7 @@
       "jazz",
       "cuba-and-diaspora"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7222,6 +7392,7 @@
       "percussion",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7267,6 +7438,7 @@
       "percussion",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7312,6 +7484,7 @@
       "percussion",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7357,6 +7530,7 @@
       "percussion",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7402,6 +7576,7 @@
       "percussion",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7447,6 +7622,7 @@
       "chorus",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7492,6 +7668,7 @@
       "chorus",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7537,6 +7714,7 @@
       "chorus",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7582,6 +7760,7 @@
       "chorus",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7627,6 +7806,7 @@
       "chorus",
       "latin-america"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7672,6 +7852,7 @@
       "handclaps",
       "spain"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7717,6 +7898,7 @@
       "handclaps",
       "spain"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7762,6 +7944,7 @@
       "handclaps",
       "spain"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7807,6 +7990,7 @@
       "handclaps",
       "spain"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7852,6 +8036,7 @@
       "handclaps",
       "spain"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -7897,6 +8082,7 @@
       "pop",
       "spain"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -7942,6 +8128,7 @@
       "pop",
       "spain"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -7987,6 +8174,7 @@
       "pop",
       "spain"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8032,6 +8220,7 @@
       "pop",
       "spain"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8077,6 +8266,7 @@
       "pop",
       "spain"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8122,6 +8312,7 @@
       "bright",
       "andes"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8167,6 +8358,7 @@
       "bright",
       "andes"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8212,6 +8404,7 @@
       "bright",
       "andes"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8257,6 +8450,7 @@
       "bright",
       "andes"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8302,6 +8496,7 @@
       "bright",
       "andes"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8347,6 +8542,7 @@
       "acoustic-string",
       "andes"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -8392,6 +8588,7 @@
       "acoustic-string",
       "andes"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8437,6 +8634,7 @@
       "acoustic-string",
       "andes"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8482,6 +8680,7 @@
       "acoustic-string",
       "andes"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8527,6 +8726,7 @@
       "acoustic-string",
       "andes"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8572,6 +8772,7 @@
       "chorus",
       "mexico-and-us-borderlands"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "high",
@@ -8617,6 +8818,7 @@
       "chorus",
       "mexico-and-us-borderlands"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8662,6 +8864,7 @@
       "chorus",
       "mexico-and-us-borderlands"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8707,6 +8910,7 @@
       "chorus",
       "mexico-and-us-borderlands"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8752,6 +8956,7 @@
       "chorus",
       "mexico-and-us-borderlands"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "high",
@@ -8797,6 +9002,7 @@
       "modern",
       "mexico"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 9,
     "energy": "medium",
@@ -8842,6 +9048,7 @@
       "modern",
       "mexico"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium",
@@ -8887,6 +9094,7 @@
       "modern",
       "mexico"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8932,6 +9140,7 @@
       "modern",
       "mexico"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",
@@ -8977,6 +9186,7 @@
       "modern",
       "mexico"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": 8,
     "energy": "medium-high",

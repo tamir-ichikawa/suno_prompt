@@ -27,6 +27,7 @@
       "pop",
       "vocals"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -65,6 +66,7 @@
       "festival",
       "pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -105,6 +107,9 @@
       "pop",
       "track"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -142,6 +147,10 @@
       "80s",
       "dance",
       "pop",
+      "retro"
+    ],
+    "era_tags": [
+      "1980s",
       "retro"
     ],
     "use_case": [],
@@ -182,6 +191,7 @@
       "latin",
       "pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -221,6 +231,7 @@
       "piano",
       "power"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -259,6 +270,7 @@
       "orchestral",
       "pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -297,6 +309,7 @@
       "ballad",
       "intimate"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -336,6 +349,7 @@
       "influenced",
       "soul"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -373,6 +387,9 @@
       "bedroom",
       "dreamy",
       "pop"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -412,6 +429,7 @@
       "pop",
       "uplifting"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -450,6 +468,7 @@
       "melancholic",
       "pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -487,6 +506,10 @@
       "dark",
       "pop",
       "synth"
+    ],
+    "era_tags": [
+      "1980s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -526,6 +549,10 @@
       "pop",
       "synth"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -564,6 +591,10 @@
       "pop",
       "synth"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -601,6 +632,7 @@
       "bubblegum",
       "pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -639,6 +671,10 @@
       "pop",
       "punk",
       "teen"
+    ],
+    "era_tags": [
+      "2000s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -679,6 +715,7 @@
       "pop",
       "radio"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -717,6 +754,7 @@
       "pop",
       "shop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -756,6 +794,7 @@
       "garde",
       "pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -793,6 +832,9 @@
       "chaotic",
       "energy",
       "hyperpop"
+    ],
+    "era_tags": [
+      "2020s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -832,6 +874,7 @@
       "arena",
       "epic"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -870,6 +913,7 @@
       "power",
       "rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -908,6 +952,7 @@
       "rock",
       "victory"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -945,6 +990,10 @@
       "90s",
       "grunge",
       "sound"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -984,6 +1033,10 @@
       "edge",
       "rock"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1020,6 +1073,10 @@
     "tags": [
       "ballad",
       "grunge"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1059,6 +1116,10 @@
       "classic",
       "rock"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1096,6 +1157,10 @@
       "groove",
       "rock",
       "southern"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1135,6 +1200,10 @@
       "arena",
       "rock"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1173,6 +1242,7 @@
       "metal",
       "power"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1211,6 +1281,7 @@
       "doom",
       "metal"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1249,6 +1320,7 @@
       "speed",
       "thrash"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1287,6 +1359,7 @@
       "classic",
       "punk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1324,6 +1397,9 @@
       "energy",
       "pop",
       "punk"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1363,6 +1439,7 @@
       "post",
       "punk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1401,6 +1478,7 @@
       "jangle",
       "rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1438,6 +1516,11 @@
       "garage",
       "revival",
       "rock"
+    ],
+    "era_tags": [
+      "1960s",
+      "2000s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1477,6 +1560,7 @@
       "math",
       "rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1516,6 +1600,7 @@
       "house",
       "room"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1554,6 +1639,7 @@
       "edm",
       "mainstage"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1591,6 +1677,10 @@
       "festival",
       "hybrid",
       "trap"
+    ],
+    "era_tags": [
+      "2000s",
+      "2010s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1630,6 +1720,7 @@
       "melodic",
       "progressive"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1668,6 +1759,7 @@
       "groove",
       "progressive"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1705,6 +1797,7 @@
       "progressive",
       "trance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1743,6 +1836,9 @@
       "dubstep",
       "heavy"
     ],
+    "era_tags": [
+      "2000s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1779,6 +1875,9 @@
     "tags": [
       "dubstep",
       "melodic"
+    ],
+    "era_tags": [
+      "2000s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -1819,6 +1918,10 @@
       "drum",
       "energy"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1857,6 +1960,7 @@
       "trance",
       "uplifting"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1895,6 +1999,7 @@
       "psy",
       "trance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1934,6 +2039,7 @@
       "style",
       "trance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -1972,6 +2078,7 @@
       "techno",
       "time"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2009,6 +2116,7 @@
       "melodic",
       "techno"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2046,6 +2154,7 @@
       "industrial",
       "techno"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2084,6 +2193,9 @@
       "emotional",
       "future"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2121,6 +2233,9 @@
       "bass",
       "chill",
       "future"
+    ],
+    "era_tags": [
+      "2010s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -2161,6 +2276,7 @@
       "opening",
       "pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2200,6 +2316,10 @@
       "night",
       "pop"
     ],
+    "era_tags": [
+      "1980s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2238,6 +2358,7 @@
       "enka",
       "modern"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2274,6 +2395,9 @@
     "tags": [
       "hyperpop",
       "vocal-synth"
+    ],
+    "era_tags": [
+      "2020s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -2314,6 +2438,9 @@
       "pop",
       "shibuya"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2352,6 +2479,7 @@
       "rock",
       "wa"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2390,6 +2518,7 @@
       "kawaii",
       "pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2429,6 +2558,10 @@
       "lo",
       "study"
     ],
+    "era_tags": [
+      "2010s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2467,6 +2600,7 @@
       "drone",
       "sleep"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2504,6 +2638,7 @@
       "bowls",
       "meditation"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2542,6 +2677,7 @@
       "spa",
       "water"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2580,6 +2716,7 @@
       "cinematic",
       "score"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2618,6 +2755,7 @@
       "hybrid",
       "trailer"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2656,6 +2794,7 @@
       "fantasy",
       "score"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2694,6 +2833,7 @@
       "piano",
       "solo"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2732,6 +2872,7 @@
       "chamber",
       "pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2770,6 +2911,7 @@
       "emotional",
       "score"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2807,6 +2949,7 @@
       "afrobeats",
       "pop"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2845,6 +2988,9 @@
       "groove",
       "night"
     ],
+    "era_tags": [
+      "2020s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2881,6 +3027,10 @@
     "tags": [
       "reggae",
       "roots"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -2919,6 +3069,7 @@
       "dancehall",
       "energy"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2956,6 +3107,7 @@
       "calypso",
       "sunshine"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -2994,6 +3146,7 @@
       "big",
       "salsa"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3032,6 +3185,7 @@
       "cafe",
       "nova"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3069,6 +3223,7 @@
       "bachata",
       "romance"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3106,6 +3261,7 @@
       "noir",
       "tango"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3143,6 +3299,7 @@
       "celebration",
       "mariachi"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3181,6 +3338,7 @@
       "neo",
       "soul"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3221,6 +3379,10 @@
       "r",
       "slow"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3259,6 +3421,7 @@
       "gospel",
       "uplift"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3297,6 +3460,10 @@
       "funk",
       "slap"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3333,6 +3500,10 @@
     "tags": [
       "disco",
       "strings"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -3372,6 +3543,10 @@
       "french",
       "house"
     ],
+    "era_tags": [
+      "1970s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3410,6 +3585,7 @@
       "lounge",
       "smooth"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3447,6 +3623,7 @@
       "bebop",
       "quintet"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3484,6 +3661,10 @@
       "drive",
       "fusion",
       "jazz"
+    ],
+    "era_tags": [
+      "1970s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -3523,6 +3704,9 @@
       "chicago",
       "grit"
     ],
+    "era_tags": [
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3561,6 +3745,7 @@
       "delta",
       "solo"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3598,6 +3783,7 @@
       "bluegrass",
       "sprint"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3635,6 +3821,7 @@
       "americana",
       "storytelling"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3673,6 +3860,7 @@
       "honky",
       "tonk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3711,6 +3899,7 @@
       "gospel",
       "hymn"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3748,6 +3937,9 @@
       "drill",
       "modern"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3784,6 +3976,9 @@
     "tags": [
       "memphis",
       "phonk"
+    ],
+    "era_tags": [
+      "2020s"
     ],
     "use_case": [],
     "groove_score": null,
@@ -3823,6 +4018,9 @@
       "haze",
       "rap"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3860,6 +4058,10 @@
       "conscious",
       "jazz",
       "rap"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -3899,6 +4101,10 @@
       "noir",
       "trip"
     ],
+    "era_tags": [
+      "1990s",
+      "retro"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3936,6 +4142,7 @@
       "ebm",
       "industrial"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -3974,6 +4181,7 @@
       "minimal",
       "tech"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4012,6 +4220,9 @@
       "sunset",
       "tropical"
     ],
+    "era_tags": [
+      "2010s"
+    ],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4049,6 +4260,7 @@
       "hardstyle",
       "rave"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4085,6 +4297,9 @@
     "tags": [
       "adventure",
       "chiptune"
+    ],
+    "era_tags": [
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -4124,6 +4339,7 @@
       "jrpg",
       "theme"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4163,6 +4379,7 @@
       "farming",
       "game"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4200,6 +4417,7 @@
       "chase",
       "cyberpunk"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4238,6 +4456,7 @@
       "experimental",
       "glitch"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4276,6 +4495,7 @@
       "noise",
       "rock"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4315,6 +4535,7 @@
       "rock",
       "slow"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4351,6 +4572,10 @@
     "tags": [
       "shoegaze",
       "wall"
+    ],
+    "era_tags": [
+      "1990s",
+      "retro"
     ],
     "use_case": [],
     "groove_score": null,
@@ -4391,6 +4616,7 @@
       "punk",
       "ska"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
@@ -4429,6 +4655,7 @@
       "punk",
       "tavern"
     ],
+    "era_tags": [],
     "use_case": [],
     "groove_score": null,
     "energy": "",
